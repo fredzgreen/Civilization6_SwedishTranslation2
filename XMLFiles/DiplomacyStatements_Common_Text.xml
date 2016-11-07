@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_PERSON_CLEO">
+			<Text>Cleopatra of Egypt</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_GREETING_CLEO">
+			<Text>Greetings travler. You should know that you stand in the presence of greatness.</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_ADVISOR_READY">
+			<Text>What would you like to do, my liege?</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DECLARE_FRIENDSHIP">
+			<Text>Declare Friendship</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_MAKE_PEACE">
+			<Text>Make Peace</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_OPEN_BORDERS">
+			<Text>[SIZE_16]Request Open Borders[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DIPLOMATIC_DELEGATION">
+			<Text>[SIZE_16]Send Delegation[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_RESIDENT_EMBASSY">
+			<Text>[SIZE_16]Establish Resident Embassy[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DENOUNCE">
+			<Text>Denounce</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DECLARE_SURPRISE_WAR">
+			<Text>[SIZE_16]Declare Surprise War[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DECLARE_FORMAL_WAR">
+			<Text>[SIZE_16]Declare Formal War[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DECLARE_HOLY_WAR">
+			<Text>[SIZE_16]Declare Holy War[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DECLARE_LIBERATION_WAR">
+			<Text>[SIZE_16]Declare War of Liberation[NEWLINE][SIZE_12](No warmongering if capture friendly cities)[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DECLARE_RECONQUEST_WAR">
+			<Text>[SIZE_16]Declare War of Reconquest[NEWLINE][SIZE_12](No warmongering if capture your cities)[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DECLARE_PROTECTORATE_WAR">
+			<Text>[SIZE_16]Declare Protectorate War[NEWLINE][SIZE_12](No warmongering if defend allied city-state)[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DECLARE_COLONIAL_WAR">
+			<Text>[SIZE_16]Declare Colonial War[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DECLARE_TERRITORIAL_WAR">
+			<Text>[SIZE_16]Declare War of Territorial Expansion[NEWLINE][SIZE_12]</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_WARMONGER_INFO">
+			<Text>Warmonger penalty: {1_WarmongerLevel}</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_GOLD_INFO">
+			<Text>Costs {1_Cost} [ICON_Gold] Gold</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_ARE_YOU_SURE_WAR">
+			<Text>Are you sure you want to go to war?</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_ARE_YOU_SURE_YES">
+			<Text>Yes</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_ARE_YOU_SURE_NO">
+			<Text>No</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_MAKE_DEAL">
+			<Text>Make Deal</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_MAKE_DEMAND">
+			<Text>Make Demand</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_IGNORE">
+			<Text>Ignore this Request.</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_EXIT">
+			<Text>Goodbye</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_PROPOSE_AUCTION">
+			<Text>Propose Auction</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_DEAL_INTRO">
+			<Text>What can I do for you?</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_DEAL_INTRO_AI">
+			<Text>What do you think of this?</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_DEMAND_INTRO">
+			<Text>My demands must be met.</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_VIEW_DEAL">
+			<Text>View Deal</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_VIEW_DEMAND">
+			<Text>View Demand</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_DEMAND_NO_AVAILABLE_ITEMS">
+			<Text>No available items to demand.</Text>
+		</Replace>
+		<Replace Language="sv_SE" Tag="LOC_DIPLO_DEAL_NO_AVAILABLE_ITEMS">
+			<Text>No available items to use in a deal.</Text>
+		</Replace>
+    <Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SPY">
+      <Text>Promise Not to Spy on Me</Text>
+    </Replace>
+    <Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_SETTLE_TOO_NEAR">
+      <Text>Promise Not to Settle Too Near My Cities</Text>
+    </Replace>
+    <Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_CONVERT_CITY">
+      <Text>Promise Not to Convert My Cities</Text>
+    </Replace>
+    <Replace Language="sv_SE" Tag="LOC_DIPLO_CHOICE_DEMAND_PROMISE_DONT_DIG_ARTIFACTS">
+      <Text>Promise Not to Dig Up My Artifacts</Text>
+    </Replace>
+	</LocalizedText>
+</GameData>
