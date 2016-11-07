@@ -243,61 +243,61 @@
 			<Text>Bygg an Oljekälla.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
-			<Text>Have a government with 8 policy slots.</Text>
+			<Text>Ha en regering med 8 policy slots.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
-			<Text>Bygg 2 Aerodromes.</Text>
+			<Text>Bygg 2 Flygfält.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
 			<Text>Bygg 2 Broadcast Centers.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
-			<Text>Kill a Fighter.</Text>
+			<Text>Döda ett Stridsflygplan.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMPOSITES">
-			<Text>Own 3 Tanks.</Text>
+			<Text>Äg 3 Stridsvagnar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
-			<Text>Have the Globalization civic.</Text>
+			<Text>Ha Globalization civic.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
-			<Text>Bygg an Aluminium Mine.</Text>
+			<Text>Bygg en Aluminiumgruva.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
-			<Text>Boost through Great Scientist or Spy.</Text>
+			<Text>Bonus genom Stor Vetenskapsman eller Spion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
-			<Text>Gaining a city on the Coast has given your civilization insight into navigating the waves.</Text>
+			<Text>Genom att få en stad vid Kusten har gett din civilisation insikt i hur man navigerar över haven.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
-			<Text>Discovering a natural wonder has inspired your people with the majesty of the universe.</Text>
+			<Text>Upptäckten av ett naturligt underverk har inspirerat ditt folk med universums skönhet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
-			<Text>Farming a resource has given you an appreciation of the importance of irrigating your crops.</Text>
+			<Text>Skördandet av en resurs har gett dig en uppskattning av vikten av att Konstbevattna dina grödor.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
-			<Text>After finally killing an enemy with a Slinger, you long for a stronger ranged weapon.</Text>
+			<Text>Efter att ha dödat en fiende med en Slungare, längtar du efter ett vapen med längre räckvidd.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
-			<Text>After meeting another civilization you see the need for new ways to communicate.</Text>
+			<Text>Efter att ha träffat på en annan civilisation förstår du behovet av nya sätt att kommunicera.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
-			<Text>Quarrying a resource has given you the raw materials you need to employ masons.</Text>
+			<Text>Efter att ha byggt ett Stenbrott har gett dig råmaterial att anställa stenhuggare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
-			<Text>Your fights with Barbarians highlight the need for stronger weaponry.</Text>
+			<Text>Dina strider med Barbarer har belyst behovet av bättre vapen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
-			<Text>Your mining operations have given you the ability to create an axle. Will the wheel follow?</Text>
+			<Text>Dina gruvverksamhet har gett dig förmågan att skapa en axel. Kommer hjulet härnäst?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
-			<Text>Your fishermen are learning how to guide their travels based on studying the night sky.</Text>
+			<Text>Dina fiskare håller på att lära sig att få insikt i hur man navigerar med hjälp av natthimlen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
-			<Text>Your [ICON_TradeRoute] Trade Route directly exchanges goods, but a medium of exchange would make trade more flexible.</Text>
+			<Text>Din [ICON_TradeRoute] Handelsrutt utbyter varor, men ett bytesmedel skulle göra handeln mer flexibel.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
-			<Text>With animals now domesticated into Pastures, it is time to learn to ride.</Text>
+			<Text>Med djur now domesticated into Pastures, it is time to learn to ride.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
 			<Text>Access to a steady source of Iron has enabled you to build better weapons and stronger armor.</Text>
