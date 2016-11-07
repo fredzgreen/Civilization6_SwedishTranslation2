@@ -198,49 +198,49 @@
 			<Text>Döda en enhet med en Riddare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
-			<Text>Bygg 2 Shipyards.</Text>
+			<Text>Bygg 2 Skeppsvarv.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SANITATION">
-			<Text>Bygg 2 Neighborhoods.</Text>
+			<Text>Bygg 2 Stadsdelar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ECONOMICS">
-			<Text>Bygg 2 Banks.</Text>
+			<Text>Bygg 2 Banker.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RIFLING">
-			<Text>Bygg a Niter Mine.</Text>
+			<Text>Bygg a Salpetergruva.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_FLIGHT">
-			<Text>Bygg an Industrial era or later wonder.</Text>
+			<Text>Bygg ett under från Industriella eran eller senare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
-			<Text>Own 3 Musketman.</Text>
+			<Text>Äg 3 Musketman.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STEEL">
-			<Text>Bygg a Coal Mine.</Text>
+			<Text>Bygg en Kolgruva.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
-			<Text>Own 3 Privateers.</Text>
+			<Text>Äg 3 Privateers.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RADIO">
-			<Text>Bygg a National Park.</Text>
+			<Text>Bygg en Nationalpark.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
-			<Text>Complete a Research Agreement.</Text>
+			<Text>Färdigställ ett Forskningsavtal.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMBUSTION">
-			<Text>Extract an Artifact.</Text>
+			<Text>Extrahera en Artefakt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
 			<Text>Bygg 3 Biplanes.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
-			<Text>Bygg 2 Power Plants.</Text>
+			<Text>Bygg 2 Kraftverk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
-			<Text>Bygg an Airstrip.</Text>
+			<Text>Bygg en Landningsbana.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_PLASTICS">
-			<Text>Bygg an Oil Well.</Text>
+			<Text>Bygg an Oljekälla.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
 			<Text>Have a government with 8 policy slots.</Text>
