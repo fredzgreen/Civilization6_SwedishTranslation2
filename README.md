@@ -1,4 +1,4 @@
-Civilization6_SwedishTranslation
+# Civilization6_SwedishTranslation
 
 Ett projekt för att översätta Civilization 6 till Svenska
 
