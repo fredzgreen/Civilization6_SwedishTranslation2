@@ -387,7 +387,7 @@
 			<Text>Med en källa för niter har din skjutvapensindustri varvat upp sig till högsta växeln. Nästa steg blir att förbättra din precision.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
-			<Text>Efter att ha färdigställt ett modern under, våra ingenjörer är säkra på att de kan åstadkomma vad som helst. Vad tänker de att flyga härnäst?</Text>
+			<Text>Efter att ha färdigställt ett modernt under, våra ingenjörer är säkra på att de kan åstadkomma vad som helst. Vad tänker de att flyga härnäst?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
 			<Text>Dina vapentillverkare är trött på att behöva skapa så många musköter för hand. Kanske standardisering skulle vara till hjälp?</Text>
