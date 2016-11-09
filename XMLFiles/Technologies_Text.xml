@@ -357,7 +357,7 @@
 			<Text>Era vetenskapsmän vandrar i bergen för att få en skarpare bild av himlen. Kan vara en permanent anläggning skulle hjälpa?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
-			<Text>Med så många armborstskytt i tjänst, har vi haft en hel del övning studera vapen med lång räckvidd.</Text>
+			<Text>Med så många armborstskyttar i tjänst, har vi haft en hel del övning studera vapen med lång räckvidd.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
 			<Text>När du har skapat bombards inser du att slott inte är ointagliga - du behöver ett pålitligare försvar!</Text>
