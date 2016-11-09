@@ -363,82 +363,82 @@
 			<Text>När du har skapat bombards inser du att slott inte är ointagliga - du behöver ett pålitligare försvar!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
-			<Text>The busy workshops of your empire hint at greatness to come. Is an Industrial Revolution about to commence?</Text>
+			<Text>Livfulla verkstäder i ditt imperium är en antydan på storhet att som skall komma. Är industriella revolutionen på väg?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
-			<Text>The dawning of an age of enlightenment in our realm has sparked a serious discourse on our scientific methods.</Text>
+			<Text>Gryningen av upplysningstiden i vår värld har utlöst en seriös debatt om våra vetenskapliga metoder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
-			<Text>Your cities have been protected by multiple fortifications, what if they could be defended by cannons?</Text>
+			<Text>Dina städer har skyddats av flera befästningar, tänk om de kunde försvaras av kanoner?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
-			<Text>Your valiant Riddare has vanquished his foe. Let us learn from this victory and become students of military affairs.</Text>
+			<Text>Din tappra Riddare har besegrat sin fiende. Låt oss lära av denna seger och studera militära frågor mer noggrant.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
-			<Text>Let us apply our industrial acumen to your newly-constructed shipyards. Steam-powered naval vessels could rule the seas.</Text>
+			<Text>Om vi tillämpar vår branschkunskap i våra nya varv, så kunde våra Ångdrivna örlogsfartyg erövra haven.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
-			<Text>With the introduction of neighborhoods, our cities are growing larger than ever before.  Developing a sanitation plan is crucial.</Text>
+			<Text>Med införandet av stadsdelar, våra städer växer större än någonsin tidigare. Utveckla en sanitet plan är avgörande.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
-			<Text>The power of your banks in on the rise.  It is time to formally study the forces that are shaping your national economy.</Text>
+			<Text>Med införandet av stadsdelar, har våra städer blir större. Nu måste vi absolut se till en plan för sanitet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
-			<Text>With a source of niter, your firearms industry is switching into top gear. The next step will be to improve our accuracy.</Text>
+			<Text>Med en källa för niter har din skjutvapensindustri varvat upp sig till högsta växeln. Nästa steg blir att förbättra din precision.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
-			<Text>Having completed a modern wonder, our engineers are sure they can tackle anything. What, are they thinking of flying next?</Text>
+			<Text>Efter att ha färdigställt ett modern under, våra ingenjörer är säkra på att de kan åstadkomma vad som helst. Vad tänker de att flyga härnäst?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
-			<Text>Your armament makers are tired of having to hand craft so many muskets.  Perhaps some standardization would help?</Text>
+			<Text>Dina vapentillverkare är trött på att behöva skapa så många musköter för hand. Kanske standardisering skulle vara till hjälp?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
-			<Text>Your coal-powered blast furnaces should soon allow us to produce the finest-grade steel.</Text>
+			<Text>Dina koleldade masugnar bör snart ge oss möjlighet att producera den finaste kvalitén av stål.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
-			<Text>Your crafty privateers are intrigued by the discovery of electric current. Could they use this to create stealthy propulsion?</Text>
+			<Text>Dina skickliga fribytare är förundrade av upptäckten av elektrisk ström. Kan de använda denna för att skapa hemlig framdrivning?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
-			<Text>Your new national park needs visitors. Perhaps a new form of communications will help advertise it?</Text>
+			<Text>Din nya nationalpark behöver besökare. Kanske en ny form av kommunikation kommer att hjälpa till att marknadsföra den?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
-			<Text>Joining forces with other nations has started a chain reaction of scientific advances.  Will the next push be in chemistry?</Text>
+			<Text>Att gå samman med andra nationer har startat en kedjereaktion av vetenskapliga framsteg. Kommer nästa att vara en framryckning i kemi?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
-			<Text>Your archaeologist has noticed petroleum seeping out of the rocks. Perhaps your geologists would like to take a look?</Text>
+			<Text>Din arkeolog har märkt petroleum sipprar ut ur klipporna. Kanske era geologer skulle vilja att ta en titt?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
-			<Text>Your extensive experience with biplanes has led to several aeronautic breakthroughs.</Text>
+			<Text>Din omfattande erfarenhet med flygplan har lett till flera genombrott i flygindustrin.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
-			<Text>Development of new power plants has spurred on industrial advances that could help your armament production.</Text>
+			<Text>Utveckling av nya kraftverk har sporrat på industriella framsteg som kan hjälpa din vapenproduktion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
-			<Text>Now that you know how to build portable airstrips on land, why not try one at sea?</Text>
+			<Text>Nu när du vet hur man bygger flyttbara plandningsbanor på land, varför inte prova en till sjöss?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
-			<Text>Having a source of petrochemicals should lead to many advances. Its plasticity is of particular interest.</Text>
+			<Text>Att ha en källa av petrokemiska produkter bör leda till många framsteg. Dess plasticitet är av särskilt intresse.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
-			<Text>A modern government comes with a lot of bureaucracy. Developing ways to efficiently track data will be a huge help.</Text>
+			<Text>En modern regering kommer med en massa byråkrati. Utveckla metoder för att på ett effektivt sätt spåra data kommer att vara till stor hjälp.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
-			<Text>With facilities for aircrafts in multiple cities, your aeronautic industry is taking off.</Text>
+			<Text>Med anläggningar för flygplan i flera städer, så tar din flygindustri fart.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
-			<Text>With your pioneers in radio and television leading the way, you’ve grown adept at transmitting data quickly.</Text>
+			<Text>Med dina pionjärer inom radio och TV i spetsen, har du blivit skicklig på att överföra data snabbt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
-			<Text>Your military has defeated an enemy plane. Now it is time to have the best defense against enemy aircraft.</Text>
+			<Text>Vår militär har besegrat ett fiendeplan. Nu är det dags att ha det bästa försvaret mot fiende flyg.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
 			<Text>Tanks have been the backbone of your army so your scientists are striving for a more advanced model.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
-			<Text>Having a diverse set of metals to experiment on will help your scientists push into new fields.</Text>
+			<Text>Med en mångfald av metaller för att experimentera med kommer dina vetenskapsmän göra framryckningar in i nya områden.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
-			<Text>Having a diverse set of metals to experiment on will help your scientists push into new fields.</Text>
+			<Text>Med en mångfald av metaller för att experimentera med kommer dina vetenskapsmän göra framryckningar in i nya områden.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
