@@ -315,7 +315,7 @@
 			<Text>Färdigställandet av murar runt din stad har demonstrerat principer för teknik som behövs för Akvedukter och Katepulter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
-			<Text>Dina spjutmän visar sig effektiva, men nu är dina motståndare och snabbare. Kanske ett längre vapen behövs?</Text>
+			<Text>Dina spjutmän visar sig effektiva, men nu är dina motståndare starkare och snabbare. Kanske ett längre vapen behövs?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
 			<Text>Med råmaterial som kommer från en rad olika gruvor, så är det oumbärligt att vi utbildar nya Hantverkare.</Text>
