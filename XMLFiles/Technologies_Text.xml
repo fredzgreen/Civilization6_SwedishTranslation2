@@ -297,70 +297,70 @@
 			<Text>Din [ICON_TradeRoute] Handelsrutt utbyter varor, men ett bytesmedel skulle göra handeln mer flexibel.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
-			<Text>Med djur now domesticated into Pastures, it is time to learn to ride.</Text>
+			<Text>Med djur nu tämjda på betesmarker, är det tid att lära sig rida.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
-			<Text>Access to a steady source of Iron has enabled you to build better weapons and stronger armor.</Text>
+			<Text>En stadig tillgång på Järn har gjort det möjligt för dig att bygga bättre vapen och starkare rustningar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
-			<Text>Constructing a squadron of Galleys has taught you much about building larger ships.</Text>
+			<Text>Tillverkning av en skvadron av Galärer har lärt dig mycket om byggandet av stora skepp</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
-			<Text>Your district planners have worked out the basics of geometry. Maybe a full mathematical system will follow soon?</Text>
+			<Text>Dina distrikt planerare har utvecklat grunderna i geometri. Kanske ett komplett matematiskt system följer snart?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
-			<Text>Work on the Water Mill has taught your workers much about construction practices.</Text>
+			<Text>Arbetet med Vattenkvarnen har lärt dina arbetare mycket om byggmetoder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
-			<Text>Completing walls around your city demonstrated the principles of engineering needed for Aqueducts and Catapults.</Text>
+			<Text>Färdigställandet av murar runt din stad har demonstrerat principer för teknik som behövs för Akvedukter och Katepulter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
-			<Text>Your spearmen are proving effective, but now your opponents are stronger and faster. Perhaps a longer weapon is needed?</Text>
+			<Text>Dina spjutmän visar sig effektiva, men nu är dina motståndare och snabbare. Kanske ett längre vapen behövs?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
-			<Text>With raw materials now coming in from a wide variety of mines, the need to better teach new craftsmen to use them is essential.</Text>
+			<Text>Med råmaterial som kommer från en rad olika gruvor, så är det oumbärligt att vi utbildar nya Hantverkare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
-			<Text>The feudal lords in your realm want a champion to defend their lands. Perhaps mounting an armored warrior will do the trick?</Text>
+			<Text>Feodalherrarna i ditt rike vill ha en mästare att försvara sina landområden. Kan det vara en bepansrad ryttare?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
-			<Text>You look to machinery to improve the performance of your sizable contingent of ranged troops.</Text>
+			<Text>Du ser till maskiner för att förbättra insatsen för din betydande kontingent av lång distanstrupper.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
-			<Text>The teachings from your Great Scientist have inspired a renewed interest in learning in your realm.</Text>
+			<Text>Din Stora Vetenskapsmän har inspirerat ett nytt intresse för lärdom in ditt rike.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
-			<Text>Your military leaders carefully followed the progress on your aqueduct. They see new ways to use these engineering skills.</Text>
+			<Text>Dina militära ledare följer noggrant framstegen av akvedukten. Här ser de nya sätt att använda dessa ingenjörskonster</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
-			<Text>Our new government’s defense minister suggests that we might want to build impressive defenses to protect our bustling capital.</Text>
+			<Text>Vår nya regerings försvarsminister föreslår att vi ska skyddar vår livliga huvudstad med en imponerande Försvarsanläggning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
-			<Text>With so many ships leaving the harbors of your empire you long to document your explorations.</Text>
+			<Text>Med så många fartyg som lämnar hamnar i ditt rike, så har du lång tid att dokumentera dina utforskningar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
-			<Text>Now that you have a ready supply of standardized boards, your shipping industry will soon take off.</Text>
+			<Text>Nu när du har en färdig leverans av standardiserade planker, kommer din sjöfartsindustri snart ta fart.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
-			<Text>Your emerging guilds have plans that require a large influx of gold. Perhaps we can find a way to let them take out a loan?</Text>
+			<Text>Din nya strävsamma gillen har planer som fordrar ett stort inflöde av guld. Kanske vi kan hitta ett sätt att låta dem ta ett lån?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
-			<Text>Your men at the armory are fashioning a new weapon that will devastate opponents.</Text>
+			<Text>Dina män på arsenal är på väg att utforma ett nytt vapen som kommer att ödelägga motståndare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
-			<Text>Out of necessity your scholars are devising methods for quickly copying books.</Text>
+			<Text>Av nödvändighet håller dina lärda på att utforma metoder för att snabbt kopiera böcker.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
-			<Text>The success of your Musketmen on land has spurred a new idea: what if we upgrade to gunpowder weaponry at sea?</Text>
+			<Text>Framgång för din Musketman på land har utlöst en ny idé: tänk om vi uppgraderar till krutvapen till sjöss?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
-			<Text>Your scientists are hiking into the mountains for a sharper view of the heavens. Maybe a permanent facility would help?</Text>
+			<Text>Era vetenskapsmän vandrar i bergen för att få en skarpare bild av himlen. Kan vara en permanent anläggning skulle hjälpa?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
-			<Text>With so many Crossbowmen in the field, we’ve had a lot of practice studying ranged weapons.</Text>
+			<Text>Med så många armborstskytt i tjänst, har vi haft en hel del övning studera vapen med lång räckvidd.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
-			<Text>After creating bombards you realize that castles are not impregnable – you need a stauncher defense!.</Text>
+			<Text>När du har skapat bombards inser du att slott inte är ointagliga - du behöver ett pålitligare försvar!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
 			<Text>The busy workshops of your empire hint at greatness to come. Is an Industrial Revolution about to commence?</Text>
