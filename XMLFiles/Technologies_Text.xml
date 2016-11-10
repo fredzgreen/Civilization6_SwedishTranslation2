@@ -141,7 +141,7 @@
 			<Text>Döda en enhet med en Spjutman.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
-			<Text>Bygg 3 Mines.</Text>
+			<Text>Bygg 3 Gruvor.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
 			<Text>Ha Feudalism inriktning.</Text>
@@ -162,7 +162,7 @@
 			<Text>Bygg 2 Harbors.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
-			<Text>Bygg a Lumber Mill.</Text>
+			<Text>Bygg a Sågverk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_BANKING">
 			<Text>Ha Skrå inriktningen.</Text>
@@ -432,7 +432,7 @@
 			<Text>Vår militär har besegrat ett fiendeplan. Nu är det dags att ha det bästa försvaret mot fiende flyg.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
-			<Text>Tanks have been the backbone of your army so your scientists are striving for a more advanced model.</Text>
+			<Text>Stridsvagnar har varit ryggraden i din armé så era vetenskapsmän strävar nu efter en mera avancerad modell.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
 			<Text>Med en mångfald av metaller för att experimentera med kommer dina vetenskapsmän göra framryckningar in i nya områden.</Text>
