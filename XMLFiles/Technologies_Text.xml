@@ -159,10 +159,10 @@
 			<Text>Ha en regering med 6 policy slots.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
-			<Text>Bygg 2 Harbors.</Text>
+			<Text>Bygg 2 Hamnar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
-			<Text>Bygg a Sågverk.</Text>
+			<Text>Bygg ett Sågverk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_BANKING">
 			<Text>Ha Skrå inriktningen.</Text>
