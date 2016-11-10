@@ -13,7 +13,7 @@
 			<Text>Unlocks the Builder ability to construct Farms.[NEWLINE][NEWLINE]+1 [ICON_Food] Food. Can only be built on Grassland or Plains.[NEWLINE][NEWLINE]Constructing farms adjacent to other Farms provides bonuses to Housing.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct Mines.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. Can only be built on Hills or certain resources.[NEWLINE][NEWLINE]If built on Luxury or Strategic resources, city will gain use of that resource.</Text>
+			<Text>Låser upp Byggarens förmåga att bygga gruvor.[NEWLINE][NEWLINE]+1 [ICON_Production] Produktion. Kan bara byggas på Kullar och över vissa resurser.[NEWLINE][NEWLINE]Om den byggs på en Lyx eller Strategiska resurser så får staden tillgång till den resursen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct Quarries.[NEWLINE][NEWLINE]+1 [ICON_Production] Production. Can only be built on [ICON_RESOURCE_STONE] Stone, [ICON_RESOURCE_MARBLE] Marble, or [ICON_RESOURCE_GYPSUM] Gypsum resources.[NEWLINE][NEWLINE]If built on a Luxury resource, the city will gain use of that resource.</Text>

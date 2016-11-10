@@ -141,13 +141,13 @@
 			<Text>Döda en enhet med en Spjutman.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
-			<Text>Bygg 3 Mines.</Text>
+			<Text>Bygg 3 Gruvor.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
 			<Text>Ha Feudalism inriktning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MACHINERY">
-			<Text>Äg 3 bågskyttar.</Text>
+			<Text>Äg 3 Bågskyttar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_EDUCATION">
 			<Text>Förtjäna en Stor Vetenskapsman.</Text>
@@ -162,7 +162,7 @@
 			<Text>Bygg 2 Harbors.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
-			<Text>Bygg a Lumber Mill.</Text>
+			<Text>Bygg ett Sågverk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_BANKING">
 			<Text>Ha Skrå inriktningen.</Text>
@@ -180,10 +180,10 @@
 			<Text>Bygg ett Universitet bredvid ett Berg.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
-			<Text>Own 2 Armborstskytt.</Text>
+			<Text>Äg 2 Armborstskytt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
-			<Text>Own 2 Bombards.</Text>
+			<Text>Äg 2 Bombards.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
 			<Text>Bygg 3 Verkstäder.</Text>
@@ -207,19 +207,19 @@
 			<Text>Bygg 2 Banker.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RIFLING">
-			<Text>Bygg a Salpetergruva.</Text>
+			<Text>Bygg en Salpetergruva.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_FLIGHT">
 			<Text>Bygg ett under från Industriella eran eller senare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
-			<Text>Äg 3 Musketman.</Text>
+			<Text>Äg 3 Musketerare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STEEL">
 			<Text>Bygg en Kolgruva.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
-			<Text>Äg 3 Privateers.</Text>
+			<Text>Äg 3 Kapare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RADIO">
 			<Text>Bygg en Nationalpark.</Text>
@@ -324,13 +324,13 @@
 			<Text>Feodalherrarna i ditt rike vill ha en mästare att försvara sina landområden. Kan det vara en bepansrad ryttare?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
-			<Text>Du ser till maskiner för att förbättra insatsen för din betydande kontingent av lång distanstrupper.</Text>
+			<Text>Du ser till maskiner för att förbättra insatsen för din betydande kontingent av långdistanstrupper.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
 			<Text>Din Stora Vetenskapsmän har inspirerat ett nytt intresse för lärdom in ditt rike.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
-			<Text>Dina militära ledare följer noggrant framstegen av akvedukten. Här ser de nya sätt att använda dessa ingenjörskonster</Text>
+			<Text>Dina militära ledare följer noggrant framstegen av Akvedukten. Här ser de nya sätt att använda dessa ingenjörskonster</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
 			<Text>Vår nya regerings försvarsminister föreslår att vi ska skyddar vår livliga huvudstad med en imponerande Försvarsanläggning.</Text>
@@ -351,7 +351,7 @@
 			<Text>Av nödvändighet håller dina lärda på att utforma metoder för att snabbt kopiera böcker.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
-			<Text>Framgång för din Musketman på land har utlöst en ny idé: tänk om vi uppgraderar till krutvapen till sjöss?</Text>
+			<Text>Framgång för din Musketerare på land har utlöst en ny idé: tänk om vi uppgraderar till krutvapen till sjöss?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
 			<Text>Era vetenskapsmän vandrar i bergen för att få en skarpare bild av himlen. Kan vara en permanent anläggning skulle hjälpa?</Text>
@@ -360,7 +360,7 @@
 			<Text>Med så många armborstskyttar i tjänst, har vi haft en hel del övning studera vapen med lång räckvidd.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
-			<Text>När du har skapat bombards inser du att slott inte är ointagliga - du behöver ett pålitligare försvar!</Text>
+			<Text>När du har skapat bombarder inser du att slott inte är ointagliga - du behöver ett pålitligare försvar!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
 			<Text>Livfulla verkstäder i ditt imperium är en antydan på storhet att som skall komma. Är industriella revolutionen på väg?</Text>
@@ -396,7 +396,7 @@
 			<Text>Dina koleldade masugnar bör snart ge oss möjlighet att producera den finaste kvalitén av stål.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
-			<Text>Dina skickliga fribytare är förundrade av upptäckten av elektrisk ström. Kan de använda denna för att skapa hemlig framdrivning?</Text>
+			<Text>Dina skickliga kapare är förundrade av upptäckten av elektrisk ström. Kan de använda denna för att skapa hemlig framdrivning?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
 			<Text>Din nya nationalpark behöver besökare. Kanske en ny form av kommunikation kommer att hjälpa till att marknadsföra den?</Text>
@@ -432,7 +432,7 @@
 			<Text>Vår militär har besegrat ett fiendeplan. Nu är det dags att ha det bästa försvaret mot fiende flyg.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
-			<Text>Tanks have been the backbone of your army so your scientists are striving for a more advanced model.</Text>
+			<Text>Stridsvagnar har varit ryggraden i din armé så era vetenskapsmän strävar nu efter en mera avancerad modell.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
 			<Text>Med en mångfald av metaller för att experimentera med kommer dina vetenskapsmän göra framryckningar in i nya områden.</Text>
