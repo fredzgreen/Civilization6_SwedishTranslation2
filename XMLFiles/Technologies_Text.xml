@@ -36,7 +36,7 @@
 			<Text>+1 [ICON_Production] Produktion för Gruvor.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CASTLES_DESCRIPTION">
-			<Text>Bonus [ICON_Culture] Kultur för närhet till den Kinesiska Muren förbättringen. Få möjligheten att träna Spioner om du spelar som Catherine de Medici.</Text>
+			<Text>Extra [ICON_Culture] Kultur för närhet till förbättringen Den Kinesiska Muren. Öppnar möjligheten att träna Spioner om du spelar som Katarina av Medici.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
 			<Text>+1 [ICON_Gold] Guld från Fiskebåts förbättringen. Alla sjöfarts- och sjösatta enheter kan färdas över Havsrutor. +1 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>
@@ -60,7 +60,7 @@
 			<Text>+2 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
-			<Text>Bonus [ICON_Tourism] Turism för alla förbättringar som ger [ICON_Culture] Kultur.</Text>
+			<Text>Extra [ICON_Tourism] Turism för alla förbättringar som ger [ICON_Culture] Kultur.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
 			<Text>Uppgraderar Bondgårdsförbättringar till Mekaniserat Jordbruk. +1 [ICON_Food] Mat närhetsbonus för varje Bondgård som de ligger i närheten.</Text>
@@ -78,7 +78,7 @@
 			<Text>+1 [ICON_Food] Mat för Fiskebåtar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
-			<Text>Ger möjligheten att träna ytterligare en spion. All [ICON_Tourism] Tourismavkasting dubblerad.</Text>
+			<Text>Ger möjligheten att träna ytterligare en spion. All avkastning från [ICON_Tourism] Turism dubbleras.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
 			<Text>+1 [ICON_Gold] Guld för Läger.</Text>
@@ -87,7 +87,7 @@
 			<Text>+1 [ICON_Production] Produktion för Betesmarker.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
-			<Text>Kan färdigställas flera gångger, för att öka poängen mot Poängsegern.</Text>
+			<Text>Kan färdigställas flera gånger, för att öka poängen mot Poängsegern.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SAILING">
 			<Text>Grunda en stad vid kusten.</Text>
@@ -99,7 +99,7 @@
 			<Text>Skörda en resurs.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ARCHERY">
-			<Text>Döda en enhet men en Slungare.</Text>
+			<Text>Döda en enhet med en Slungare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_WRITING">
 			<Text>Möt en annan Civilisation.</Text>
@@ -126,7 +126,7 @@
 			<Text>Bygg en Järngruva.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
-			<Text>Own 2 Galär.</Text>
+			<Text>Äg 2 Galärer.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
 			<Text>Bygg 3 olika special Distrikt.</Text>
@@ -144,7 +144,7 @@
 			<Text>Bygg 3 Gruvor.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
-			<Text>Ha Feudalism inriktning.</Text>
+			<Text>Ha inriktningen Feudalism.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MACHINERY">
 			<Text>Äg 3 Bågskyttar.</Text>
@@ -165,7 +165,7 @@
 			<Text>Bygg ett Sågverk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_BANKING">
-			<Text>Ha Skrå inriktningen.</Text>
+			<Text>Ha Skrå-inriktningen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
 			<Text>Bygg en Arsenal.</Text>
@@ -174,16 +174,16 @@
 			<Text>Bygg 2 Universitet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
-			<Text>Döda en enhet med en Musketman.</Text>
+			<Text>Döda en enhet med en Musketerare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
 			<Text>Bygg ett Universitet bredvid ett Berg.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
-			<Text>Äg 2 Armborstskytt.</Text>
+			<Text>Äg 2 Armborstskyttar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
-			<Text>Äg 2 Bombards.</Text>
+			<Text>Äg 2 Bombarder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
 			<Text>Bygg 3 Verkstäder.</Text>
@@ -192,7 +192,7 @@
 			<Text>Ha The Enlightenment civic.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_BALLISTICS">
-			<Text>Ha 2 Fästningar in ditt territorium.</Text>
+			<Text>Ha 2 Fästningar i ditt territorium.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
 			<Text>Döda en enhet med en Riddare.</Text>
@@ -231,7 +231,7 @@
 			<Text>Extrahera en Artefakt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
-			<Text>Bygg 3 Biplanes.</Text>
+			<Text>Bygg 3 Biplan.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
 			<Text>Bygg 2 Kraftverk.</Text>
@@ -258,7 +258,7 @@
 			<Text>Äg 3 Stridsvagnar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
-			<Text>Ha Globalization civic.</Text>
+			<Text>Ha inriktningen Globalisering.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
 			<Text>Bygg en Aluminiumgruva.</Text>
