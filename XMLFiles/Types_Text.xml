@@ -1346,7 +1346,7 @@
 			<Text>Isaac Newton</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_EMILIE_DU_CHATELET_NAME">
-			<Text>Emilie du Chatelet</Text>
+			<Text>Émilie du Châtelet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALFRED_NOBEL_NAME">
 			<Text>Alfred Nobel</Text>
@@ -1355,7 +1355,7 @@
 			<Text>Charles Darwin</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_DMITRI_MENDELEEV_NAME">
-			<Text>Dmitri Mendeleev</Text>
+			<Text>Dmitrij Mendelejev</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALAN_TURING_NAME">
 			<Text>Alan Turing</Text>
@@ -1385,13 +1385,13 @@
 			<Text>Stephanie Kwolek</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_BHASA_NAME">
-			<Text>Bhasa</Text>
+			<Text>Bhāsa</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_HOMER_NAME">
-			<Text>Homer</Text>
+			<Text>Homeros</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_OVID_NAME">
-			<Text>Ovid</Text>
+			<Text>Ovidius</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_QU_YUAN_NAME">
 			<Text>Qu Yuan</Text>
@@ -1409,7 +1409,7 @@
 			<Text>Margaret Cavendish</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_MIGUEL_DE_CERVANTES_NAME">
-			<Text>Miguel de Cervantes</Text>
+			<Text>Miguel Cervantes</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_NICCOLO_MACHIAVELLI_NAME">
 			<Text>Niccolò Machiavelli</Text>
@@ -1421,7 +1421,7 @@
 			<Text>Marie-Catherine d'Aulnoy</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_ALEXANDER_PUSHKIN_NAME">
-			<Text>Alexander Pushkin</Text>
+			<Text>Aleksandr Pusjkin</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_EDGAR_ALLEN_POE_NAME">
 			<Text>Edgar Allen Poe</Text>
@@ -1445,7 +1445,7 @@
 			<Text>Emily Dickinson</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_LEO_TOLSTOY_NAME">
-			<Text>Leo Tolstoy</Text>
+			<Text>Lev Tolstoj</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARK_TWAIN_NAME">
 			<Text>Mark Twain</Text>
@@ -1460,10 +1460,10 @@
 			<Text>Rabindranath Tagore</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_KAREL_CAPEK_NAME">
-			<Text>Karel Capek</Text>
+			<Text>Karel Čapek</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANDREY_RUBLEV_NAME">
-			<Text>Andrei Rublev</Text>
+			<Text>Andrej Rubljov</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_HIERONYMUS_BOSCH_NAME">
 			<Text>Hieronymus Bosch</Text>
@@ -1478,7 +1478,7 @@
 			<Text>Qiu Ying</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_TITIAN_NAME">
-			<Text>Titian</Text>
+			<Text>Tizian</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANGELICA_KAUFFMAN_NAME">
 			<Text>Angelica Kauffman</Text>
@@ -1505,7 +1505,7 @@
 			<Text>Edmonia Lewis</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_BORIS_ORLOVSKY_NAME">
-			<Text>Boris Orlovsky</Text>
+			<Text>Boris Orlovskij</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_GUSTAV_KLIMT_NAME">
 			<Text>Gustav Klimt</Text>
@@ -1547,13 +1547,13 @@
 			<Text>Frederic Chopin</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_PETER_ILYICH_TCHAIKOVSKY_NAME">
-			<Text>Peter Ilyich Tchaikovsky</Text>
+			<Text>Pjotr Iljitj Tjajkovskij</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_LIU_TIANHUA_NAME">
 			<Text>Liu Tianhua</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_ANTONIN_DVORAK_NAME">
-			<Text>Antonin Dvorak</Text>
+			<Text>Antonín Dvořák</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLARA_SCHUMANN_NAME">
 			<Text>Clara Schumann</Text>
@@ -1568,55 +1568,54 @@
 			<Text>Gauhar Jaan</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_INDIVIDUAL_MYKOLA_LEONTOVYCH_NAME">
-			<Text>Mykola Leontovych</Text>
+			<Text>Mykola Leontovytj</Text>
 		</Replace>
 		<!-- Great Work Objects-->
 		<Replace Language="sv_SE" Tag="LOC_GREAT_WORK_OBJECT_SCULPTURE_NAME">
-			<Text>Sculpture</Text>
+			<Text>Skulptur</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_WORK_OBJECT_PORTRAIT_NAME">
-			<Text>Portrait</Text>
+			<Text>Porträtt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_WORK_OBJECT_LANDSCAPE_NAME">
-			<Text>Landscape</Text>
+			<Text>Landskap</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_WORK_OBJECT_RELIGIOUS_NAME">
-			<Text>Religious</Text>
+			<Text>Religiös</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_WORK_OBJECT_ARTIFACT_NAME">
-			<Text>Artifact</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>Artefakt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_WORK_OBJECT_WRITING_NAME">
-			<Text>Writing</Text>
+			<Text>Skrift</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_WORK_OBJECT_MUSIC_NAME">
-			<Text>Music</Text>
+			<Text>Musik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_WORK_OBJECT_RELIC_NAME">
-			<Text>Relic</Text>
+			<Text>Relik</Text>
 		</Replace>
 		<!-- Governments-->
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_ANARCHY_NAME">
-			<Text>Anarchy</Text>
+			<Text>Anarki</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_CHIEFDOM_NAME">
 			<Text>Chiefdom</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_AUTOCRACY_NAME">
-			<Text>Autocracy</Text>
+			<Text>Autokrati</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_OLIGARCHY_NAME">
-			<Text>Oligarchy</Text>
+			<Text>Oligarki</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_CLASSICAL_REPUBLIC_NAME">
-			<Text>Classical Republic</Text>
+			<Text>Klassisk republik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_MONARCHY_NAME">
-			<Text>Monarchy</Text>
+			<Text>Monarki</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_THEOCRACY_NAME">
-			<Text>Theocracy</Text>
+			<Text>Teokrati</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_MERCHANT_REPUBLIC_NAME">
 			<Text>Merchant Republic</Text>
@@ -1625,10 +1624,10 @@
 			<Text>Fascism</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_COMMUNISM_NAME">
-			<Text>Communism</Text>
+			<Text>Kommunism</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_DEMOCRACY_NAME">
-			<Text>Democracy</Text>
+			<Text>Democrati</Text>
 		</Replace>
 		<!-- Happinesses-->
 		<Replace Language="sv_SE" Tag="LOC_HAPPINESS_REVOLT_NAME">
@@ -1654,7 +1653,8 @@
 		</Replace>
 		<!-- Improvements -->
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME">
-			<Text>Barbarian Outpost</Text>
+			<Text>Barbarläger</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_GOODY_HUT_NAME">
 			<Text>Tribal Village</Text>
@@ -1663,40 +1663,53 @@
 			<Text>Farm</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_MINE_NAME">
-			<Text>Mine</Text>
+			<Text>Gruva</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_QUARRY_NAME">
-			<Text>Quarry</Text>
+			<Text>Stenbrott</Text>
+			<Gender>Masculine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_FISHING_BOATS_NAME">
-			<Text>Fishing Boats</Text>
+			<Text>Fiskebåtar</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_PASTURE_NAME">
-			<Text>Pasture</Text>
+			<Text>Hage</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_PLANTATION_NAME">
-			<Text>Plantation</Text>
+			<Text>Plantage</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_CAMP_NAME">
-			<Text>Camp</Text>
+			<Text>Läger</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_LUMBER_MILL_NAME">
-			<Text>Lumber Mill</Text>
+			<Text>Sågverk</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_OIL_WELL_NAME">
-			<Text>Oil Well</Text>
+			<Text>Oljekälla</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_NAME">
-			<Text>Offshore Oil Rig</Text>
+			<Text>Oljeborrplattform</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_BEACH_RESORT_NAME">
-			<Text>Seaside Resort</Text>
+			<Text>Badort</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_FORT_NAME">
 			<Text>Fästning</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_AIRSTRIP_NAME">
-			<Text>Airstrip</Text>
+			<Text>Landningsbana</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_CHATEAU_NAME">
 			<Text>Château</Text>
@@ -1717,20 +1730,23 @@
 			<Text>Roman Fort</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_SPHINX_NAME">
-			<Text>Sphinx</Text>
+			<Text>Sfinx</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_STEPWELL_NAME">
-			<Text>Stepwell</Text>
+			<Text>Trappbrunn</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_ZIGGURAT_NAME">
-			<Text>Ziggurat</Text>
+			<Text>Ziqqurat</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_MISSILE_SILO">
 			<Text>Missile Silo</Text>
 		</Replace>
 		<!-- Policies-->
 		<Replace Language="sv_SE" Tag="LOC_POLICY_AESTHETICS_NAME">
-			<Text>Aesthetics</Text>
+			<Text>Estetik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_AGOGE_NAME">
 			<Text>Agoge</Text>
@@ -1739,7 +1755,7 @@
 			<Text>Arsenal of Democracy</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_BASTIONS_NAME">
-			<Text>Bastions</Text>
+			<Text>Bastioner</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CARAVANSARIES_NAME">
 			<Text>Caravansaries</Text>
@@ -1763,10 +1779,10 @@
 			<Text>Colonial Taxes</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_COLONIZATION_NAME">
-			<Text>Colonization</Text>
+			<Text>Kolonisering</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CONSCRIPTION_NAME">
-			<Text>Conscription</Text>
+			<Text>Värnplikt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CONTAINMENT_NAME">
 			<Text>Containment</Text>
@@ -1775,10 +1791,10 @@
 			<Text>Corvée</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CRAFTSMEN_NAME">
-			<Text>Craftsmen</Text>
+			<Text>Hantverkare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CRYPTOGRAPHY_NAME">
-			<Text>Cryptography</Text>
+			<Text>Kryptografi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_NAME">
 			<Text>Defense of the Motherland</Text>
@@ -1787,7 +1803,7 @@
 			<Text>Diplomatic League</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_DISCIPLINE_NAME">
-			<Text>Discipline</Text>
+			<Text>Disciplin</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_ECOMMERCE_NAME">
 			<Text>Ecommerce</Text>
@@ -1805,7 +1821,7 @@
 			<Text>Their Finest Hour</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_FIVE_YEAR_PLAN_NAME">
-			<Text>Five-Year Plan</Text>
+			<Text>Femårsplan</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_FREE_MARKET_NAME">
 			<Text>Free Market</Text>
@@ -1817,7 +1833,7 @@
 			<Text>God King</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_NAME">
-			<Text>Gothic Architecture</Text>
+			<Text>Gotisk arkitektur</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_GRAND_OPERA_NAME">
 			<Text>Grand Opera</Text>
@@ -1874,7 +1890,7 @@
 			<Text>Literary Tradition</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_LOGISTICS_NAME">
-			<Text>Logistics</Text>
+			<Text>Logistik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MACHIAVELLIANISM_NAME">
 			<Text>Machiavellianism</Text>
@@ -1928,7 +1944,7 @@
 			<Text>New Deal</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NOBEL_PRIZE_NAME">
-			<Text>Nobel Prize</Text>
+			<Text>Nobelpriset</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_NAME">
 			<Text>Nuclear Espionage</Text>
@@ -1952,7 +1968,7 @@
 			<Text>Propaganda</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_PUBLIC_TRANSPORT_NAME">
-			<Text>Public Transport</Text>
+			<Text>Kollektivtrafik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_PUBLIC_WORKS_NAME">
 			<Text>Public Works</Text>
@@ -1988,13 +2004,13 @@
 			<Text>Scripture</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SERFDOM_NAME">
-			<Text>Serfdom</Text>
+			<Text>Livegenskap</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SIMULTANEUM_NAME">
 			<Text>Simultaneum</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SKYSCRAPERS_NAME">
-			<Text>Skyscrapers</Text>
+			<Text>Skyskrapor</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SPORTS_MEDIA_NAME">
 			<Text>Sports Media</Text>
@@ -2009,7 +2025,7 @@
 			<Text>Survey</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SYMPHONIES_NAME">
-			<Text>Symphonies</Text>
+			<Text>Symfonier</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_THIRD_ALTERNATIVE_NAME">
 			<Text>Third Alternative</Text>
@@ -2030,7 +2046,7 @@
 			<Text>Total War</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_URBAN_PLANNING_NAME">
-			<Text>Urban Planning</Text>
+			<Text>Stadsplanering</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_VETERANCY_NAME">
 			<Text>Veterancy</Text>
@@ -2082,10 +2098,10 @@
 			<Text>Theater Square Festival</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PROJECT_CARNIVAL_NAME">
-			<Text>Carnival</Text>
+			<Text>Karneval</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PROJECT_CARNIVAL_SHORT_NAME">
-			<Text>Carnival</Text>
+			<Text>Karneval</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PROJECT_REPAIR_OUTER_DEFENSES_NAME">
 			<Text>Repair Outer Defenses</Text>
@@ -2187,153 +2203,177 @@
 		</Replace>
 		<!-- Resources: Bonus-->
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_BANANAS_NAME">
-			<Text>Bananas</Text>
+			<Text>Bananer</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_CATTLE_NAME">
-			<Text>Cattle</Text>
+			<Text>Boskap</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_COPPER_NAME">
-			<Text>Copper</Text>
+			<Text>Koppar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_CRABS_NAME">
-			<Text>Crabs</Text>
+			<Text>Krabbor</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_DEER_NAME">
-			<Text>Deer</Text>
+			<Text>Rådjur</Text>
+			<Gender>Neuter</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_FISH_NAME">
-			<Text>Fish</Text>
+			<Text>Fisk</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_RICE_NAME">
-			<Text>Rice</Text>
+			<Text>Ris</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_SHEEP_NAME">
-			<Text>Sheep</Text>
+			<Text>Får</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_STONE_NAME">
-			<Text>Stone</Text>
+			<Text>Sten</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_WHEAT_NAME">
-			<Text>Wheat</Text>
+			<Text>Vete</Text>
 		</Replace>
 		<!-- Resources: Luxury-->
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_CITRUS_NAME">
 			<Text>Citrus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_COCOA_NAME">
-			<Text>Cocoa</Text>
+			<Text>Kakao</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_COFFEE_NAME">
-			<Text>Coffee</Text>
+			<Text>Kaffe</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_COTTON_NAME">
-			<Text>Cotton</Text>
+			<Text>Bomull</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_DIAMONDS_NAME">
-			<Text>Diamonds</Text>
+			<Text>Diamanter</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_DYES_NAME">
-			<Text>Dyes</Text>
+			<Text>Färgämnen</Text>
+			<Gender>Neuter</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_FURS_NAME">
-			<Text>Furs</Text>
+			<Text>Päls</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_GYPSUM_NAME">
-			<Text>Gypsum</Text>
+			<Text>Gips</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_INCENSE_NAME">
-			<Text>Incense</Text>
+			<Text>Rökelse</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_IVORY_NAME">
-			<Text>Ivory</Text>
+			<Text>Elfenben</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_JADE_NAME">
 			<Text>Jade</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_MARBLE_NAME">
-			<Text>Marble</Text>
+			<Text>Marmor</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_MERCURY_NAME">
-			<Text>Mercury</Text>
+			<Text>Kvicksilver</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_PEARLS_NAME">
-			<Text>Pearls</Text>
+			<Text>Pärlor</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_SALT_NAME">
 			<Text>Salt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_SILK_NAME">
-			<Text>Silk</Text>
+			<Text>Silke</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_SILVER_NAME">
 			<Text>Silver</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_SPICES_NAME">
-			<Text>Spices</Text>
+			<Text>Kryddor</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_SUGAR_NAME">
-			<Text>Sugar</Text>
+			<Text>Socker</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_TEA_NAME">
-			<Text>Tea</Text>
+			<Text>Te</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_TRUFFLES_NAME">
-			<Text>Truffles</Text>
+			<Text>Tryffel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_TOBACCO_NAME">
-			<Text>Tobacco</Text>
+			<Text>Tobak</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_WHALES_NAME">
-			<Text>Whales</Text>
+			<Text>Valar</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_WINE_NAME">
-			<Text>Wine</Text>
+			<Text>Vin</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_JEANS_NAME">
 			<Text>Jeans</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_PERFUME_NAME">
-			<Text>Perfume</Text>
+			<Text>Parfym</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_COSMETICS_NAME">
-			<Text>Cosmetics</Text>
+			<Text>Kosmetika</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_TOYS_NAME">
-			<Text>Toys</Text>
+			<Text>Leksaker</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_CINNAMON_NAME">
-			<Text>Cinnamon</Text>
+			<Text>Kanel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_CLOVES_NAME">
-			<Text>Cloves</Text>
+			<Text>Kryddnejlikor</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<!-- Resources: Strategic-->
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_ALUMINUM_NAME">
-			<Text>Aluminum</Text>
+			<Text>Aluminium</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_COAL_NAME">
-			<Text>Coal</Text>
+			<Text>Kol</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_HORSES_NAME">
-			<Text>Horses</Text>
+			<Text>Hästar</Text>
+			<Gender>Feminine</Gender>
+			<Plurality>2</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_IRON_NAME">
-			<Text>Iron</Text>
+			<Text>Järn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_NITER_NAME">
-			<Text>Niter</Text>
+			<Text>Salpeter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_OIL_NAME">
-			<Text>Oil</Text>
+			<Text>Olja</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_URANIUM_NAME">
-			<Text>Uranium</Text>
+			<Text>Uran</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_ANTIQUITY_SITE_NAME">
 			<Text>Antiquity Site</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESOURCE_SHIPWRECK_NAME">
-			<Text>Shipwreck</Text>
+			<Text>Skeppsvrak</Text>
 		</Replace>
 		<!-- Routes-->
 		<Replace Language="sv_SE" Tag="LOC_ROUTE_ANCIENT_ROAD_NAME">
@@ -2350,16 +2390,16 @@
 		</Replace>
 		<!-- Slots-->
 		<Replace Language="sv_SE" Tag="LOC_SLOT_ECONOMIC_NAME">
-			<Text>Economic</Text>
+			<Text>Ekonomisk</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SLOT_MILITARY_NAME">
-			<Text>Military</Text>
+			<Text>Militär</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SLOT_DIPLOMATIC_NAME">
-			<Text>Diplomatic</Text>
+			<Text>Diplomatisk</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SLOT_GREAT_PERSON_NAME">
-			<Text>Great Person</Text>
+			<Text>Stor personlighet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SLOT_WILDCARD_NAME">
 			<Text>Wildcard</Text>
@@ -2387,58 +2427,58 @@
 			<Text>Animal Husbandry</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ARCHERY_NAME">
-			<Text>Archery</Text>
+			<Text>Bågskytte</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ASTROLOGY_NAME">
-			<Text>Astrology</Text>
+			<Text>Astrologi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ASTRONOMY_NAME">
-			<Text>Astronomy</Text>
+			<Text>Astronomi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_BALLISTICS_NAME">
-			<Text>Ballistics</Text>
+			<Text>Ballistik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_BANKING_NAME">
-			<Text>Banking</Text>
+			<Text>Bankväsen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_BRONZE_WORKING_NAME">
-			<Text>Bronze Working</Text>
+			<Text>Bronssmide</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CARTOGRAPHY_NAME">
-			<Text>Cartography</Text>
+			<Text>Kartografi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CELESTIAL_NAVIGATION_NAME">
 			<Text>Celestial Navigation</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CHEMISTRY_NAME">
-			<Text>Chemistry</Text>
+			<Text>Kemi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_COMBINED_ARMS_NAME">
 			<Text>Combined Arms</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_COMBUSTION_NAME">
-			<Text>Combustion</Text>
+			<Text>Förbränning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_COMPOSITES_NAME">
 			<Text>Composites</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_COMPUTERS_NAME">
-			<Text>Computers</Text>
+			<Text>Datorer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CONSTRUCTION_NAME">
 			<Text>Construction</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CURRENCY_NAME">
-			<Text>Currency</Text>
+			<Text>Valuta</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ECONOMICS_NAME">
 			<Text>Economics</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_EDUCATION_NAME">
-			<Text>Education</Text>
+			<Text>Utbildning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ELECTRICITY_NAME">
-			<Text>Electricity</Text>
+			<Text>Elektricitet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ENGINEERING_NAME">
 			<Text>Engineering</Text>
@@ -2447,7 +2487,7 @@
 			<Text>Flight</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CASTLES_NAME">
-			<Text>Castles</Text>
+			<Text>Slott</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FUTURE_TECH_NAME">
 			<Text>Future Tech</Text>
@@ -2456,46 +2496,46 @@
 			<Text>Guidance Systems</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_GUNPOWDER_NAME">
-			<Text>Gunpowder</Text>
+			<Text>Krut</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_HORSEBACK_RIDING_NAME">
 			<Text>Horseback Riding</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_INDUSTRIALIZATION_NAME">
-			<Text>Industrialization</Text>
+			<Text>Industrialisering</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_IRON_WORKING_NAME">
-			<Text>Iron Working</Text>
+			<Text>Järnsmide</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_IRRIGATION_NAME">
-			<Text>Irrigation</Text>
+			<Text>Konstbevattning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_LASERS_NAME">
-			<Text>Lasers</Text>
+			<Text>Laser</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_MACHINERY_NAME">
-			<Text>Machinery</Text>
+			<Text>Maskineri</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_MASONRY_NAME">
-			<Text>Masonry</Text>
+			<Text>Murning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_MASS_PRODUCTION_NAME">
-			<Text>Mass Production</Text>
+			<Text>Massproduktion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_MATHEMATICS_NAME">
-			<Text>Mathematics</Text>
+			<Text>Matematik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_APPRENTICESHIP_NAME">
-			<Text>Apprenticeship</Text>
+			<Text>Lärlingskap</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_METAL_CASTING_NAME">
-			<Text>Metal Casting</Text>
+			<Text>Metallgjutning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_MILITARY_ENGINEERING_NAME">
 			<Text>Military Engineering</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_STIRRUPS_NAME">
-			<Text>Stirrups</Text>
+			<Text>Stigbyglar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_MILITARY_SCIENCE_NAME">
 			<Text>Military Science</Text>
@@ -2504,55 +2544,55 @@
 			<Text>Military Tactics</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_MINING_NAME">
-			<Text>Mining</Text>
+			<Text>Gruvdrift</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_NANOTECHNOLOGY_NAME">
-			<Text>Nanotechnology</Text>
+			<Text>Nanoteknik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_NUCLEAR_FISSION_NAME">
-			<Text>Nuclear Fission</Text>
+			<Text>Kärnklyvning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_NUCLEAR_FUSION_NAME">
-			<Text>Nuclear Fusion</Text>
+			<Text>Kärnfusion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_POTTERY_NAME">
-			<Text>Pottery</Text>
+			<Text>Krukmakeri</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_PLASTICS_NAME">
-			<Text>Plastics</Text>
+			<Text>Plast</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_PRINTING_NAME">
-			<Text>Printing</Text>
+			<Text>Boktryckarkonst</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_RADIO_NAME">
 			<Text>Radio</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_REPLACEABLE_PARTS_NAME">
-			<Text>Replaceable Parts</Text>
+			<Text>Utbytbara delar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_RIFLING_NAME">
-			<Text>Rifling</Text>
+			<Text>Räffling</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ROBOTICS_NAME">
-			<Text>Robotics</Text>
+			<Text>Robotik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ROCKETRY_NAME">
-			<Text>Rocketry</Text>
+			<Text>Raketteknik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SAILING_NAME">
-			<Text>Sailing</Text>
+			<Text>Segling</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SANITATION_NAME">
 			<Text>Sanitation</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SATELLITES_NAME">
-			<Text>Satellites</Text>
+			<Text>Satelliter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SCIENTIFIC_THEORY_NAME">
-			<Text>Scientific Theory</Text>
+			<Text>Vetenskaplig teori</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SHIPBUILDING_NAME">
-			<Text>Shipbuilding</Text>
+			<Text>Skeppsbygge</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SIEGE_TACTICS_NAME">
 			<Text>Siege Tactics</Text>
@@ -2564,106 +2604,106 @@
 			<Text>Stealth Technology</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_STEAM_POWER_NAME">
-			<Text>Steam Power</Text>
+			<Text>Ångkraft</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_STEEL_NAME">
-			<Text>Steel</Text>
+			<Text>Stål</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_SYNTHETIC_MATERIALS_NAME">
-			<Text>Synthetic Materials</Text>
+			<Text>Syntetiska material</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_TELECOMMUNICATIONS_NAME">
-			<Text>Telecommunications</Text>
+			<Text>Teleteknik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_THE_WHEEL_NAME">
-			<Text>Wheel</Text>
+			<Text>Hjulet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_WRITING_NAME">
-			<Text>Writing</Text>
+			<Text>Skrivkonst</Text>
 		</Replace>
 		<!-- Terrain -->
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_COAST_NAME">
-			<Text>Coast</Text>
+			<Text>Kust</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_DESERT_NAME">
-			<Text>Desert</Text>
+			<Text>Öken</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_DESERT_HILLS_NAME">
-			<Text>Desert (Hills)</Text>
+			<Text>Öken (Kullar)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_DESERT_MOUNTAIN_NAME">
-			<Text>Desert (Mountain)</Text>
+			<Text>Öken (Berg)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_GRASS_NAME">
-			<Text>Grassland</Text>
+			<Text>Gräsmark</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_GRASS_HILLS_NAME">
-			<Text>Grassland (Hills)</Text>
+			<Text>Gräsmark (Kullar)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_GRASS_MOUNTAIN_NAME">
-			<Text>Grassland (Mountain)</Text>
+			<Text>Gräsmark (Berg)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_OCEAN_NAME">
-			<Text>Ocean</Text>
+			<Text>Hav</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_PLAINS_NAME">
-			<Text>Plains</Text>
+			<Text>Slätt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_PLAINS_HILLS_NAME">
-			<Text>Plains (Hills)</Text>
+			<Text>Slätt (Kullar)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_PLAINS_MOUNTAIN_NAME">
-			<Text>Plains (Mountain)</Text>
+			<Text>Slätt (Berg)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_SNOW_NAME">
-			<Text>Snow</Text>
+			<Text>Snö</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_SNOW_HILLS_NAME">
-			<Text>Snow (Hills)</Text>
+			<Text>Snö (Kullar)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_SNOW_MOUNTAIN_NAME">
-			<Text>Snow (Mountain)</Text>
+			<Text>Snö (Berg)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_TUNDRA_NAME">
 			<Text>Tundra</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_TUNDRA_HILLS_NAME">
-			<Text>Tundra (Hills)</Text>
+			<Text>Tundra (Kullar)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_TUNDRA_MOUNTAIN_NAME">
-			<Text>Tundra (Mountain)</Text>
+			<Text>Tundra (Berg)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TERRAIN_OUTOFPLAY_NAME">
-			<Text>Void Hex</Text>
+			<Text>Ogiltig ruta</Text>
 		</Replace>
 		<!-- Units -->
 		<Replace Language="sv_SE" Tag="LOC_UNIT_AIRCRAFT_CARRIER_NAME">
-			<Text>Aircraft Carrier</Text>
-			<Gender>masculine:an</Gender>
+			<Text>Hangarfartyg</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_ANTIAIR_GUN_NAME">
-			<Text>Anti-Air Gun</Text>
-			<Gender>masculine:an</Gender>
+			<Text>Luftvärnskanon</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_APOSTLE_NAME">
-			<Text>Apostle</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>Apostel</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_ARCHAEOLOGIST_NAME">
-			<Text>Archaeologist</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>Arkeolog</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_ARCHER_NAME">
-			<Text>Archer</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>Bågskytt</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_ARTILLERY_NAME">
-			<Text>Artillery</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>Artilleri</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_AT_CREW_NAME">
-			<Text>AT Crew</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>Pansarvärn</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_BARBARIAN_HORSEMAN_NAME">
 			<Text>Barbarian Horseman</Text>
@@ -2672,145 +2712,185 @@
 			<Text>Barbarian Horse Archer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_BARBARIAN_GALLEY_NAME">
-			<Text>Barbarian Galley</Text>
+			<Text>Barbargalär</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_BATTERING_RAM_NAME">
-			<Text>Battering Ram</Text>
+			<Text>Murbräcka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_BATTLESHIP_NAME">
-			<Text>Battleship</Text>
+			<Text>Slagskepp</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_BUILDER_NAME">
-			<Text>Builder</Text>
+			<Text>Byggare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_BIPLANE_NAME">
-			<Text>Biplane</Text>
+			<Text>Biplan</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_BOMBER_NAME">
-			<Text>Bomber</Text>
+			<Text>Bombplan</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_BOMBARD_NAME">
 			<Text>Bombard</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_CARAVEL_NAME">
-			<Text>Caravel</Text>
+			<Text>Karavell</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_CATAPULT_NAME">
-			<Text>Catapult</Text>
+			<Text>Katapult</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_CAVALRY_NAME">
-			<Text>Cavalry</Text>
+			<Text>Kavalleri</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_DESTROYER_NAME">
-			<Text>Destroyer</Text>
+			<Text>Jagare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_CROSSBOWMAN_NAME">
-			<Text>Crossbowman</Text>
+			<Text>Armborstskytt</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_FIELD_CANNON_NAME">
-			<Text>Field Cannon</Text>
+			<Text>Fältkanon</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_FIGHTER_NAME">
-			<Text>Fighter</Text>
+			<Text>Jaktplan</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_FRIGATE_NAME">
-			<Text>Frigate</Text>
+			<Text>Fregatt</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GALLEY_NAME">
-			<Text>Galley</Text>
+			<Text>Galär</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_CLASS_GENERAL_NAME">
-			<Text>Great General</Text>
+			<Text>Stor general</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GREAT_GENERAL_NAME">
-			<Text>Great General</Text>
+			<Text>Stor general</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_CLASS_ADMIRAL_NAME">
-			<Text>Great Admiral</Text>
+			<Text>Stor amiral</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GREAT_ADMIRAL_NAME">
-			<Text>Great Admiral</Text>
+			<Text>Stor amiral</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_CLASS_ENGINEER_NAME">
-			<Text>Great Engineer</Text>
+			<Text>Stor ingenjör</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GREAT_ENGINEER_NAME">
-			<Text>Great Engineer</Text>
+			<Text>Stor ingenjör</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_CLASS_MERCHANT_NAME">
-			<Text>Great Merchant</Text>
+			<Text>Stor handelsman</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GREAT_MERCHANT_NAME">
-			<Text>Great Merchant</Text>
+			<Text>Stor handelsman</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_CLASS_PROPHET_NAME">
-			<Text>Great Prophet</Text>
+			<Text>Stor profet</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GREAT_PROPHET_NAME">
-			<Text>Great Prophet</Text>
+			<Text>Stor profet</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_CLASS_SCIENTIST_NAME">
-			<Text>Great Scientist</Text>
+			<Text>Stor vetenskapsman</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GREAT_SCIENTIST_NAME">
-			<Text>Great Scientist</Text>
+			<Text>Stor vetenskapsman</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_CLASS_WRITER_NAME">
-			<Text>Great Writer</Text>
+			<Text>Stor författare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GREAT_WRITER_NAME">
-			<Text>Great Writer</Text>
+			<Text>Stor författare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_CLASS_ARTIST_NAME">
-			<Text>Great Artist</Text>
+			<Text>Stor konstnär</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GREAT_ARTIST_NAME">
-			<Text>Great Artist</Text>
+			<Text>Stor konstnär</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PERSON_CLASS_MUSICIAN_NAME">
-			<Text>Great Musician</Text>
+			<Text>Stor musiker</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GREAT_MUSICIAN_NAME">
-			<Text>Great Musician</Text>
+			<Text>Stor musiker</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_HEAVY_CHARIOT_NAME">
 			<Text>Heavy Chariot</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_HELICOPTER_NAME">
-			<Text>Helicopter</Text>
+			<Text>Helikopter</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_HORSEMAN_NAME">
-			<Text>Horseman</Text>
+			<Text>Ryttare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_INFANTRY_NAME">
-			<Text>Infantry</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>Infanteri</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_INQUISITOR_NAME">
-			<Text>Inquisitor</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>Inkvisitor</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_IRONCLAD_NAME">
-			<Text>Ironclad</Text>
-			<Gender>Masculine:an</Gender>
+			<Text>Pansarskepp</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_JET_BOMBER_NAME">
-			<Text>Jet Bomber</Text>
+			<Text>Jetbombplan</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_JET_FIGHTER_NAME">
-			<Text>Jet Fighter</Text>
+			<Text>Jetjaktplan</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_KNIGHT_NAME">
 			<Text>Riddare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_MACHINE_GUN_NAME">
-			<Text>Machine Gun</Text>
+			<Text>Maskingevär</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_MECHANIZED_INFANTRY_NAME">
-			<Text>Mechanized Infantry</Text>
+			<Text>Mekaniserat infanteri</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_MEDIC_NAME">
-			<Text>Medic</Text>
+			<Text>Fältläkare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_MILITARY_ENGINEER_NAME">
 			<Text>Military Engineer</Text>
@@ -2819,7 +2899,8 @@
 			<Text>Missile Cruiser</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_MISSIONARY_NAME">
-			<Text>Missionary</Text>
+			<Text>Missionär</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_MODERN_AT_NAME">
 			<Text>Modern AT</Text>
@@ -2828,35 +2909,42 @@
 			<Text>Modern Armor</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_MUSKETMAN_NAME">
-			<Text>Musketman</Text>
+			<Text>Musketerare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_NATURALIST_NAME">
 			<Text>Naturalist</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_NUCLEAR_SUBMARINE_NAME">
-			<Text>Nuclear Submarine</Text>
+			<Text>Atomubåt</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_OBSERVATION_BALLOON_NAME">
 			<Text>Observation Balloon</Text>
 			<Gender>Masculine:an</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_PIKEMAN_NAME">
-			<Text>Pikeman</Text>
+			<Text>Pikenerare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_PRIVATEER_NAME">
-			<Text>Privateer</Text>
+			<Text>Kapare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_QUADRIREME_NAME">
-			<Text>Quadrireme</Text>
+			<Text>Fyrroddare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_RANGER_NAME">
 			<Text>Ranger</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_ROCKET_ARTILLERY_NAME">
-			<Text>Rocket Artillery</Text>
+			<Text>Raketartilleri</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_MOBILE_SAM_NAME">
-			<Text>Mobile SAM</Text>
+			<Text>Mobilt luftvärn</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_SCOUT_NAME">
 			<Text>Spejare|Spejares|Spejaren|Spejarens|Spejare|Spejares|Spejarna|Spejarnas</Text>
@@ -2864,31 +2952,39 @@
 			<Plurality>1</Plurality>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_SETTLER_NAME">
-			<Text>Settler</Text>
+			<Text>Nybyggare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_SIEGE_TOWER_NAME">
-			<Text>Siege Tower</Text>
+			<Text>Belägringstorn</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_SLINGER_NAME">
-			<Text>Slinger</Text>
+			<Text>Slungare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_SPEARMAN_NAME">
 			<Text>Spearman</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_SPY_NAME">
-			<Text>Spy</Text>
+			<Text>Spion</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_SUBMARINE_NAME">
-			<Text>Submarine</Text>
+			<Text>Ubåt</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_SWORDSMAN_NAME">
-			<Text>Swordsman</Text>
+			<Text>Fäktare</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TANK_NAME">
-			<Text>Tank</Text>
+			<Text>Pansarvagn</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRADER_NAME">
-			<Text>Trader</Text>
+			<Text>Handelsman</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_WARRIOR_NAME">
 			<Text>Krigare|Krigares|Krigaren|Krigarens|Krigare|Krigares|Krigarna|Krigarnas</Text>
@@ -2899,7 +2995,8 @@
 			<Text>Maryannu Chariot Archer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GREEK_HOPLITE_NAME">
-			<Text>Hoplite</Text>
+			<Text>Hoplit</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
 			<Text>Saka Horse Archer</Text>
@@ -2911,28 +3008,35 @@
 			<Text>Rough Rider</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_ENGLISH_REDCOAT_NAME">
-			<Text>Redcoat</Text>
+			<Text>Rödrock</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_NAME">
 			<Text>Conquistador</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_ROMAN_LEGION_NAME">
 			<Text>Legion</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_JAPANESE_SAMURAI_NAME">
-			<Text>Samurai</Text>
+			<Text>Samuraj</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_NORWEGIAN_BERSERKER_NAME">
-			<Text>Berserker</Text>
+			<Text>Bärsärk</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_NAME">
-			<Text>Viking Longship</Text>
+			<Text>Långskepp</Text>
+			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_NAME">
 			<Text>Crouching Tiger</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_RUSSIAN_COSSACK_NAME">
-			<Text>Cossack</Text>
+			<Text>Kosack</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_INDIAN_VARU_NAME">
 			<Text>Varu</Text>
@@ -2950,39 +3054,42 @@
 			<Text>Garde Impériale</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_GERMAN_UBOAT_NAME">
-			<Text>U-Boat</Text>
+			<Text>Tysk ubåt</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_AMERICAN_P51_NAME">
 			<Text>P-51 Mustang</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
 			<Text>Minas Geraes</Text>
 		</Replace>
 		<!-- WMDs -->
 		<Replace Language="sv_SE" Tag="LOC_WMD_NUCLEAR_DEVICE_NAME">
-			<Text>Nuclear Device</Text>
+			<Text>Kärnladdning</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WMD_THERMONUCLEAR_DEVICE_NAME">
 			<Text>Thermonuclear Device</Text>
 		</Replace>
 		<!-- Yields -->
 		<Replace Language="sv_SE" Tag="LOC_YIELD_CULTURE_NAME">
-			<Text>Culture</Text>
+			<Text>Kultur</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_YIELD_FAITH_NAME">
 			<Text>Faith</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_YIELD_FOOD_NAME">
-			<Text>Food</Text>
+			<Text>Mat</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_YIELD_GOLD_NAME">
-			<Text>Gold</Text>
+			<Text>Guld</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_YIELD_PRODUCTION_NAME">
-			<Text>Production</Text>
+			<Text>Produktion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_YIELD_SCIENCE_NAME">
-			<Text>Science</Text>
+			<Text>Vetenskap</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVILIZATION_AZTEC_NAME">
 			<Text>Aztec</Text>
