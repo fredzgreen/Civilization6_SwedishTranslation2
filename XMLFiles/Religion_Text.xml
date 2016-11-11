@@ -4,16 +4,16 @@
 	<LocalizedText>
 		<!--RELIGIONS-->
 		<Replace Language="sv_SE" Tag="LOC_RELIGION_PANTHEON">
-			<Text>Pantheon</Text>
+			<Text>Panteon</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RELIGION_BUDDHISM">
 			<Text>Buddhism</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RELIGION_CATHOLICISM">
-			<Text>Catholicism</Text>
+			<Text>Katolicism</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RELIGION_CONFUCIANISM">
-			<Text>Confucianism</Text>
+			<Text>Konfucianism</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RELIGION_HINDUISM">
 			<Text>Hinduism</Text>
@@ -22,10 +22,10 @@
 			<Text>Islam</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RELIGION_JUDAISM">
-			<Text>Judaism</Text>
+			<Text>Judendom</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RELIGION_ORTHODOXY">
-			<Text>Eastern Orthodoxy</Text>
+			<Text>Ortodoxa kyrkan</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RELIGION_PROTESTANTISM">
 			<Text>Protestantism</Text>
@@ -44,7 +44,7 @@
 		</Replace>
 		<!--BELIEF CLASSES-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_CLASS_PANTHEON_NAME">
-			<Text>Pantheon</Text>
+			<Text>Panteon</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
 			<Text>Follower</Text>
@@ -112,14 +112,14 @@
 			<Text>Goddess of Festivals</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
-			<Text>Oral Tradition</Text>
+			<Text>Muntlig tradition</Text>
 		</Replace>
 		<!--Pantheon - Military -->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_NAME">
-			<Text>God of the Forge</Text>
+			<Text>Smideskonstens gud</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_WAR_NAME">
-			<Text>God of War</Text>
+			<Text>Krigsguden</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_INITIATION_RITES_NAME">
 			<Text>Initiation Rites</Text>
@@ -129,32 +129,32 @@
 		</Replace>
 		<!--Pantheon - General Purpose-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
-			<Text>Fertility Rites</Text>
+			<Text>Fertilitetsriter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_RELIGIOUS_SETTLEMENTS_NAME">
-			<Text>Religious Settlements</Text>
+			<Text>Religiösa bosättningar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
 			<Text>Goddess of the Harvest</Text>
 		</Replace>
 		<!--2. WORSHIP BELIEFS-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_CATHEDRAL_NAME">
-			<Text>Cathedral</Text>
+			<Text>Katedral</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GURDWARA_NAME">
 			<Text>Gurdwara</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_MEETING_HOUSE_NAME">
-			<Text>Meeting House</Text>
+			<Text>Församlingshus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_MOSQUE_NAME">
-			<Text>Mosque</Text>
+			<Text>Moské</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_PAGODA_NAME">
-			<Text>Pagoda</Text>
+			<Text>Pagod</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_SYNAGOGUE_NAME">
-			<Text>Synagogue</Text>
+			<Text>Synagoga</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_WAT_NAME">
 			<Text>Wat</Text>
@@ -192,16 +192,16 @@
 			<Text>Papal Primacy</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_PILGRIMAGE_NAME">
-			<Text>Pilgrimage</Text>
+			<Text>Pilgrimsfärd</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_STEWARDSHIP_NAME">
-			<Text>Stewardship</Text>
+			<Text>Förvaltarskap</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_TITHE_NAME">
-			<Text>Tithe</Text>
+			<Text>Tionde</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_WORLD_CHURCH_NAME">
-			<Text>World Church</Text>
+			<Text>Världskyrka</Text>
 		</Replace>
 		<!--5. ENHANCER BELIEFS-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
@@ -214,7 +214,7 @@
 			<Text>Itinerant Preachers</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_JUST_WAR_NAME">
-			<Text>Crusade</Text>
+			<Text>Korståg</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
 			<Text>Missionary Zeal</Text>
