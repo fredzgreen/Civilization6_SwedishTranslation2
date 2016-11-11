@@ -80,7 +80,7 @@
 			<Text>stadsstaten Hattusa</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_HONG_KONG_DESCRIPTION">
-			<Text>stadsstaten Hong Kong</Text>
+			<Text>stadsstaten Hongkong</Text>
 		</Replace>
 		<Replace  Language="sv_SE" Tag="LOC_CIVILIZATION_JAKARTA_DESCRIPTION">
 			<Text>stadsstaten Jakarta</Text>

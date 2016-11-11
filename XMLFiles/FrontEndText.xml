@@ -1316,40 +1316,40 @@
 		</Replace>
 		<!-- Loading Screen / Dawn of man -->
 		<Replace Language="sv_SE" Tag="LOC_LOADING_DOMAIN_LAND">
-			<Text>A unique land unit</Text>
+			<Text>En unik landenhet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_DOMAIN_SEA">
-			<Text>A unique naval unit</Text>
+			<Text>En unik sjöenhet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_DOMAIN_AIR">
-			<Text>A unique air unit</Text>
+			<Text>En unik luftenhet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_PLEASE_WAIT">
-			<Text>Loading, please wait...</Text>
+			<Text>Laddar. Var god vänta...</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_DISTRICT_BUILDING">
 			<Text>{1_DistrictName} District Building</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_UNIQUE_BUILDING">
-			<Text>A unique building</Text>
+			<Text>En unik byggnad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_UNIQUE_DISTRICT">
-			<Text>A unique district</Text>
+			<Text>Ett unikt distrikt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
-			<Text>A unique improvement</Text>
+			<Text>En unik förbättring</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
-			<Text>Joins the World Stage</Text>
+			<Text>träder in på världsscenen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_FEATURES_ABILITIES">
-			<Text>Features &amp; Abilities</Text>
+			<Text>Funktioner &amp; förmågor</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_START_GAME">
-			<Text>Start Game</Text>
+			<Text>Starta spel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_CONTINUE_GAME">
-			<Text>Continue Game</Text>
+			<Text>Fortsätt spel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
 			<Text>It is up to you to lead your people to glory by building a civilization that will stand the test of time.</Text>
