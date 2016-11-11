@@ -4,286 +4,286 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="sv_SE" Tag="LOC_NOT_IMPLEMENTED">
-			<Text>Not implemented!</Text>
+			<Text>Ej implementerat!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BEGIN_GAME">
-			<Text>BEGIN GAME</Text>
+			<Text>PÅBÖRJA NYTT SPEL</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CONTINUE_GAME">
-			<Text>CONTINUE GAME</Text>
+			<Text>FORTSÄTT SPELET</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CONTINUE">
-			<Text>Continue</Text>
+			<Text>Fortsätta</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_START">
-			<Text>START</Text>
+			<Text>STARTA</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_OK">
 			<Text>Ok</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CANCEL">
-			<Text>Cancel</Text>
+			<Text>Avbryt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_YES">
-			<Text>Yes</Text>
+			<Text>Ja</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_NO">
-			<Text>No</Text>
+			<Text>Nej</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_REMIND_ME_LATER">
-			<Text>Remind me later</Text>
+			<Text>Påminn mig senare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_EXPLORED_ALL">
-			<Text>You have visited all of the land and sea.</Text>
+			<Text>Du har besökt alla land- och havsområden.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ENTIRE_WORLD_DISCOVERED">
-			<Text>The entire world has been discovered.</Text>
+			<Text>Hela världen har upptäckts.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_YOU_CANNOT_MOVE_HERE_AT_THIS_TIME">
-			<Text>You can not move here at this time.</Text>
+			<Text>Du kan inte flytta hit ännu.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_YOU_CANNOT_MOVE_HERE">
-			<Text>You can not move here.</Text>
+			<Text>Du kan inte flytta hit.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_INCORRECT_CIVIC">
 			<Text>That is the incorrect civic to select.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_INCORRECT_GOVERNMENT">
-			<Text>That is the incorrect governmnet to select.</Text>
+			<Text>Det där är fel regeringsform att välja.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_INCORRECT_GREAT_PERSON">
-			<Text>That is the incorrect Great Person to select</Text>
+			<Text>Det där är fel Stor personlighet att välja</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_INCORRECT_PLOT">
-			<Text>That is the incorrect plot.</Text>
+			<Text>Det där är fel ruta.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_INCORRECT_POLICY">
 			<Text>That is the incorrect policy to select.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_INCORRECT_TECHNOLOGY">
-			<Text>That is the incorrect technology to select.</Text>
+			<Text>Det där är fel vetenskap att välja.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_THIS_IS_THE_PLOT">
-			<Text>This is the plot.</Text>
+			<Text>Det här är rutan.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIRECTION_NORTH">
-			<Text>North</Text>
+			<Text>Nord</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIRECTION_SOUTH">
-			<Text>South</Text>
+			<Text>Syd</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIRECTION_WEST">
-			<Text>West</Text>
+			<Text>Väst</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIRECTION_EAST">
-			<Text>East</Text>
+			<Text>Öst</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIRECTION_NORTH_WEST">
-			<Text>North-West</Text>
+			<Text>Nordväst</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIRECTION_NORTH_EAST">
-			<Text>North-East</Text>
+			<Text>Nordost</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIRECTION_SOUTH_WEST">
-			<Text>South-West</Text>
+			<Text>Sydväst</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIRECTION_SOUTH_EAST">
-			<Text>South-East</Text>
+			<Text>Sydost</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DANGER">
-			<Text>Danger</Text>
+			<Text>Fara</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BARBARIANS_HAVE_LEARNED_OF_YOUR_PRESENCE">
-			<Text>Barbarians have learned of your presence.</Text>
+			<Text>Barbarer har blivit medvetna om din närvaro.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_NOT_RECOMMENDED">
-			<Text>Not Recommended</Text>
+			<Text>Rekommenderas ej</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RECOMMENDED">
-			<Text>Recommended</Text>
+			<Text>Rekommenderas</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CANAL">
-			<Text>Canal</Text>
+			<Text>Kanal</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOO_MANY">
-			<Text>Too many</Text>
+			<Text>För många</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOO_FEW">
-			<Text>Too few</Text>
+			<Text>För få</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SELECT_X_MORE">
-			<Text>Select {1_amount} more.</Text>
+			<Text>Välj ytterligare {1_amount}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ALLOCATE_X_MORE">
-			<Text>Allocate {1_amount} more.</Text>
+			<Text>Tilldela ytterligare {1_amount}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SELECT_X_FEWER">
-			<Text>Select {1_amount} fewer.</Text>
+			<Text>Välj bort {1_amount}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SELECT_POST_THIS_MOMENT_IN_TIME">
-			<Text>Post this moment in time.</Text>
+			<Text>Posta det här ögonblicket.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_CLICK">
-			<Text>Click</Text>
+			<Text>Klicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_DOUBLE_CLICK">
-			<Text>Double-Click</Text>
+			<Text>Dubbelklicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_LEFT_CLICK">
-			<Text>Left-Click</Text>
+			<Text>Vänsterklicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_RIGHT_CLICK">
-			<Text>Right-Click</Text>
+			<Text>Högerklicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_MIDDLE_CLICK">
-			<Text>Middle-Click</Text>
+			<Text>Mellanklicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_TOUCH">
-			<Text>Touch</Text>
+			<Text>Rör</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_TAP">
-			<Text>Tap</Text>
+			<Text>Klicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_HOLD">
-			<Text>Hold</Text>
+			<Text>Håll</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_Double_TAP">
-			<Text>Double-Tap</Text>
+			<Text>Dubbelklicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_TWO_FINGER_HOLD">
-			<Text>Two Finger Hold</Text>
+			<Text>Håll med två fingrar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_TWO_FINGER_TAP">
-			<Text>Two Finger Tap</Text>
+			<Text>Klicka med två fingrar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_THREE_FINGER_TAP">
-			<Text>Three Finger Tap</Text>
+			<Text>Klicka med tre fingrar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_FOUR_FINGER_TAP">
-			<Text>Four Finger Tap</Text>
+			<Text>Klicka med fyra fingrar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_MOUSE_WHEEL_DOWN">
-			<Text>Mouse-Wheel Down</Text>
+			<Text>Tryck ned mushjulet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_ACTION_MOUSE_WHEEL_UP">
-			<Text>Mouse-Wheel Up</Text>
+			<Text>Släpp upp mushjulet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_CLICK">
-			<Text>Click</Text>
+			<Text>Klicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RIGHT_CLICK">
-			<Text>Right Click</Text>
+			<Text>Högerklicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_LEFT_CLICK">
-			<Text>Left Click</Text>
+			<Text>Vänsterklicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_MIDDLE_CLICK">
-			<Text>Middle Click</Text>
+			<Text>Mellanklicka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_TO_COMPLETE">
-			<Text>{1_input} to complete.</Text>
+			<Text>{1_input} för att färdigställa.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_TO_ACCOMPLISH">
-			<Text>{1_input} to accomplish.</Text>
+			<Text>{1_input} för att utföra.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_TO_COMPLETE_MOUSE_MOVE">
-			<Text>Move your mouse to the screen location to complete.</Text>
+			<Text>Flytta muspekaren till skärmpositionen för att färdigställa.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_TO_ACCOMPLISH_MOUSE_MOVE">
-			<Text>Move your mouse to the screen location to accomplish.</Text>
+			<Text>Flytta muspekaren till skärmpositionen för att utföra.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_READY_ASK">
-			<Text>Ready?</Text>
+			<Text>Klar?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRY_AGAIN">
-			<Text>Try again.</Text>
+			<Text>Försök igen.</Text>
 		</Replace>
 		<!-- ==================== In Game Menu (aka: shell) ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_TITLE">
-			<Text>MENU</Text>
+			<Text>MENY</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_RESTART">
-			<Text>Restart</Text>
+			<Text>Starta om</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_RESTART_TOOLTIP">
-			<Text>Restart with a new map.</Text>
+			<Text>Starta om med en ny karta.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_QUICK_SAVE">
-			<Text>Quick Save Game</Text>
+			<Text>Snabbspara spel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_QUICK_SAVE_TOOLTIP">
-			<Text>Save your progress with a single click.</Text>
+			<Text>Spara med ett enkelt klick.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_SAVE">
-			<Text>Save Game</Text>
+			<Text>Spara spel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_SAVE_TOOLTIP">
-			<Text>Save your progress.</Text>
+			<Text>Spara ditt spel.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_LOAD">
-			<Text>Load Game</Text>
+			<Text>Ladda spel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_LOAD_TOOLTIP">
-			<Text>Load a previously saved game.</Text>
+			<Text>Ladda ett sparat spel.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_OPTIONS">
-			<Text>Options</Text>
+			<Text>Alternativ</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_OPTIONS_TOOLTIP">
-			<Text>Settings for graphics, audio, key bindings, and more.</Text>
+			<Text>Inställningar för grafik, ljud, tangentbordskopplingar, med mera.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_GAME_SETTINGS">
-			<Text>Game Settings</Text>
+			<Text>Spelinställningar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_RETIRE">
-			<Text>Retire</Text>
+			<Text>Ge upp</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_RETIRE_TOOLTIP">
-			<Text>Retire from the game. This will count as a loss.</Text>
+			<Text>Ge upp det här spelet. Det här kommer räknas som en förlust.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_EXIT_TO_MAIN">
-			<Text>Exit to Main Menu</Text>
+			<Text>Avsluta till huvudmenyn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_EXIT_TO_MAIN_TOOLTIP">
-			<Text>Exit to the Main Menu. You will lose any progress since your last save.</Text>
+			<Text>Avsluta till huvudmenyn. All spelutveckling sedan senaste gången du sparade kommer gå förlorad.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_EXIT_TO_DESKTOP">
-			<Text>Exit to Desktop</Text>
+			<Text>Avsluta till skrivbordet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_EXIT_TO_DESKTOP_TOOLTIP">
-			<Text>Exit the game completely. You will lose any progress since your last save.</Text>
+			<Text>Avsluta spelet helt och hållet. All spelutveckling sedan senaste gången du sparade kommer gå förlorad.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_MODS_IN_USE">
-			<Text>Mods in use:</Text>
+			<Text>Moddar som används:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_RETURN_TO_GAME">
-			<Text>Return to Game</Text>
+			<Text>Tillbaka till spelet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_RETURN_TO_GAME_TOOLTIP">
-			<Text>Just one more turn!</Text>
+			<Text>Bara en omgång till!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_EXIT_WARNING">
-			<Text>Are you sure you wish to exit?</Text>
+			<Text>Är du säker på att du vill avsluta?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_QUIT_WARNING">
-			<Text>Are you sure you wish to quit your game?</Text>
+			<Text>Är du säker på att du vill avsluta?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GAME_MENU_RETIRE_WARNING">
-			<Text>Are you sure you wish to retire?</Text>
+			<Text>Är du säker på att du vill ge upp?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMMON_DIALOG_YES_BUTTON_CAPTION">
-			<Text>YES</Text>
+			<Text>JA</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMMON_DIALOG_NO_BUTTON_CAPTION">
-			<Text>NO</Text>
+			<Text>NEJ</Text>
 		</Replace>
 		<!-- ==================== Game Settings Panel ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_GAME_SETTINGS_TITLE">
-			<Text>Game Settings</Text>
+			<Text>Spelinställningar</Text>
 		</Replace>
 		<!-- ==================== Action Panel ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_AUTO_END_TURN">
-			<Text>AUTO END TURN</Text>
+			<Text>AVSLUTA OMGÅNG AUTOMATISKT</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_AUTO_MOVE_ORDERS">
 			<Text>Auto Move Orders</Text>
@@ -295,7 +295,7 @@
 			<Text>Player cannot affect the game during AutoPlay.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CHOOSE_ARTIFACT_PLAYER">
-			<Text>CHOOSE ARTIFACT</Text>
+			<Text>VÄLJ ARTEFAKT</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CITY_RANGED_ATTACK">
 			<Text>CITY RANGED ATTACK</Text>
@@ -304,19 +304,19 @@
 			<Text>CHOOSE PURSUIT PRIORITY</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CHOOSE_ESCAPE_ROUTE">
-			<Text>CHOOSE ESCAPE ROUTE</Text>
+			<Text>VÄLJ FLYKTVÄG</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CLAIM_GREAT_PERSON">
 			<Text>CLAIM GREAT PERSON</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CONSIDER_GOVERNMENT_CHANGE">
-			<Text>NEW GOVERNMENT AVAILABLE</Text>
+			<Text>NY REGERINGSFORM TILLGÄNGLIG</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CONSIDER_RAZE_CITY">
-			<Text>KEEP CITY?</Text>
+			<Text>BEHÅLL STADEN?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_END_TURN">
-			<Text>END TURN</Text>
+			<Text>AVSLUTA OMGÅNG</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_FILL_CIVIC_SLOT">
 			<Text>FILL POLICY SLOT</Text>
@@ -334,22 +334,22 @@
 			<Text>A unit needs orders.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEEDS_PANTHEON">
-			<Text>CHOOSE PANTHEON</Text>
+			<Text>VÄLJ PANTEON</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEEDS_RELIGION">
-			<Text>CHOOSE RELIGION</Text>
+			<Text>VÄLJ RELIGION</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEEDS_RESEARCH">
-			<Text>CHOOSE RESEARCH</Text>
+			<Text>VÄLJ FORSKNING</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_PLEASE_WAIT">
-			<Text>PLEASE WAIT</Text>
+			<Text>VAR GOD VÄNTA</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_PLEASE_WAIT_TOOLTIP">
 			<Text>Other players are taking their turns, please wait...</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_SKIP_TURN">
-			<Text>SKIP TURN</Text>
+			<Text>STÅ ÖVER OMGÅNG</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_SKIP_TURN_TOOLTIP">
 			<Text>Skip your turn.</Text>
@@ -361,13 +361,13 @@
 			<Text>A stacked unit must be moved.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_GIVE_INFLUENCE_TOKEN">
-			<Text>SEND ENVOY</Text>
+			<Text>SKICKA SÄNDEBUD</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_RESEARCH_TURNS">
-			<Text>{1_Name} ({2_Turns : plural 1?{2_Turns} turn; other?{2_Turns} turns;})</Text>
+			<Text>{1_Name} ({2_Turns : plural 1?{2_Turns} omgång; other?{2_Turns} omgångar;})</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_RESEARCH_TURNS_INDEFINITE">
-			<Text>{1_Name} (Indefinite)</Text>
+			<Text>{1_Name} (obegränsad)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEEDS_RESEARCH_TOOLTIP">
 			<Text>You need to select a technology to research.</Text>
@@ -382,13 +382,13 @@
 			<Text>The Civic you completed has unlocked a new Government. Consider changing to it this turn.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CONSIDER_RAZE_CITY_TOOLTIP">
-			<Text>You conquered a city this turn. Decide whether to raze or keep it.</Text>
+			<Text>Du erövrade en stad den här omgången. Bestäm om du vill rasera den eller behålla den.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEEDS_PANTHEON_TOOLTIP">
-			<Text>You need to select a Pantheon for your people.</Text>
+			<Text>Du måste välja en Panteon för ditt folk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEEDS_RELIGION_TOOLTIP">
-			<Text>You need to select a Religion for your people.</Text>
+			<Text>Du måste välja en Religion för ditt folk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CLAIM_GREAT_PERSON_TOOLTIP">
 			<Text>You have earned a Great Person, and need to choose whether to accept them or pass on them.</Text>
@@ -403,200 +403,200 @@
 			<Text>Your Archaeologist needs to decide which civilization's [ICON_GreatWork_Artifact] Artifact he wants to return to his home Museum.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CITY_RANGED_ATTACK_TOOLTIP">
-			<Text>Your city can perform a ranged attack.</Text>
+			<Text>Din stad kan utföra en distansattack.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEEDS_PRODUCTION">
-			<Text>CHOOSE PRODUCTION</Text>
+			<Text>VÄLJ PRODUKTION</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEEDS_PRODUCTION_TOOLTIP">
-			<Text>You need to select a unit or building to produce in your city.</Text>
+			<Text>Du måste välja en enhet eller byggnad att producera i din stad.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_WAITING_FOR_PLAYERS">
-			<Text>WAITING FOR PLAYERS</Text>
+			<Text>VÄNTAR PÅ SPELARE</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_WAITING_FOR_PLAYERS_TOOLTIP">
-			<Text>Waiting for players to complete their turn.</Text>
+			<Text>Väntar på att spelare ska avsluta sina omgångar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_WAITING_FOR_PLAYER_TURN">
-			<Text>WAITING FOR {1_player}</Text>
+			<Text>VÄNTAR PÅ {1_player}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEXT_TURN">
-			<Text>NEXT TURN</Text>
+			<Text>NÄSTA OMGÅNG</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEXT_TURN_TOOLTIP">
-			<Text>End your turn.</Text>
+			<Text>Avsluta din omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_SKIP_UNIT_MOVES">
 			<Text>SKIP UNIT MOVES</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_SKIP_UNIT_MOVES_TOOLTIP">
-			<Text>You have units with [ICON_Movement] Movement points remaining.  Click to end your turn now.</Text>
+			<Text>Du har enheter som har kvar [ICON_Movement] Förflyttningspoäng. Klicka för att avsluta din omgång nu.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_UNIT_MOVES_REMAINING">
-			<Text>UNIT HAS MOVES</Text>
+			<Text>ENHET HAR FÖRFLYTTNINGAR</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_UNIT_MOVES_REMAINING_TOOLTIP">
-			<Text>You have units with [ICON_Movement] Movement points remaining.</Text>
+			<Text>Du har enheter som har kvar [ICON_Movement] Förflyttningspoäng.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_GIVE_INFLUENCE_TOKEN_TOOLTIP">
-			<Text>You have earned an [ICON_Envoy] Envoy, and may send it to a city-state for bonuses.</Text>
+			<Text>Du har tjänat ihop ett nytt [ICON_Envoy] Sändebud, och kan sända den till en stadsstat för att få bonusar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NO_AVAILABLE_WARHEADS">
-			<Text>No available warhead.</Text>
+			<Text>Ingen stridsspets tillgänglig.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_UNIT_CANNOT_ATTACK_DUE_TO_DAMAGE">
-			<Text>Unit is too damaged to conduct the attack</Text>
+			<Text>Enheten är för skadad för att genomföra attacken</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_CITY_CANNOT_ATTACK_DUE_TO_DAMAGE">
-			<Text>City is too damaged to conduct the attack.</Text>
+			<Text>Staden är för skadad för att genomföra attacken.</Text>
 		</Replace>
 		<!-- ==================== Unit Panel (and some combat preview) ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_ARE_YOU_SURE_DELETE">
-			<Text>Are you sure you want to remove your {1_UnitName} from the game?</Text>
+			<Text>Är du säker på att du vill ta bort {1_UnitName : plural 1?{1_UnitName : gender m?din; f?din; other;ditt;} other?dina} {1_UnitName} från spelet?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_ARE_YOU_SURE_NUKE">
-			<Text>Are you sure you want to launch a nuclear warhead?</Text>
+			<Text>Är du säker på att du vill avfyra en kärnstridsspets?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_ARE_YOU_SURE">
-			<Text>Are you sure?</Text>
+			<Text>Är du säker?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_DAMAGE">
-			<Text>Damage</Text>
+			<Text>Skada</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_CHARGES">
-			<Text>Charges</Text>
+			<Text>Laddningar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_BUILDS">
-			<Text>Builds</Text>
+			<Text>Byggnationer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_SPREADS">
-			<Text>Spreads</Text>
+			<Text>Spridningar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_GREAT_PERSON_ACTIONS">
-			<Text>Actions</Text>
+			<Text>Handlingar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_XP">
 			<Text>XP</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_LEVEL_ABBREVIATION">
-			<Text>LV</Text>
+			<Text>Nivå</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_XP_TT">
-			<Text>{1_Current} / {2_Max} until level {3_Level}</Text>
+			<Text>{1_Current} / {2_Max} till nivå {3_Level}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_RANGED_HEXES">
-			<Text>Ranged: {1} ({2: plural 1?{2} Hex; other?{2} Hexes;})</Text>
+			<Text>Distans: {1} ({2: plural 1?{2} hexruta; other?{2} hexrutor;})</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_MOVES">
-			<Text>{1_Moves : plural 1?move; other?moves;}</Text>
+			<Text>{1_Moves : plural 1?förflyttning; other?förflyttningar;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_ATTACK_RANGE">
-			<Text>Attack Range</Text>
+			<Text>Attackräckvidd</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_MOVEMENT">
-			<Text>Movement</Text>
+			<Text>Förflyttning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_ANTI_AIR_STRENGTH">
-			<Text>Anti-Air Strength</Text>
+			<Text>Luftvärnsstyrka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_STRENGTH">
-			<Text>Melee Strength</Text>
+			<Text>Närstridsstyrka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_RELIGIOUS_STRENGTH">
-			<Text>Religious Strength</Text>
+			<Text>Religiös styrka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_RANGED_STRENGTH">
-			<Text>Ranged Strength</Text>
+			<Text>Distansstyrka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_BOMBARD_STRENGTH">
-			<Text>Bombard Strength</Text>
+			<Text>Bombardemangsstyrka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_CORPS_SUFFIX">
-			<Text>Corps[ICON_Corps]</Text>
+			<Text>Kår[ICON_Corps]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_ARMY_SUFFIX">
-			<Text>Army[ICON_Army]</Text>
+			<Text>Armé[ICON_Army]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_FLEET_SUFFIX">
-			<Text>Fleet[ICON_Corps]</Text>
+			<Text>Flotta[ICON_Corps]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_ARMADA_SUFFIX">
 			<Text>Armada[ICON_Army]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_NO">
-			<Text>No</Text>
+			<Text>Nej</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_VS">
-			<Text>VS</Text>
+			<Text>Mot</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_WATER_AVAILABILITY_GUIDE">
-			<Text>WATER AVAILABILITY GUIDE</Text>
+			<Text>VATTENTILLGÄNGLIGHETSGUIDE</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_FRESH_WATER">
-			<Text>Fresh Water</Text>
+			<Text>Färskvatten</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_COASTAL_WATER">
-			<Text>Coastal Water</Text>
+			<Text>Kustvatten</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_NO_WATER">
-			<Text>No Water</Text>
+			<Text>Inget vatten</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_TOOLTIP_TOO_CLOSE_TO_CITY">
-			<Text>Too Close to City</Text>
+			<Text>För nära stad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_STALEMATE">
-			<Text>Stalemate</Text>
+			<Text>Dödläge</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_INEFFECTIVE">
-			<Text>Attack Ineffective</Text>
+			<Text>Ineffektiv attack</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MAJOR_VICTORY">
-			<Text>Major Victory</Text>
+			<Text>Stor seger</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MINOR_VICTORY">
-			<Text>Minor Victory</Text>
+			<Text>Mindre seger</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_DECISIVE_VICTORY">
-			<Text>Decisive Victory</Text>
+			<Text>Avgörande seger</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MAJOR_DEFEAT">
-			<Text>Major Defeat</Text>
+			<Text>Större förlust</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MINOR_DEFEAT">
-			<Text>Minor Defeat</Text>
+			<Text>Mindre förlust</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_TOTAL_DEFEAT">
-			<Text>Total Defeat</Text>
+			<Text>Total förlust</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_TOTAL_CITY_DAMAGE">
-			<Text>Total City Damage</Text>
+			<Text>Total stadsskada</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MAJOR_CITY_DAMAGE">
-			<Text>Major City Damage</Text>
+			<Text>Större stadsskada</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MINOR_CITY_DAMAGE">
-			<Text>Minor City Damage</Text>
+			<Text>Mindre stadsskada</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_TOTAL_WALL_DAMAGE">
-			<Text>Total Wall Damage</Text>
+			<Text>Total murskada</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MAJOR_WALL_DAMAGE">
-			<Text>Major Wall Damage</Text>
+			<Text>Större murskada</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_OUTCOME_MINOR_WALL_DAMAGE">
-			<Text>Minor Wall Damage</Text>
+			<Text>Mindre murskada</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_CHOOSING_TRADE_ROUTE">
-			<Text>Choosing Route...</Text>
+			<Text>Väljer rutt...</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_CHOOSING_ORIGIN_CITY">
-			<Text>Choosing Origin City...</Text>
+			<Text>Väljer ursprungsstad...</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_CHOOSE_PROMOTION_TEXT">
-			<Text>Choose Promotion</Text>
+			<Text>Välj befordran</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_TRADE_ROUTE_NAME">
-			<Text>{1_OriginName} to {2_DestinationName}</Text>
+			<Text>{1_OriginName} till {2_DestinationName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_LAND_ROUTE_RANGE">
 			<Text>Land Route Range</Text>
@@ -605,10 +605,10 @@
 			<Text>Sea Route Range</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_YES">
-			<Text>Yes</Text>
+			<Text>Ja</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_HEALTH_TOOLTIP">
-			<Text>Health: {1_CurrentHealth}/{2_MaxHealth}</Text>
+			<Text>Hälsa: {1_CurrentHealth}/{2_MaxHealth}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_WALL_HEALTH_TOOLTIP">
 			<Text>Fortification health: {1_CurrentHealth}/{2_MaxHealth}</Text>
@@ -617,43 +617,43 @@
 			<Text>Base Strength</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_TERRAIN_BONUS_DESC">
-			<Text>+{1_Value} Ideal Terrain</Text>
+			<Text>+{1_Value} idealisk terräng</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DEFENSIVE_IMPROVEMENT_BONUS_DESC">
 			<Text>+{1_Value} Static Fortifications</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_TERRAIN_PENALTY">
-			<Text>[COLOR_RED]{1_Value} Unfavorable Terrain[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]{1_Value} ogynnsam terräng[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_RELIGIOUS_TERRAIN_BONUS_DESC">
-			<Text>+{1_Value} Holy Ground</Text>
+			<Text>+{1_Value} helig mark</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_RIVER_DEFENSE_DESC">
 			<Text>+{1_Value} River Defense</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_BONUS_VS_BARBARIANS">
-			<Text>+{1_Value} Advantage vs. Barbarians</Text>
+			<Text>+{1_Value} bonus mot barbarer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_FRIENDLY_TERRITORY_BONUS">
-			<Text>+{1_Value} Friendly Territory</Text>
+			<Text>+{1_Value} vänligt territorium</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_FORTIFIED_DEFENSE_DESC">
 			<Text>+{1_Value} Fortified Defense</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_UNITS_DESC">
-			<Text>-{1_Value} Less effective vs units</Text>
+			<Text>-{1_Value} mindre effektiv mot enheter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_LESS_EFFECTIVE_VS_WALLS_DESC">
-			<Text>-{1_Value} Less effective vs fortifications</Text>
+			<Text>-{1_Value} mindre effektiv mot befästningar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_FLANKING_BONUS_DESC">
-			<Text>+{1_Value} Flanking Bonus</Text>
+			<Text>+{1_Value} flankeringsbonus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_LUXURY_ATTACK_BONUS_DESC">
 			<Text>+{1_Value} Per Luxury Attack Bonus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DISTRICT_WALLS_BONUS">
-			<Text>+{1_Value} Wall Defenses</Text>
+			<Text>+{1_Value} murförsvar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DISTRICT_ENHANCED_WALLS_BONUS">
 			<Text>+{1_Value} Enhanced Defenses</Text>
@@ -665,13 +665,13 @@
 			<Text>+{1_Value} Star Fort Defenses</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DISTRICT_GARRISONED_UNIT_BONUS">
-			<Text>+{1_Value} Garrisoned {2_Unit}</Text>
+			<Text>+{1_Value} {2_Unit}-garnison</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DISTRICT_PALACE_BONUS">
-			<Text>+{1_Value} Palace Guard</Text>
+			<Text>+{1_Value} palatsvakt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DISTRICT_STRENGTH_BONUS">
-			<Text>+{1_Value} from Districts</Text>
+			<Text>+{1_Value} från distrikt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_ENVOY_STRENGTH_BONUS">
 			<Text>+{1_Value} from outside influence</Text>
@@ -686,13 +686,13 @@
 			<Text>+{1_Value} Supporting Anti-Air {2_UnitNum : plural 1?Unit; other?Units;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DAMAGED_UNIT_DESC">
-			<Text>[COLOR_RED]{1_Value}[ENDCOLOR] Damaged unit</Text>
+			<Text>[COLOR_RED]{1_Value}[ENDCOLOR] skadad enhet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DAMAGED_DISTRICT_DESC">
-			<Text>[COLOR_RED]{1_Value} Damaged district[ENDCOLOR]</Text>
+			<Text>[COLOR_RED]{1_Value} skadat distrikt[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DISTRICT_ATTACK_BONUS">
-			<Text>+{1 Value} Ranged attack bonus</Text>
+			<Text>+{1 Value} distansattackbonus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DEFENDING_INTERCEPTOR_AIRCRAFT">
 			<Text>[COLOR_RED]Defending Interceptor Aircraft[ENDCOLOR]</Text>
@@ -701,50 +701,50 @@
 			<Text>[COLOR_RED]Defending Anti-Air unit[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DAMAGE_FROM_INTERCEPTOR">
-			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] due to damage from interceptor</Text>
+			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] på grund av skada från jaktplan</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_DAMAGE_FROM_ANTI_AIR">
-			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] due to damage from anti-air</Text>
+			<Text>[COLOR_RED]-{1_Value}[ENDCOLOR] på grund av skada från luftvärn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_RECOMMENDED">
-			<Text>Recommended</Text>
+			<Text>Rekommenderas</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_TRAIT_KILLER_OF_CYRUS">
-			<Text>+{1_Value} Bonus vs. Wounded units.</Text>
+			<Text>+{1_Value} bonus mot skadade enheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_CAPTURE_CHANCE">
-			<Text>{1_Amount}% chance of capturing enemy.</Text>
+			<Text>{1_Amount} % chans att fånga fienden.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_COMBAT_PREVIEW_AMPHIBIOUS_ATTACK_PENALTY">
-			<Text>{1_Amount} Amphibious attack penalty.</Text>
+			<Text>{1_Amount} handikapp för amfibisk attack.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_GREAT_PERSON_PASSIVE_ABILITY">
-			<Text>PASSIVE ABILITY</Text>
+			<Text>PASSIV FÖRMÅGA</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_PANEL_GREAT_PERSON_PASSIVE_ABILITY_TOOLTIP">
 			<Text>{1_Name}: {2_EffectText}</Text>
 		</Replace>
 		<!-- ==================== Unit Flag ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_ARMY_SUFFIX">
-			<Text>Army</Text>
+			<Text>Armé</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_CORPS_SUFFIX">
-			<Text>Corps</Text>
+			<Text>Kår</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_ARMADA_SUFFIX">
 			<Text>Armada</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_FLEET_SUFFIX">
-			<Text>Fleet</Text>
+			<Text>Flotta</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_ACTIVITY_ON_SENTRY">
-			<Text>On Sentry</Text>
+			<Text>På vakt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_ACTIVITY_ON_INTERCEPT">
-			<Text>On Intercept</Text>
+			<Text>Genskjuter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_ACTIVITY_AWAKE">
-			<Text>Awake</Text>
+			<Text>Vaken</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_ACTIVITY_HOLD">
 			<Text>Hold</Text>
@@ -753,46 +753,46 @@
 			<Text>Sleep</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_ACTIVITY_HEALING">
-			<Text>Healing</Text>
+			<Text>Läker</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_ACTIVITY_NO_ACTIVITY">
-			<Text>No Activity</Text>
+			<Text>Ingen aktivitet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_ARCHAEOLOGY_HOME_CITY">
-			<Text>Home City: {1_CityName}</Text>
+			<Text>Hemstad: {1_CityName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_ARCHAEOLOGY_ARTIFACT">
-			<Text>Artifact: {1_ArtifactName} ({2_PlayerName})</Text>
+			<Text>Artefakt: {1_ArtifactName} ({2_PlayerName})</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITFLAG_LEVY_ACTIVE">
 			<Text>Levied from {1_PlayerName} ({2_TurnsRemaining} [ICON_Turn] {2_TurnsRemaining : plural 1?Turn; other?Turns;} remaining)</Text>
 		</Replace>
 		<!-- ==================== Generic Popup Defaults ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_GENERIC_POPUP_ARE_YOU_SURE">
-			<Text>Are you sure?</Text>
+			<Text>Är du säker?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GENERIC_POPUP_ACCEPT">
-			<Text>Accept</Text>
+			<Text>Acceptera</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GENERIC_POPUP_CANCEL">
-			<Text>Cancel</Text>
+			<Text>Avbryt</Text>
 		</Replace>
 		<!-- ==================== Map Pin Popup ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_MAP_PIN_POPUP_TITLE">
-			<Text>Edit Map Pin</Text>
+			<Text>Redigera kartnål</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAP_PIN_NAME">
-			<Text>Name:</Text>
+			<Text>Namn:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAP_PIN_SEND_TO_CHAT">
-			<Text>Send to Chat</Text>
+			<Text>Sänd till chatten</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAP_PIN_SEND_TO_CHAT_TT">
-			<Text>Add this map pin to your chat text.</Text>
+			<Text>Lägg till den här kartnålen i din chattext.</Text>
 		</Replace>
 		<!-- ==================== Plot Info ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_PLOTINFO_YOU_NEED_MORE_GOLD_TO_PURCHASE">
-			<Text>You need {1_num} more [ICON_Gold] in order to purchase this plot.</Text>
+			<Text>Du behöver ytterligare {1_num} [ICON_Gold] för att köpa den här rutan.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PLOTINFO_SWAP_TILE_OWNER">
 			<Text>Swap</Text>
@@ -802,20 +802,20 @@
 		</Replace>
 		<!-- ==================== Player Change Popup ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_PLAYER_CHANGE_POPUP_TITLE_SUFFIX">
-			<Text>'s Turn</Text>
+			<Text>s omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PLAYER_CHANGE_POPUP_START_TURN">
-			<Text>Start Turn</Text>
+			<Text>Börja omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PLAYER_CHANGE_POPUP_SAVE_GAME">
-			<Text>Save Game</Text>
+			<Text>Spara spel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PLAYER_CHANGE_POPUP_PASSWORD">
-			<Text>Password</Text>
+			<Text>Lösenord</Text>
 		</Replace>
 		<!-- ==================== Unit Action Info ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_ACTION_REQUIRES_TECH">
-			<Text>Requires: {1_Tech} technology</Text>
+			<Text>Kräver: vetenskapen {1_Tech}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_ACTION_REQUIRES_CIVIC">
 			<Text>Requires: {1_Civic} civic</Text>
@@ -824,23 +824,23 @@
 			<Text>Requires adjacent unit of the same type.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_ACTION_PILLAGE_REQUIRES_MOVEMENT">
-			<Text>Not enough movement points left.</Text>
+			<Text>Inte tillräckligt många förflyttningspoäng kvar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_NEAR_GOODY_HUT">
 			<Text>Too close to Tribal Village</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_IN_FORMATION">
-			<Text>In formation with other units</Text>
+			<Text>I formering med andra enheter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_IN_DANGER">
-			<Text>Danger</Text>
+			<Text>Fara</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_UNIT_ACTION_AUTOEXPLORE_PROMOTION_AVAILABLE">
-			<Text>Promotion available</Text>
+			<Text>Befordran tillgänglig</Text>
 		</Replace>
 		<!-- ==================== City Banner ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_AERODROME_AIRCRAFT_STATIONED">
-			<Text>{1_Aircraft} / {2_Slots} aircraft stationed here.</Text>
+			<Text>{1_Aircraft} / {2_Slots} flygplan stationerade här.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_CITY_RANGE_STRIKE">
 			<Text>City Range Strike</Text>
@@ -870,28 +870,28 @@
 			<Text>Nuclear Strike Capable</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_NO_PRODUCTION">
-			<Text>Nothing currently being produced.</Text>
+			<Text>Inget produceras för närvarande.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_POPULATION">
-			<Text>[ICON_Citizen] Population</Text>
+			<Text>[ICON_Citizen] Befolkning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_PRODUCING">
-			<Text>Producing: {1_Name}</Text>
+			<Text>Producerar: {1_Name}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_THERMONUCLEAR_STRIKE_CAPABLE">
 			<Text>Thermonuclear Strike Capable</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_TURNS_STARVATION">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until starvation.</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} omgång; other?{1_Turns} omgångar;} innan svält.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_TURNS_GROWTH">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until growth.</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} omgång; other?{1_Turns} omgångar;} innan tillväxt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_TURNS_LEFT_UNTIL_COMPLETE">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other? {1_Turn} turns;} left until complete.</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} omgång; other? {1_Turn} omgångar;} kvar innan klar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_BANNER_WEAPON_UNAVAILABLE">
-			<Text>Weapon Unavailable</Text>
+			<Text>Vapen inte tillgängligt</Text>
 		</Replace>
 		<!-- ==================== City Panel ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_OVERVIEW_CITIZENS_TOOLTIP">
@@ -904,16 +904,16 @@
 			<Text>Pantheon Belief, and Religious Citizens.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_DETAILS">
-			<Text>City Details</Text>
+			<Text>Stadsinformation</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_ADVISOR_TRY_BUILDING">
-			<Text>Try building a {1_Thing}.</Text>
+			<Text>Försök bygga {1_Thing : gender m?en; f?en; other?ett;} {1_Thing}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_ADVISOR_TRY_BUILDING_TWO">
-			<Text>Try building a {1_Thing} or a {2_Thing}.</Text>
+			<Text>Försök bygga {1_Thing : gender m?en; f?en; other?ett;} {1_Thing} eller {2_Thing : gender m?en; f?en; other?ett;} {2_Thing}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_ADD_TO_QUEUE">
-			<Text>Add to Queue</Text>
+			<Text>Lägg till kön</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_ADVISOR_TRY_IMPROVING">
 			<Text>Try improving the land around your city to obtain amenities.</Text>
@@ -973,28 +973,28 @@
 			<Text>{1_Amenity : plural 1? Amenity; other? Amenities;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_BORDER_EXPANSION">
-			<Text>Border expansion in {1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;}</Text>
+			<Text>Gränsexpansion om {1_Turns : plural 1?{1_Turns} omgång; other?{1_Turns} omgångar;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Byggnader</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_BUILDINGS_AND_DISTRICTS">
-			<Text>Buildings and Districts</Text>
+			<Text>Byggnader och distrikt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CHANGE_PRODUCTION">
-			<Text>Change City Production</Text>
+			<Text>Ändra produktion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CITIZEN">
-			<Text>Citizen</Text>
+			<Text>Invånare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CITIZENS">
-			<Text>Citizens</Text>
+			<Text>Invånare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CITIZENS_SATISFIED">
-			<Text>Citizens are satisfied, no positive or negative effects.</Text>
+			<Text>Invånare är nöjda, utan positiva eller negativa effecter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CITIZEN_GROWTH">
-			<Text>Citizen Growth</Text>
+			<Text>Befolkningstillväxt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CITY_BREAKDOWN">
 			<Text>City Breakdown</Text>
@@ -1006,67 +1006,67 @@
 			<Text>{1_Culture} Culture per turn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CURRENT_FOCUS">
-			<Text>Current Focus</Text>
+			<Text>Nuvarande fokus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_CUSTOM">
-			<Text>Custom</Text>
+			<Text>Egen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_DISTRICTS_CONSTRUCTED">
-			<Text>{1_Turns : plural 1?District; other?Districts;} Constructed</Text>
+			<Text>Distrikt {1_Turns : plural 1?konstruerat; other?konstruerade;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_DOMINANT_RELIGION">
-			<Text>Dominant Religion</Text>
+			<Text>Dominerande religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_FOOD_CONSUMPTION">
-			<Text>Food consumption</Text>
+			<Text>Livsmedelskonsumtion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_FOOD_PER_TURN">
-			<Text>Food per turn</Text>
+			<Text>Mat per omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_FOR">
-			<Text>for</Text>
+			<Text>till</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_GROWTH_FOOD_PER_TURN">
 			<Text>Growth food per turn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_GROWTH_IN">
-			<Text>Growth in</Text>
+			<Text>Tillväxt om</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_GROWTH_OCCUPIED">
-			<Text>Occupied: no growth</Text>
+			<Text>Ockuperad: ingen tillväxt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HAPPINESS_GROWTH_BONUS">
 			<Text>Amenities growth bonus</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING">
-			<Text>Housing</Text>
+			<Text>Bostäder</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING_BREAKDOWN">
 			<Text>Water {1_Water}, Bldg {2_Buildings}, Improvement {3_Improvements}, Neighborhoods {4_Districts}, Civics {5_Civics}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING_CAPACITY">
-			<Text>Housing Capacity</Text>
+			<Text>Bostadskapacitet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING_FROM_BUILDINGS">
-			<Text>Housing from buildings:</Text>
+			<Text>Bostäder från Byggnader:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING_FROM_CIVICS">
 			<Text>Housing from civics:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING_FROM_DISTRICTS">
-			<Text>Housing from districts:</Text>
+			<Text>Bostäder från Distrikt:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING_FROM_IMPROVEMENTS">
-			<Text>Housing from improvements:</Text>
+			<Text>Bostäder från Förbättringar:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING_FROM_WATER">
-			<Text>Housing from water:</Text>
+			<Text>Bostäder från Vatten:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING_FROM_GREAT_PEOPLE">
-			<Text>Housing from Great People:</Text>
+			<Text>Bostäder från Stora personligheter:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING_FROM_STARTING_ERA">
-			<Text>Housing from Starting Era:</Text>
+			<Text>Bostäder från Start-era:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_HOUSING_MULTIPLIER">
 			<Text>Housing multiplier</Text>
@@ -1075,13 +1075,13 @@
 			<Text>Occupied city multiplier</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_IN_TURNS">
-			<Text>in {1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;}</Text>
+			<Text>om {1_Turns : plural 1?{1_Turns} omgång; other?{1_Turns} omgångar;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_IS_CAPITAL">
 			<Text>Is city Capital.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_LEAVE_CITY_VIEW">
-			<Text>Leave City View</Text>
+			<Text>Lämna stadsvyn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_LOSS_IN">
 			<Text>Loss in</Text>
@@ -1090,52 +1090,52 @@
 			<Text>Maximize specific yields in city</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_MANAGE_CITIZENS">
-			<Text>Manage Citizens</Text>
+			<Text>Hantera invånare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TOGGLE_OVERVIEW">
-			<Text>Toggle City Details</Text>
+			<Text>Växla stadsinformation</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_PURCHASE_WITH_GOLD">
-			<Text>Purchase an item with [ICON_Gold] Gold</Text>
+			<Text>Köp ett föremål med [ICON_Gold] Guld</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_PURCHASE_WITH_FAITH">
 			<Text>Purchase an item with [ICON_Faith] Faith</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_LAUNCH_ICBM">
-			<Text>Launch ICBM</Text>
+			<Text>Avfyra interkontinentalmissil</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_MODIFIED_GROWTH_FOOD_PER_TURN">
 			<Text>Modified food per turn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_OF">
-			<Text>of</Text>
+			<Text>av</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_NOTHING_PRODUCED">
-			<Text>Nothing being produced</Text>
+			<Text>Inget produceras</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_NOT_APPLICABLE">
-			<Text>N/A</Text>
+			<Text>-</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_NO_TRADE_ROUTES_EXIST">
-			<Text>No Trading Posts exist.</Text>
+			<Text>Inga Handelsstationer existerar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_NO_TRADING_POSTS">
-			<Text>No Trading Posts have been built.</Text>
+			<Text>Inga Handelsstationer har byggts.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_NO_WONDERS">
-			<Text>No Wonders have been built.</Text>
+			<Text>Inga Underverk har byggts.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_OTHER_GROWTH_BONUSES">
-			<Text>Other growth bonuses</Text>
+			<Text>Andra tillväxtsbonusar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_OWNER">
-			<Text>Owner: {1_Owner}</Text>
+			<Text>Ägare: {1_Owner}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_PANTHEONBELIEF_EXPLANATION">
 			<Text>The Pantheon Belief is the core Belief which holds for all cities in your civilization.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION">
-			<Text>Population</Text>
+			<Text>Befolkning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POPULATION_GROWTH_ABOVE_AVERAGE">
 			<Text>Population growth rate above average.</Text>
@@ -1150,25 +1150,25 @@
 			<Text>Population growth rate slowed {1_Pct}%.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_POSSIBLE">
-			<Text>Possible</Text>
+			<Text>Möjlig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_PRODUCTION_QUEUE">
-			<Text>Production Queue</Text>
+			<Text>Produktionskö</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_PRODUCTION_NOTHING_PRODUCED">
-			<Text>Nothing being produced in city.</Text>
+			<Text>Inget produceras i staden.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_PURCHASE_ITEM">
-			<Text>Purchase Item in City</Text>
+			<Text>Köp föremål i stad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_PURCHASE_NEW_PLOT">
-			<Text>Purchase new plot: </Text>
+			<Text>Köp ny ruta: </Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_PURCHASE_TILE">
-			<Text>Purchase Tile</Text>
+			<Text>Köp ruta</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_QUEUE">
-			<Text>Queue</Text>
+			<Text>Kö</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_RECALL_ALL_CITIZENS">
 			<Text>Recall all Citizens</Text>
@@ -1177,100 +1177,100 @@
 			<Text>Religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_RELIGION_NO_CITIZENS">
-			<Text>There are no religous citizens in your city at this time.</Text>
+			<Text>Det finns inga religiösa invånare i din stad för tillfället.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS">
-			<Text>Religious Citizens</Text>
+			<Text>Religiösa invånare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_RELIGIOUS_CITIZENS_NUMBER">
-			<Text>[SIZE:22]{1_Amt}[SIZE:14]  {2_ReligionName} {1_Amt : plural 1? Citizen; other?Citizens;}</Text>
+			<Text>[SIZE:22]{1_Amt}[SIZE:14]  {2_ReligionName} Invånare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_REQUIRED">
-			<Text>Required</Text>
+			<Text>Krävs</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_REQUIRED_AMENITIES">
 			<Text>Required Amenities</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STARVING">
-			<Text>Starving</Text>
+			<Text>Svälter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS">
 			<Text>Status:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS_ANGRY">
-			<Text>Angry</Text>
+			<Text>Arg</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS_CONTENT">
-			<Text>Content</Text>
+			<Text>Nöjd</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS_DISPLEASED">
-			<Text>[COLOR:StatBadCS]Displeased[ENDCOLOR]</Text>
+			<Text>[COLOR:StatBadCS]Missnöjd[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS_ECSTATIC">
-			<Text>Ecstatic!</Text>
+			<Text>Extatisk!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS_HAPPY">
-			<Text>Happy</Text>
+			<Text>Glad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS_MISERABLE">
-			<Text>Miserable</Text>
+			<Text>Eländig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS_RESTLESS">
-			<Text>Restless</Text>
+			<Text>Rastlös</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS_SAD">
-			<Text>Sad</Text>
+			<Text>Ledsen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS_UNHAPPY">
-			<Text>[COLOR:StatBadCS]Unhappy[ENDCOLOR]</Text>
+			<Text>[COLOR:StatBadCS]Olycklig[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_STATUS_WARY">
-			<Text>Wary</Text>
+			<Text>Försiktig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TOTAL">
-			<Text>Total</Text>
+			<Text>Totalt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TOTAL_AMENITIES">
 			<Text>Total Amenities</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TOTAL_FOOD_DEFICIT">
-			<Text>Total Food Deficit</Text>
+			<Text>Totalt matunderskott</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TOTAL_FOOD_SURPLUS">
-			<Text>Total Food Surplus</Text>
+			<Text>Totalt matöverskott</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TOTAL_HOUSING">
-			<Text>Total Housing</Text>
+			<Text>Bostäder totalt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TRADING_POSTS">
-			<Text>Trading Posts</Text>
+			<Text>Handelsstationer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_GROWTH_VALUE">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other?{1_Turns} turns;} until growth</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} omgång; other?{1_Turns} omgångar;} tills tillväxt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_BORDER_GROWTH">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until border growth</Text>
+			<Text>{1_Turns : plural 1? omgång; other? omgångar;} innan gränsexpansion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_CITIZEN_BORN">
-			<Text>{1_Turns : plural 1? {1_Turns} turn; other?{1_Turns} turns;} until a new citizen is born</Text>
+			<Text>{1_Turns : plural 1? {1_Turns} omgång; other?{1_Turns} omgångar;} innan en ny invånare föds</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_CITIZEN_LOST">
-			<Text>{1_Turns : plural 1? {1_Turns} turn; other?{1_Turns} turns;} until a citizen is lost</Text>
+			<Text>{1_Turns : plural 1? {1_Turns} omgång; other?{1_Turns} omgångar;} innan en invånare går förlorad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_TO_COMPLETE">
-			<Text>{1_Turns : plural 1? turn; other? turns;} to complete</Text>
+			<Text>{1_Turns : plural 1? omgång; other? omgångar;} för att färdigställa</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_COMPLETED">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until completed</Text>
+			<Text>{1_Turns : plural 1? omgång; other? omgångar;} tills klar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_GROWTH">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until growth</Text>
+			<Text>{1_Turns : plural 1? omgång; other? omgångar;} innan tillväxt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_TURNS_UNTIL_LOSS">
-			<Text>{1_Turns : plural 1? turn; other? turns;} until loss</Text>
+			<Text>{1_Turns : plural 1? omgång; other? omgång;} innan förlust</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_DISTRICT_BUILT_TT">
-			<Text>This district has already been completed.</Text>
+			<Text>Det här distriktet är redan klart.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_UNASSIGNED_CITIZENS">
 			<Text>Unassigned Citizens</Text>
@@ -1279,7 +1279,7 @@
 			<Text>View district adjacency yield bonuses.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_WONDERS">
-			<Text>Wonders</Text>
+			<Text>Underverk</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_YIELD_CITIZENS">
 			<Text>Amount of {1_YieldName} produced by Citizens.</Text>
@@ -1294,101 +1294,101 @@
 			<Text>Citizens ignoring {1_YieldName}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_YOU">
-			<Text>You</Text>
+			<Text>Du</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_PANTHEON_TT">
-			<Text>Pantheon: {1_PantheonName}</Text>
+			<Text>Panteon: {1_PantheonName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CITY_YOUR_PANTHEON_BELIEF">
 			<Text>Your Pantheon Belief</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MINIMAP_TOOLTIP">
-			<Text>Click to move the camera.</Text>
+			<Text>Klicka för att flytta kameran.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ACTION_PANEL_NEEDS_BELIEF_TOOLTIP">
 			<Text>You've unlocked a new Belief for your Religion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MINIMAP_EXPAND_TOOLTIP">
-			<Text>Show the mini-map.</Text>
+			<Text>Visa minikartan.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MINIMAP_COLLAPSE_TOOLTIP">
-			<Text>Hide the mini-map.</Text>
+			<Text>Göm minikartan.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CHAT_EXPAND_TOOLTIP">
-			<Text>Expand the chat panel.</Text>
+			<Text>Förstora chattpanelen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CHAT_COLLAPSE_TOOLTIP">
-			<Text>Shrink the chat panel.</Text>
+			<Text>Krymp chattpanelen.</Text>
 		</Replace>
 		<!-- ==================== Production Menu (for cities) ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_CONSTRUCT_NO_SUITABLE_LOCATION">
-			<Text>No suitable location to construct this.</Text>
+			<Text>Ingen passande plats för att bygga detta.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_DISTRICT">
-			<Text>This building requires {LOC_GRAMMAR_A_AN &lt;&lt; {1_District}} district.</Text>
+			<Text>Den här byggnaden behöver ett {1_District}-distrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_CONSTRUCT_REQUIRES_BUILDING">
-			<Text>This building requires {LOC_GRAMMAR_A_AN &lt;&lt; {1_Building}} building.</Text>
+			<Text>Den här byggnaden kräver {1_Building : gender m?en; f?en; other?ett;} {1_Building}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_CONSTRUCT_IS_OCCUPIED">
-			<Text>The district is occupied by an enemy.</Text>
+			<Text>Distriktet ockuperas av en fiende.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_CONSTRUCT_DISTRICT_IS_PILLAGED">
-			<Text>The required district is damaged.</Text>
+			<Text>Det nödvändiga distriktet är skadat.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_CONSTRUCT_DISTRICT_IS_CONTAMINATED">
-			<Text>The required district is contaminated.</Text>
+			<Text>Det nödvändiga distriktet är förorenat.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_CONSTRUCT_DISTRICT_IS_OCCUPIED_BY_ENEMY">
-			<Text>The required district is occupied by an enemy unit.</Text>
+			<Text>Det nödvändiga distriktet ockuperas av en fientlig enhet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW_SHORT">
-			<Text>Requires [ICON_Citizen] Population of {1_Population} or greater.</Text>
+			<Text>Kräver en [ICON_Citizen] Befolkning på {1_Population} eller mer.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_POPULATION_TOO_LOW">
-			<Text>The city needs to grow To population {1_Population} before another district can be added.</Text>
+			<Text>Staden måste växa till befolkningsmängden {1_Population} innan fler distrikt kan läggas till.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_NO_SUITABLE_LOCATION">
-			<Text>No suitable location to zone this district.</Text>
+			<Text>Ingen passande plats för att placera det här distriktet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_LOCATION_IS_CONTAMINATED">
-			<Text>No suitable location to zone this district.</Text>
+			<Text>Ingen passande plats för att placera det här distriktet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_REPAIR_LOCATION_CONTAMINATED">
-			<Text>Cannot repair, location contaminated.</Text>
+			<Text>Kan inte reparera, platsen är förorenad.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_ALREADY_BEING_BUILT">
-			<Text>The partially-constructed {1_District} in {2_CityName} must be completed (or dismantled) before you can start on another {3_District}.</Text>
+			<Text>{1_District : gender m?Den; f?Den; other?Det;} halvfärdiga {1_District[2]} i {2_CityName} måste färdigställas (eller skrotas) innan du kan börja bygga {3_District : gender m?en ny; f?en ny; other?ett nytt;} {3_District}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_CONFIRM_POPUP">
-			<Text>Do you want to build a district here?</Text>
+			<Text>Vill du bygga ett distrikt här?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_CONFIRM_DISTRICT_POPUP">
-			<Text>Do you want to build {LOC_GRAMMAR_A_AN &lt;&lt; {1_DistrictName}} district here?</Text>
+			<Text>Vill du bygga ett {1_DistrictName}-distrikt här?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_CONFIRM_WONDER_POPUP">
-			<Text>Do you want to build the {1_WonderName} wonder here?</Text>
+			<Text>Vill du bygga underverket {1_WonderName} här?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_WILL_REMOVE_FEATURE">
-			<Text>Will remove the {1_Feature} on this tile.</Text>
+			<Text>Kommer ta bort {1_Feature[2]} från den här rutan.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_WILL_HARVEST_RESOURCE">
-			<Text>Will remove the {1_Resource} on this tile.</Text>
+			<Text>Kommer ta bort {1_Resource[2]} från den här rutan.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_WILL_REMOVE_IMPROVEMENT">
-			<Text>Will remove the {1_Improvement} on this tile.</Text>
+			<Text>Kommer ta bort {1_Improvement[2]} från den här rutan.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_WILL_COST_EXTRA_PRODUCTION">
-			<Text>Will take an extra {1_ExtraTurnsUntilComplete} {1_ExtraTurnsUntilComplete : plural 1?turn; other?turns;} to complete (costs an extra {2_ExtraProductionCost} [ICON_Production] Production).</Text>
+			<Text>Kommer behöva ytterligare {1_ExtraTurnsUntilComplete} {1_ExtraTurnsUntilComplete : plural 1?omgång; other?omgångar;} för att färdigställa (kostar ytterligare {2_ExtraProductionCost} [ICON_Production] Produktion).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_WILL_CHANGE_TILE_OWNERSHIP">
-			<Text>Will switch this tile's owner from {1_CityName} to this city.</Text>
+			<Text>Kommer flytta ägarskapet av den här rutan från {1_CityName} till den här staden.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DISTRICT_ZONE_NEIGHBORHOOD_TOOLTIP">
 			<Text>Will add {1_Housing} [ICON_Housing] to the city based on the tile's Appeal of: {2_AppealName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRAIN_NEED_MILITARY_ACADEMY">
-			<Text>Corps and Armies require a Military Academy to build outright.</Text>
+			<Text>Kårer och Arméer behöver en Militärakademi för att kunna byggas direkt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRAIN_FULL_TRADE_ROUTE_CAPACITY">
 			<Text>Your Civilization needs more [ICON_TradeRoute] Trade Route capacity.</Text>
@@ -1400,25 +1400,25 @@
 			<Text>Not enough {1_Resource} supply is available. Each unit alive or in production uses 1 supply, and each Owned or Imported resource in any city provides 4 supply.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRAIN_REQUIRES_DISTRICT">
-			<Text>This unit requires a {1_District} district.</Text>
+			<Text>Den här enheten behöver ett {1_District}-distrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICT_DESTROYED">
-			<Text>The district required to train this unit is damaged.</Text>
+			<Text>Distriktet som krävs för att träna den här enheten är skadat.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICTS_DESTROYED">
-			<Text>The districts required to train this unit are damaged.</Text>
+			<Text>Distrikten som krävs för att träna den här enheten är skadade.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICT_CONTAMINATED">
-			<Text>The district required to train this unit is contaminated.</Text>
+			<Text>Distriktet som krävs för att träna den här enheten är förorenat.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICTS_CONTAMINATED">
-			<Text>The districts required to train this unit are contaminated.</Text>
+			<Text>Distrikten som krävs för att träna den här enheten är förorenade.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICT_OCCUPIED_BY_ENEMY">
-			<Text>The district required to train this unit is occupied by an enemy unit.</Text>
+			<Text>Distriktet som krävs för att träna den här enheten är ockuperat av en fiendeenhet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRAIN_REQUIRED_DISTRICTS_OCCUPIED_BY_ENEMY">
-			<Text>The districts required to train this unit are occupied by enemy units.</Text>
+			<Text>Distrikten som krävs för att träna den här enheten är ockuperade av fiendeenheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNIT_TRAIN_NO_EMPTY_AIR_SLOTS">
 			<Text>This city is at full capacity for aircraft.</Text>
@@ -1427,19 +1427,19 @@
 			<Text>This city needs at least {1_PopulationNeeded} [ICON_Citizen] Population.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_INSUFFICIENT_FUNDS">
-			<Text>Not enough [ICON_Gold] Gold in treasury to purchase this.</Text>
+			<Text>Inte tillräckligt med [ICON_Gold] Guld i statskassan för att köpa detta.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BUILDING_INSUFFICIENT_FAITH">
 			<Text>Not enough [ICON_Faith] Faith accumulated to purchase this.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_UNIT_STACK_ILLEGAL">
-			<Text>Too many units of the same class in this location.</Text>
+			<Text>För många enheter av samma typ på den här platsen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PRODUCTION_ITEM_REPAIR">
-			<Text>(Repair)</Text>
+			<Text>(Reparera)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PRODUCTION_ITEM_DECONTAMINATE">
-			<Text>(Decontaminate)</Text>
+			<Text>(Sanera)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PROJECT_ADVANCE_LOCATION_PILLAGED">
 			<Text>Required project location damaged.</Text>
@@ -1452,7 +1452,7 @@
 		</Replace>
 		<!-- ==================== Leader Viewer Debug ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_LEADER_VIEWER_BACK">
-			<Text>Back To Game</Text>
+			<Text>Tillbaka till spelet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_VIEWER_TOGGLE_FALLBACK">
 			<Text>Toggle Fall-back Mode</Text>
@@ -1471,20 +1471,20 @@
 			<Text>Prepare for War!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_SCREEN_GOODBYE">
-			<Text>Goodbye.</Text>
+			<Text>Adjö.</Text>
 		</Replace>
 		<!-- ==================== Leader Viewer (Full Debug) ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_LEADER_VIEWER_DEBUG_RENDER_STYLE">
 			<Text>Rendering Style 1</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_VIEWER_DEBUG_RESET">
-			<Text>Reset</Text>
+			<Text>Återställ</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_VIEWER_DEBUG_APPLY">
 			<Text>Apply</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LEADER_VIEWER_DEBUG_PREVIOUS">
-			<Text>Previous</Text>
+			<Text>Föregående</Text>
 		</Replace>
 		<!-- ==================== Benchmark System ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_BENCHMARK_TITLE">
@@ -1518,7 +1518,7 @@
 			<Text>Average:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BENCHMARK_FILE">
-			<Text>File:</Text>
+			<Text>Fil:</Text>
 		</Replace>
 		<!-- ==================== Unit Capture ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_UNIT_CAPTURE_DEFAULT">
@@ -1541,13 +1541,13 @@
 			<Text>The End of Time</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_DEFEAT_AI">
-			<Text>Eliminated!</Text>
+			<Text>Eliminerad!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_DEFEAT_ANOTHER_PLAYER">
 			<Text>Another player is victorious.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_VICTORY_OK">
-			<Text>Main Menu</Text>
+			<Text>Huvudmeny</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_VICTORY">
 			<Text>The End of Time</Text>
@@ -1557,58 +1557,58 @@
 		</Replace>
 		<!-- ==================== Top Panel ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_SCIENCE">
-			<Text>Science</Text>
+			<Text>Vetenskap</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD">
-			<Text>Gold</Text>
+			<Text>Guld</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_TREASURY">
-			<Text>Current Treasury</Text>
+			<Text>Aktuell statskassa</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_NET">
-			<Text>{1_NetGoldRate} [ICON_Gold] Gold per [ICON_Turn] Turn</Text>
+			<Text>{1_NetGoldRate} [ICON_Gold] Guld per [ICON_Turn] omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_GROSS">
-			<Text>Income: {1_GrossGoldRate} [ICON_Gold] Gold per [ICON_Turn] Turn</Text>
+			<Text>Intäkter: {1_GrossGoldRate} [ICON_Gold] Guld per [ICON_Turn] omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS">
-			<Text>Costs: {1_LostGoldRate} [ICON_Gold] Gold per [ICON_Turn] Turn</Text>
+			<Text>Kostnader: {1_LostGoldRate} [ICON_Gold] Guld per [ICON_Turn] omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_BUILDINGS">
-			<Text>{1_LostGoldRate} from building maintenance</Text>
+			<Text>{1_LostGoldRate} från underhåll av byggnader</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_DISTRICTS">
-			<Text>{1_LostGoldRate} from district maintenance</Text>
+			<Text>{1_LostGoldRate} från underhåll av distrikt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_UNITS">
-			<Text>{1_LostGoldRate} from unit maintenance</Text>
+			<Text>{1_LostGoldRate} från underhåll av enheter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_WMDS">
-			<Text>{1_LostGoldRate} from WMD maintenance</Text>
+			<Text>{1_LostGoldRate} från underhåll av massförstörelsevapen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_YIELD_TOOLTIP_COSTS_HOSTILE_SPIES">
-			<Text>{1_LostGoldRate} from hostile Spy activity</Text>
+			<Text>{1_LostGoldRate} från fientlig spionverksamhet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_CULTURE">
-			<Text>Culture</Text>
+			<Text>Kultur</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_SCIENCE_YIELD">
 			<Text>Science per [ICON_Turn] Turn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_CULTURE_YIELD">
-			<Text>Culture per [ICON_Turn] Turn</Text>
+			<Text>Kultur per [ICON_Turn] omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_YIELD">
-			<Text>Gold per [ICON_Turn] Turn</Text>
+			<Text>Guld per [ICON_Turn] omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_INCOME">
-			<Text>Income: {1: number +#.#;-#.#} [ICON_Gold]</Text>
+			<Text>Intäkter: {1: number +#.#;-#.#} [ICON_Gold]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_GOLD_EXPENSE">
-			<Text>Expense: {1: number +#.#;-#.#} [ICON_Gold]</Text>
+			<Text>Utgifter: {1: number +#.#;-#.#} [ICON_Gold]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_TOURISM">
-			<Text>Tourism</Text>
+			<Text>Turism</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_FAITH">
 			<Text>Faith</Text>
@@ -1620,121 +1620,121 @@
 			<Text>Faith per [ICON_Turn] Turn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_TRADE_ROUTES">
-			<Text>Trade Routes</Text>
+			<Text>Handelsrutter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_TRADE_ROUTES_TOOLTIP_ACTIVE">
-			<Text>{1_NumOutgoingRoutes} [ICON_TradeRoute] Trade {1_NumOutgoingRoutes : plural 1?Route; other?Routes;} active</Text>
+			<Text>{1_NumOutgoingRoutes} aktiva [ICON_TradeRoute] Handels{1_NumOutgoingRoutes : plural 1?rutt; other?rutter;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_TRADE_ROUTES_TOOLTIP_CAPACITY">
-			<Text>{1_NumRouteCapacity} [ICON_TradeRoute] Trade Route capacity</Text>
+			<Text>{1_NumOutgoingRoutes} [ICON_TradeRoute] Handels{1_NumOutgoingRoutes : plural 1?rutt; other?rutter;} möjliga</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_TRADE_ROUTES_TOOLTIP_SOURCES_HELP">
 			<Text>Commercial Hub and Harbor districts are the primary sources of [ICON_TradeRoute] Trade Route capacity.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_INFLUENCE">
-			<Text>Envoys</Text>
+			<Text>Sändebud</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_POINTS_BALANCE">
-			<Text>{1_InfluencePointsBalance} Influence {1_InfluencePointsBalance : plural 1?point; other?points;}</Text>
+			<Text>{1_InfluencePointsBalance} Inflytandepoäng</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_POINTS_RATE">
-			<Text>+{1_InfluencePointsRate} Influence {1_InfluencePointsRate : plural 1?point; other?points;} per [ICON_Turn] Turn</Text>
+			<Text>+{1_InfluencePointsRate} Inflytandepoäng per [ICON_Turn] omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_POINTS_THRESHOLD">
 			<Text>{1_EnvoysPerThreshold} [ICON_Envoy] {1_EnvoysPerThreshold : plural 1?Envoy; other?Envoys;} at {2_InfluencePointThreshold} Influence {2_InfluencePointThreshold : plural 1?point; other?points;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_ENVOYS">
-			<Text>{1_Envoys} [ICON_Envoy] {1_Envoys : plural 1?Envoy; other?Envoys;} available</Text>
+			<Text>{1_Envoys} [ICON_Envoy] Sändebud {1_Envoys : plural 1?tillgängligt; other?tillgängliga;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_INFLUENCE_TOOLTIP_SOURCES_HELP">
 			<Text>Governments and policies are the primary sources of Influence points.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_MENU">
-			<Text>MENU</Text>
+			<Text>MENY</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_MENU_TOOLTIP">
-			<Text>Open the Game Menu.</Text>
+			<Text>Öppnar spelmenyn.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_HELP">
-			<Text>HELP</Text>
+			<Text>HJÄLP</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_HELP_TOOLTIP">
-			<Text>Open the Civilopedia.</Text>
+			<Text>Öppnar Civilopedia.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_CURRENT_DATE">
-			<Text>2100 AD</Text>
+			<Text>2100 e.Kr</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_CURRENT_TURN">
-			<Text>Turn</Text>
+			<Text>Omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOP_PANEL_TOOLTIP_DESCRIPTION">
-			<Text>Brief description</Text>
+			<Text>Kort beskrivning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_GOVT_FREE_CHANGES">
 			<Text>Policy and Government changes are free this turn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_ZOOM_IN">
-			<Text>Zoom In</Text>
+			<Text>Zooma in</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_ZOOM_OUT">
-			<Text>Zoom Out</Text>
+			<Text>Zooma ut</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_PIN_LIST">
-			<Text>Map Pins</Text>
+			<Text>Kartnålar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_TOGGLE_MAP_PIN_LIST">
-			<Text>Map Pins</Text>
+			<Text>Kartnålar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_PLACE_MAP_PIN">
-			<Text>Add Pin</Text>
+			<Text>Lägg till kartnål</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_PLACE_MAP_PIN_TT">
-			<Text>Click on a hex to place a map pin at that location.</Text>
+			<Text>Klicka på en hexruta för att placera en kartnål på den platsen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_TOGGLE_GRID">
-			<Text>Toggle Grid</Text>
+			<Text>Växla rutnät</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_SHOW_GRID">
-			<Text>Show Grid</Text>
+			<Text>Visa rutnät</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_TOGGLE_RESOURCE_ICONS">
-			<Text>Toggle Resource Icons</Text>
+			<Text>Växla resursikoner</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_TOGGLE_YIELD_ICONS">
 			<Text>Toggle Yield Icons</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_SHOW_RESOURCES">
-			<Text>Show Resource Icons</Text>
+			<Text>Visa resursikoner</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_SHOW_YIELDS">
 			<Text>Show Yield Icons</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_TOGGLE_STRATEGY_VIEW">
-			<Text>Toggle Strategy View</Text>
+			<Text>Växla strategivy</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_LENSES">
-			<Text>Lenses</Text>
+			<Text>Linser<Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_RELIGION_LENS">
 			<Text>Religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CONTINENT_LENS">
-			<Text>Continent</Text>
+			<Text>Kontinent</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_APPEAL_LENS">
 			<Text>Appeal</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_WATER_LENS">
-			<Text>Settler</Text>
+			<Text>Nybyggare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_GOVERNMENT_LENS">
-			<Text>Government</Text>
+			<Text>Regering</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_OWNER_LENS">
-			<Text>Political</Text>
+			<Text>Politisk</Text>
 		</Replace>
     <Replace Language="sv_SE" Tag="LOC_HUD_TOURISM_LENS">
-      <Text>Tourism</Text>
+      <Text>Turism</Text>
     </Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_RELIGION_LENS_TOOLTIP">
 			<Text>Show majority religion and follower distribution across the map.</Text>
@@ -1752,22 +1752,22 @@
 			<Text>Shows distribution of governments across the map.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_OWNER_LENS_TOOLTIP">
-			<Text>Shows owner of each tile.</Text>
+			<Text>Visar varje rutas ägare.</Text>
 		</Replace>
     <Replace Language="sv_SE" Tag="LOC_HUD_TOURISM_LENS_TOOLTIP">
       <Text>Show the number of Visiting Tourists in each tile.</Text>
     </Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_MAP_OPTIONS">
-			<Text>Map Options</Text>
+			<Text>Kartalternativ</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CIVICS_ENABLES">
 			<Text>Enables</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CHOOSE_RESEARCH">
-			<Text>Choose Research</Text>
+			<Text>Välj Forskning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CHANGE_RESEARCH">
-			<Text>Change Research</Text>
+			<Text>Byt Forskning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CHANGE_CIVICS">
 			<Text>Change Civics</Text>
@@ -1776,73 +1776,73 @@
 			<Text>Choose Civic</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_RESEARCH_TURNS">
-			<Text>Turns:</Text>
+			<Text>Omgångar:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_RESEARCH_REQUIRES">
-			<Text>Requires:</Text>
+			<Text>Kräver:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_RESEARCH_TURNS_TO_USE">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other? {1_Turn} turns;} to completion.</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} omgång; other? {1_Turn} omgångar;} innan klart.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CHOOSE_PRODUCTION">
-			<Text>CHOOSE PRODUCTION</Text>
+			<Text>VÄLJ PRODUKTION</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CHOOSE_CITY_FOCUS">
-			<Text>CHOOSE FOCUS</Text>
+			<Text>VÄLJ FOKUS</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_PRODUCTION">
-			<Text>Production</Text>
+			<Text>Produktion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_PURCHASE">
-			<Text>Purchase</Text>
+			<Text>Köp</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PRODPANEL_PRODUCTION">
-			<Text>[ICON_ProductionLarge]Production</Text>
+			<Text>[ICON_ProductionLarge]Produktion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PRODPANEL_PURCHASE_FAITH">
-			<Text>[ICON_FaithLarge]Purchase</Text>
+			<Text>[ICON_FaithLarge]Köp</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PRODPANEL_PURCHASE_FAITH_NO_CONTENT">
 			<Text>No items are available to purchase with [ICON_Faith]Faith at this time.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PRODPANEL_PURCHASE_GOLD">
-			<Text>[ICON_GoldLarge]Purchase</Text>
+			<Text>[ICON_GoldLarge]Köp</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PRODPANEL_PURCHASE_GOLD_NO_CONTENT">
 			<Text>No items are available to purchase with [ICON_Gold]Gold at this time.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_CLOSE">
-			<Text>Close</Text>
+			<Text>Stäng</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_DISTRICTS_BUILDINGS">
-			<Text>Districts and Buildings</Text>
+			<Text>Distrikt och Byggnader</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_DISTRICTS">
-			<Text>Districts</Text>
+			<Text>Distrikt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_BUILDINGS">
-			<Text>Buildings</Text>
+			<Text>Byggnader</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_PROJECTS">
-			<Text>Projects</Text>
+			<Text>Projekt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_POPUP_CIVIC_BOOST_UNLOCKED">
 			<Text>Inspiration!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_POPUP_TECH_BOOST_UNLOCKED">
-			<Text>Eureka!</Text>
+			<Text>Heureka!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_POPUP_WORLD_WONDER_CREATED">
-			<Text>A World Wonder Has Been Created!</Text>
+			<Text>Ett underverk har skapats!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_POPUP_WORLD_WONDER_FINISHED">
-			<Text>Your civilization has finished construction on the [NEWLINE]{1_BuildingName}</Text>
+			<Text>Din civilisation har avslutat konstruktionen av [NEWLINE]{1_BuildingName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_POPUP_WORLD_WONDER_ANOTHER_PLAYER">
-			<Text>{1_buildingName}[NEWLINE]has been constructed by {2_OwnerName}.</Text>
+			<Text>{1_buildingName}[NEWLINE]har konstruerats av {2_OwnerName}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_POPUP_WORLD_WONDER_UNMET_PLAYER">
-			<Text>an unmet player</Text>
+			<Text>en ännu ej mött spelare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_POPUP_PROJECT_CREATED_TITLE">
 			<Text>A Space Race Project Has Been Completed!</Text>
@@ -1907,7 +1907,7 @@
 		</Replace>
 		<!-- Warmonger Levels -->
 		<Replace Language="sv_SE" Tag="LOC_WARMONGER_LEVEL_NONE">
-			<Text>[COLOR_Civ6Green]None[ENDCOLOR]</Text>
+			<Text>[COLOR_Civ6Green]Ingen[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WARMONGER_LEVEL_LIGHT">
 			<Text>Light</Text>
@@ -1929,13 +1929,13 @@
 			<Text>Era: {1_Era}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TREE_OPTIONS">
-			<Text>Options</Text>
+			<Text>Alternativ</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TREE_FILTER_W_DOTS">
 			<Text>Filter...</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TREE_SEARCH_W_DOTS">
-			<Text>Search...</Text>
+			<Text>Sök...</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TREE_SHOW_KEY">
 			<Text>Show Key</Text>
@@ -1954,67 +1954,67 @@
 		</Replace>
 		<!-- ==================== Tech Tree ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_TECH_KEY_AVAILABLE">
-			<Text>Available</Text>
+			<Text>Tillgänglig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_KEY_UNAVAILABLE">
-			<Text>Unavailable</Text>
+			<Text>Ej tillgänglig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_KEY_RESEARCHING">
-			<Text>Researching</Text>
+			<Text>Forskar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_KEY_COMPLETED">
-			<Text>Completed</Text>
+			<Text>Färdig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_TREE_HEADER">
 			<Text>TECHNOLOGY TREE</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_TREE_TURNS">
-			<Text>{1_Turns : plural 1?{1_Turns} turn; other? {1_Turn} TURNS;}</Text>
+			<Text>{1_Turns : plural 1?{1_Turns} omgång; other? {1_Turn} OMGÅNGAR;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_TREE_TURN_NUM">
-			<Text>TURN</Text>
+			<Text>OMGÅNG</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_NONE">
-			<Text>None</Text>
+			<Text>Ingen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_RECOMMENDED">
-			<Text>Recommend</Text>
+			<Text>Rekommenderas</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_FOOD">
-			<Text>Food</Text>
+			<Text>Mat</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_SCIENCE">
 			<Text>Science</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_PRODUCTION">
-			<Text>Production</Text>
+			<Text>Produktion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_CULTURE">
-			<Text>Culture</Text>
+			<Text>Kultur</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_GOLD">
-			<Text>Gold</Text>
+			<Text>Guld</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_FAITH">
 			<Text>Faith</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_HOUSING">
-			<Text>Housing</Text>
+			<Text>Bostäder</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_AMENITIES">
 			<Text>Amenities</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_HEALTH">
-			<Text>Health</Text>
+			<Text>Hälsa</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_UNITS">
-			<Text>Units</Text>
+			<Text>Enheter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_IMPROVEMENTS">
-			<Text>Improvements</Text>
+			<Text>Förbättringar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_FILTER_WONDERS">
-			<Text>Wonders</Text>
+			<Text>Underverk</Text>
 		</Replace>
 		<!-- ==================== World Tracker ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_WORLD_TRACKER_EMPTY">
@@ -2030,7 +2030,7 @@
 			<Text>Civics Panel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HIDE_CHAT_PANEL">
-			<Text>Chat Panel</Text>
+			<Text>Chattpanel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HIDE_CHAT_PANEL_UNREAD_MESSAGES">
 			<Text>Chat Panel ([ICON_New]{1_Number})</Text>
@@ -2039,14 +2039,14 @@
 			<Text>Choose Civic</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_TRACKER_CHOOSE_RESEARCH">
-			<Text>Choose Research</Text>
+			<Text>Välj forskning</Text>
 		</Replace>
 		<!-- ==================== Research Chooser ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_RESEARCH_CHOOSER_JUST_COMPLETED">
-			<Text>Just completed</Text>
+			<Text>Precis klar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESEARCH_CHOOSER_TITLE">
-			<Text>Choose New Technology?</Text>
+			<Text>Välj en ny Vetenskap?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESEARCH_CHOOSER_OPEN_TECH_TREE">
 			<Text>Open Technology Tree</Text>
@@ -2055,11 +2055,11 @@
 			<Text>Choose Research</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESEARCH_CHOOSER_TURNS">
-			<Text>Turns:</Text>
+			<Text>Omgångar:</Text>
 		</Replace>
 		<!-- ==================== Civics Chooser ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_CHOOSER_JUST_COMPLETED">
-			<Text>Just completed</Text>
+			<Text>Precis klar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_CHOOSER_CHOOSE_NEW_CIVIC">
 			<Text>Choose New Civic</Text>
@@ -2071,20 +2071,20 @@
 			<Text>Open Civics Tree</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_CHOOSER_TURNS">
-			<Text>Turns:</Text>
+			<Text>Omgångar:</Text>
 		</Replace>
 		<!-- ==================== Civics Tree ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_TREE_HEADER">
 			<Text>CIVICS TREE</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_KEY_AVAILABLE">
-			<Text>Available</Text>
+			<Text>Tillgänglig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_KEY_UNAVAILABLE">
-			<Text>Unavailable</Text>
+			<Text>Ej tillgänglig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_KEY_RESEARCHING">
-			<Text>Researching</Text>
+			<Text>Forskar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_KEY_COMPLETED">
 			<Text>Completed</Text>
@@ -2093,32 +2093,32 @@
 			<Text>Government</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_KEY_DISTRICT">
-			<Text>District</Text>
+			<Text>Distrikt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_KEY_WONDER">
-			<Text>Wonder</Text>
+			<Text>Underverk</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_KEY_UNIT">
-			<Text>Unit</Text>
+			<Text>Enhet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_KEY_BUILDING">
-			<Text>Building</Text>
+			<Text>Byggnad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_KEY_AGREEMENT">
 			<Text>Agreement</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVICS_KEY_ABILITY">
-			<Text>Ability</Text>
+			<Text>Förmåga</Text>
 		</Replace>
 		<!-- ==================== Governments Screen ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ASSIGN_ALL_POLICIES">
 			<Text>Assign All Policies</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_CANCEL">
-			<Text>Cancel</Text>
+			<Text>Avbryt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_CHANGE_GOVERNMENTS">
-			<Text>Change Governments</Text>
+			<Text>Byt regeringsform</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_CHANGE_POLICIES">
 			<Text>Change Policies</Text>
@@ -2145,10 +2145,10 @@
 			<Text>Is our policy agenda set?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_PROMPT_YES">
-			<Text>Yes</Text>
+			<Text>Ja</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_PROMPT_NO">
-			<Text>No</Text>
+			<Text>Nej</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_EDIT_GOVERNMENTS">
 			<Text>Edit Governments</Text>
@@ -2157,7 +2157,7 @@
 			<Text>Edit Policies</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_FILTER_NONE">
-			<Text>None</Text>
+			<Text>Ingen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_FILTER_MILITARY">
 			<Text>Military</Text>
@@ -2172,34 +2172,34 @@
 			<Text>Filter...</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_FILTER_GREAT_PERSON">
-			<Text>Great Person</Text>
+			<Text>Stor personlighet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_FILTER_WILDCARD">
 			<Text>Wildcard</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_GOVERNMENT">
-			<Text>Government</Text>
+			<Text>Regeringsform</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_HERITAGE_BONUSES">
 			<Text>Legacy Bonuses</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_HERITAGE_BONUS_NEXT">
-			<Text>in {1_Turn} more {1_Turn : plural 1?turn; other?turns;} in a {2_Government}</Text>
+			<Text>om ytterligare {1_Turn} {1_Turn : plural 1?omgång; other?omgångar;} i {2_Government : gender m?en; f?en; other?ett;} {2_Government}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_HERITAGE_BONUS_PREV">
-			<Text>from {1_Government}</Text>
+			<Text>från {1_Government}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_MY_GOVERNMENT">
-			<Text>My Government</Text>
+			<Text>Min regering</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_NEED_GOLD">
-			<Text>You Need {1_Gold} [ICON_GoldLarge] Gold</Text>
+			<Text>Du behöver {1_Gold} [ICON_GoldLarge] Guld</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_NEW_POLICY">
 			<Text>New Policy</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_NEXT">
-			<Text>Next</Text>
+			<Text>Nästa</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_PENDING_POLICIES_LIST">
 			<Text>Pending Policies List</Text>
@@ -2220,7 +2220,7 @@
 			<Text>Wildcard Policies</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_PREVIOUS">
-			<Text>Previous</Text>
+			<Text>Föregående</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_SET_POLICIES">
 			<Text>Set Policies</Text>
@@ -2229,7 +2229,7 @@
 			<Text>Unlock for {1_Gold} [ICON_GoldLarge] Gold</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_VIEW_GOVERNMENTS">
-			<Text>View Governments</Text>
+			<Text>Visa regeringsformer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_VIEW_POLICIES">
 			<Text>View Policies</Text>
@@ -2254,7 +2254,7 @@
     </Replace>
 		<!-- ==================== Unit Operations ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_BUILD_DISTRICT">
-			<Text>Build District</Text>
+			<Text>Bygg Distrikt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_BUILD_CAMPUS">
 			<Text>Build Campus</Text>
@@ -2272,10 +2272,10 @@
 			<Text>Build Theater Square</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_BUILD_HARBOR">
-			<Text>Build Harbor</Text>
+			<Text>Bygg Hamn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_AIR_ATTACK_DESCRIPTION">
-			<Text>Air Attack</Text>
+			<Text>Luftangrepp</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_AUTOMATE_EXPLORE_DESCRIPTION">
 			<Text>Automate Exploration</Text>
@@ -2284,13 +2284,13 @@
 			<Text>Build Improvement</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_BUILD_ROUTE_DESCRIPTION">
-			<Text>Build Road</Text>
+			<Text>Bygg väg</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="ICON_UNITOPERATION_CLEAR_CONTAMINATION_DESCRIPTION">
-			<Text>Clear Contamination</Text>
+			<Text>Sanera Förorening</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_CONVERT_BARBARIANS_DESCRIPTION">
-			<Text>Convert Barbarians</Text>
+			<Text>Konvertera barbarer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_DISEMBARK_DESCRIPTION">
 			<Text>Disembark</Text>
@@ -2302,7 +2302,7 @@
 			<Text>Designate National Park</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_DONATE_MUSEUM_DESCRIPTION">
-			<Text>Donate to Museum</Text>
+			<Text>Donera till Museum</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_EMBARK_DESCRIPTION">
 			<Text>Embark</Text>
@@ -2314,16 +2314,16 @@
 			<Text>Excavate Artifact</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_FOUND_CITY_DESCRIPTION">
-			<Text>Found City</Text>
+			<Text>Grunda stad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_FOUND_RELIGION_DESCRIPTION">
-			<Text>Found Religion</Text>
+			<Text>Grunda religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_FOUND_RELIGION_REQUIRES_PANTHEON">
-			<Text>Must found a Pantheon first.</Text>
+			<Text>Måste grunda en Panteon först.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_FOUND_RELIGION_ALREADY_HAVE_RELIGION">
-			<Text>You have already founded a Religion.</Text>
+			<Text>Du har redan grundat en Religion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_NEED_HOME_MUSEUM">
 			<Text>{1_ArtifactName} must be returned to the home Museum in {2_CityName}.</Text>
@@ -2398,25 +2398,25 @@
 			<Text>Requires Civic: {1_Civic}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_MOVE_TO_DESCRIPTION">
-			<Text>Move To</Text>
+			<Text>Flytta till</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_MOVE_TO_UNIT_DESCRIPTION">
-			<Text>Move To Unit</Text>
+			<Text>Flytta till Enhet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_WMD_STRIKE_DESCRIPTION">
-			<Text>WMD Strike</Text>
+			<Text>Massförstörelseattack</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_COASTAL_RAID">
 			<Text>Coastal Raid</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_PILLAGE_DESCRIPTION">
-			<Text>Pillage</Text>
+			<Text>Skövla</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_PILLAGE_ROUTE_DESCRIPTION">
-			<Text>Pillage Road</Text>
+			<Text>Skövla Väg</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_PLANT_FOREST_DESCRIPTION">
-			<Text>Plant Woods</Text>
+			<Text>Plantera Skog</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_RANGE_ATTACK_DESCRIPTION">
 			<Text>Ranged Attack</Text>
@@ -2431,13 +2431,13 @@
 			<Text>Remove Heresy</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_REMOVE_IMPROVEMENT_DESCRIPTION">
-			<Text>Remove Improvement</Text>
+			<Text>Ta bort Förbättring</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_REPAIR_DESCRIPTION">
-			<Text>Repair</Text>
+			<Text>Reparera</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_REPAIR_ROUTE_DESCRIPTION">
-			<Text>Repair Road</Text>
+			<Text>Reparera Väg</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_RETRAIN_DESCRIPTION">
 			<Text>Retrain</Text>
@@ -2449,10 +2449,10 @@
 			<Text>Route To</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_SPREAD_RELIGION_DESCRIPTION">
-			<Text>Spread Religion</Text>
+			<Text>Sprid Religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_SPY_COUNTERSPY_DESCRIPTION">
-			<Text>Counterspy</Text>
+			<Text>Kontraspionage</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITOPERATION_SPY_DISRUPT_ROCKETRY_DESCRIPTION">
 			<Text>Disrupt Rocketry</Text>
@@ -2539,34 +2539,34 @@
 			<Text>Wake Up</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_PROMOTE_DESCRIPTION">
-			<Text>Promotion Available!</Text>
+			<Text>Befordran tillgänglig!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_UPGRADE_DESCRIPTION">
-			<Text>Upgrade Available!</Text>
+			<Text>Uppgradering tillgänglig!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_AUTOMATE_DESCRIPTION">
 			<Text>Automate</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_CANCEL_DESCRIPTION">
-			<Text>Cancel</Text>
+			<Text>Avbryt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_STOP_AUTOMATION_DESCRIPTION">
-			<Text>Cancel Order</Text>
+			<Text>Upphäv order</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_DELETE_DESCRIPTION">
-			<Text>Delete Unit</Text>
+			<Text>Radera enhet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_GIFT_DESCRIPTION">
-			<Text>Gift Unit</Text>
+			<Text>Skänk enhet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_ENTER_FORMATION_DESCRIPTION">
-			<Text>Create Escort Formation with {1_UnitName}</Text>
+			<Text>Skapa eskortformation med {1_UnitName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_EXIT_FORMATION_DESCRIPTION">
-			<Text>Exit Escort Formation</Text>
+			<Text>Lämna eskortformation</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_DESCRIPTION">
-			<Text>Activate Great Person</Text>
+			<Text>Aktivera Stor personlighet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_ACTIVATE_GREAT_PERSON_INVALID_DISTRICT">
 			<Text>Must be on a completed {1_DistrictName}.</Text>
@@ -2647,16 +2647,16 @@
 			<Text>Add Production to a District.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_FORM_CORPS_DESCRIPTION">
-			<Text>Form Corps</Text>
+			<Text>Bilda Kår</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_FORM_ARMY_DESCRIPTION">
-			<Text>Form Army</Text>
+			<Text>Bilda Armé</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_FORM_FLEET_DESCRIPTION">
-			<Text>Form Fleet</Text>
+			<Text>Bilda Flotta</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_FORM_ARMADA_DESCRIPTION">
-			<Text>Form Armada</Text>
+			<Text>Bilda Armada</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_AIRLIFT_DESCRIPTION">
 			<Text>Airlift</Text>
@@ -2671,7 +2671,7 @@
 			<Text>A [ICON_TradeRoute] Trade Route in this tile has a special ability preventing it from being plundered.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_NAME_UNIT_DESCRIPTION">
-			<Text>Name Unit</Text>
+			<Text>Namnge enhet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UNITCOMMAND_WONDER_PRODUCTION_DESCRIPTION">
 			<Text>Add [ICON_Production] Production to a wonder.</Text>
@@ -2691,19 +2691,19 @@
 			<Text>Base Cost: {1_Amount} {2_YieldIcon} {3_YieldName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_MAINTENANCE">
-			<Text>Maintenance: {1_Amount} {2_YieldIcon} {3_YieldName}</Text>
+			<Text>Underhåll: {1_Amount} {2_YieldIcon} {3_YieldName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_BUILDING_DISTRICT_COPY">
 			<Text>Bonus {1_ToYieldIcon} {2_ToYieldName} equal to the adjacency {3_FromYieldIcon} {4_FromYieldName} bonus of its district.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_BUILDING_REQUIRES">
-			<Text>Requires:</Text>
+			<Text>Kräver:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_BUILDING_REQUIRES_ONE_OF_FOLLOWING">
-			<Text>Requires one of the following:</Text>
+			<Text>Kräver en av följande:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_BUILDING_REQUIRES_BUILDING_OR">
-			<Text>{1_BuildingName} or {2_BuildingName}</Text>
+			<Text>{1_BuildingName} eller {2_BuildingName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_BUILDING_REQUIRES_BUILDING">
 			<Text>{1_BuildingName}</Text>
@@ -2724,22 +2724,22 @@
 			<Text>Cannot be built in the same district with {LOC_GRAMMAR_A_AN &lt;&lt; {1_BuildingName}}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_ADJACENT_RIVER">
-			<Text>Must be adjacent to a river</Text>
+			<Text>Måste placeras intill en flod</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_ADJACENT_MOUNTAIN">
-			<Text>Must be adjacent to a mountain</Text>
+			<Text>Måste placeras intill ett berg</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_COAST">
-			<Text>Must be built on coast</Text>
+			<Text>Måste byggas på kusten</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_LAKE">
-			<Text>Must be built on a lake</Text>
+			<Text>Måste byggas på en sjö</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_NOT_LAKE">
-			<Text>Cannot be built on a lake</Text>
+			<Text>Kan inte byggas på en sjö</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLACEMENT_REQUIRES_RELIGION">
-			<Text>Must have founded a religion</Text>
+			<Text>Måste ha grundat en religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_EXTRA_REGIONAL_RANGE">
 			<Text>+{1_Amount} tile range from modifiers</Text>
@@ -2772,7 +2772,7 @@
 			<Text>Earn {3_PointsAmount} {1_IconString} {2_GreatPersonClassName} Points upon completion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ROUTE_MOVEMENT_COST">
-			<Text>[ICON_Movement] Movement Cost: {1_MovementCost}</Text>
+			<Text>[ICON_Movement] Förflyttningskostnad: {1_MovementCost}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ROUTE_SUPPORTS_BRIDGES">
 			<Text>Creates Bridges over Rivers.</Text>
@@ -2799,34 +2799,34 @@
 			<Text>[COLOR:Civ6Blue]Has been boosted[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_UNLOCKS">
-			<Text>Unlocks:</Text>
+			<Text>Låser upp:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_DISTRICT_CITIZEN_YIELDS_HEADER">
 			<Text>Citizen Yields (per citizen):</Text>
 		</Replace>
     <Replace Language="sv_SE" Tag="LOC_TOOLTIP_UNLOCKS_DIPLOMACY">
-      <Text>Diplomacy: {1_DiplomacyAction}</Text>
+      <Text>Diplomati: {1_DiplomacyAction}</Text>
     </Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_UNLOCKS_GOVERNMENT">
-			<Text>Government: {1_GovernmentName}</Text>
+			<Text>Regeringsform: {1_GovernmentName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_UNLOCKS_POLICY">
 			<Text>Policy: {1_PolicyName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_UNLOCKS_BUILDING">
-			<Text>Building: {1_BuildingName}</Text>
+			<Text>Byggnad: {1_BuildingName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_UNLOCKS_DISTRICT">
-			<Text>District: {1_DistrictName}</Text>
+			<Text>Distrikt: {1_DistrictName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_UNLOCKS_IMPROVEMENT">
-			<Text>Improvement: {1_ImprovementName}</Text>
+			<Text>Förbättring: {1_ImprovementName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_UNLOCKS_PROJECT">
-			<Text>Project: {1_ProjectName}</Text>
+			<Text>Projekt: {1_ProjectName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_UNLOCKS_UNIT">
-			<Text>Unit: {1_UnitName}</Text>
+			<Text>Enhet: {1_UnitName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_UNLOCKS_RESOURCE">
 			<Text>Reveals {1_ResourceName}</Text>
@@ -2838,16 +2838,16 @@
 			<Text>{diplomaticReason} {diplomaticValue}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_DIPLOMACY_UNKNOWN_REASON">
-			<Text>Unknown Reason</Text>
+			<Text>Okänd anledning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_DIPLOMACY_HIDE">
 			<Text>DO NOT DISPLAY</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_GOVERNMENT_SAME">
-			<Text>Same Government</Text>
+			<Text>Samma regeringsform</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_GOVERNMENT_DIFFERENT">
-			<Text>Different Governments</Text>
+			<Text>Olika regeringsformer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_SAMPLE_DIPLOMACY_INCURSION">
 			<Text>Moving forces near their cities</Text>
@@ -2964,16 +2964,16 @@
 			<Text>Send an Archaeologist unit here to excavate an [ICON_GreatWork_Artifact] Artifact, which will provide [ICON_Culture] Culture and [ICON_Tourism] Tourism when brought back to your city.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_REQUIRES">
-			<Text>Requires</Text>
+			<Text>Kräver</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_MAKES_OBSOLETE">
 			<Text>Makes Obsolete</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_LAKE">
-			<Text>Lake</Text>
+			<Text>Sjö</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_RIVER">
-			<Text>River</Text>
+			<Text>Flod</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_IMPROVEMENT_RECOMMENDATION">
 			<Text>Recommended Improvement: {1_ImprovementName}</Text>
@@ -2988,16 +2988,16 @@
 			<Text>Defense Modifier: {1_Amount}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_CONTINENT_NONE">
-			<Text>Continent: none</Text>
+			<Text>Kontinent: ingen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_CONTINENT">
-			<Text>Continent: {1_Name}</Text>
+			<Text>Kontinent: {1_Name}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLAYER_ID">
-			<Text>Player {1_PlayerId}</Text>
+			<Text>Spelare {1_PlayerId}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_CITY_OWNER">
-			<Text>Owner: {1_PlayerName} ({2_CityName})</Text>
+			<Text>Ägare: {1_PlayerName} ({2_CityName})</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_ROUTE_MOVEMENT">
 			<Text>Route Movement: {1_Amount} ({2_RouteName})</Text>
@@ -3091,35 +3091,35 @@
 			<Text>Becomes obsolete with {1_TechOrCivicName}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_DISTRICT">
-			<Text>district</Text>
+			<Text>distrikt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RESOURCE">
-			<Text>resource</Text>
+			<Text>resurs</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_SEA_RESOURCE">
 			<Text>coastal resource</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_RIVER">
-			<Text>river</Text>
+			<Text>flod</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_WONDER">
-			<Text>wonder</Text>
+			<Text>underverk</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TYPE_TRAIT_ADJACENT_OBJECT_NATURAL_WONDER">
 			<Text>natural wonder</Text>
 		</Replace>
 		<!-- ==================== Calendar Text ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_TIME_AD">
-			<Text>{1_Date: number #} AD</Text>
+			<Text>{1_Date: number #} e.Kr</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TIME_AD_SAVE">
-			<Text>{2} AD-{1_Date}</Text>
+			<Text>{2} e.Kr-{1_Date}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TIME_BC">
-			<Text>{1_Date: number #} BC</Text>
+			<Text>{1_Date: number #} f.Kr</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TIME_BC_SAVE">
-			<Text>{2} BC-{1_Date}</Text>
+			<Text>{2} f.Kr-{1_Date}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TIME_MONTH">
 			<Text>{1_Date},{2_Month}</Text>
@@ -3128,34 +3128,34 @@
 			<Text>{1_Date}-{2_Month}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_JANUARY_NAME">
-			<Text>January</Text>
+			<Text>Januari</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_FEBRUARY_NAME">
-			<Text>February</Text>
+			<Text>Februari</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_MARCH_NAME">
-			<Text>March</Text>
+			<Text>Mars</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_APRIL_NAME">
 			<Text>April</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_MAY_NAME">
-			<Text>May</Text>
+			<Text>Maj</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_JUNE_NAME">
-			<Text>June</Text>
+			<Text>Juni</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_JULY_NAME">
-			<Text>July</Text>
+			<Text>Juli</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_AUGUST_NAME">
-			<Text>August</Text>
+			<Text>Augusti</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_SEPTEMBER_NAME">
 			<Text>September</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_OCTOBER_NAME">
-			<Text>October</Text>
+			<Text>Oktober</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MONTH_NOVEMBER_NAME">
 			<Text>November</Text>
@@ -3164,16 +3164,16 @@
 			<Text>December</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SEASON_WINTER_NAME">
-			<Text>Winter</Text>
+			<Text>Vinter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SEASON_SPRING_NAME">
-			<Text>Spring</Text>
+			<Text>Vår</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SEASON_SUMMER_NAME">
-			<Text>Summer</Text>
+			<Text>Sommar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_SEASON_FALL_NAME">
-			<Text>Fall</Text>
+			<Text>Höst</Text>
 		</Replace>
 		<!-- ==================== Diplomacy Text ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_DIPLOMACY_HIDDEN_AGENDAS">
@@ -3195,13 +3195,13 @@
 			<Text>Foreign Relations for {1_CivName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLOPANEL_CIV_HEADER">
-			<Text>CIVILIZATION</Text>
+			<Text>CIVILISATION</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLOPANEL_CAPITAL_HEADER">
-			<Text>CAPITAL</Text>
+			<Text>HUVUDSTAD</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLOPANEL_GOVERNMENT_HEADER">
-			<Text>GOVERNMENT</Text>
+			<Text>REGERING</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLOPANEL_RELATION_HEADER">
 			<Text>RELATIONSHIP STATUS</Text>
@@ -3210,7 +3210,7 @@
 			<Text>ACCESS LEVEL</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLOPANEL_SCORE_HEADER">
-			<Text>SCORE</Text>
+			<Text>POÄNG</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLOPANEL_AT_WAR">
 			<Text>[COLOR_RED]At War![ENDCOLOR]</Text>
@@ -3229,10 +3229,10 @@
 		</Replace>
 		<!-- ==================== ChooseArtifactPopup ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_CHOOSE_ARTIFACT_HEADER">
-			<Text>CHOOSE ARTIFACT</Text>
+			<Text>VÄLJ ARTEFAKT</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CHOOSE_ARTIFACT_NO_CHOICE_HEADER">
-			<Text>ARTIFACT FOUND</Text>
+			<Text>ARTEFAKT FUNNEN</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CHOOSE_ARTIFACT_EXPLANATION_NO_TYPE">
 			<Text>Your Archaeologist {1_UnitName} has uncovered signs of an ancient conflict between {2_ActingCiv} and {3_TargetCiv}.</Text>
@@ -3305,10 +3305,10 @@
 			<Text>Religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_MY_RELIGION">
-			<Text>My Religion</Text>
+			<Text>Min Religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_MY_PANTHEON">
-			<Text>My Pantheon</Text>
+			<Text>Min Panteon</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_NO_PANTHEON">
 			<Text>No Established Pantheon</Text>
@@ -3320,10 +3320,10 @@
 			<Text>Working Towards A Religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_PANTHEON_NAME">
-			<Text>Pantheon: {1_BeliefName}</Text>
+			<Text>Panteon: {1_BeliefName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_FOUNDER_NAME">
-			<Text>Founder: {1_FounderName}</Text>
+			<Text>Grundare: {1_FounderName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_BELIEFS_OF_RELIGION">
 			<Text>Beliefs of {1_ReligionName}</Text>
@@ -3359,7 +3359,7 @@
 			<Text>No Pantheon Belief.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_CITIES">
-			<Text>Cities:</Text>
+			<Text>Städer:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_FOLLOWERS">
 			<Text>Followers:</Text>
@@ -3410,7 +3410,7 @@
 			<Text>(Choose a Religion from history, or choose a name and icon for a Religion of your own.)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_NO_RELIGION_CHOSEN">
-			<Text>None Chosen</Text>
+			<Text>Ingen vald</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_CHOOSE_RELIGION">
 			<Text>Choose a name and icon:</Text>
@@ -3419,19 +3419,19 @@
 			<Text>Set Religion Name</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_REQUIRES_NAME">
-			<Text>Requires Name</Text>
+			<Text>Kräver namn</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_CONFIRM_RELIGION">
-			<Text>Confirm</Text>
+			<Text>Bekräfta</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RELIGION_CUSTOM">
-			<Text>Custom Religion</Text>
+			<Text>Egen religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DECLARE_WAR_BUTTON">
-			<Text>Declare War!</Text>
+			<Text>Förklara krig!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAKE_PEACE_BUTTON">
-			<Text>Make Peace</Text>
+			<Text>Slut fred</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_NUM_FOLLOWERS_TT">
 			<Text>{1_ReligionName}: {2_NumFollowers} followers.</Text>
@@ -3458,29 +3458,29 @@
 			<Text>Inquisitors may eliminate the presence of other Religions in their territory, and initiate theological combat with units of other Religions.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_UI_RELIGION_UNKNOWN_CITY">
-			<Text>Unknown City</Text>
+			<Text>Okänd stad</Text>
 		</Replace>
 		<!-- ==================== Trade Overview ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_TITLE">
-			<Text>TRADE ROUTES</Text>
+			<Text>HANDELSRUTTER</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_MY_ROUTES">
-			<Text>My Routes</Text>
+			<Text>Mina rutter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_ROUTES_TO_MY_CITIES">
-			<Text>Routes to my Cities</Text>
+			<Text>Rutter till mina städer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_AVAILABLE_ROUTES">
-			<Text>Available Routes</Text>
+			<Text>Tillgängliga rutter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_ORIGIN">
-			<Text>Origin</Text>
+			<Text>Ursprung</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_DESTINATION">
 			<Text>Destination</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_SHOW">
-			<Text>Show</Text>
+			<Text>Visa</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_MY_BENEFITS">
 			<Text>My Benefits</Text>
@@ -3501,13 +3501,13 @@
 			<Text>Produce a Trader unit to use this Route.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_CITY_STATES">
-			<Text>City-States</Text>
+			<Text>Stadsstater</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_UNUSED_ROUTES">
 			<Text>Unused Routes</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_TO">
-			<Text>To</Text>
+			<Text>Till</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TRADE_OVERVIEW_TOURISM_BONUS">
 			<Text>+25%</Text>
@@ -3547,13 +3547,13 @@
 			<Text>Overall</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_SCORE_TAB">
-			<Text>Score</Text>
+			<Text>Poäng</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_SCIENCE_TAB">
 			<Text>Science</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CULTURE_TAB">
-			<Text>Culture</Text>
+			<Text>Kultur</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_DOMINATION_TAB">
 			<Text>Domination</Text>
@@ -3562,19 +3562,19 @@
 			<Text>Religion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_SCORE_VICTORY">
-			<Text>SCORE VICTORY</Text>
+			<Text>POÄNGSEGER</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_SCIENCE_VICTORY">
 			<Text>SCIENCE VICTORY</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CULTURE_VICTORY">
-			<Text>CULTURE VICTORY</Text>
+			<Text>KULTURSEGER</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_DOMINATION_VICTORY">
 			<Text>DOMINATION VICTORY</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_RELIGION_VICTORY">
-			<Text>RELIGIOUS VICTORY</Text>
+			<Text>RELIGIÖS SEGER</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_OVERVIEW_SCIENCE_NUM_TECHS">
 			<Text>Technologies Researched: {1_Num}</Text>
@@ -3589,13 +3589,13 @@
 			<Text>[ICON_Culture] Culture per turn: {1_Num}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_OVERVIEW_DOMINATION_MILITARY_STRENGTH">
-			<Text>Military Strength: {1_Num}</Text>
+			<Text>Militär styrka: {1_Num}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_OVERVIEW_DOMINATION_SCORE">
-			<Text>Player Score: {1_Num}</Text>
+			<Text>Spelarpoäng: {1_Num}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_OVERVIEW_RELIGION_CITIES_FOLLOWING_RELIGION">
-			<Text>Converted Cities: {1_Num}</Text>
+			<Text>Konverterade städer: {1_Num}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_OVERVIEW_RELIGION_FAITH_RATE">
 			<Text>[ICON_Faith] Faith per turn: {1_Num}</Text>
@@ -3619,13 +3619,13 @@
 			<Text>[COLOR:ResScienceLabelCS]Next Step: {1_NextStep}[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_SCIENCE_NEXT_STEP_BUILD">
-			<Text>Build {1_NextStep}</Text>
+			<Text>Bygg {1_NextStep}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_SCIENCE_NEXT_STEP_RESEARCH">
 			<Text>Research {1_NextStep}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CULTURE_HOW_TO_VICTORY">
-			<Text>What is a Culture Victory?</Text>
+			<Text>Vad är en Kulturseger?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CULTURE_HOW_TO_TOURISM">
 			<Text>How to attract Tourists to your civilization.</Text>
@@ -3643,19 +3643,19 @@
 			<Text>Your [COLOR:ResCultureLabelCS]VISITING TOURISTS[ENDCOLOR] represent the number of citizens you've attracted from the [COLOR:ResCultureLabelCS]DOMESTIC TOURIST[ENDCOLOR] pools of other civilizations.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CULTURE_WHAT_IS_VICTORY">
-			<Text>What is a Culture Victory?</Text>
+			<Text>Vad är en Kulturseger?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CULTURE_HOW_TO_ATTRACT_TOURISTS">
 			<Text>How to attract Tourists to your civilization.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CULTURE_DOMESTIC_TOURISTS">
-			<Text>Domestic Tourists</Text>
+			<Text>Inhemska turister</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CULTURE_OUR_VISITORS_FROM">
 			<Text>Our Visitors From</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CULTURE_VISITING_TOURISTS">
-			<Text>Visiting Tourists</Text>
+			<Text>Besökande turister</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CULTURE_DOMESTIC_TOURISTS_TOOLTIP">
 			<Text>This column indicates how many of this civilization's tourists are still vacationing within their own borders.</Text>
@@ -3709,7 +3709,7 @@
 			<Text>at {1_NumTurns} turns</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_CIVILIZATION_LABEL">
-			<Text>Civilization</Text>
+			<Text>Civilisation</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_SHOW_DETAILS">
 			<Text>Show Details</Text>
@@ -3727,7 +3727,7 @@
 			<Text>{1_CivName} leading with {2_Details}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_SIMPLE">
-			<Text>You are in {1_Place} place</Text>
+			<Text>Du ligger på {1_Place} plats</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_OTHER_PLACE_DETAILS">
 			<Text>You are in {1_Place} place with {2_Details}</Text>
@@ -3739,40 +3739,40 @@
 			<Text>You are in position {1_Place} with {2_Details}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_1_PLACE">
-			<Text>first</Text>
+			<Text>första</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_2_PLACE">
-			<Text>second</Text>
+			<Text>andra</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_3_PLACE">
-			<Text>third</Text>
+			<Text>tredje</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_4_PLACE">
-			<Text>fourth</Text>
+			<Text>fjärde</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_5_PLACE">
-			<Text>fifth</Text>
+			<Text>femte</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_6_PLACE">
-			<Text>sixth</Text>
+			<Text>sjätte</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_7_PLACE">
-			<Text>seventh</Text>
+			<Text>sjunde</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_8_PLACE">
-			<Text>eighth</Text>
+			<Text>åttonde</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_9_PLACE">
-			<Text>ninth</Text>
+			<Text>nionde</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_10_PLACE">
-			<Text>tenth</Text>
+			<Text>tionde</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_11_PLACE">
-			<Text>eleventh</Text>
+			<Text>elfte</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_12_PLACE">
-			<Text>twelfth</Text>
+			<Text>tolfte</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WORLD_RANKINGS_STEPS_COMPLETED">
 			<Text>Steps Completed</Text>
@@ -3824,10 +3824,10 @@
 			<Text>Trade</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CATEGORY_TECH_NAME">
-			<Text>Technology</Text>
+			<Text>Vetenskap</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CATEGORY_WONDER_NAME">
-			<Text>Wonders</Text>
+			<Text>Underverk</Text>
 		</Replace>
 		<!-- ==================== Research Complete Popup ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_RESEARCH_COMPLETE_TECH_COMPLETE">
@@ -3837,7 +3837,7 @@
 			<Text>CIVIC COMPLETED</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESEARCH_COMPLETE_TECH_BUTTON">
-			<Text>Continue</Text>
+			<Text>Fortsätt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_RESEARCH_COMPLETE_CIVIC_BUTTON">
 			<Text>Change Government</Text>
@@ -3862,7 +3862,7 @@
 			<Text>Bonuses Earned:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_CITY_STATE">
-			<Text>City-State</Text>
+			<Text>Stadsstat</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_CIVILIZATIONS">
 			<Text>{1_Value} {1_Value:plural 1?Civilization; other?Civilizations;}</Text>
@@ -3910,16 +3910,16 @@
 			<Text>District Quest</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_ENVOYS">
-			<Text>Envoys</Text>
+			<Text>Sändebud</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_ENVOYS_INFLUENCE_BY_CIVILIZATION">
 			<Text>Envoy influence by civilization:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_ENVOYS_SENT">
-			<Text>Envoys Sent:</Text>
+			<Text>Sändebud skickade:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_ENVOYS_SENT_ICON">
-			<Text>Envoys [ICON_Envoy] Sent:</Text>
+			<Text>Sändebud [ICON_Envoy] skickade:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_INFLUENCED_BY">
 			<Text>Influenced By:</Text>
@@ -3928,13 +3928,13 @@
 			<Text>View this city-state on the map.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_MAKE_PEACE">
-			<Text>Make Peace</Text>
+			<Text>Slut fred</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_NUMBER_ENVOYS">
 			<Text>[ICON_Envoy]{1_NumEnvoys} Envoys</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_NONE">
-			<Text>None</Text>
+			<Text>Ingen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_NONE_MET">
 			<Text>You have not yet met a city-state.</Text>
@@ -4001,7 +4001,7 @@
 			<Text>Suzerain:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_TITLE">
-			<Text>City-States</Text>
+			<Text>Stadsstater</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_TURNS_WAR">
 			<Text>Currently at war.[NEWLINE](Peace possible in {1_Turns} {1_Turns:plural 1?turn; other?turns;}.)</Text>
@@ -4010,47 +4010,47 @@
 			<Text>Recently was at war.[NEWLINE](Declaring war is possible in {1_Turns} {1_Turns:plural 1?turn; other?turns;}.)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_TYPE">
-			<Text>Type:</Text>
+			<Text>Typ:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_TYPE_CULTURAL">
-			<Text>Cultural</Text>
+			<Text>Kulturell</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_TYPE_INDUSTRIAL">
-			<Text>Industrial</Text>
+			<Text>Industriell</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_TYPE_MILITARISTIC">
-			<Text>Militaristic</Text>
+			<Text>Militaristisk</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_TYPE_RELIGIOUS">
-			<Text>Religious</Text>
+			<Text>Religiös</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_TYPE_SCIENTIFIC">
-			<Text>Scientific</Text>
+			<Text>Vetenskaplig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_TYPE_TRADE">
-			<Text>Trade</Text>
+			<Text>Handel</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOCAL_CITY_STATES_UNKNOWN">
 			<Text>Unmet Player</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_VIEW_ALL">
-			<Text>View All</Text>
+			<Text>Visa alla</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CITY_STATES_YOU">
-			<Text>You</Text>
+			<Text>Du</Text>
 		</Replace>
 		<!-- ==================== Great People Popup ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_ABILITIES">
-			<Text>Abilities:</Text>
+			<Text>Förmågor:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_ALL_POSSIBLE_CHOSEN">
 			<Text>All individuals of this type have already been earned.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_BACK">
-			<Text>Back</Text>
+			<Text>Tillbaka</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_BIOGRAPHY">
-			<Text>Biography</Text>
+			<Text>Biografi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_CLAIMED">
 			<Text>This Great Person has already been claimed!</Text>
@@ -4125,13 +4125,13 @@
 			<Text>Recruitment History</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_TAB_GREAT_PEOPLE">
-			<Text>Great People</Text>
+			<Text>Stora personligheter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_TAB_PREVIOUSLY_RECRUITED">
 			<Text>Previously Recruited</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_TITLE">
-			<Text>GREAT PEOPLE</Text>
+			<Text>STORA PERSONLIGHETER</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_PERSON_ACTIVATED">
 			<Text>Great Person activated!</Text>
@@ -4140,7 +4140,7 @@
 			<Text>Great Work created</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_RECRUITED_BY_YOU">
-			<Text>You</Text>
+			<Text>Du</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GREAT_PEOPLE_RECRUITED_BY_UNKNOWN">
 			<Text>An unknown player</Text>
@@ -4198,7 +4198,7 @@
 			<Text>Movement Phase</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_YOUR_TURN_BANNER">
-			<Text>Your Turn!</Text>
+			<Text>Din tur!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WAITING_ON_YOU_BANNER">
 			<Text>The game is waiting on you!</Text>
@@ -4418,22 +4418,22 @@
 		</Replace>
 		<!-- ==================== TradeRouteChooser ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_ROUTECHOOSER_BEGIN_ROUTE_BUTTON">
-			<Text>BEGIN ROUTE</Text>
+			<Text>STARTA RUTT</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ROUTECHOOSER_RECEIVES_RESOURCE">
 			<Text>{1_City} receives:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ROUTECHOOSER_TO_DESTINATION">
-			<Text>{1_City} TO...</Text>
+			<Text>{1_City} TILL...</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ROUTECHOOSER_FILTER_SHOWROUTES">
-			<Text>Show Routes</Text>
+			<Text>Visa rutter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ROUTECHOOSER_FILTER_ALL">
-			<Text>All</Text>
+			<Text>Alla</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ROUTECHOOSER_FILTER_CITYSTATES">
-			<Text>City-States</Text>
+			<Text>Stadsstater</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ROUTECHOOSER_SELECT_DESTINATION">
 			<Text>Select a Trade Route Destination.</Text>
@@ -4461,7 +4461,7 @@
 		</Replace>
 		<!-- ==================== DeclareWarPopup ==================== -->
 		<Replace Language="sv_SE" Tag="LOC_DECLARE_WAR_HEADER">
-			<Text>DECLARE WAR</Text>
+			<Text>FÖRKLARA KRIG</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DECLARE_WAR_ADVISOR_TEXT">
 			<Text>Before you declare war, you may wish to consider the consequences.</Text>
@@ -4537,7 +4537,7 @@
 			<Text>Tourists Needed for Culture Victory: {1_Percent}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORYSTATUS_CULTURE_TOURISTS_LABEL">
-			<Text>Tourists</Text>
+			<Text>Turister</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORYSTATUS_CULTURE_LIFETIMECULTURE_HEADER">
 			<Text>LIFETIME CULTURE</Text>
@@ -4546,13 +4546,13 @@
 			<Text>STAYCATIONERS</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORYSTATUS_CULTURE_TOURISM_HEADER">
-			<Text>TOURISM</Text>
+			<Text>TURISM</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORYSTATUS_CULTURE_TOURISTS_HEADER">
-			<Text>TOURISTS</Text>
+			<Text>TURISTER</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORYSTATUS_SCIENCE_EARTH_SATELLITE_HEADER">
-			<Text>SATELLITE</Text>
+			<Text>SATELLIT</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORYSTATUS_SCIENCE_SPACEPORTS_HEADER">
 			<Text>SPACEPORTS</Text>
@@ -4564,13 +4564,13 @@
 			<Text>MARS</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORYSTATUS_RELIGION_NONE">
-			<Text>none</Text>
+			<Text>ingen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORYSTATUS_RELIGION_FOUNDED_HEADER">
-			<Text>RELIGION FOUNDED</Text>
+			<Text>RELIGION GRUNDAD</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VICTORYSTATUS_RELIGION_PREDOMINANT_HEADER">
-			<Text>PREDOMINANT RELIGION</Text>
+			<Text>DOMINERANDE RELIGION</Text>
 		</Replace>
 		<!-- Multiplayer Last Remaining Player Popup -->
 		<Replace Language="sv_SE" Tag="TXT_KEY_MP_LAST_PLAYER">
@@ -4592,10 +4592,10 @@
 			<Text>Trade Route Overview[NEWLINE][NEWLINE]View and manage your [ICON_TradeRoute] Trade Routes.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_PRODUCTION_COST">
-			<Text>Cost</Text>
+			<Text>Kostnad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ESPIONAGE_TITLE">
-			<Text>ESPIONAGE</Text>
+			<Text>SPIONAGE</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_TRADEROUTES_TOOLTIP">
 			<Text>Outgoing [ICON_TradeRoute] Trade Routes (active / capacity)</Text>
@@ -4662,16 +4662,16 @@
 			<Text>{1_amount} from population</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_CITY">
-			<Text>City</Text>
+			<Text>Stad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_PRODUCTION">
-			<Text>Production</Text>
+			<Text>Produktion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_FOOD">
-			<Text>Food</Text>
+			<Text>Mat</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_GOLD">
-			<Text>Gold</Text>
+			<Text>Guld</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_FAITH">
 			<Text>Faith</Text>
@@ -4680,16 +4680,16 @@
 			<Text>Science</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_CULTURE">
-			<Text>Culture</Text>
+			<Text>Kultur</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_TOURISM">
-			<Text>Tourism</Text>
+			<Text>Turism</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_BUILDING">
 			<Text>Building</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_CIVILIZATION">
-			<Text>Civilization</Text>
+			<Text>Civilisation</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_HEADER_DURATION">
 			<Text>Duration</Text>
@@ -4761,7 +4761,7 @@
 			<Text>Net Per Turn:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_PER_TURN">
-			<Text>{1_Yield} Per Turn</Text>
+			<Text>{1_Yield} per omgång</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_ROW_BUILDING_EXPENSES">
 			<Text>Building Expenses</Text>
@@ -4812,22 +4812,22 @@
 			<Text>Trade</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_TRADE_IMPORTED">
-			<Text>Imported</Text>
+			<Text>Importerad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_TRADE_EXPORTED">
-			<Text>Exported</Text>
+			<Text>Exporterad</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_TRADE_OWNED">
-			<Text>Owned</Text>
+			<Text>Ägd</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_TRADE_WITH">
-			<Text>Trade with {1_leader}</Text>
+			<Text>Handel med {1_leader}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_TREASURY">
-			<Text>Treasury:</Text>
+			<Text>Statskassa:</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_TURNS">
-			<Text>{1_Turns : plural 1? turn; other? turns;}</Text>
+			<Text>{1_Turns : plural 1? omgång; other? omgångar;}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HUD_REPORTS_VIEW_REPORTS">
 			<Text>View Reports</Text>
@@ -5063,13 +5063,13 @@
 			<Text>[NEWLINE]Worked by {1_Citizens} [ICON_Citizen] {1_Citizens : plural 1?Citizen; other?Citizens;}.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_CONTAMINATED_TEXT">
-			<Text>[COLOR:Civ6Red]CONTAMINATED: {1_Fallout} turns[ENDCOLOR]</Text>
+			<Text>[COLOR:Civ6Red]FÖRORENAD: {1_Fallout} omgångar[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_BUILDINGS_TEXT">
-			<Text>Buildings: </Text>
+			<Text>Byggnader: </Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_PILLAGED_TEXT">
-			<Text>(Pillaged)</Text>
+			<Text>(Skövlad)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_ADJACENCY_TEXT">
 			<Text>(Adjacency Bonus)</Text>
@@ -5078,10 +5078,10 @@
 			<Text>Impassable</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_CONSTRUCTION_TEXT">
-			<Text>(Under Construction)</Text>
+			<Text>(Under uppbyggnad)</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_WONDER_TEXT">
-			<Text>Wonder:[NEWLINE]</Text>
+			<Text>Underverk:[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TOOLTIP_PLOT_WOODS_OLD_GROWTH">
 			<Text>(old-growth)</Text>
@@ -5194,7 +5194,7 @@
 			<Text>Commence launch sequence?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LAUNCH_ICBM_DIALOG_LAUNCH">
-			<Text>Fire!</Text>
+			<Text>Eld!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LAUNCH_ICBM_DIALOG_CANCEL">
 			<Text>Stand down</Text>
@@ -5203,7 +5203,7 @@
 			<Text>Commence bombing mission?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LAUNCH_WMD_DIALOG_LAUNCH">
-			<Text>Proceed!</Text>
+			<Text>Fortsätt!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_LAUNCH_WMD_DIALOG_CANCEL">
 			<Text>Stand down</Text>
