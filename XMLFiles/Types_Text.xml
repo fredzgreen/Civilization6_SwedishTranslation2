@@ -2378,46 +2378,46 @@
 		</Replace>
 		<!-- Techs -->
 		<Replace Language="sv_SE" Tag="LOC_TECH_ADVANCED_BALLISTICS_NAME">
-			<Text>Advanced Ballistics</Text>
+			<Text>Avancerad Ballistik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ADVANCED_FLIGHT_NAME">
-			<Text>Advanced Flight</Text>
+			<Text>Avancerade Flyg</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ANIMAL_HUSBANDRY_NAME">
-			<Text>Animal Husbandry</Text>
+			<Text>Djurhållning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ARCHERY_NAME">
-			<Text>Archery</Text>
+			<Text>Bågskytte</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ASTROLOGY_NAME">
-			<Text>Astrology</Text>
+			<Text>Astrologi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_ASTRONOMY_NAME">
-			<Text>Astronomy</Text>
+			<Text>Astronomi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_BALLISTICS_NAME">
-			<Text>Ballistics</Text>
+			<Text>Ballistik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_BANKING_NAME">
-			<Text>Banking</Text>
+			<Text>Bankväsen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_BRONZE_WORKING_NAME">
-			<Text>Bronze Working</Text>
+			<Text>Bronsbearbetning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CARTOGRAPHY_NAME">
-			<Text>Cartography</Text>
+			<Text>Kartografi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CELESTIAL_NAVIGATION_NAME">
-			<Text>Celestial Navigation</Text>
+			<Text>Astronomisk navigering<Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CHEMISTRY_NAME">
-			<Text>Chemistry</Text>
+			<Text>Kemi</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_COMBINED_ARMS_NAME">
-			<Text>Combined Arms</Text>
+			<Text>Kombinerade Handeldvapen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_COMBUSTION_NAME">
-			<Text>Combustion</Text>
+			<Text>Förbränning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_COMPOSITES_NAME">
 			<Text>Composites</Text>
