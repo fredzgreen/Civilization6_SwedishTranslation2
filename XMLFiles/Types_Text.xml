@@ -2466,7 +2466,7 @@
 			<Text>Datorer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CONSTRUCTION_NAME">
-			<Text>Construction</Text>
+			<Text>Konstruktion</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CURRENCY_NAME">
 			<Text>Valuta</Text>
