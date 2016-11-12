@@ -1,3 +1,4 @@
+#Grundterräng
 Kust - Coast, 
 Öken - Desert, 
 Gräsmark - Grassland, 
@@ -7,3 +8,6 @@ Snö - Snow,
 Tundra - Tundra,
 Kullar - Hills,
 Berg - Mountains.
+
+#Specialterräng 
+Betesmark - Pastures
