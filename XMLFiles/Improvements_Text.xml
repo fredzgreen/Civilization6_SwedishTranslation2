@@ -43,39 +43,39 @@
 			<Text>Enhet som befinner sig på rutan får +4 [ICON_Strength] Försvarsstyrka, och får automatiskt 2 rundor med befästning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
-			<Text>Låser upp Military Engineer förmåga att konstruera an Airstrip.[NEWLINE][NEWLINE]Can support 3 air units. Kan bara byggas på flat terrain.</Text>
+			<Text>Låser upp Militärenginjörens förmåga att konstruera en Landningsbanor.[NEWLINE][NEWLINE]Kan supportera 3 Luftburna enheter. Kan bara byggas på plan terräng.</Text>
 		</Replace>
 		<!--Unique Improvements Description-->
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera a Chateau, unik för Frankrike.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture. +2 [ICON_Culture] Culture if next att a wonder. +1 [ICON_Gold] Guld if next att a Luxury resource. Can only be built adjacent att Rivers.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera ett Chateau, unik för Frankrike.[NEWLINE][NEWLINE]+1 [ICON_Culture] Kultur. +2 [ICON_Culture] Kultur om bredvid ett under. +1 [ICON_Gold] Guld om bredvid en lyxresurs. Kan bara byggas vid Floder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera a Colossal Head.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. +1 [ICON_Faith] Faith for every 2 adjacent Rainforest. +1 [ICON_Faith] Faith for every 2 adjacent Woods. Cannot be built on Snow eller Snow Hills.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera ett Kolossalt Huvud.[NEWLINE][NEWLINE]+2 [ICON_Faith] Övertygelse. +1 [ICON_Faith] Övertygelse för varje 2 närliggande Regnskog. +1 [ICON_Faith] Övertygelse för varje 2 närliggande Skog. Kan inte byggas på Snö eller Snökullar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera the Great Wall, unik för Kina.[NEWLINE][NEWLINE]Provides an increase att [ICON_Strength] Defense. Bonus att [ICON_Gold] Guld if adjacent att other segments. Additional [ICON_Culture] Culture and [ICON_Tourism] Tourism as you advance through the Technology Tree for adjacent segments. Must be built in a line along the borders of your empire.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera den Kinesiska Muren, unik för Kina.[NEWLINE][NEWLINE]Ger ökat [ICON_Strength] Försvar. Bonus [ICON_Gold] Guld om nära andra delar av muren. Ytterligare [ICON_Culture] Kultur och [ICON_Tourism] Turism allt eftersom du avancerar genom Teknologi-trädet för närliggande segment. Måste byggas i en linje längsmed gränsen av ditt rike.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera a Kurgan, unik för Skytien.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith. +1 [ICON_Gold] Guld. +1 [ICON_Faith] Faith for each adjacent Pasture. Cannot be built on Hills.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera en Kurgan, unik för Skytien.[NEWLINE][NEWLINE]+1 [ICON_Faith] Övertygelse. +1 [ICON_Gold] Guld. +1 [ICON_Faith] Övertygelse för varje närliggande betesmark. Kan inte byggas på Kullar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera a Mission, unik för Spanien.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith. +2 [ICON_Faith] Faith if on a different continent than your [ICON_Capital] Capital. +1 [ICON_Science] Science if built next att a Campus district.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera en Mission, unik för Spanien.[NEWLINE][NEWLINE]+1 [ICON_Faith] Övertygelse. +2 [ICON_Faith] Övertygelse om den är på en annan kontinent än din [ICON_Capital] Huvudstad. +1 [ICON_Science] Vetenskap om byggd nära ett Campus distrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
-			<Text>Låser upp Roman Legion förmåga att konstruera a Roman Fort, unik för Rom.[NEWLINE][NEWLINE]Occupying unit receives +4 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification.</Text>
+			<Text>Låser upp Roman Legion förmåga att konstruera ett Romansk Fort, unik för Rom.[NEWLINE][NEWLINE]Enhet som befinner sig på rutan får +4 [ICON_Strength] Försvarsstyrka, och får automatiskt 2 rundor med befästning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera a Sphinx, unik för Egypten.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith and +1 [ICON_Culture] Culture. +2 [ICON_Faith] Faith if next att a wonder. Cannot be built next att another Sphinx. Can be built on Floodplains.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera en Sfinx, unik för Egypten.[NEWLINE][NEWLINE]+1 [ICON_Faith] Övertygelse och +1 [ICON_Culture] Kultur. +2 [ICON_Faith] Övertygelse om nära ett under. Kan inte byggas nära en annan Sfinx. Kan byggas på Flodslätt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera a Stepwell, unik för Indien.[NEWLINE][NEWLINE]1 [ICON_Food] Food and +1 [ICON_Housing] Housing. +1 [ICON_Faith] Faith if adjacent att a Holy Site district. +1 [ICON_Food] Food if adjacent att a Farm. Cannot be built on Hills eller adjacent att another Stepwell.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera a Trappbrunn, unik för Indien.[NEWLINE][NEWLINE]1 [ICON_Food] Food and +1 [ICON_Housing] Housing. +1 [ICON_Faith] Övertygelse if adjacent att a Holy Site district. +1 [ICON_Food] Food if adjacent att a Farm. Cannot be built on Hills eller adjacent att another Stepwell.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera a Ziqqurat, unik för Sumer.[NEWLINE][NEWLINE]+2 [ICON_Science] Science. +1 [ICON_Culture] Culture if next att River. Cannot be built on Hills.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera a Ziggurat, unik för Sumerien.[NEWLINE][NEWLINE]+2 [ICON_Science] Vetenskap. +1 [ICON_Culture] Kultur om nära Flod. Kan inte byggas på Kullar.</Text>
 		</Replace>
 		<!--Goody Huts -->
 		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
-			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} Relic Was Awarded[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} Du fick en Relik.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
 			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
@@ -96,25 +96,25 @@
 			<Text>+{1_Num} [ICON_Faith]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
-			<Text>[COLOR_FLOAT_MILITARY]You are granted a recon unit.[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_MILITARY]Du fick en Spejare enhet.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
-			<Text>[COLOR_FLOAT_MILITARY]Your unit has been upgraded.[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_MILITARY]Din enhet blev befordrad.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
-			<Text>[COLOR_FLOAT_MILITARY]Your unit has earned experience.[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_MILITARY]Din enhet har fått erfarenhet.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
-			<Text>[COLOR_FLOAT_MILITARY]Your unit has been healed.[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_MILITARY]Din enhet har helats.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
-			<Text>[COLOR_FLOAT_SCIENCE]One free Technology.[ENDCOLOR]</Text>
+			<Text>[COLOR_FLOAT_SCIENCE]En gratis teknologi.[ENDCOLOR]</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
-			<Text>+{1_Num} New Population</Text>
+			<Text>+{1_Num} Ny befolkning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
-			<Text>You are granted {1_Num}  {1_Num: plural 1?{2_Unit} unit; other?{2_Unit} units;}.</Text>
+			<Text>Du blev tilldelad {1_Num}  {1_Num: plural 1?{2_Unit} enhet; other?{2_Unit} enheter;}.</Text>
 		</Replace>
 		<!--Barbarian Camps -->
 		<Replace Language="sv_SE" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION">
@@ -125,7 +125,7 @@
 		</Replace>
 		<!--Nuclear -->
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
-			<Text>Låser upp Military Engineer förmåga att konstruera a Missile Silo.[NEWLINE][NEWLINE]Acts as a launch site for Nuclear and Thermonuclear Devices.</Text>
+			<Text>Låser upp Militärenginjörens förmåga att konstruera en Missil-Silo.[NEWLINE][NEWLINE]Fungerar som en avfyrningsplats för Atom och Termo-nuklära vapen.</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
