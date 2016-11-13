@@ -3,28 +3,28 @@
 <GameData>
 	<LocalizedText>
 		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_SETTLER_NAME">
-			<Text>Settler</Text>
+			<Text>Nybyggare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_CHIEFTAIN_NAME">
-			<Text>Chieftain</Text>
+			<Text>Hövding</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_WARLORD_NAME">
-			<Text>Warlord</Text>
+			<Text>Fältherre</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_PRINCE_NAME">
-			<Text>Prince</Text>
+			<Text>Prins</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_KING_NAME">
-			<Text>King</Text>
+			<Text>Kung</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_EMPEROR_NAME">
-			<Text>Emperor</Text>
+			<Text>Kejsare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_IMMORTAL_NAME">
-			<Text>Immortal</Text>
+			<Text>Odödlig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_DEITY_NAME">
-			<Text>Deity</Text>
+			<Text>Gudom</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>

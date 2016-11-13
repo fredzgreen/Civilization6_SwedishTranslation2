@@ -946,35 +946,35 @@
 			<Text>Inhav</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAP_ISLAND_PLATES">
-			<Text>Island Plates</Text>
+			<Text>Öar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAP_PANGAEA">
 			<Text>Pangaea</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAP_SHUFFLE">
-			<Text>Shuffle</Text>
+			<Text>Slumpa</Text>
 		</Replace>
 		<!-- Map Sizes -->
 		<Replace Language="sv_SE" Tag="LOC_MAP_SIZE">
 			<Text>Kartstorlek</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_DUEL_NAME">
-			<Text>Duel</Text>
+			<Text>Duell</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_TINY_NAME">
-			<Text>Tiny</Text>
+			<Text>Mycket liten</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_SMALL_NAME">
-			<Text>Small</Text>
+			<Text>Liten</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_STANDARD_NAME">
-			<Text>Standard</Text>
+			<Text>Normal</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_LARGE_NAME">
-			<Text>Large</Text>
+			<Text>Stor</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_HUGE_NAME">
-			<Text>Huge</Text>
+			<Text>Enorm</Text>
 		</Replace>
 		<!-- Features -->
 		<Replace Language="sv_SE" Tag="LOC_FEATURE_FLOODPLAINS_NAME">
@@ -1627,29 +1627,29 @@
 			<Text>Kommunism</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_DEMOCRACY_NAME">
-			<Text>Democrati</Text>
+			<Text>Demokrati</Text>
 		</Replace>
 		<!-- Happinesses-->
 		<Replace Language="sv_SE" Tag="LOC_HAPPINESS_REVOLT_NAME">
 			<Text>Revolt</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HAPPINESS_UNREST_NAME">
-			<Text>Unrest</Text>
+			<Text>Oro</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HAPPINESS_UNHAPPY_NAME">
-			<Text>Unhappy</Text>
+			<Text>Olycklig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HAPPINESS_DISPLEASED_NAME">
-			<Text>Displeased</Text>
+			<Text>Missnöjd</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HAPPINESS_CONTENT_NAME">
-			<Text>Content</Text>
+			<Text>Nöjd</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HAPPINESS_HAPPY_NAME">
-			<Text>Happy</Text>
+			<Text>Lycklig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_HAPPINESS_ECSTATIC_NAME">
-			<Text>Ecstatic</Text>
+			<Text>Extatisk</Text>
 		</Replace>
 		<!-- Improvements -->
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_NAME">
@@ -1657,7 +1657,8 @@
 			<Gender>Neuter</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_GOODY_HUT_NAME">
-			<Text>Tribal Village</Text>
+			<Text>Stamby</Text>
+			<Gender>Feminine</Gender>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_FARM_NAME">
 			<Text>Farm</Text>
@@ -2466,7 +2467,7 @@
 			<Text>Datorer</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CONSTRUCTION_NAME">
-			<Text>Konstruktion</Text>
+			<Text>Construction</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_TECH_CURRENCY_NAME">
 			<Text>Valuta</Text>

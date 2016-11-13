@@ -47,31 +47,31 @@
 		</Replace>
 		<!--Unique Improvements Description-->
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
-			<Text>Låser upp Byggare förmåga att konstruera a Chateau, unique att France.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture. +2 [ICON_Culture] Culture if next att a wonder. +1 [ICON_Gold] Guld if next att a Luxury resource. Can only be built adjacent att Rivers.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera a Chateau, unik för Frankrike.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture. +2 [ICON_Culture] Culture if next att a wonder. +1 [ICON_Gold] Guld if next att a Luxury resource. Can only be built adjacent att Rivers.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
-			<Text>Låser upp Byggare förmåga att konstruera a Colossal Head.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. +1 [ICON_Faith] Faith for every 2 adjacent Rainforest. +1 [ICON_Faith] Faith for every 2 adjacent Woods. Cannot be built on Snow eller Snow Hills.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera a Colossal Head.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. +1 [ICON_Faith] Faith for every 2 adjacent Rainforest. +1 [ICON_Faith] Faith for every 2 adjacent Woods. Cannot be built on Snow eller Snow Hills.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
-			<Text>Låser upp Byggare förmåga att konstruera the Great Wall, unique att China.[NEWLINE][NEWLINE]Provides an increase att [ICON_Strength] Defense. Bonus att [ICON_Gold] Guld if adjacent att other segments. Additional [ICON_Culture] Culture and [ICON_Tourism] Tourism as you advance through the Technology Tree for adjacent segments. Must be built in a line along the borders of your empire.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera the Great Wall, unik för Kina.[NEWLINE][NEWLINE]Provides an increase att [ICON_Strength] Defense. Bonus att [ICON_Gold] Guld if adjacent att other segments. Additional [ICON_Culture] Culture and [ICON_Tourism] Tourism as you advance through the Technology Tree for adjacent segments. Must be built in a line along the borders of your empire.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
-			<Text>Låser upp Byggare förmåga att konstruera a Kurgan, unique att Scythia.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith. +1 [ICON_Gold] Guld. +1 [ICON_Faith] Faith for each adjacent Pasture. Cannot be built on Hills.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera a Kurgan, unik för Skytien.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith. +1 [ICON_Gold] Guld. +1 [ICON_Faith] Faith for each adjacent Pasture. Cannot be built on Hills.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
-			<Text>Låser upp Byggare förmåga att konstruera a Mission, unique att Spain.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith. +2 [ICON_Faith] Faith if on a different continent than your [ICON_Capital] Capital. +1 [ICON_Science] Science if built next att a Campus district.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera a Mission, unik för Spanien.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith. +2 [ICON_Faith] Faith if on a different continent than your [ICON_Capital] Capital. +1 [ICON_Science] Science if built next att a Campus district.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
-			<Text>Låser upp Roman Legion förmåga att konstruera a Roman Fort, unique att Rome.[NEWLINE][NEWLINE]Occupying unit receives +4 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification.</Text>
+			<Text>Låser upp Roman Legion förmåga att konstruera a Roman Fort, unik för Rom.[NEWLINE][NEWLINE]Occupying unit receives +4 [ICON_Strength] Defense Strength, and automatically gains 2 turns of fortification.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
-			<Text>Låser upp Byggare förmåga att konstruera a Sphinx, unique att Egypt.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith and +1 [ICON_Culture] Culture. +2 [ICON_Faith] Faith if next att a wonder. Cannot be built next att another Sphinx. Can be built on Floodplains.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera a Sphinx, unik för Egypten.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith and +1 [ICON_Culture] Culture. +2 [ICON_Faith] Faith if next att a wonder. Cannot be built next att another Sphinx. Can be built on Floodplains.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
-			<Text>Låser upp Byggare förmåga att konstruera a Stepwell, unique att India.[NEWLINE][NEWLINE]1 [ICON_Food] Food and +1 [ICON_Housing] Housing. +1 [ICON_Faith] Faith if adjacent att a Holy Site district. +1 [ICON_Food] Food if adjacent att a Farm. Cannot be built on Hills eller adjacent att another Stepwell.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera a Stepwell, unik för Indien.[NEWLINE][NEWLINE]1 [ICON_Food] Food and +1 [ICON_Housing] Housing. +1 [ICON_Faith] Faith if adjacent att a Holy Site district. +1 [ICON_Food] Food if adjacent att a Farm. Cannot be built on Hills eller adjacent att another Stepwell.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
-			<Text>Låser upp Byggare förmåga att konstruera a Ziggurat, unique att Sumeria.[NEWLINE][NEWLINE]+2 [ICON_Science] Science. +1 [ICON_Culture] Culture if next att River. Cannot be built on Hills.</Text>
+			<Text>Låser upp Byggarens förmåga att konstruera a Ziqqurat, unik för Sumer.[NEWLINE][NEWLINE]+2 [ICON_Science] Science. +1 [ICON_Culture] Culture if next att River. Cannot be built on Hills.</Text>
 		</Replace>
 		<!--Goody Huts -->
 		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
