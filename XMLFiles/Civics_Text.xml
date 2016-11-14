@@ -43,7 +43,7 @@
 			<Text>Lägerförbättringar ger +1 [ICON_Production] Produktion. </Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION">
-			<Text>Religiös [ICON_Tourism] Turism effekter halveras mot din civilisation.</Text>
+			<Text>Religiösa [ICON_Tourism] Turism-effekter halveras mot din civilisation.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
 			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
@@ -67,7 +67,7 @@
 			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud. Tillåter byggandet av Nationalparker och köp av Naturalister med [ICON_Faith] Övertygelse. Tillåter Byggare att plantera Skog (ny-tillväxt). Skog i ditt territoriun som har aldrig har huggits ner (gammal-skog) ökar med +1 Attraktionskraft.</Text>
+			<Text>Belönar med 1 [ICON_Envoy] Sändebud. Tillåter byggandet av Nationalparker och köp av Naturforskare med [ICON_Faith] Övertygelse. Tillåter Byggare att plantera Skog (ny-tillväxt). Skog i ditt territoriun som har aldrig har huggits ner (gammal-skog) ökar med +1 Attraktionskraft.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
 			<Text>Tillåter formation av Försvarspakter. Tillåter formaringen av tre identistka enheter till en Armé eller Armada. Tillåter en ny Krigsorsak (Casus Belli) som kan rättfärdiga krig: Terrotoriellt expansionskrig.</Text>
