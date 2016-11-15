@@ -125,49 +125,49 @@
 			<Text>Bygg en Militärförläggning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_DEFENSIVE_TACTICS">
-			<Text>Be the target of a Declaration of War.</Text>
+			<Text>Bonus ges om någon har deklarerat krig mot dig.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RECORDED_HISTORY">
-			<Text>Build 2 Campus districts.</Text>
+			<Text>Bygg 2 Campus-distrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_THEOLOGY">
-			<Text>Found a Religion.</Text>
+			<Text>Grunda en Religion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NAVAL_TRADITION">
-			<Text>Kill a unit with a Quadrireme.</Text>
+			<Text>Döda en enhet men en Fyrroddare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_FEUDALISM">
-			<Text>Build 6 Farms.</Text>
+			<Text>Bygg 6 Bondgårdar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
-			<Text>Grow a city to 10 population.</Text>
+			<Text>Ha en stad som nått 10 i befolkning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MERCENARIES">
-			<Text>Have 8 land combat units in your military.</Text>
+			<Text>Ha 8 land stridsenheter in din armé.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES">
-			<Text>Maintain 4 Trade Routes.</Text>
+			<Text>Ha 4 Handelsrutter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GUILDS">
-			<Text>Build 2 Markets.</Text>
+			<Text>Bygg 2 Marknader.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_DIVINE_RIGHT">
-			<Text>Build 2 Temples.</Text>
+			<Text>Bygg 2 Tempel.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_EXPLORATION">
-			<Text>Build 2 Caravels.</Text>
+			<Text>Bygg 2 Karaveller.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_HUMANISM">
-			<Text>Earn a Great Artist.</Text>
+			<Text>Få en Stor Konstnär.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_DIPLOMATIC_SERVICE">
-			<Text>Have an alliance with another civilization.</Text>
+			<Text>Ha en allians med en annan civilisation.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_REFORMED_CHURCH">
-			<Text>Have 6 cities Following your Religion.</Text>
+			<Text>Ha 6 städer som följer din Religion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MERCANTILISM">
-			<Text>Earn a Great Merchant.</Text>
+			<Text>Få en Stor Handelsman.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
 			<Text>Earn 3 Great People.</Text>
