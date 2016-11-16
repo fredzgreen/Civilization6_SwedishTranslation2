@@ -170,73 +170,73 @@
 			<Text>Få en Stor Handelsman.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
-			<Text>Earn 3 Great People.</Text>
+			<Text>Få 3 Stora Personer.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
-			<Text>Build 7 different specialty districts.</Text>
+			<Text>Bygg 7 olika special distrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NATIONALISM">
-			<Text>Declare war using a casus belli.</Text>
+			<Text>Förklara krig och använt ett Casus Belli.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_OPERA_BALLET">
-			<Text>Build an Art Museum.</Text>
+			<Text>Bygg ett Konstmuseum.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COLONIALISM">
-			<Text>Research the Astronomy technology.</Text>
+			<Text>Utforska Astronomi.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NATURAL_HISTORY">
-			<Text>Build an Archaeological Museum.</Text>
+			<Text>Bygg ett Arkeologiskt Museum.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_URBANIZATION">
-			<Text>Grow a city to 15 population.</Text>
+			<Text>Låt en stad växa till en befolkning på 15.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SCORCHED_EARTH">
-			<Text>Build 2 Field Cannons.</Text>
+			<Text>Bygg 2 Fältkanoner.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CONSERVATION">
-			<Text>Have a Neighborhood district with Breathtaking Appeal.</Text>
+			<Text>Ha ett grannskapsdistrikt med Förtrollande Attraktionskraft.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
-			<Text>Have 3 Corps in your military.</Text>
+			<Text>Ha 3 Kårer i din armé.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MASS_MEDIA">
-			<Text>Research Radio.</Text>
+			<Text>Utforska Radio.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CAPITALISM">
-			<Text>Build 3 Stock Exchanges.</Text>
+			<Text>Bygg 3 Börser.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NUCLEAR_PROGRAM">
-			<Text>Build a Research Lab.</Text>
+			<Text>Bygg ett Forskning labb.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SUFFRAGE">
-			<Text>Build 4 Sewers.</Text>
+			<Text>Bygg 4 Avlopp.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_TOTALITARIANISM">
-			<Text>Build 3 Military Academies.</Text>
+			<Text>Bygg 3 Militärakademier.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CLASS_STRUGGLE">
-			<Text>Build 3 Factories.</Text>
+			<Text>Bygg 3 Fabriker.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COLD_WAR">
-			<Text>Research the Nuclear Fission technology.</Text>
+			<Text>Utforska Kärnfission.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS">
-			<Text>Build 4 Entertainment Complex districts.</Text>
+			<Text>Bygg 4 Underhållningsdistrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CULTURAL_HERITAGE">
-			<Text>Have a Themed Museum.</Text>
+			<Text>Ha ett Museum med tema.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RAPID_DEPLOYMENT">
-			<Text>Build an Aerodrome or Airstrip on a foreign continent.</Text>
+			<Text>Bygg en Aerodrom eller Landningsbana på en främmande kontinent.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SPACE_RACE">
-			<Text>Build a Spaceport district.</Text>
+			<Text>Bygg ett Rymdhamnsdistrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GLOBALIZATION">
-			<Text>Build 3 Airports.</Text>
+			<Text>Bygg 3 Flygplatser.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SOCIAL_MEDIA">
-			<Text>Research the Telecommunications technology.</Text>
+			<Text>Utforska Telekommunikation.</Text>
 		</Replace>
 		<!-- Civic Boosts Long Descriptions-->
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP">
