@@ -243,6 +243,7 @@
 			<Text>Nu när med marken runt din första stad har utvecklats bra, så kan vi kan finjustera våra produktionsmetoder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE">
+			<Text>Du har upptäckt en ny kontinent och inser du att det finns en hel värld av handelsmöjligheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
 			<Text>Dina soldater hoppas att segern över ett Barbarläger är bara början på en lång rad av militära framgångar.</Text>
@@ -257,6 +258,7 @@
 			<Text>Dyrkan av din pantheon av gudar har fört upp ytterligare frågor om andliga krafter i vår värld.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION">
+			<Text>Dina nya färdigheter i Konstruktion kommer säkert att bidra till att bygga mötesplatser för spel och underhållning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY">
 			<Text>Din kontakt med andra stater har kristalliserat dina idéer på hur du styr ditt eget folk.</Text>
@@ -265,8 +267,10 @@
 			<Text>Äran av att ha slutfört ett under har upplivat ditt folk. De skriver verk för att fira denna stora händelse.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING">
+			<Text>Med en militärförläggning nu på plats, kan vi formalisera vår militärutbildning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS">
+			<Text>Inför hotet om invasion, är ditt folk redo att konstruera uppfinningsrika försvarsmetoder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
 			<Text>Med planer på att hysa många rullar i biblioteken på ditt campus, börjar ditt folk skriva ner historien om ditt imperium.</Text>
