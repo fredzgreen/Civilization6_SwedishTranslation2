@@ -240,40 +240,36 @@
 		</Replace>
 		<!-- Civic Boosts Long Descriptions-->
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP">
-			<Text>With the land around our first city developing nicely, we can fine tune our production techniques.</Text>
+			<Text>Nu när med marken runt din första stad har utvecklats bra, så kan vi kan finjustera våra produktionsmetoder.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE">
-			<Text>Having discovered another continent we realize there is a wide world of trading opportunities.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
-			<Text>Your soldiers hope your victory over a Barbarian Outpost is the start of a long line of military successes.</Text>
+			<Text>Dina soldater hoppas att segern över ett Barbarläger är bara början på en lång rad av militära framgångar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
-			<Text>Bringing our first district online has proven the value of conscripting workers for state projects.</Text>
+			<Text>Vårt första distrikt är färdigt och har visat nyttan av att rekrytera arbetare för statliga projekt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
-			<Text>The growing number of citizens in your lands dream of having an empire.</Text>
+			<Text>Det ökande antalet medborgare i ditt land drömmer nu om att ha ett imperium.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM">
-			<Text>Worship of your pantheon of gods has brought up further questions about spiritual forces in our world.</Text>
+			<Text>Dyrkan av din pantheon av gudar har fört upp ytterligare frågor om andliga krafter i vår värld.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION">
-			<Text>Your new skills in construction will surely help create venues for games and entertainment.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY">
-			<Text>Your contact with other states has crystallized your ideas on governing your own people.</Text>
+			<Text>Din kontakt med andra stater har kristalliserat dina idéer på hur du styr ditt eget folk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_DRAMA_POETRY">
-			<Text>The glory of completing a wonder has energized your people. They are writing works to commemorate this great event.</Text>
+			<Text>Äran av att ha slutfört ett under har upplivat ditt folk. De skriver verk för att fira denna stora händelse.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING">
-			<Text>With an Encampment now in place, we can formalize our military training.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS">
-			<Text>Faced with the threat of invasion, your people are ready to come up with innovative defenses.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
-			<Text>With plans to house many scrolls in the libraries of your campuses, your people begin to record the history of your empire.</Text>
+			<Text>Med planer på att hysa många rullar i biblioteken på ditt campus, börjar ditt folk skriva ner historien om ditt imperium.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
 			<Text>The formation of a Religion by your Great Prophet inspires deeper thought on the nature of the divine.</Text>
