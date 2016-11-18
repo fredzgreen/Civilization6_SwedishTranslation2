@@ -276,16 +276,16 @@
 			<Text>Med planer på att hysa många rullar i biblioteken på ditt campus, börjar ditt folk skriva ner historien om ditt imperium.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
-			<Text>The formation of a Religion by your Great Prophet inspires deeper thought on the nature of the divine.</Text>
+			<Text>Bildandet av en religion av din stora profet inspirerar till djupare tankar på det gudomligas natur.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION">
-			<Text>Your victory at sea inspires your people to strive to become a naval power.</Text>
+			<Text>Din seger till sjöss inspirerar ditt folk att sträva efter att bli en supermakt till sjöss.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
-			<Text>A system of lords and vassals is forming to manage all the farmlands of your empire.</Text>
+			<Text>Ett system av lordar och vasaller håller på att  bildas för att styra all jordbruksmark i ditt rike.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
-			<Text>Your large urban center will soon require a corps of bureaucrats.</Text>
+			<Text>Dina storstadsområden kommer snart att kräva en kår av byråkrater.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
 			<Text>With such a large standing army, you may want to consider adding mercenaries if your army needs to expand further.</Text>
