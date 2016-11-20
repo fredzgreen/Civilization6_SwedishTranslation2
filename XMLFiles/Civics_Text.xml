@@ -288,61 +288,61 @@
 			<Text>Dina storstadsområden kommer snart att kräva en kår av byråkrater.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
-			<Text>With such a large standing army, you may want to consider adding mercenaries if your army needs to expand further.</Text>
+			<Text>Med en sådan stor stående armé, kan du överväga att lägga till legosoldater  om din armé behöver expandera ytterligare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES">
-			<Text>The increase of commerce through your lands will soon attract a trade fair.</Text>
+			<Text>Ökningen av handel överallt i ditt rike kommer snart att locka till sig en mässa.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
-			<Text>The success of your commercial districts has spurred the growth of trade guilds.</Text>
+			<Text>Framgången för dina kommersiella distrikt har drivit på tillväxten av handelsskrån.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
-			<Text>Your devout people believe strongly that your rule is a blessing from the divine.</Text>
+			<Text>Dina fromma människor tror starkt på att ditt styre är en välsignelse från det gudomliga.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION">
-			<Text>The lessons you have learned from Caravel exploration have led to a new way of governing your people.</Text>
+			<Text>De lärdomar som utforskning med Karaveller har lärt dig, har lett till ett nytt sätt att styra ditt folk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_HUMANISM">
-			<Text>The inspiration provided by your newly-acquired Great Artist is awakening our people to the power of the individual.</Text>
+			<Text>Inspiration från din nyligen förvärvade Stora Konstnär har gjort vårt folk medvetna om kraften i individen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE">
-			<Text>The legwork to build an alliance has trained up your first corps of diplomats.</Text>
+			<Text>Uppdraget att bygga en allians har tränat upp din första kår av diplomater.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
-			<Text>The growth of your Religion comes with the danger of schism. Reforming corrupt church practices better happen soon!</Text>
+			<Text>Tillväxten av din religion kommer med en risk för splittring. Reformationen av korrupta kyrkliga beteenden måste ske snart!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
-			<Text>Your new Great Merchant is sharing ideas on how we can get the edge on our economic competitors.</Text>
+			<Text>Din nya Stora Handelsman delar sina idéer om hur vi kan få övertaget över våra ekonomiska konkurrenter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT">
-			<Text>The ideas from your great people have inspired intellectual discussion throughout the land.</Text>
+			<Text>Idéerna från dina Stora Människor har inspirerat intellektuella diskussionen i hela landet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
-			<Text>Your new knowledge of the heavens is helping your navy navigate and establish a global empire.</Text>
+			<Text>Din nya kunskap om himlen hjälper din flotta navigera och upprätta ett globalt imperium.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
-			<Text>Having constructed so many types of districts, your engineers have become skilled in city construction.</Text>
+			<Text>Genom att ha konstruerat så många typer av distrikt, så har dina ingenjörer blivit skickliga i stadskonstruktion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
-			<Text>Your people believe in the just nature of this war.  It has become an issue of national pride for us!</Text>
+			<Text>Ditt folk tror på att detta krig är rättfärdigat. Det har blivit en fråga om nationell stolthet för oss!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
-			<Text>The unveiling of a new museum is drawing people to the arts. Perhaps dance and opera are next?</Text>
+			<Text>Avtäckningen av ett nytt museum drar människor till konsterna. Kanske dans och opera kommer härnäst?</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
-			<Text>With a museum now ready to hold your findings, it is time to see what you can discover out in the natural world.</Text>
+			<Text>Med ett museum nu redo att hålla dina klenoder, är det dags att se vad du kan upptäcka uti i världen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
-			<Text>Your large city is getting overcrowded. It's time to start planning for some suburbs.</Text>
+			<Text>Din storstad håller på att bli överfull. Det är dags att börja planera för några förorter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
-			<Text>Modern warfare is clearly a brutal affair.  Your military doctrine is starting to reflect some of these principles of total war.</Text>
+			<Text>Modern krigsföring är helt klart en brutal affär. Din militära doktrin börjar reflektera en del av dessa principer för totalt krig.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
-			<Text>The residents of your breathtaking new neighborhood clamor for a plan to conserve all the world’s natural treasures.</Text>
+			<Text>Invånarna i din hisnande ny stadsdel har högljudda krav på en plan för att bevara alla världens naturskatter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
-			<Text>The advent of radio beckons the start of a new era of communication.</Text>
+			<Text>Tillkomsten av radio lockar till starten av en ny era av kommunikation.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
 			<Text>Your military is better organized. Now time to take your force to the world stage.</Text>
