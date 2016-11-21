@@ -345,102 +345,102 @@
 			<Text>Tillkomsten av radio lockar till starten av en ny era av kommunikation.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
-			<Text>Your military is better organized. Now time to take your force to the world stage.</Text>
+			<Text>Din militär har blivit bättre organiserad. Nu är det dags visa din makt på världsscenen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM">
-			<Text>With stock exchanges springing up in several cities, investment capital is plentiful and a market economy is ready to emerge.</Text>
+			<Text>Med börser som växer upp i flera städer, finns det rikligt med investeringskapital och marknadsekonomi är redo att dyka upp.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM">
-			<Text>With a dedicated research lab in place, your initiative to recruit scientists into a nuclear research program can commence.</Text>
+			<Text>Med ett särskilt forskningslabb på plats, så kan ert initiativ att rekrytera forskare i ett kärnforskningsprogram påbörjas.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE">
-			<Text>The women of your empire have clamored for proper sanitation. Having won that battle, they now need the right to vote.</Text>
+			<Text>Kvinnorna i ditt imperium har krävt ordentlig sanitet. Efter att ha vunnit den kampen, behöver de nu få rätt att rösta.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM">
-			<Text>The discipline instilled by your military academies is now second nature to your citizens.</Text>
+			<Text>Disciplinen som ingjutits av dina militära akademier är nu en självklarhet för medborgare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE">
-			<Text>Your factory workers clamor for better working conditions. It is time for the workers of the world to unite!</Text>
+			<Text>Dina fabriksarbetare kräver bättre arbetsförhållanden. Det är dags för arbetarna i världen att förenas!</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR">
-			<Text>The advent of nuclear weaponry will surely change the nature of armed conflict across the globe.</Text>
+			<Text>Tillkomsten av kärnvapen kommer säkert ändra karaktären på väpnade konflikter över hela världen.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS">
-			<Text>Your 4 cites with Entertainment Complexes want to compete in a new professional sports league.</Text>
+			<Text>Dina 4 städer med underhållningskomplex vill tävla i en ny professionell idrottsliga.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE">
-			<Text>With a perfectly curated museum, your people's strong cultural heritage is on exhibit for all to see.</Text>
+			<Text>Med ett perfekt inspekterat och noggrant underhållit museum, visas ditt folks starka kulturarv upp på utställningar öppet för alla att ta del av.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT">
-			<Text>With air bases now spanning the globe, our military is ready to be deployed anywhere in the world at a moment's notice.</Text>
+			<Text>Med flygbaser som finns över hela världen, är vår militär redo att sättas in var som helst i världen på ett ögonblicks varsel.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE">
-			<Text>The unveiling of your new Spaceport has energized your people to push into space.</Text>
+			<Text>Avtäckningen av den nya Rymdhamnen har upplivat ditt folk att utforska rymden.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION">
-			<Text>With so many airports in place, the world is truly becoming a smaller place.</Text>
+			<Text>Med så många flygplatser på plats, håller sannerligen världen på att bli en mindre plats.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA">
-			<Text>Your advances in communications technology are allowing people to congregate online.</Text>
+			<Text>Dina framsteg inom kommunikationstekniken tillåter människor att samlas på nätet.</Text>
 		</Replace>
 		<!-- Governments -->
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_OF">
-			<Text>Government of {1_civ}</Text>
+			<Text>Regering {1_civ}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CHANGE_GOVERNMENT">
-			<Text>Change Government</Text>
+			<Text>Byt Regering</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MY_GOVERNMENT">
-			<Text>My Government</Text>
+			<Text>Min Regering</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_policIES">
-			<Text>policies</Text>
+			<Text>politik</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVERNMENTS">
-			<Text>Governments</Text>
+			<Text>Regering</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CULTURE_PER_TURN">
-			<Text>Culture Per Turn: +{1_Culture}</Text>
+			<Text>Kultur per Omgång: +{1_Culture}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_MILITARY">
-			<Text>Military</Text>
+			<Text>Militär</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_ECONOMIC">
-			<Text>Economic</Text>
+			<Text>Ekonomisk</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_DIPLOMATIC">
-			<Text>Diplomatic</Text>
+			<Text>Diplomatisk</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_WILDCARD">
-			<Text>Wildcard</Text>
+			<Text>Jokerkort</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_EMPTY_POLICY_SLOT">
-			<Text>Empty {1_policyType} policy Slot</Text>
+			<Text>Tom politikplats {1_policyType}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_NO_AVAIL_policIES">
-			<Text>No Available policies</Text>
+			<Text>Ingen politik tillgänglig</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_VIEW_LOCKED_policIES">
-			<Text>View Locked policies</Text>
+			<Text>Se Låst politik</Text>
 		</Replace>
 		<!-- Government Effects-->
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
-			<Text>No Bonus.</Text>
+			<Text>Ingen Bonus.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
-			<Text>Capital receives +1 boost to all yields.</Text>
+			<Text>Huvudstaden får +1 ökning av all avkastning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
-			<Text>All Land Melee units gain +4 [ICON_Strength] Combat Strength.</Text>
+			<Text>Alla Land Närstridsenheter får +4 [ICON_Strength] i Stridsstyrka.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
-			<Text>All cities with a district receive +1 [ICON_Amenities] Amenity.</Text>
+			<Text>Alla städer med ett distrikt får +1 [ICON_Amenities] Serviceinrättning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
-			<Text>+2 [ICON_Housing] Housing in any city with Medieval Walls.</Text>
+			<Text>+2 [ICON_Housing] Boenden i alla städer som har medeltida murar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
-			<Text>Can buy land combat units with Faith. All units +5 [ICON_Religion] Religious Strength in theological combat.</Text>
+			<Text>Kan köpa land stridsenheter med Övertygelse. Alla enheter +5 [ICON_Religion] Religiös Styrka i teologiska strider.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
 			<Text>+2 [ICON_TradeRoute] Trade Routes.</Text>
