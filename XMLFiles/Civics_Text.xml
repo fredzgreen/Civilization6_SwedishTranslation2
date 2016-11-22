@@ -431,7 +431,7 @@
 			<Text>Huvudstaden får +1 ökning av all avkastning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
-			<Text>Alla Land Närstridsenheter får +4 [ICON_Strength] i Stridsstyrka.</Text>
+			<Text>Alla Närstridsenheter på Land får +4 [ICON_Strength] i Stridsstyrka.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
 			<Text>Alla städer med ett distrikt får +1 [ICON_Amenities] Serviceinrättning.</Text>
@@ -443,58 +443,58 @@
 			<Text>Kan köpa land stridsenheter med Övertygelse. Alla enheter +5 [ICON_Religion] Religiös Styrka i teologiska strider.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
-			<Text>+2 [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+2 [ICON_TradeRoute] Handelsrutter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
-			<Text>All combat units gain +4 [ICON_Strength] Combat Strength.</Text>
+			<Text>Alla stridsenheter får +4 [ICON_Strength] Stridsstyrka.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
-			<Text>Land units gain +4 [ICON_Strength] Defense Strength.</Text>
+			<Text>Enheter på land får +4 [ICON_Strength] Försvarsstyrka.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
-			<Text>Patronage of Great People costs 50% less Gold.</Text>
+			<Text>Beskydd av stora Personer kostar 50% mindre Guld.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
-			<Text>No Bonus.</Text>
+			<Text>Ingen Bonus.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
-			<Text>Bonus on wonder production.</Text>
+			<Text>Bonus gentemot Under produktion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY">
-			<Text>Experience for combat units.</Text>
+			<Text>Erfarenhet för stridsenheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
-			<Text>Bonus Great People points.</Text>
+			<Text>Bonus Stora Personer poäng.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
-			<Text>Bonus Influence points.</Text>
+			<Text>Bonus Inflytande poäng.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
-			<Text>Discount on Faith purchases.</Text>
+			<Text>Rabatt på köp med Övertygelse poäng.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
-			<Text>Discount on Gold purchases.</Text>
+			<Text>Rabatt på köp med Guld.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM">
-			<Text>Bonus on unit Produktion.</Text>
+			<Text>Bonus på enhets Produktion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM">
-			<Text>Bonus to all Produktion.</Text>
+			<Text>Bonus på all Produktion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
-			<Text>Bonus yields from district projects.</Text>
+			<Text>Bonus avkastning från distrikt projekt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
-			<Text>No Bonus.</Text>
+			<Text>Ingen Bonus.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
-			<Text>Bonus to wonder [ICON_Production] Produktion (10%, plus 1% for every 20 turns on Standard speed).</Text>
+			<Text>Bonus gentemot Under [ICON_Production] Produktion (10%, plus 1% för var 20de rundan på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
-			<Text>Bonus combat experience for units (20%, plus 1% for every 5 turns on Standard speed).</Text>
+			<Text>Bonus stridserfarenhet för enheter (20%, plus 1% för var 5de rundan på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
-			<Text>Bonus [ICON_GreatPerson] Great People points (15%, plus 1% for every 15 turns on Standard speed).</Text>
+			<Text>Bonus [ICON_GreatPerson] Stora personer poäng (15%, plus 1% för var 15de rundan på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
 			<Text>Bonus Influence points towards [ICON_Envoy] Envoys (20%, plus 1% for every 10 turns on Standard speed).</Text>
