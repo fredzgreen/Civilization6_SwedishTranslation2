@@ -488,71 +488,71 @@
 			<Text>Ingen Bonus.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
-			<Text>Bonus gentemot Under [ICON_Production] Produktion (10%, plus 1% för var 20de rundan på Standard hastighet).</Text>
+			<Text>Bonus gentemot Under [ICON_Production] Produktion (10%, plus 1% för var 20de omgång på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
-			<Text>Bonus stridserfarenhet för enheter (20%, plus 1% för var 5de rundan på Standard hastighet).</Text>
+			<Text>Bonus stridserfarenhet för enheter (20%, plus 1% för var 5de omgång på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
-			<Text>Bonus [ICON_GreatPerson] Stora personer poäng (15%, plus 1% för var 15de rundan på Standard hastighet).</Text>
+			<Text>Bonus [ICON_GreatPerson] Stora personer poäng (15%, plus 1% för var 15de omgång på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
-			<Text>Bonus Influence points towards [ICON_Envoy] Envoys (20%, plus 1% for every 10 turns on Standard speed).</Text>
+			<Text>Bonus Inflytande poäng gentemot [ICON_Envoy] Sändebud (20%, plus 1% för var 10de omgång på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
-			<Text>Discount on [ICON_Faith] Faith purchases (15%, plus 1% for every 15 turns on Standard speed).</Text>
+			<Text>Rabatt på [ICON_Faith] Övertygelse köp (15%, plus 1% för var 15de omgång på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
-			<Text>Discount on [ICON_Gold] Gold purchases (15%, plus 1% for every 15 turns on Standard speed).</Text>
+			<Text>Discount on [ICON_Gold] Gold purchases (15%, plus 1% för var 15de omgång på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_FASCISM">
-			<Text>Bonus to unit [ICON_Production] Produktion (20%, plus 1% for every 10 turns on Standard speed).</Text>
+			<Text>Bonus to unit [ICON_Production] Produktion (20%, plus 1% för var 10de omgång på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM">
-			<Text>Bonus to all [ICON_Production] Produktion (10%, plus 1% for every 20 turns on Standard speed).</Text>
+			<Text>Bonus to all [ICON_Production] Produktion (10%, plus 1% för var 20de omgång på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
-			<Text>Bonus yields from district projects (30%, plus 1% for every 10 turns on Standard speed).</Text>
+			<Text>Bonus yields from district projects (30%, plus 1% för var 10de omgång på Standard hastighet).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
-			<Text>No more {1_policyName} can be set for this government.</Text>
+			<Text>Ingen mer {1_policyName} kan tilldelas denna regeringsform.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_POLICIES_NO_TOTAL_PLACED">
-			<Text>No {1_policyName} can be set under this government.</Text>
+			<Text>Ingen {1_policyName} kan tilldelas denna regeringsform.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
-			<Text>{1_Num: number #} more {1_Num : plural 1?policy; other?policies;} can be placed in the {2_policyName} area.</Text>
+			<Text>{1_Num: number #} fler {1_Num : plural 1?politik; other?politik;} kan placeras på {2_policyName} område.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
-			<Text>{1_Num: number #} {1_Num : plural 1?policy; other?policies;} can be set in the {2_policyName} area.</Text>
+			<Text>{1_Num: number #} {1_Num : plural 1?politik; other?politik;} kan placeras på {2_policyName} område.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
-			<Text>Gain {1_InfluencePointRate} Influence {1_InfluencePointRate : plural 1?point; other?points;} per [ICON_Turn] Turn. At {2_InfluencePointThreshold} {2_InfluencePointThreshold : plural 1?point; other?points;}, earn {3_EnvoysPerThreshold} [ICON_Envoy] {3_EnvoysPerThreshold : plural 1?Sändebud; other?Sändebud;}.</Text>
+			<Text>Gain {1_InfluencePointRate} Inflytande {1_InfluencePointRate : plural 1?poäng; other?poäng;} per [ICON_Turn] Omgång. Vid {2_InfluencePointThreshold} {2_InfluencePointThreshold : plural 1?poäng; other?poäng;}, förtjäna {3_EnvoysPerThreshold} [ICON_Envoy] {3_EnvoysPerThreshold : plural 1?Sändebud; other?Sändebud;}.</Text>
 		</Replace>
 		<!-- Policy Descriptions-->
 		<Replace Language="sv_SE" Tag="LOC_POLICY_PLACEHOLDER_DESC">
-			<Text>Placeholder.</Text>
+			<Text>Platshållare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
-			<Text>+100% Theater Square district adjacency bonuses.</Text>
+			<Text>+100% Teaterskådeplats distrikt närhetsbonusar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_AGOGE_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion toward Ancient and Classical era melee and ranged units.</Text>
+			<Text>+50% [ICON_Production] Produktion gentemot Antika epokens och Järnålderns närstridsenheter och enheter med lång räckvidd.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
-			<Text>Your [ICON_TradeRoute] Trade Routes to an Ally's city provide +2 [ICON_Food] Mat and +2 [ICON_Production] Produktion for both cities.</Text>
+			<Text>Dina [ICON_TradeRoute] Handelsrutter till en Allierads städer ger +2 [ICON_Food] Mat och +2 [ICON_Production] Produktion för båda städerna.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
-			<Text>+6 City [ICON_Strength] Defense Strength. +5 City [ICON_Ranged] Ranged Strength.</Text>
+			<Text>+6 Stadsförsvaret [ICON_Strength] Försvarsstyrka. +5 Stads [ICON_Ranged] räckvidds styrka.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
-			<Text>+2 [ICON_Gold] Gold from all [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+2 [ICON_Gold] Guld från alla [ICON_TradeRoute] Handelsrutter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
-			<Text>+2 Influence points per turn toward earning city-state [ICON_Envoy] Envoys.</Text>
+			<Text>+2 Inflytande poäng per omgång gentemot förtjänande av stadsstater [ICON_Envoy] sändebud.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion toward Medieval, Renaissance, and Industrial era heavy and light cavalry units.</Text>
+			<Text>+100% [ICON_Production] Produktion gentemot Medeltida, Renässans, and Industrialism tunga och lätta kavellerienheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
 			<Text>+10% [ICON_Culture] Culture per city-state you are the Suzerain of.</Text>
