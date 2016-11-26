@@ -555,70 +555,70 @@
 			<Text>+100% [ICON_Production] Produktion gentemot Medeltida, Renässans, and Industrialism tunga och lätta kavellerienheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
-			<Text>+10% [ICON_Culture] Culture per city-state you are the Suzerain of.</Text>
+			<Text>+10% [ICON_Culture] Kultur per stadsstat som du är suzerän till.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION">
-			<Text>+4 [ICON_Food] Mat from domestic [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+4 [ICON_Food] Mat från inhemska [ICON_TradeRoute] Handelsrutter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
-			<Text>+15% faster growth for cities not on your original [ICON_Capital] Capital's continent.</Text>
+			<Text>+15% snabbare tillväxt för städer som inte är på den [ICON_Capital] Huvudstads kontinent.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
-			<Text>+25% [ICON_Gold] Gold in cities not on your original [ICON_Capital] Capital's continent.</Text>
+			<Text>+25% [ICON_Gold] Guld i städer som inte är på din ursprungliga [ICON_Capital] Huvudstads kontinent.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion toward Settlers.</Text>
+			<Text>+50% [ICON_Production] Produktion gentemot Nybyggare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CONSCRIPTION_DESCRIPTION">
-			<Text>Unit maintenance reduced by 1 [ICON_Gold] Gold per turn, per unit.</Text>
+			<Text>Underhåll för enheter minskar med 1 [ICON_Gold] Guld per omgång, per enhet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CONTAINMENT_DESCRIPTION">
-			<Text>Each [ICON_Envoy] Sändebud you send to a city-state counts as two, if its Suzerain has a different government than you.</Text>
+			<Text>Varje [ICON_Envoy] Sändebud som du skickar till stadsstat räknas som två, om dess suzerän har en annan regering än dig.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CORVEE_DESCRIPTION">
-			<Text>+15% [ICON_Production] Produktion toward Ancient and Classical wonders.</Text>
+			<Text>+15% [ICON_Production] Produktion gentemot Antika och Järnålderns under.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION">
-			<Text>100% Industrial Zone adjacency bonuses.</Text>
+			<Text>100% Industriella Distrikt närhetsbonusar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION">
-			<Text>Enemy Spy level reduced by 2 in your lands. Your Spy level is increased by 1 for offensive operations.</Text>
+			<Text>Fiende spioner får minskad nivå med 2 i ditt land. Din Spions nivå ökar med 1 på offensiva uppdrag.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION">
-			<Text>No war weariness from combat in your territory.</Text>
+			<Text>Ingen krigströtthet från strid i ditt territorium.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION">
-			<Text>The first [ICON_Envoy] Sändebud you send to each city-state counts as two [ICON_Envoy] Envoys.</Text>
+			<Text>Det första [ICON_Envoy] Sändebudet som du skickar till varje stadsstat räknas som två [ICON_Envoy] Sändebud.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
-			<Text>+5 [ICON_Strength] Unit Combat Strength when fighting Barbarians.</Text>
+			<Text>+5 [ICON_Strength] Enheters stridsstyrka när de kämpar mot Barbarer.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
-			<Text>+5 [ICON_Production] Produktion and +10 [ICON_Gold] Gold from international [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+5 [ICON_Production] Produktion och +10 [ICON_Gold] Guld från internationella [ICON_TradeRoute] Handelsrutter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
-			<Text>+100% Commercial Hub and Harbor district adjacency bonuses.</Text>
+			<Text>+100% Handels-Centra och Hamn distrikt närhetsbonusar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
-			<Text>Settler cost reduced by 50%. Plot purchase cost reduced by 20%.</Text>
+			<Text>Minskar kostnaden för Nybyggare med 50%. Kostnader för markköp minskar med 20%.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion toward Medieval and Renaissance era melee and ranged units.</Text>
+			<Text>+50% [ICON_Production] Produktion gentemot Medeltida och Renässans epokens närstridsenheter och lång räckviddsenheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion toward Modern and Atomic air units.</Text>
+			<Text>+50% [ICON_Production] Produktion gentemot Modernitetens och Atomålderns luftenheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION">
-			<Text>+100% Campus and Industrial Zone district adjacency bonuses.</Text>
+			<Text>+100% Campus och Industriella distrikt närhetsbonusar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
-			<Text>+100% [ICON_Gold] Gold yield from Commercial Hub district buildings.</Text>
+			<Text>+100% [ICON_Gold] Guld avkastning från Kommersiella Centrum byggnader.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
-			<Text>+2 [ICON_GreatArtist] Great Artist points per turn.</Text>
+			<Text>+2 [ICON_GreatArtist] Stora Konstnärer poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
-			<Text>+1 [ICON_Faith] Faith and +1 [ICON_Gold] Gold in the [ICON_Capital] Capital.</Text>
+			<Text>+1 [ICON_Faith] Övertygelse och +1 [ICON_Gold] Guld i [ICON_Capital] Huvudstad.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
 			<Text>+15% [ICON_Production] Produktion toward Medieval and Renaissance wonders.</Text>
