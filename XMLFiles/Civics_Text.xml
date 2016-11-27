@@ -618,40 +618,40 @@
 			<Text>+2 [ICON_GreatArtist] Stora Konstnärer poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
-			<Text>+1 [ICON_Faith] Övertygelse och +1 [ICON_Gold] Guld i [ICON_Capital] Huvudstad.</Text>
+			<Text>+1 [ICON_Faith] Övertygelse och +1 [ICON_Gold] Guld i [ICON_Capital] Huvudstaden.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
-			<Text>+15% [ICON_Production] Produktion toward Medieval and Renaissance wonders.</Text>
+			<Text>+15% [ICON_Production] Produktion gentemot Medeltida och Renässans under.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion toward Industrial and Modern era melee and ranged units.</Text>
+			<Text>+50% [ICON_Production] Produktion gentemot Industriella epokens och Modernitetens närstridsenheter och lång räckviddsenheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
-			<Text>+100% [ICON_Culture] Culture yield from Theater Square district buildings.</Text>
+			<Text>+100% [ICON_Culture] Kultur avkastning från Teaterskådeplats distriktets byggnader.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
-			<Text>Open Borders with all city-states, and +4 Influence points per turn toward earning [ICON_Envoy] Envoys.</Text>
+			<Text>Öppna gränser men alla stadsstater och +4 inflytande poäng per omgång gentemot [ICON_Envoy] Sändebud.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION">
-			<Text>+100% [ICON_Tourism] Tourism from [ICON_GreatWork_Landscape] Great Works of Art and [ICON_GreatWork_Artifact] Artifacts.</Text>
+			<Text>+100% [ICON_Tourism] Turism från [ICON_GreatWork_Landscape] Stora verk och [ICON_GreatWork_Artifact] Artefakter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_ILKUM_DESCRIPTION">
-			<Text>+30% [ICON_Production] Produktion toward Builders.</Text>
+			<Text>+30% [ICON_Production] Produktion gentemot Byggare.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_INSPIRATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatScientist] Great Scientist points per turn.</Text>
+			<Text>+2 [ICON_GreatScientist] Stor vetenskapsman poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_INSULAE_DESCRIPTION">
-			<Text>+1 [ICON_Housing] Housing in all cities with at least 2 specialty districts.</Text>
+			<Text>+1 [ICON_Housing] Boenden i alla städer med minst 2 special distrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
-			<Text>+15% [ICON_Production] Produktion toward Space Race projects if a city has either a Military Academy or a Seaport.</Text>
+			<Text>+15% [ICON_Production] Produktion gentemot Rymdhamn projekt om en stad har antinget har Militärakademin eller en Sjöstad.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION">
-			<Text>+10% [ICON_Science] Science per city-state you are the Suzerain of.</Text>
+			<Text>+10% [ICON_Science] Vetenskap per stadsstat som du är suzerän till.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion toward Modern, Atomic, and Information era naval units, excluding Carriers.</Text>
+			<Text>+100% [ICON_Production] Produktion gentemot Modernitetens, Atomålderns, and Informationsåldern marina enheter, förutom  Carriers.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_INVENTION_DESCRIPTION">
 			<Text>+2 [ICON_GreatEngineer] Great Engineer points per turn.</Text>
