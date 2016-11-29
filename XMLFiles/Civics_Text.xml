@@ -651,19 +651,19 @@
 			<Text>+10% [ICON_Science] Vetenskap per stadsstat som du är suzerän till.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion gentemot Modernitetens, Atomålderns, and Informationsåldern marina enheter, förutom  Carriers.</Text>
+			<Text>+100% [ICON_Production] Produktion gentemot Modernitetens, Atomålderns, and Informationsåldern marina enheter, förutom Hangarfartyg.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_INVENTION_DESCRIPTION">
-			<Text>+2 [ICON_GreatEngineer] Great Engineer points per turn.</Text>
+			<Text>+2 [ICON_GreatEngineer] Stora Ingenjörer poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION">
-			<Text>+4 [ICON_GreatMerchant] Great Merchant points per turn.</Text>
+			<Text>+4 [ICON_GreatMerchant] Stora Handelsmän poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
-			<Text>Reduces the cost of purchasing a tile by 20%.</Text>
+			<Text>Minskar kostnaden av att köpa rutor med 20%.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
-			<Text>Unit maintenance cost reduced by 2 [ICON_Gold] Gold per turn, per unit.</Text>
+			<Text>Underhåll för enheter minskar med 2 [ICON_Gold] Guld per omgång, per enhet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] Amenity to all cities with at least 2 specialty districts.</Text>
