@@ -521,10 +521,10 @@
 			<Text>Ingen {1_policyName} kan tilldelas denna regeringsform.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
-			<Text>{1_Num: number #} fler {1_Num : plural 1?politik; other?politik;} kan placeras på {2_policyName} område.</Text>
+			<Text>{1_Num: number #} fler {1_Num : plural 1?politikkort; other?politikkort;} kan placeras på {2_policyName} område.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
-			<Text>{1_Num: number #} {1_Num : plural 1?politik; other?politik;} kan placeras på {2_policyName} område.</Text>
+			<Text>{1_Num: number #} {1_Num : plural 1?politikkort; other?politikkort;} kan placeras på {2_policyName} område.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
 			<Text>Gain {1_InfluencePointRate} Inflytande {1_InfluencePointRate : plural 1?poäng; other?poäng;} per [ICON_Turn] Omgång. Vid {2_InfluencePointThreshold} {2_InfluencePointThreshold : plural 1?poäng; other?poäng;}, förtjäna {3_EnvoysPerThreshold} [ICON_Envoy] {3_EnvoysPerThreshold : plural 1?Sändebud; other?Sändebud;}.</Text>
@@ -666,58 +666,58 @@
 			<Text>Underhåll för enheter minskar med 2 [ICON_Gold] Guld per omgång, per enhet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Amenity to all cities with at least 2 specialty districts.</Text>
+			<Text>+1 [ICON_Amenities] Serviceinrättning till alla städer med åtminstone 2 specialdistrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion for Modern, Atomic, and Information era heavy and light cavalry units.</Text>
+			<Text>+100% [ICON_Production] Produktion för tunga och lätta kavellerienheter ur Moderniteten, Atomåldern, och Informationsåldern.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_LIMES_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion toward defensive buildings.</Text>
+			<Text>+100% [ICON_Production] Produktion mot defensiva byggnader.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
-			<Text>+2 [ICON_GreatWriter] Great Writer points per turn.</Text>
+			<Text>+2 [ICON_GreatWriter] Stora författare poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_LOGISTICS_DESCRIPTION">
-			<Text>+1 Movement if starting turn in friendly territory.</Text>
+			<Text>+1 Förflyttning om börjar i vänskapligt territorium.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion toward Spies. Spy operations take 25% less time.</Text>
+			<Text>+50% [ICON_Production] Produktion mot Spioner. Spion uppdrag tar 25% mindre tid.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion toward Ancient and Classical era heavy and light cavalry units.</Text>
+			<Text>+100% [ICON_Production] Produktion mot Antika och Järnålderns tunga och lätta kavellerienheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion toward Ancient and Classical era naval units.</Text>
+			<Text>+100% [ICON_Production] Produktion mot Antika och Järnålderns marina enheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
-			<Text>Your international [ICON_TradeRoute] Trade Routes provide +1 [ICON_Gold] Gold per Luxury and Strategic resource improved at the destination, as well as +2 [ICON_Culture] Culture and +2 [ICON_Science] Science.</Text>
+			<Text>Dina internationella [ICON_TradeRoute] Handelsrutter ger +1 [ICON_Gold] Guld per Lyx och Strategisk resurs som är förbättrad vid destinationen, såväl +2 [ICON_Culture] Kultur och +2 [ICON_Science] Vetenskap.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
-			<Text>Accumulate 25% less war weariness than usual.</Text>
+			<Text>Ackumulerara 25% mindre krigströtthet än vanligt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
-			<Text>+2 [ICON_Housing] Housing in all cities with at least 3 specialty districts.</Text>
+			<Text>+2 [ICON_Housing] Boenden i alla städer med minst 3 specialdistrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Gold from each of your [ICON_Envoy] Envoys at city-states.</Text>
+			<Text>+1 [ICON_Gold] Guld från varje [ICON_Envoy] Sändebud som du har till stadsstater.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
-			<Text>Each city receives +1 [ICON_Culture] Culture for each specialty district it constructs.</Text>
+			<Text>Varje stad får +1 [ICON_Culture] Kultur för varje distrikt som den bygger.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion toward Atomic and Information era melee and ranged units.</Text>
+			<Text>+50% [ICON_Production] Produktion mot Atomålderns och Informationsålderns närstrids och lång räckviddsenheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
-			<Text>+4 [ICON_GreatGeneral] Great General points per turn.</Text>
+			<Text>+4 [ICON_GreatGeneral] Stor General poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
-			<Text>Military Academies and Seaports generate +1 [ICON_Science] Science.</Text>
+			<Text>Militärakademier och Sjöstäder ger +1 [ICON_Science] Vetenskap.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
-			<Text>Units have 50% less [ICON_Strength] Combat Strength reduction from being injured.</Text>
+			<Text>Enheter har 50% mindre [ICON_Strength] minskning i Stridsstyrka från att vara skadad.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
-			<Text>Combat victories over units from earlier eras provide [ICON_Gold] Gold equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+			<Text>Stridsvinster mot enheter från en tidigare epok ger  [ICON_Gold] Guld motsvarande 50% av [ICON_Strength] Stridsstyrkan av den besegrade enheten.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
 			<Text>+100% Campus district adjacency bonuses.</Text>
