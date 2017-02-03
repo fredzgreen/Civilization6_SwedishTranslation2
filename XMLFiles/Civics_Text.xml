@@ -717,43 +717,43 @@
 			<Text>Enheter har 50% mindre [ICON_Strength] minskning i Stridsstyrka från att vara skadad.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
-			<Text>Stridsvinster mot enheter från en tidigare epok ger  [ICON_Gold] Guld motsvarande 50% av [ICON_Strength] Stridsstyrkan av den besegrade enheten.</Text>
+			<Text>Stridsvinster mot enheter från en tidigare epok ger [ICON_Gold] Guld motsvarande 50% av [ICON_Strength] Stridsstyrkan av den besegrade enheten.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
-			<Text>+100% Campus district adjacency bonuses.</Text>
+			<Text>+100% Campus distrikt närhetsbonusar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION">
-			<Text>+100% Harbor district adjacency bonuses.</Text>
+			<Text>+100% Hamn distrikt närhetsbonusar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatAdmiral] Great Admiral points per turn.</Text>
+			<Text>+2 [ICON_GreatAdmiral] Stora Amiral poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
-			<Text>+4 [ICON_Housing] Housing, +2 [ICON_Amenities] Amenities, -8 [ICON_Gold] Gold to all cities with at least 3 specialty districts.</Text>
+			<Text>+4 [ICON_Housing] Boenden, +2 [ICON_Amenities] Serviceinrättningar, -8 [ICON_Gold] Guld till alla städer med minst 3 specialdistrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
-			<Text>+4 [ICON_GreatScientist] Great Scientist points per turn.</Text>
+			<Text>+4 [ICON_GreatScientist] Stora Vetenskapsmän poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
-			<Text>Spies who steal a tech boost without being detected gain an extra boost.</Text>
+			<Text>Spioner som stjäl ett vetenskapslyft utan att bli upptäckta får ett extra lyft.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
-			<Text>+50% [ICON_Tourism] Tourism output to civilizations to which you have a [ICON_TradeRoute] Trade Route.</Text>
+			<Text>+50% [ICON_Tourism] Turism uteffekt till alla civilisationer som du har en [ICON_TradeRoute] Handelsrutt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion for Modern, Atomic, and Information era support units.</Text>
+			<Text>+100% [ICON_Production] Produktion för Modern, Atom och informationåldern supportenheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
-			<Text>Enemy Spies level reduced by 2 in your lands. However all cities suffer -1 [ICON_Amenities] Amenity.</Text>
+			<Text>Fiende spioner nivå minskad med 2 i ditt land. Emellertid alla städer får en minskning med -1 [ICON_Amenities] Serviceinrättningar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
-			<Text>100% [ICON_Production] Produktion toward Renaissance and Industrial era naval units.</Text>
+			<Text>100% [ICON_Production] Produktion mot Renässansen och Industriella epokens sjöfartsenheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
-			<Text>50% discount on all unit upgrades.</Text>
+			<Text>50% rabatt på alla enheters uppgraderingskostnad.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_PROPAGANDA_DESCRIPTION">
-			<Text>Accumulate 25% less war weariness than usual.</Text>
+			<Text>Ackumulerara 25% mindre krigströtthet än normalt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
 			<Text>Receive 50 [ICON_Gold] Gold per Appeal of tile when replacing a Farm with a Neighborhood district.</Text>
