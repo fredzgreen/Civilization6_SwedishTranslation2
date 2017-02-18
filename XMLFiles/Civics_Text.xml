@@ -756,102 +756,102 @@
 			<Text>Ackumulerara 25% mindre krigströtthet än normalt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
-			<Text>Receive 50 [ICON_Gold] Gold per Appeal of tile when replacing a Farm with a Neighborhood district.</Text>
+			<Text>Få 50 [ICON_Gold] Guld för rutans attraktionskraft när man ersätter Bondgård med ett Grannskap distrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
-			<Text>+30% [ICON_Production] Produktion toward Builders, and newly trained Builders gain 2 extra build actions.</Text>
+			<Text>+30% [ICON_Production] Produktion mot Byggare, och nytränande Byggare får 2 extra bygghandlingar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_RAJ_DESCRIPTION">
-			<Text>+2 [ICON_Science] Science, [ICON_Culture] Culture, [ICON_Faith] Faith, and [ICON_Gold] Gold from each city-state you are Suzerain of.</Text>
+			<Text>+2 [ICON_Science] Vetenskap, [ICON_Culture] Kultur, [ICON_Faith] Övertygelse, och [ICON_Gold] Guld från varje stadsstat du är Suzerän till.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_RAID_DESCRIPTION">
-			<Text>Yields gained from pillaging are doubled for pillaging improvements.</Text>
+			<Text>Byten man får genom plundring dubbleras för plundringsförbättringar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
-			<Text>+100% [ICON_Science] Science from Campus district buildings.</Text>
+			<Text>+100% [ICON_Science] Vetenskap från Campus-distrikt byggnader.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION">
-			<Text>All religious units +5 [ICON_Religion] Religious Strength in theological combat.</Text>
+			<Text>All religiösa enheter +5 [ICON_Religion] Religiös styrka i teologiska strider.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
-			<Text>1 copy of a Strategic resource allows you to produce and purchase units requiring it in any city.</Text>
+			<Text>1 upplaga av strategiska resurser tillåter dig att producera och köpa enheter som kräver det i vilken stad som helst.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Amenity for cities with a garrisoned unit.</Text>
+			<Text>+1 [ICON_Amenities] Serviceinrättningar för städer med enheter förlagda i garnison.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_REVELATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatProphet] Great Prophet points per turn.</Text>
+			<Text>+2 [ICON_GreatProphet] Stora Profet poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SACK_DESCRIPTION">
-			<Text>Yields gained from pillaging are doubled for pillaging districts.</Text>
+			<Text>Byten som man får från plundring dubbleras av att plundar distrikt.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
-			<Text>Triples [ICON_Tourism] Tourism from [ICON_GreatWork_Music] Great Works of Music.</Text>
+			<Text>Tredubblar [ICON_Tourism] Turism från [ICON_GreatWork_Music] Stora Mästerverk i Musik.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
-			<Text>+100% Holy Site adjacency bonuses.</Text>
+			<Text>+100% Helig Plats närhetsbonusar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
-			<Text>Newly trained Builders gain 2 extra build actions.</Text>
+			<Text>Nyträndade Byggare får 2 extra bygghandlingar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
-			<Text>Doubles [ICON_Faith] Faith yield from Holy Site district buildings.</Text>
+			<Text>Dubblerar [ICON_Faith] Övertygelse utbytet från Helig plats distriktets byggnader.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
-			<Text>+15% [ICON_Production] Produktion toward Industrial era and later wonders.</Text>
+			<Text>+15% [ICON_Production] Produktion mot Industriella epok och senare under.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
-			<Text>+100% Theater Square district adjacency bonuses, and Stadiums generate +1 [ICON_Amenities] Amenity.</Text>
+			<Text>+100% Teaterskådeplats distriktet närhetsbonusar, och Stadion genererar +1 [ICON_Amenities] Serviceinrättning.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
-			<Text>+50 [ICON_Production] Produktion toward Information era air units, and toward all Carriers.</Text>
+			<Text>+50 [ICON_Production] Produktion mot Informationsålderns luftenheter, och mot alla hangarfartyg .</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
-			<Text>+2 [ICON_GreatGeneral] Great General points per turn.</Text>
+			<Text>+2 [ICON_GreatGeneral] Stora general poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SURVEY_DESCRIPTION">
-			<Text>Double experience for recon units.</Text>
+			<Text>Dubbel erfarenhet för spanarenheter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
-			<Text>+4 [ICON_GreatMusician] Great Musician points per turn.</Text>
+			<Text>+4 [ICON_GreatMusician] Stora Musiker poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION">
-			<Text>+4 [ICON_Gold] Gold from each Research Lab, Military Academy, and Power Plant.</Text>
+			<Text>+4 [ICON_Gold] Guld från varje Forsknings labb, Militär akademi, och Kraftverk.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_TOTAL_WAR_DESCRIPTION">
-			<Text>Yields gained from pillaging are doubled.</Text>
+			<Text>Byten som man får från plundring dubbleras.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
-			<Text>+100% Commercial Hub district adjacency bonuses.</Text>
+			<Text>+100% Kommersiellt Centrum distrikt bonus.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
-			<Text>+1 [ICON_Culture] Culture and +1 [ICON_Science] Science from international [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+1 [ICON_Culture] Kulture och +1 [ICON_Science] Vetenskap från internationella [ICON_TradeRoute] Handelsrutter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION">
-			<Text>+2 [ICON_GreatMerchant] Great Merchant points per turn.</Text>
+			<Text>+2 [ICON_GreatMerchant] Stora Handelsman poäng per omgång.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
-			<Text>+4 [ICON_Gold] Gold and +1 [ICON_Faith] Faith from all [ICON_TradeRoute] Trade Routes.</Text>
+			<Text>+4 [ICON_Gold] Guld och +1 [ICON_Faith] Övertygelse från alla [ICON_TradeRoute] Handelsrutter.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
-			<Text>+1 [ICON_Production] Produktion in all cities.</Text>
+			<Text>+1 [ICON_Production] Produktion i alla städer.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_VETERANCY_DESCRIPTION">
-			<Text>+30% [ICON_Production] Produktion toward Encampment districts and buildings for that district.</Text>
+			<Text>+30% [ICON_Production] Produktion mot Militärförläggning distrikt och byggnader för det distriktet.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
-			<Text>+4 [ICON_Strength] Combat Strength when fighting civilizations that follow other Religions.</Text>
+			<Text>+4 [ICON_Strength] Stridsstyrka när krigar mot civilisationer som har en annan religion.</Text>
 		</Replace>
 		<!-- Preview Text -->
 		<Replace Language="sv_SE" Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
-			<Text>+4 Oligarchy bonus</Text>
+			<Text>+4 Oligarki bonus</Text>
 		</Replace>
 		<!-- Temporary UI -->
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_STARTED">
-			<Text>Progress started toward Civic: {1_CivicName}</Text>
+			<Text>Utveckling mot: {1_CivicName}</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_CIVIC_COMPLETE">
-			<Text>Civic complete: {1_CivicName}</Text>
+			<Text>Politik färdig: {1_CivicName}</Text>
 		</Replace>
 	</LocalizedText>
 </GameData>
