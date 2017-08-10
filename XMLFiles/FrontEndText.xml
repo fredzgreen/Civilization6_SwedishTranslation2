@@ -1,1600 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
-<GameData>
-	<LocalizedText>
-		<!-- Generic -->
-		<Replace Language="sv_SE" Tag="LOC_GENERIC_TEST">
-			<Text>Tomáš</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GENERIC_DOT_DOT_DOT">
-			<Text>...</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_YES_BUTTON">
-			<Text>Ja</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NO_BUTTON">
-			<Text>Nej</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OK_BUTTON">
-			<Text>OK</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DEFAULT_BUTTON">
-			<Text>Default</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GENERIC_CONFIRM_BUTTON">
-			<Text>Bekräfta</Text>
-		</Replace>
-		
-		<!-- Front End Popups -->
-		<Replace Language="sv_SE" Tag="LOC_FRONTEND_POPUP_UNKNOWN_DEVICE">
-			<Text>Failed to determine graphics device capabilities.[NEWLINE][NEWLINE]Please set your graphics options manually.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER">
-			<Text>Your graphics driver is older than the minimum recommended version.[NEWLINE][NEWLINE]Please update your driver to the latest version.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET">
-			<Text>Don't Bug Me Again.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD">
-			<Text>Remind Me Next Time.</Text>
-		</Replace>
-
-		<!-- Main Menu-->
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_RESUME_GAME">
-			<Text>Återuppta senaste spelet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PLAY_CIVILIZATION_6">
-			<Text>Spela nu</Text>
-		</Replace>
-    <Replace Language="sv_SE" Tag="LOC_SINGLE_PLAYER">
-      <Text>Singelspel</Text>
-    </Replace>
-		<Replace Language="sv_SE" Tag="LOC_PLAY_MULTIPLAYER">
-			<Text>Multispel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOAD_GAME">
-			<Text>Ladda spel</Text>
-		</Replace>
-    <Replace Language="sv_SE" Tag="LOC_NO_FILE_SELECTED">
-      <Text>Ingen fil vald</Text>
-    </Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_OPTIONS">
-			<Text>Spelalternativ</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_MODS">
-			<Text>Moddar</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_MY2K_LOGIN">
-			<Text>My2K Login</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_EXIT_TO_DESKTOP">
-			<Text>Avsluta</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_BENCH">
-			<Text>Riktmärke</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_CREDITS">
-			<Text>Medverkande</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_TUTORIAL">
-			<Text>Handledning</Text>
-		</Replace>
-		<!-- Load / Save Menus -->
-		<Replace Language="sv_SE" Tag="LOC_DELETE_BUTTON">
-			<Text>Radera</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BACK_BUTTON">
-			<Text>Tillbaka</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_AUTOSAVES">
-			<Text>Autosparningar</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_STEAMCLOUD">
-			<Text>I molnet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NO_SAVED_GAMES">
-			<Text>Inga sparade spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SORTBY_NAME">
-			<Text>Sortera på namn</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SORTBY_LASTMODIFIED">
-			<Text>Sortera på datum</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOAD_MENU_MODS">
-			<Text>MODDAR</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOAD_MENU_DLC">
-			<Text>DLC</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SAVE_GAME">
-			<Text>Spara spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SAVE_MAP_BUTTON">
-			<Text>Spara karta</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP">
-			<Text>You've reached the maximum number of Cloud saves. Overwrite or delete a save.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SAVE_INVALID_FILE_NAME_TOOLTIP">
-			<Text>Ogiltigt filnamn.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP">
-			<Text>Waiting for cloud save list.</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_CONFIRM_TITLE_TXT">
-			<Text>Bekräfta överskrivning</Text>
-		</Replace>
-    <Replace Language="sv_SE" Tag="LOC_CONFIRM_DELETE_TITLE_TXT">
-      <Text>Bekräfta radering</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_CONFIRM_CHOICE">
-      <Text>Är du säker?</Text>
-    </Replace>
-		<Replace Language="sv_SE" Tag="LOC_CONFIRM_EXIT_TXT">
-			<Text>Are you sure you want to exit the game?</Text>
-		</Replace>
-    <Replace Language="sv_SE" Tag="LOC_CONFIRM_TXT">
-			<Text>This will permanently delete your save file. Are you sure you want to do this?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CONFIRM_TITLE_LOAD_TXT">
-			<Text>Confirm Load File</Text>
-		</Replace>
-        <Replace Language="sv_SE" Tag="LOC_CONFIRM_LOAD_TXT">
-			<Text>This will lose any unsaved progress. Are you sure you want to do this?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OVERWRITE_TXT">
-			<Text>This will overwrite your current save file. Are you sure you want to do this?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DELETE_MOD_TXT">
-			<Text>This will permanently delete this Mod. Are you sure you want to do this?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CONFIRM_DISABLE_MOD">
-			<Text>Are you sure you wish to disable this mod?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_WILL_ALSO_DISABLE_MODS">
-			<Text>This will also disable the following mods:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CONFIRM_ENABLE_MOD">
-			<Text>Are you sure you wish to enable this mod?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_WILL_ALSO_ENABLE_MODS">
-			<Text>This will also enable the following mods:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_EFFECTED_MODS_TXT">
-			<Text>Effected Mods:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MOD_VERSION_AVAILABLE">
-			<Text>Version {1_VersionNumber} is available.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_CURRENT_TURN">
-			<Text>TURN[ICON_Turn] {1}</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_SCENARIO_HEADER_TITLE">
-			<Text>Scenario Description</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE">
-			<Text>Spelalternativ</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE">
-			<Text>Karttyp:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE">
-			<Text>Kartstorlek:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE">
-			<Text>Världens ålder:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_SAVED_BY_VERSION_TITLE">
-			<Text>Sparad med version:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE">
-			<Text>Avancerade alternativ:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_NO_MAP_DATA">
-			<Text>NO MAP DATA</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_TUNER_ACTIVE_TITLE">
-			<Text>Tuner Active:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADSAVE_QUICK_SAVE">
-			<Text>(Quick Save)</Text>
-		</Replace>
-		<!-- Mods Section -->
-		<Replace Language="sv_SE" Tag="LOC_MODS_TITLE">
-			<Text>MODDAR</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MODS_INSTALLED">
-			<Text>INSTALLERADE</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_SUBSCRIPTIONS">
-			<Text>PRENUMERATIONER</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_BROWSE_WORKSHOP">
-			<Text>BROWSE WORKSHOP</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_WORLD_BUILDER">
-			<Text>WORLD BUILDER</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_NONE_INSTALLED">
-			<Text>Inga moddar finns installerade.</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_NO_SUBSCRIPTIONS">
-			<Text>There are no subscriptions.</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_MOD_TITLE">
-			<Text>Mod Title</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_MOD_TEASER">
-			<Text>Mod Teaser</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_ENABLE">
-			<Text>Aktivera modd</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_DOWNLOADING">
-			<Text>Downloading Item...</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_UPDATE">
-			<Text>Uppdatera</Text>
-		</Replace>
- 		<Replace Language="sv_SE" Tag="LOC_MODS_VIEW">
-			<Text>View</Text>
-		</Replace>
-    <!-- Advanced Game Setup -->
-		 <Replace Language="sv_SE" Tag="LOC_NETWORK_NAME_TT">
-			<Text>Network Name[NEWLINE]This is how your name will appear to other players.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NUMBER_OF_CIVILIZATIONS">
-			<Text>Antal civilisationer</Text>
-		</Replace>
-    <Replace Language="sv_SE" Tag="LOC_PLAYERS">
-      <Text>Spelare</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_BACK">
-      <Text>Tillbaka</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_GAME_HANDICAP">
-      <Text>Game Difficulty</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MAP_OPTIONS">
-      <Text>Kartalternativ</Text>
-    </Replace>
-		<!-- Multiplayer Game Abandoned Popup -->
-		<Replace Language="sv_SE" Tag="LOC_GAME_ABANDONED_KICKED">
-			<Text>You have been kicked from the game by the host.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_ABANDONED_HOST_LOSTED">
-			<Text>Network connection to host has been lost.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_ABANDONED_ROOM_FULL">
-			<Text>The game has the maximum number of players.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_ABANDONED_VERSION_MISMATCH">
-			<Text>Version mismatch with host.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_ABANDONED_MOD_ERROR">
-			<Text>Mod configuration error.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_ABANDONED_CONNECTION_LOST">
-			<Text>Network connection has been lost.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_ABANDONED_JOIN_FAILED">
-			<Text>Error joining Multiplayer session.</Text>
-		</Replace>
-		<!-- Multiplayer Select Screen-->
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_DEFAULT_GAME_NAME">
-			<Text>{1_PlayerName}s spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_STANDARD_GAME">
-			<Text>Standard</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_STANDARD_GAME_TT">
-			<Text>Spela ett multispel där spelarna turas om att göra sina omgångar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_INTERNET_GAME">
-			<Text>Internet</Text>
-		</Replace>
-    <Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE">
-      <Text>[ICON_CheckFail] Internet</Text>
-    </Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_INTERNET_GAME_TT">
-			<Text>Spela mot andra spelare över Internet.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT">
-			<Text>Internetspel är inte tillgängliga när Steam är i offline-läge.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_LAN_GAME">
-			<Text>Lokalt nätverk</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_LAN_GAME_TT">
-			<Text>Spela mot andra spelare över det lokala nätverket.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME">
-			<Text>Hot Seat</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_HOTSEAT_GAME_TT">
-			<Text>Spela ett multispel där spelarna turas om att göra sina omgångar på den här datorn.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CLOUD_GAME">
-			<Text>Moln-spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CLOUD_GAME_TT">
-			<Text>Spela ett multispel med hjälp av FiraxisLives molnteknik. Kräver en aktiv uppkoppling till FiraxisLive.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_PITBOSS_GAME">
-			<Text>Pitboss</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_PITBOSS_GAME_TT">
-			<Text>Spela ett multispel där en dedikerad server kontrollerar spelet över en lång tidsperiod.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MENU_BACK">
-			<Text>Tillbaka</Text>
-		</Replace>
-		<!-- Multiplayer Chat Commands -->
-		<Replace Language="sv_SE" Tag="LOC_CHAT_HELP_COMMAND_HINT">
-			<Text>[COLOR:ChatMessage_Help]Type /help for chat command help.[ENDCOLOR]</Text>
-		</Replace>
-		<!-- [TEAMCODE] Cut text for team chat command. "[NEWLINE]/t Send a message to a team channel" -->
-		<Replace Language="sv_SE" Tag="LOC_CHAT_HELP_COMMAND_TEXT">
-			<Text>[COLOR:ChatMessage_Help]CHAT COMMANDS[NEWLINE]/g Send a message to a global channel[NEWLINE]/w [PlayerName] Whisper a message to a player[NEWLINE]/r Reply to a whisper[NEWLINE]/help Displays this help message[ENDCOLOR]</Text>
-		</Replace>
-		<!-- Multiplayer Lobby Screen -->
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST">
-			<Text>UPPDATERA</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT">
-			<Text>Hämta senaste listan över spel.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST">
-			<Text>STOP REFRESH</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT">
-			<Text>Stop the game list information retrieval.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_BACK">
-			<Text>TILLBAKA</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_JOIN_GAME">
-			<Text>Anslut till spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MISC_BACK">
-			<Text>Tillbaka</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP">
-			<Text>Koppla upp mot IP-adress</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CONNECT_TO_IP_TT">
-			<Text>Connect to a pitboss game at a given public IP address.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CREATE_GAME">
-			<Text>Skapa spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
-			<Text>Bekräfta inställningar</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_HOST_GAME">
-			<Text>MULTISPELINSTÄLLNINGAR</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_HOST_GAME_TT">
-			<Text>Starta ett nytt multispel.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_LOAD_GAME_TT">
-			<Text>Skapa ett multispel från en existerande sparfil.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_FRIENDS">
-			<Text>Vänner</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_SHOW_FRIENDS">
-			<Text>Visa vänlistan</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_GAME_SETUP">
-			<Text>SPELINSTÄLLNINGAR</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_GAME_SUMMARY">
-			<Text>GAME SUMMARY</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_GAME_NAME">
-			<Text>Spelnamn</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_GAME_RULESET">
-			<Text>Regeluppsättning</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_AD_SETUP_MAP_TYPE">
-			<Text>Karttyp</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_AD_SETUP_GAME_SPEED">
-			<Text>Spelhastighet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_AD_SETUP_MAP_SIZE">
-			<Text>Kartstorlek</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_PLAYERS">
-			<Text>Spelare</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_DLCHOSTED">
-			<Text>DLC</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_MODSHOSTED">
-			<Text>Moddar</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_PITBOSS_LOBBY">
-			<Text>PITBOSS-SPEL</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_INTERNET_LOBBY">
-			<Text>INTERNETSPEL</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_LAN_LOBBY">
-			<Text>SPEL PÅ DET LOKALA NÄTVERKET</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_UNKNOWN">
-			<Text>Unknown</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_TRUE">
-			<Text>True</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_FALSE">
-			<Text>False</Text>
-		</Replace>
-		<!-- Cloud Game Screen -->
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CLOUD_LIST">
-			<Text>List</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CLOUD_TEMPLATE">
-			<Text>Template</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CLOUD_HOST">
-			<Text>Host</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CLOUD_JOIN">
-			<Text>Join</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CLOUD_START">
-			<Text>Start</Text>
-		</Replace>
-    <!-- Options -->
-    <Replace Language="sv_SE" Tag="LOC_CONFIRM_KEY_BINDING">
-      <Text>Bekräfta tangentbindningar</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_CONFIRM">
-      <Text>Verkställ</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_GAME">
-      <Text>Spel</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_GRAPHICS">
-      <Text>Grafik</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_AUDIO">
-      <Text>Ljud</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_LANGUAGE">
-      <Text>Språk</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_INTERFACE">
-      <Text>Gränssnitt</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_BINDINGS">
-      <Text>Tangentbindningar</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_APPLICATION">
-      <Text>Applikation</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_GAME_OPTIONS">
-      <Text>Spelalternativ</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_GRAPHICS_OPTIONS">
-      <Text>Grafikalternativ</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_AUDIO_OPTIONS">
-      <Text>Ljudalternativ</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_LANGUAGE_OPTIONS">
-      <Text>Språkalternativ</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_INTERFACE_OPTIONS">
-      <Text>Gränssnittsalternativ</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_BINDINGS_OPTIONS">
-      <Text>Tangentbindningar</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_QUICK_COMBAT">
-      <Text>Snabb strid:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_QUICK_MOVEMENT">
-      <Text>Snabb förflyttning:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_AUTO_END_TURN">
-      <Text>Avsluta omgång automatiskt:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_TIME_OF_DAY">
-      <Text>Time of Day:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_TUNER">
-      <Text>Tuner (disables achievements):</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_TUTORIAL">
-      <Text>Advisor:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES">
-      <Text>Turns between autosaves:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_AUTOSAVES_TO_KEEP">
-      <Text>Number of autosaves to keep:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE">
-      <Text>Steam Controller configuration happens inside the Steam client and not within this UI.  The escape, left mouse button, and right mouse button are reserved and cannot be bound.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_BIND_HEADER_PRIMARY">
-      <Text>Primary binding</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_BIND_HEADER_ALT">
-      <Text>Alternative binding</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_APPLICATION_OPTIONS">
-      <Text>Application Options</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_SPOKEN_LANGUAGE">
-      <Text>Spoken Language:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_STRATEGIC_VIEW_START">
-      <Text>Start in Strategic View:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_DISPLAY_LANGUAGE">
-      <Text>Display Language:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_MASTER_VOLUME">
-      <Text>Huvudvolym:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_MUSIC_VOLUME">
-      <Text>Musikvolym:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_EFFECTS_VOLUME">
-      <Text>Ljudeffektsvolym:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_AMBIENT_VOLUME">
-      <Text>Bakgrundsljudsvolym:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_SPEECH_VOLUME">
-      <Text>Talvolym:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_OPTIONS_MUTE_FOCUS">
-      <Text>Mute when the game window is inactive:</Text>
-    </Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CLEAR">
-			<Text>Rensa</Text>
-		</Replace>
-		<!-- Front End Popop -->
-		<Replace Language="sv_SE" Tag="LOC_CLOSE">
-			<Text>Stäng</Text>
-		</Replace>
-		<!-- Multiplayer Joining Room Screen -->
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_JOINING_ROOM_TITLE">
-			<Text>VAR GOD VÄNTA</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_JOINING_ROOM">
-			<Text>Joining Room...</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_JOINING_HOST">
-			<Text>Retrieving Host Information...</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CONFIGURING_CONTENT">
-			<Text>Configuring Game Content...</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_ROOM_FULL">
-			<Text>The game has the maximum number of players.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_JOIN_FAILED">
-			<Text>Error joining multiplayer session.</Text>
-		</Replace>
-		<!-- Multiplayer Staging Room Screen -->
-		<Replace Language="sv_SE" Tag="LOC_MP_SWAP_PLAYER">
-			<Text>Swap</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="TXT_KEY_MP_SWAP_BUTTON_TT">
-			<Text>Swap to this player slot.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT">
-			<Text>Swap to this player slot only if the other player also chooses to swap.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_KICK_PLAYER">
-			<Text>Kick Player</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_STAGING_ROOM">
-			<Text>Staging Room</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BUTTON">
-			<Text>Ready</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ARE_YOU_READY">
-			<Text>Are you ready?</Text>
-		</Replace>
-		<!-- Multiplayer Status Strings -->
-		<Replace Language="sv_SE" Tag="LOC_READY_LABEL">
-			<Text>Ready!</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NOT_READY">
-		  <Text>Not Ready</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_INVALID_SLOT_MAP_SIZE">
-			<Text>[COLOR:StagingStatus_Invalid]Invalid Map Size[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_INVALID_SLOT_MAP_SIZE_TT">
-			<Text>This player slot is invalid for this map size.  Swap to a valid player slot.</Text>
-		</Replace>		
-		<!-- Multiplayer Status Strings END -->
-		<Replace Language="sv_SE" Tag="LOC_JOIN">
-			<Text>Join!</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTTYPE_OPEN">
-			<Text>Open</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTTYPE_OPEN_TT">
-			<Text>Open slots can be occupied by joining players.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTTYPE_HUMANREQ">
-			<Text>Human Required</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTTYPE_HUMANREQ_TT">
-			<Text>Human Required slots require a human player before the game can start.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTLABEL_HOST">
-			<Text>[ICON_Host] Host</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTLABEL_PLAYER">
-			<Text>Player</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTLABEL_COMPUTER">
-			<Text>Computer</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTLABEL_OPEN">
-			<Text>Open</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTTYPE_AI">
-			<Text>AI</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTTYPE_AI_TT">
-			<Text>AI Player</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTTYPE_CLOSED">
-			<Text>Closed</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTTYPE_CLOSED_TT">
-			<Text>Closed slots can not be used by players.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTTYPE_HUMAN">
-			<Text>Human</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SLOTTYPE_HUMAN_TT">
-			<Text>Human Player</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME">
-			<Text>None</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_DEFAULT_TEAM_NAME">
-			<Text>{1_Num}</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CREATE_NEW_TEAM">
-			<Text>New</Text>
-		</Replace>
-    <Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_TEAM_HEADER">
-      <Text>Team</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_DIFFICULTY_HEADER">
-      <Text>Difficulty</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_READY_HEADER">
-      <Text>Ready?</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CIV_LEADER_HEADER">
-      <Text>Civilization and Leader</Text>
-    </Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAMESTART_COUNTDOWN_FORMAT">
-			<Text>Game Starting</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HOTSEAT_DEFAULT_PLAYER_NAME">
-			<Text>Player</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD">
-			<Text>Password</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY">
-			<Text>Retype</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH">
-			<Text>Match</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH">
-			<Text>Passwords Don't Match.</Text>
-		</Replace>
-		<!-- Staging Room Ready Button-->
-		<Replace Language="sv_SE" Tag="LOC_READY_UNSUPPORTED">
-			<Text>Unsupported.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_UNSUPPORTED_TT">
-			<Text>Unsupported amount of players.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_TEAMS_INVALID">
-			<Text>Invalid Teams</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_TEAMS_INVALID_TT">
-			<Text>Cannot start game. All civilizations are on the same team.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_CONNECTING_PLAYER">
-			<Text>Cannot start game. Players are joining the game.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE">
-			<Text>Map Size Issue</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT">
-			<Text>Can not start game. A player is in an invalid player slot for the current map size. The current map only supports {1_number} players.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS">
-			<Text>Not Enough Players</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT">
-			<Text>Can not start game.  Two players are required to start.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING">
-			<Text>Players Joining Game</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT">
-			<Text>Waiting for players joining into the game.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY">
-			<Text>Player Missing Mods</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT">
-			<Text>Waiting on players who do not have the mods required for this game.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH">
-			<Text>Password Mismatch</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT">
-			<Text>All passwords must match.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS">
-			<Text>No Human Players</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT">
-			<Text>Need at least 1 human player</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS">
-			<Text>Invalid Teams</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT">
-			<Text>At least 2 players need to be on different teams</Text>
-		</Replace>
-		<!-- Staging Room Invite Button -->
-		<Replace Language="sv_SE" Tag="LOC_INVITE_BUTTON">
-			<Text>Bjud in vänner</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_INVITE_BUTTON_TT">
-			<Text>Invite friends from your Steam friends list to this game.</Text>
-		</Replace>
-		<!-- Confirm Kick Popup -->
-		<Replace Language="sv_SE" Tag="LOC_CANCEL_BUTTON">
-			<Text>Avbryt</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ACCEPT_BUTTON">
-			<Text>Accept</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CONFIRM_KICK_PLAYER_DESC">
-			<Text>Are you sure you wish to kick {1_player} from the game?</Text>
-		</Replace>
-		<!-- Edit Hotseat Player Popup -->
-		<Replace Language="sv_SE" Tag="LOC_HOTSEAT_EDIT_PLAYER_TT">
-			<Text>Edit Hot Seat Player.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HOTSEAT_EDIT_PLAYER">
-			<Text>Edit Hot Seat Player</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HOTSEAT_PLAYER_NAME">
-			<Text>Spelarnamn:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HOTSEAT_PASSWORD">
-			<Text>Lösenord:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_HOTSEAT_RETYPE_PASSWORD">
-			<Text>Retype Password:</Text>
-		</Replace>
-		<!-- Network Connection Status -->
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_CONNECTED">
-			<Text>Player is currently in-game.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
-			<Text>[COLOR:ConnectionStatus_Connected]Connected[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_NOTCONNECTED">
-			<Text>Player is not connected.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
-			<Text>[COLOR:ConnectionStatus_Offline]Offline[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_CONNECTING">
-			<Text>Player is joining the game.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
-			<Text>[COLOR:ConnectionStatus_Connecting]Joining[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_NOT_MOD_READY">
-			<Text>Player does not have the mods required to play in this game.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TIME_MILLISECONDS">
-			<Text>ms</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TIME_SECONDS">
-			<Text>s</Text>
-		</Replace>
-		<!-- Friend Actions  -->
-		<Replace Language="sv_SE" Tag="LOC_FRIEND_ACTION_PROFILE">
-			<Text>Steam-profil</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_FRIEND_ACTION_PROFILE_TT">
-			<Text>View this friend's profile page.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_FRIEND_ACTION_CHAT">
-			<Text>Skicka meddelande</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_FRIEND_ACTION_CHAT_TT">
-			<Text>Send a message to this friend.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_FRIEND_ACTION_INVITE">
-			<Text>Invite to Game</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_FRIEND_ACTION_INVITE_TT">
-			<Text>Invite this friend to play.</Text>
-		</Replace>
-		<!-- Friend Status  -->
-		<Replace Language="sv_SE" Tag="LOC_PRESENCE_ONLINE">
-			<Text>[COLOR:ButtonCS]Online[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRESENCE_IN_SHELL">
-			<Text>[COLOR:ConnectionStatus_Connected]Huvudmeny[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRESENCE_HOSTING_GAME">
-			<Text>[COLOR:ConnectionStatus_Connected]Hosting Game[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRESENCE_IN_STAGING_ROOM">
-			<Text>[COLOR:ConnectionStatus_Connected]Staging Room[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRESENCE_IN_GAME_SP">
-			<Text>[COLOR:ConnectionStatus_Connected]Singelspel[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRESENCE_IN_GAME_ONLINE">
-			<Text>[COLOR:ConnectionStatus_Connected]Multispel (Online)[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRESENCE_IN_GAME_LAN">
-			<Text>[COLOR:ConnectionStatus_Connected]Multispel (LAN)[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
-			<Text>[COLOR:ConnectionStatus_Connected]Multispel (Hot Seat)[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRESENCE_INVITED_ONLINE">
-			<Text>[COLOR:ConnectionStatus_Connected]Invited[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRESENCE_INVITED_OFFLINE">
-			<Text>[COLOR:ButtonCS]Inbjuden[ENDCOLOR]</Text>
-		</Replace>
-		<!-- Player Connection EVents -->
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
-			<Text>Connected</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_DISCONNECTED_CHAT">
-			<Text>Disconnected</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_HOST_MIGRATED_CHAT">
-			<Text>Is Now the Host</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MP_PLAYER_KICKED_CHAT">
-			<Text>Was Kicked</Text>
-		</Replace>
-		<!-- Multiplayer Chat -->
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_CHAT">
-			<Text>CHAT</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MULTIPLAYER_TO_ALL">
-			<Text>Till alla:</Text>
-		</Replace>
-		<!-- Multiplayer Mod Downloads -->
-		<Replace Language="sv_SE" Tag="LOC_BYTES">
-			<Text>b</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_KILOBYTES">
-			<Text>kB</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MEGABYTES">
-			<Text>MB</Text>
-		</Replace>
-		<!-- Setup -->
-		<Replace Language="sv_SE" Tag="LOC_SETUP_CREATE_GAME">
-			<Text>Skapa spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_CIVILIZATION">
-			<Text>Välj civilisation</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_DIFFICULTY">
-			<Text>Välj svårighetsgrad</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_SPEED">
-			<Text>Välj spelhastighet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_MAP_TYPE">
-			<Text>Välj karttyp</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_MAP_SIZE">
-			<Text>Välj kartstorlek</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DELETE_AI">
-			<Text>Ta bort</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_ADVANCED_OPTIONS">
-			<Text>Avancerade inställningar</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_VICTORY_CONDITIONS">
-			<Text>Segertyper</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ADVANCED_OPTIONS">
-			<Text>Avancerade inställningar</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_EDIT_BUTTON">
-			<Text>Redigera</Text>
-		</Replace>
-    <Replace Language="sv_SE" Tag="LOC_SETUP_ADD_PLAYER">
-      <Text>Lägg till spelare</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_SETUP_ADD_PLAYER_TT">
-      <Text>Add a player to the game.</Text>
-    </Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_ADD_AI_PLAYER">
-			<Text>Lägg till datorspelare</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_ADD_AI_PLAYER_TT">
-			<Text>Lägg till en datorstyrd spelare till spelet.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_RESTORE_DEFAULT">
-			<Text>Återställ standardinställningarna</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_RESTORE_DEFAULT_TT">
-			<Text>Återställer alla parametrar till sina standardinställningar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_START_GAME">
-			<Text>Starta spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_START_WORLD_BUILDER">
-			<Text>Starta Världsbyggaren</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_WORLD_BUILDER_START_NEW">
-			<Text>Ny karta</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_WORLD_BUILDER_LOAD">
-			<Text>Load Map</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_RANDOM_LEADER">
-			<Text>Slumpmässig ledare</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_RANDOM_CIVILIZATION">
-			<Text>Slumpmässig civilisation</Text>
-		</Replace>
-		<!-- Configuration Parameters.  Move these to a better location -->
-		<Replace Language="sv_SE" Tag="LOC_RULESET">
-			<Text>Ruleset:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_NAME">
-			<Text>Spelnamn:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_NAME_DESC">
-			<Text>The name displayed for this game in the multiplayer server list.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRIVATE_GAME">
-			<Text>Privat spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_PRIVATE_GAME_DESC">
-			<Text>Private games are not shown in the multiplayer lobby.  A private game is only accessable thru a game invite or the Steam friends list.  This setting does not apply to Local Network games.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_VICTORY_TIME">
-			<Text>Tid</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_VICTORY_SCIENCE">
-			<Text>Science</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_NO_GOODY_HUTS">
-			<Text>Inga stambyar</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_NO_BARBARIANS">
-			<Text>Inga barbarer</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_TURNTIMER_TYPE">
-			<Text>Turn Timer</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_TURN_TIMER_TIME">
-			<Text>Turn Time</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_TURN_TIMER_TIME_TOOLTIP">
-			<Text>Turn time used by the Standard Turn Timer mode (in seconds).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_TURNPHASE_TYPE">
-			<Text>Turn Mode</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_TURNPHASE_DESC">
-			<Text>Turn mode used by human controlled players in multiplayer.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_SYNC_RANDOM_SEED">
-			<Text>Slumpfrö för spelet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP">
-			<Text>Startvärde för framslumpningen av spelets regler.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RANDOM_SEED">
-			<Text>Slumpfrö för kartan</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RANDOM_SEED_TOOLTIP">
-			<Text>Startvärde för framslumpningen av kartans utseende.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_WORLD_AGE_NAME">
-			<Text>Världens ålder</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_WORLD_AGE_NEW_NAME">
-			<Text>Ung</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_WORLD_AGE_STANDARD_NAME">
-			<Text>Normal</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_WORLD_AGE_OLD_NAME">
-			<Text>Gammal</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_WORLD_AGE_RANDOM_NAME">
-			<Text>Slumpmässig</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_TEMPERATURE_NAME">
-			<Text>Temperatur</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_TEMPERATURE_HOT_NAME">
-			<Text>Varm</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_TEMPERATURE_STANDARD_NAME">
-			<Text>Normal</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_TEMPERATURE_COLD_NAME">
-			<Text>Kall</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_TEMPERATURE_RANDOM_NAME">
-			<Text>Slumpmässig</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RAINFALL_NAME">
-			<Text>Nederbörd</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RAINFALL_ARID_NAME">
-			<Text>Torr</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RAINFALL_STANDARD_NAME">
-			<Text>Normal</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RAINFALL_WET_NAME">
-			<Text>Blöt</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RAINFALL_RANDOM_NAME">
-			<Text>Slumpmässig</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SEA_LEVEL_NAME">
-			<Text>Havsnivå</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SEA_LEVEL_LOW_NAME">
-			<Text>Låg</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SEA_LEVEL_STANDARD_NAME">
-			<Text>Normal</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SEA_LEVEL_HIGH_NAME">
-			<Text>Hög</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SEA_LEVEL_RANDOM_NAME">
-			<Text>Slumpmässig</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RESOURCES_NAME">
-			<Text>Resurser</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RESOURCES_SPARSE_NAME">
-			<Text>Glesa</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RESOURCES_STANDARD_NAME">
-			<Text>Normala</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RESOURCES_ABUNDANT_NAME">
-			<Text>Riktliga</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RESOURCES_RANDOM_NAME">
-			<Text>Slumpmässiga</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_START_POSITION_NAME">
-			<Text>Startposition</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_START_POSITION_BALANCED_NAME">
-			<Text>Balanserad</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_START_POSITION_STANDARD_NAME">
-			<Text>Normal</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_START_POSITION_LEGENDARY_NAME">
-			<Text>Legendarisk</Text>
-		</Replace>
-		<!--Game Speed Descriptions -->
-		<Replace Language="sv_SE" Tag="LOC_GAMESPEED_MARATHON_HELP">
-			<Text>Mycket långvarigt spel (200% långsammare).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAMESPEED_EPIC_HELP">
-			<Text>Långvarigt spel (50% långsammare).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAMESPEED_STANDARD_HELP">
-			<Text>Normal spelhastighet.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAMESPEED_QUICK_HELP">
-			<Text>Snabbt spel (33% snabbare).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAMESPEED_ONLINE_HELP">
-			<Text>Dubbelhastighetsspel som används för multispel online.</Text>
-		</Replace>
-		<!-- Map Type Descriptions -->
-		<Replace Language="sv_SE" Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
-			<Text>Många mindre öar plus några större öar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
-			<Text>Ett fåtal större landmassor.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_FRACTAL_DESCRIPTION">
-			<Text>Oförutsägbar karta som kan resultera i en eller flera landmassor.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
-			<Text>Ett stort hav i mitten av kartan.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
-			<Text>Öar i olika storlekar, från små till stora.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_PANGAEA_DESCRIPTION">
-			<Text>En massiv jättekontinent med omgivande öar.</Text>
-		</Replace>
-    <Replace Language="sv_SE" Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
-      <Text>Vilka hemligheter döljs på den här kartan?</Text>
-    </Replace>
-		<!-- Map Size Descriptions -->
-		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
-			<Text>Mycket liten karta för 2 spelare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_TINY_DESCRIPTION">
-			<Text>Något mindre karta för 4 spelare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_SMALL_DESCRIPTION">
-			<Text>Liten karta för 6 spelare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_STANDARD_DESCRIPTION">
-			<Text>Medelstor karta för 8 spelare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_LARGE_DESCRIPTION">
-			<Text>Stor karta för 10 spelare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAPSIZE_HUGE_DESCRIPTION">
-			<Text>Enorm karta för 12 spelare.</Text>
-		</Replace>
-		<!-- Turn Timer Settings -->
-		<Replace Language="sv_SE" Tag="LOC_TURNTIMER_NONE">
-			<Text>No Turn Timer</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNTIMER_NONE_DESC">
-			<Text>Players take turns without time constraints.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNTIMER_DYNAMIC">
-			<Text>Dynamic Turn Timer</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNTIMER_DYNAMIC_DESC">
-			<Text>Turn time is dynamically scaled based on the number of cities and units in play.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNTIMER_STANDARD">
-			<Text>Standard Turn Timer</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNTIMER_STANDARD_DESC">
-			<Text>Turn time is based on the Turn Time option (in seconds).</Text>
-		</Replace>
-		<!-- Turn Mode Settings -->
-		<Replace Language="sv_SE" Tag="LOC_TURNPHASE_SIMULTANEOUS">
-			<Text>Simultaneous Turns</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNPHASE_SIMULTANEOUS_DESC">
-			<Text>Players take their turns at the same time.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNPHASE_DYNAMIC">
-			<Text>Dynamic Turns</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNPHASE_DYNAMIC_DESC">
-			<Text>Players at peace take their turns at the same time.  Players at war take their turns sequentially.</Text>
-		</Replace>
-		<!-- Map Config Descriptions -->
-		<Replace Language="sv_SE" Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
-			<Text>Changes the maps elevation (Hills and Mountains).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_WORLD_AGE_NEW_DESCRIPTION">
-			<Text>En karta med fler kullar och berg.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_WORLD_AGE_STANDARD_DESCRIPTION">
-			<Text>En karta med ett normalt antal kullar och berg.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_WORLD_AGE_OLD_DESCRIPTION">
-			<Text>En karta med färre kullar och berg.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_WORLD_AGE_RANDOM_DESCRIPTION">
-			<Text>En karta med ett slumpmässigt antal kullar och berg.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
-			<Text>Anpassar kartans terräng.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
-			<Text>En karta med mer öknar och mindre tundra och snö.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION">
-			<Text>En karta med klimatzoner liknande Jordens.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_TEMPERATURE_COLD_DESCRIPTION">
-			<Text>En karta med mer tundra och snö och mindre öken.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION">
-			<Text>En karta med framslumpade klimatzoner.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RAINFALL_DESCRIPTION">
-			<Text>Ändrar mängden skog, regnskog och kärr på kartan.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RAINFALL_ARID_DESCRIPTION">
-			<Text>En karta med färre skogar, regnskogar och kärr.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RAINFALL_STANDARD_DESCRIPTION">
-			<Text>En karta med ett normalt antal skogar, regnskogar och kärr.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RAINFALL_WET_DESCRIPTION">
-			<Text>En karta med fler skogar, regnskogar och kärr.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RAINFALL_RANDOM_DESCRIPTION">
-			<Text>En karta med ett slumpmässigt antal skogar, regnskogar och kärr.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SEA_LEVEL_DESCRIPTION">
-			<Text>Ändrar hur mycket hav och sjöar som finns på kartan.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION">
-			<Text>En karta med mindre vatten.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SEA_LEVEL_STANDARD_DESCRIPTION">
-			<Text>En karta med normala vattennivåer.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SEA_LEVEL_HIGH_DESCRIPTION">
-			<Text>En karta med mer vatten.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SEA_LEVEL_RANDOM_DESCRIPTION">
-			<Text>En karta med framslumpade vattennivåer.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RESOURCES_DESCRIPTION">
-			<Text>Ändrar antalet resurser.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
-			<Text>En karta med färre resurser.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
-			<Text>En karta med ett normalt antal resurser.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION">
-			<Text>En karta med fler resurser.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_RESOURCES_RANDOM_DESCRIPTION">
-			<Text>En karta med ett slumpmässigt antal resurser.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_START_POSITION_DESCRIPTION">
-			<Text>Förändrar värdet av din startposition.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
-			<Text>Alla spelare har lika bra startpositioner.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
-			<Text>Normala startpositioner.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
-			<Text>Alla spelare har mycket bra, men inte nödvändigtvis likvärdiga, startpositioner.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GAME_START_ERA">
-			<Text>Startera</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAP_SCRIPT">
-			<Text>Karta</Text>
-		</Replace>
-		<!-- Tutorial Select Screen-->
-		<Replace Language="sv_SE" Tag="LOC_SETUP_TUTORIAL_TITLE">
-			<Text>Välkommen till Civilization</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
-			<Text>Det är här vi påbörjar vårt äventyr att höja upp ett rike från en blygsam start till storhet, och skriva din egen version av historian.[NEWLINE][NEWLINE]Kommer du erövra världen genom stora strider, eller bli den första som skickar ditt folk till stjärnorna? Kommer du influera världen med ditt folks kultur, eller kommer din tro spridas till världens ände?[NEWLINE][NEWLINE]Svaret kommer med tiden...[NEWLINE][NEWLINE]Alla stora civilisationer börjar med en stor ledare. Välj här nedan vilken civilisation du vill spela i handledningen.</Text>
-		</Replace>	
-		<Replace Language="sv_SE" Tag="LOC_SETUP_TUTORIAL_LEADER_1">
-			<Text>Kleopatra från det Egyptiska riket regerar över en civilisation med starka allierade och skickliga stadsbyggare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_SETUP_TUTORIAL_LEADER_2">
-			<Text>Gilgamesh från det Sumeriska riket regerar över vidsträckta marker och är en respekterad erövrare.</Text>
-		</Replace>
-		<!-- Loading Screen / Dawn of man -->
-		<Replace Language="sv_SE" Tag="LOC_LOADING_DOMAIN_LAND">
-			<Text>En unik landenhet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_DOMAIN_SEA">
-			<Text>En unik sjöenhet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_DOMAIN_AIR">
-			<Text>En unik luftenhet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_PLEASE_WAIT">
-			<Text>Laddar. Var god vänta...</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_DISTRICT_BUILDING">
-			<Text>Byggnad för {1_DistrictName}-distriktet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_UNIQUE_BUILDING">
-			<Text>En unik byggnad</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_UNIQUE_DISTRICT">
-			<Text>Ett unikt distrikt</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_UNIQUE_IMPROVEMENT">
-			<Text>En unik förbättring</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
-			<Text>träder in på världsscenen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_FEATURES_ABILITIES">
-			<Text>Funktioner &amp; förmågor</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_START_GAME">
-			<Text>Starta spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_CONTINUE_GAME">
-			<Text>Fortsätt spel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
-			<Text>It is up to you to lead your people to glory by building a civilization that will stand the test of time.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
-			<Text>Heroic Frederick, king of the Germans, your task is to forge the independent states that surround you into an empire. You are blessed to be a great military leader – use those skills to bring these cities under your sway so they may develop into commercial and industrial powerhouses.  Surely then the bards will sing of mighty Frederick with the red beard, the great Holy Roman Emperor.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
-			<Text>It falls to you, Catherine de Medici, to use your gifts of knowledge and of the arts to unite your people. Steer carefully through these troubled times, Queen Mother of France. You will build great wonders, drawing visitors from all corners of the earth. With your keen awareness of all things, both those seen and those hidden in the shadows, your empire will certainly stand the test of time.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
-			<Text>There will be those who underestimate you, but you are cunning and full of tricks, Queen Cleopatra. Your charm will establish indestructible alliances with the strongest leaders of the world. Keep your friends close by your side and you will find yourself untouchable, with the glory of Egypt primed to win over the world.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_GANDHI">
-			<Text>Be kind, Gandhi Bapu, and you will find yourself surrounded by true friends. Keep the Indian people safe, guarding them with magnificent elephant warriors. Your faith will guide you to peace and harmony. Keep your mind open, and be the change you want to see in the world.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
-			<Text>Much rests upon your shoulders, King Gilgamesh. Your own people, and many people of the world, look to you as leader. But you are more than a mere man, and the weight of the world will never cause you to waver. Encourage the people of Sumer to settle the fertile lands along rivers, and be sure to choose your allies carefully - for there will be many vying for a piece of your strength. Venture forth, for it is time to begin your epic tale.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_GORGO">
-			<Text>Gorgo, Queen of Sparta; glory to you and your loyal hoplite armies! Greece savors the blessings from Ares that every victory brings. And your people applaud your thoughtful governance and cultural marvels. Stand proud, for the legacy of Greece, and of your achievements, will be told over and over again for generations.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
-			<Text>All men fear the approach of your ships, King Harald of Norway, Thunderbolt of the North. Your longboats dominate the waves, always at the ready to unleash their berserker armies on an unsuspecting shore.  May Odin bless your kingdom and may the skalds sing tales of the victories of your mighty warriors.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_HOJO">
-			<Text>The great wave of Buddhism follows you, Shikken of Japan, Hojo Tokimune. Your people truly understand what it is to practice balance, and even your finest samurai will be well-learned and spiritually apt. Be strong, embrace the divine wind, and you will reach enlightenment.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
-			<Text>Mother Earth has many gifts for you, King Mvemba a Nzinga. Your people know the dense woods and rainforests as their homes, and glide through them with ease.  Great also are the gifts that come from travelers of distant lands. Keep an open mind, for the inspiration of the open world will let our people create art with power and majesty.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_PEDRO">
-			<Text>Your people look to you, Emperor Pedro II, to lead Brazil onto the world stage. Use your reputation as a patron of artists, scientists, and engineers to draw the greatest minds to our fertile home. For it is in the lush rainforests, teeming with life, that your people thrive. Watch them in the Carnival as they dance the samba in celebration of your great feats, Pedro the Magnanimous.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_PERICLES">
-			<Text>Your mastery of the spoken word is a gift of great value, silver-tongued Pericles, leader of the Greeks. Through it you can attract the devotion of a league of states, surrounding yourself with their glory. Establish cultural sites along the rocky shores of Greece to unite your people behind your strong governance.  If all goes well the Sirens will sing of the Age of Pericles!</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
-			<Text>Embrace the chill winds of the Motherland, Tsar Peter. Your fascination with science and culture is a gift, and you will learn much from your Grand Embassies to foreign lands. Under your rule, Russia will surely flourish and spread, absorbing all that lies around it, perhaps creating the greatest land empire seen on this earth.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
-			<Text>All Spain stands ready to answer your prayers, devout King Philip II.  From your palace at El Escorial you can send forth your followers: missionaries, apostles, and conquistadors ready to strike out across the seas to spread the good word about your most holy empire.  May the treasures they uncover fuel your quest to unite the world under one faith and one empire, making you truly the Most Catholic king.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_QIN">
-			<Text>In your people lies your greatest strength, Emperor Qin Shi Huang. From all over the world, others will come to gaze upon the great walls and towering wonders of your united China. May the hands of your men never blister as they work hard and fast to raise the most impressive structures that the world will ever know. Protect them well, and you will forever be immortalized.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_SALADIN">
-			<Text>The marriage of science and religion is a delicate balancing act, but one that you have mastered, Saladin. Your quest for knowledge is noble, and your people have a deep respect for you. But you need not rush into the unknown. Given time, the answers to life’s most puzzling questions will find their way back to Arabia.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
-			<Text>All people will tremble with fear and respect for you, great warrior Queen Tomyris. For it is from the back of your stallion that you shall look upon and lead the Scythian people. Great epics will be told of the horse warriors that ride forth from the steppe, and at the front line of every battle - they will find you. Ride on, fierce queen, and may your friends be true just as your enemies falter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
-			<Text>Cast your net wide, oh Trajan, emperor of mighty Rome. Your legions stand at the ready to march out and establish the largest empire the world has ever seen. If you can truly get all roads to lead to Rome, yours will be an empire of great riches and luxuries.  Surely then our citizens will proclaim you as their best ruler, the Optimus Princeps.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
-			<Text>And so it is upon your broad shoulders, Theodore Roosevelt, to charge forth and lead your people on their great adventure. Use your military might to give the peoples of your homeland the square deal they so desperately deserve. Surely you will raise America into the limelight and attract visitors from across the oceans just to see your lands. Bully for you, Mr. President.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
-			<Text>Your Majesty the Queen Victoria of England, extend your reach beyond your borders and across the face of the globe.  Worry not over the possibility of defeat for your loyal redcoats and overwhelming navy will surely carry the day. With your calm and steady touch you can bring all lands under England's sway, establishing a true Pax Britannica.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
-			<Text>Från livets första rörelser under vattenytan… till forntidens stora bestar… till människans första upprätta steg… Du har kommit långt, men nu börjar din största utmaning: att ta dig från civilisationens tidiga vagga ut till stjärnorna.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
-			<Text>From humble beginnings, you have shown remarkable growth. Leave your bronze for iron and rule with horse and sword. The sky above begins to reveal its secrets, a collection of heaven that uplifts our hearts and guides us to foreign shores.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
-			<Text>You have built great cities of stone and seen early empires rise and fall.  Soon you will stand under the towering pinnacles of castles alongside your gallant knights. That is where the story of your people will be written. Just as the young apprentice learns to carry a sword, so shall you grow To understand your place in this world.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
-			<Text>New powers call forth, from the barrel of muskets to flowers of fire in the sky. Even the quiet words on newly printed pages hold great changes within. The world, once so vast and mysterious, has grown smaller and more familiar. Yet, there are always questions to be answered, faiths to be tested, and national identities to be formed.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
-			<Text>The steady hum of machinery, the acrid smell of smoke, vision clouded by ash and soot – these are the signs of changing times. The lure of scientific and cultural advancement is the engine driving your realm forward.  Now your challenge is to maintain the delicate balance between earth and man, between peace and war.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ERA_MODERN_DESCRIPTION">
-			<Text>In the beginning, legends of flying men soared. And today, you are on the brink of transforming those legends into a reality. With flight and new forms of communication you can create a small and intimate world.  But at what cost? Our competing ideas of how to govern and how to live threaten to bring conflict on a global scale.  You must choose your own path through this rising din of ideological oratory.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ERA_ATOMIC_DESCRIPTION">
-			<Text>New frontiers of discovery expand our understanding, from the tiny atom to the majesty of outer space. Mysteries long tolerated are closer than ever to revealing their deepest secrets, beyond what we can easily see. You will choose how to use this knowledge, and push back the greatest darkness we have yet faced.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ERA_INFORMATION_DESCRIPTION">
-			<Text>A world of information rests in the palm of your hand, and networks for instantaneous communication span the globe.  Yet a unified vision of our future has never been built.  We compete in technology, culture, and politics. We have deadly weapons that could destroy our planet. Lead us carefully, but boldly, and build a global community that can stand for years to come.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TUTORIAL_DISABLE">
-			<Text>Disable advisor.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
-			<Text>New to turn-based strategy.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TUTORIAL_NEW_TO_CIV">
-			<Text>New to Civilization</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
-			<Text>New to Civilization VI</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LIMIT_TURNS_NAME">
-			<Text>Begränsa antal omgångar</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_LIMIT_TURNS_DESCRIPTION">
-			<Text>Begränsa hur många omgångar spelet får vara som längst.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNLIMIT_NONE_NAME">
-			<Text>Ingen begränsning</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNLIMIT_NONE_DESCRIPTION">
-			<Text>Det finns ingen begränsning på hur många omgångar spelet får vara.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNLIMIT_GAMESPEED_NAME">
-			<Text>Efter spelhastighet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNLIMIT_GAMESPEED_DESCRIPTION">
-			<Text>Spelet kommer ta slut år 2050 e.Kr.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNLIMIT_CUSTOM_NAME">
-			<Text>Egen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TURNLIMIT_CUSTOM_DESCRIPTION">
-			<Text>Spelet kommer avslutas efter den omgång som du själv anger.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAX_TURNS_NAME">
-			<Text>Max antal omgångar:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAX_TURNS_DESCRIPTION">
-			<Text>Antalet omgångar tills en poängseger utdöms. Ange 0 för obegränsat antal omgångar (och ingen poängseger).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_RESUME_GAME_TT">
-			<Text>Återuppta din senaste spelomgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_LOAD_GAME_TT">
-			<Text>Ladda en tidigare sparad spelomgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_PLAY_NOW_TT">
-			<Text>Spela på en liten karta med kontinenter och framslumpade ledare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_CREATE_GAME_TT">
-			<Text>Skapa en ny spelomgång med dina egna inställningar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_SINGLE_PLAYER_TT">
-			<Text>Spela nu, starta upp en ny spelomgång, eller fortsätt på en existerande omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_MULTIPLAYER_TT">
-			<Text>Här kan du skapa eller gå med i Internet-, nätverks-, och hotseat-matcher.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
-			<Text>Inställningar för grafik, ljud, tangentbindningar, och mer.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_MODS_TT">
-			<Text>Hemmagjorda tillägg av fans för att utöka Civilization VI.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_TUTORIAL_TT">
-			<Text>Är du nybörjare på spelet, eller behöver en repetitionskurs? Vi är här för att hjälpa till!</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_BENCHMARK_TT">
-			<Text>Räcker din hårdvara till?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_CREDITS_TT">
-			<Text>Alla som har bidragit till Civilization VI.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAINMENU_EXIT_GAME_TT">
-			<Text>Avsluta spelet helt och hållet.</Text>
-		</Replace>
-
-		<!-- Copyright screen -->
-		<Replace Language="sv_SE" Tag="LOC_COPYRIGHT_TEXT">
-			<Text>© 1991-2016 Take-Two Interactive Software, Inc.  Utvecklat av Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, och deras respektive logotyper är varumärken som tillhör Take-Two Interactive Software, Inc.  Använder Bink Video. Copyright © 1997-2016 by RAD Game Tools, Inc. Använder Granny Animation. Copyright © 1999-2016 by RAD Game Tools Inc.  Fork Copyright © 2016 Fork Particle, Inc. Sid Meier's Civilization VI använder Havok®. © Copyright 1999 – 2016 Havok.com, Inc. (och dess licensgivare). Alla rättigheter förbehålls. Vidare detaljer på www.havok.com. AMD, AMD-pillogotypen, Radeon, Crossfire, och kombinationer av dessa är antingen registrerade varumärken eller varumärken som tillhör Advanced Micro Devices, Inc. i USA och/eller andra länder. Microsoft, DirectX, Visual Studio, och Windows är antingen registrerade varumärken eller varumärken som tillhör Microsoft Corporation i USA och/eller andra länder. Lua Copyright © 1994-2016 Lua.org, PUC-Rio. Alla andra märken och varumärken tillhör sina respektive ägare.  Alla rättigheter förbehålls.  Innehållet i det här datorspelet är fiktivt och avser inte att representera eller skildra verkliga händelser, personer eller föremål.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_COPYRIGHT_ACCEPT">
-			<Text>Fortsätt</Text>
-		</Replace>
-    <Replace Language="sv_SE" Tag="LOC_VICTORY_DEFAULT_NAME">
-      <Text>Seger</Text>
-    </Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_SCORE_NAME">
-			<Text>Poängseger</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_SCIENCE_NAME">
-			<Text>Vetenskapsseger</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_CULTURE_NAME">
-			<Text>Kulturseger</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_DOMINATION_NAME">
-			<Text>Dominansseger</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_RELIGIOUS_NAME">
-			<Text>Religiös seger</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_SCORE_TT">
-			<Text>Du kanske inte lyckades uppnå en ärorik seger, men du tar det du får. Den här typen av seger aktiveras när tiden löper ut, och det inte finns några andra segrare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_SCIENCE_TT">
-			<Text>Bli den första som koloniserar Mars för att vinna en vetenskapsseger. Den här typen av seger är okomplicerad, men kan vara svår att uppnå innan tiden tar slut.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_CULTURE_TT">
-			<Text>Din grandiosa kultur kommer få hela världens folk att vallfärda till ditt rike. Det här är den svåraste typen av seger.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_DOMINATION_TT">
-			<Text>Du tvingar världen på knä genom militär styrka och skicklighet. Det här är den mest grundläggande typen av seger.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_RELIGIOUS_TT">
-			<Text>Sprid din religion till världens fyra hörn, och bringa ljus till en mörk värld. Du måste bemästra diplomatiska relationer om du ska kunna konvertera världen till den enda sanna religionen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_RULESET_NAME">
-			<Text>Standardregler</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_RULESET_DESCRIPTION">
-			<Text>Det här är ett normalt Civilization VI-spel.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
-			<Text>Spela som Kleopatra</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TUTORIAL_PLAY_GILG_NAME">
-			<Text>Spela som Gilgamesh</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT">
-			<Text>Ytterligare innehåll</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT">
-			<Text>Ytterligare innehåll och moddar för att utöka Civilization VI.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_DEMO">
-			<Text>Demo</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
-			<Text>Köp det nu</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DEMO_COMPLETE_CONTENT">
-			<Text>Congratulations! You have taken the first steps towards building a Civilization to stand the test of time. Will you continue to test yourself against the greatest leaders of history? Can your people’s culture flourish? Your science enlighten? Your faith inspire? Your military dominate?[NEWLINE][NEWLINE]How will you lead in Sid Meier’s Civilization VI? Continue the journey now.[NEWLINE][NEWLINE]Build. Conquer. Inspire.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
-			<Text>Fade into History</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DEMO_COMPLETE_BUY">
-			<Text>Achieve Greatness</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ARX_VICTORY_PROGRESS">
-			<Text>{1_CivName} Victory Progress</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ARX_TOP_5">
-			<Text>Topp 5</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ARX_GOSSIP_LOG">
-			<Text>Rykteslogg</Text>
-		</Replace>
-	</LocalizedText>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?><!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) --><GameData>	<LocalizedText>		<!-- Generic -->		<Replace Tag='LOC_GENERIC_TEST' Language='sv_SE'>			<Text>Tomáš</Text>		</Replace>		<Replace Tag='LOC_GENERIC_DOT_DOT_DOT' Language='sv_SE'>			<Text>...</Text>		</Replace>		<Replace Tag='LOC_YES_BUTTON' Language='sv_SE'>			<Text>Ja</Text>		</Replace>		<Replace Tag='LOC_NO_BUTTON' Language='sv_SE'>			<Text>Nej</Text>		</Replace>		<Replace Tag='LOC_OK_BUTTON' Language='sv_SE'>			<Text>OK</Text>		</Replace>		<Replace Tag='LOC_DEFAULT_BUTTON' Language='sv_SE'>			<Text>Default</Text>		</Replace>		<Replace Tag='LOC_GENERIC_CONFIRM_BUTTON' Language='sv_SE'>			<Text>Bekräfta</Text>		</Replace>		<!-- Front End Popups -->		<Replace Tag='LOC_FRONTEND_POPUP_UNKNOWN_DEVICE' Language='sv_SE'>			<Text>Failed to determine graphics device capabilities.[NEWLINE][NEWLINE]Please set your graphics options manually.</Text>		</Replace>		<Replace Tag='LOC_FRONTEND_POPUP_OUTDATED_DRIVER' Language='sv_SE'>			<Text>Your graphics driver is older than the minimum recommended version.[NEWLINE][NEWLINE]Please update your driver to the latest version.</Text>		</Replace>		<Replace Tag='LOC_FRONTEND_POPUP_OUTDATED_DRIVER_QUIET' Language='sv_SE'>			<Text>Don't Bug Me Again.</Text>		</Replace>		<Replace Tag='LOC_FRONTEND_POPUP_OUTDATED_DRIVER_LOUD' Language='sv_SE'>			<Text>Remind Me Next Time.</Text>		</Replace>		<!-- Main Menu-->		<Replace Tag='LOC_MAIN_MENU_RESUME_GAME' Language='sv_SE'>			<Text>Återuppta senaste spelet</Text>		</Replace>		<Replace Tag='LOC_PLAY_CIVILIZATION_6' Language='sv_SE'>			<Text>Spela nu</Text>		</Replace>		<Replace Tag='LOC_SINGLE_PLAYER' Language='sv_SE'>			<Text>Singelspel</Text>		</Replace>		<Replace Tag='LOC_PLAY_MULTIPLAYER' Language='sv_SE'>			<Text>Multispel</Text>		</Replace>		<Replace Tag='LOC_LOAD_GAME' Language='sv_SE'>			<Text>Ladda spel</Text>		</Replace>		<Replace Tag='LOC_NO_FILE_SELECTED' Language='sv_SE'>			<Text>Ingen fil vald</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_OPTIONS' Language='sv_SE'>			<Text>Spelalternativ</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_MODS' Language='sv_SE'>			<Text>Moddar</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_MY2K_LOGIN' Language='sv_SE'>			<Text>My2K Login</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_EXIT_TO_DESKTOP' Language='sv_SE'>			<Text>Avsluta</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_BENCH' Language='sv_SE'>			<Text>Riktmärke</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_CREDITS' Language='sv_SE'>			<Text>Medverkande</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_TUTORIAL' Language='sv_SE'>			<Text>Handledning</Text>		</Replace>		<!-- Load / Save Menus -->		<Replace Tag='LOC_DELETE_BUTTON' Language='sv_SE'>			<Text>Radera</Text>		</Replace>		<Replace Tag='LOC_BACK_BUTTON' Language='sv_SE'>			<Text>Tillbaka</Text>		</Replace>		<Replace Tag='LOC_AUTOSAVES' Language='sv_SE'>			<Text>Autosparningar</Text>		</Replace>		<Replace Tag='LOC_STEAMCLOUD' Language='sv_SE'>			<Text>I molnet</Text>		</Replace>		<Replace Tag='LOC_NO_SAVED_GAMES' Language='sv_SE'>			<Text>Inga sparade spel</Text>		</Replace>		<Replace Tag='LOC_SORTBY_NAME' Language='sv_SE'>			<Text>Sortera på namn</Text>		</Replace>		<Replace Tag='LOC_SORTBY_LASTMODIFIED' Language='sv_SE'>			<Text>Sortera på datum</Text>		</Replace>		<Replace Tag='LOC_LOAD_MENU_MODS' Language='sv_SE'>			<Text>MODDAR</Text>		</Replace>		<Replace Tag='LOC_LOAD_MENU_DLC' Language='sv_SE'>			<Text>DLC</Text>		</Replace>		<Replace Tag='LOC_SAVE_GAME' Language='sv_SE'>			<Text>Spara spel</Text>		</Replace>		<Replace Tag='LOC_SAVE_MAP_BUTTON' Language='sv_SE'>			<Text>Spara karta</Text>		</Replace>		<Replace Tag='LOC_SAVE_AT_MAXIMUM_CLOUD_SAVES_TOOLTIP' Language='sv_SE'>			<Text>You've reached the maximum number of Cloud saves. Overwrite or delete a save.</Text>		</Replace>		<Replace Tag='LOC_SAVE_INVALID_FILE_NAME_TOOLTIP' Language='sv_SE'>			<Text>Ogiltigt filnamn.</Text>		</Replace>		<Replace Tag='LOC_SAVE_WAITING_FOR_CLOUD_SAVE_LIST_TOOLTIP' Language='sv_SE'>			<Text>Waiting for cloud save list.</Text>		</Replace>		<Replace Tag='LOC_CONFIRM_TITLE_TXT' Language='sv_SE'>			<Text>Bekräfta överskrivning</Text>		</Replace>		<Replace Tag='LOC_CONFIRM_DELETE_TITLE_TXT' Language='sv_SE'>			<Text>Bekräfta radering</Text>		</Replace>		<Replace Tag='LOC_CONFIRM_CHOICE' Language='sv_SE'>			<Text>Är du säker?</Text>		</Replace>		<Replace Tag='LOC_CONFIRM_EXIT_TXT' Language='sv_SE'>			<Text>Are you sure you want to exit the game?</Text>		</Replace>		<Replace Tag='LOC_CONFIRM_TXT' Language='sv_SE'>			<Text>This will permanently delete your save file. Are you sure you want to do this?</Text>		</Replace>		<Replace Tag='LOC_CONFIRM_TITLE_LOAD_TXT' Language='sv_SE'>			<Text>Confirm Load File</Text>		</Replace>		<Replace Tag='LOC_CONFIRM_LOAD_TXT' Language='sv_SE'>			<Text>This will lose any unsaved progress. Are you sure you want to do this?</Text>		</Replace>		<Replace Tag='LOC_OVERWRITE_TXT' Language='sv_SE'>			<Text>This will overwrite your current save file. Are you sure you want to do this?</Text>		</Replace>		<Replace Tag='LOC_DELETE_MOD_TXT' Language='sv_SE'>			<Text>This will permanently delete this Mod. Are you sure you want to do this?</Text>		</Replace>		<Replace Tag='LOC_CONFIRM_DISABLE_MOD' Language='sv_SE'>			<Text>Are you sure you wish to disable this mod?</Text>		</Replace>		<Replace Tag='LOC_WILL_ALSO_DISABLE_MODS' Language='sv_SE'>			<Text>This will also disable the following mods:</Text>		</Replace>		<Replace Tag='LOC_CONFIRM_ENABLE_MOD' Language='sv_SE'>			<Text>Are you sure you wish to enable this mod?</Text>		</Replace>		<Replace Tag='LOC_WILL_ALSO_ENABLE_MODS' Language='sv_SE'>			<Text>This will also enable the following mods:</Text>		</Replace>		<Replace Tag='LOC_EFFECTED_MODS_TXT' Language='sv_SE'>			<Text>Effected Mods:</Text>		</Replace>		<Replace Tag='LOC_MOD_VERSION_AVAILABLE' Language='sv_SE'>			<Text>Version {1_VersionNumber} is available.</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_CURRENT_TURN' Language='sv_SE'>			<Text>OMGÅNG[ICON_Turn] {1}</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_SCENARIO_HEADER_TITLE' Language='sv_SE'>			<Text>Scenario Description</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_GAME_OPTIONS_HEADER_TITLE' Language='sv_SE'>			<Text>Spelalternativ</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_GAME_OPTIONS_MAP_TYPE_TITLE' Language='sv_SE'>			<Text>Karttyp:</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_GAME_OPTIONS_MAP_SIZE_TITLE' Language='sv_SE'>			<Text>Kartstorlek:</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_GAME_OPTIONS_WORLD_AGE_TITLE' Language='sv_SE'>			<Text>Världens ålder:</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_SAVED_BY_VERSION_TITLE' Language='sv_SE'>			<Text>Sparad med version:</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_GAME_OPTIONS_ADVANCED_TITLE' Language='sv_SE'>			<Text>Avancerade alternativ:</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_NO_MAP_DATA' Language='sv_SE'>			<Text>NO MAP DATA</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_TUNER_ACTIVE_TITLE' Language='sv_SE'>			<Text>Tuner Active:</Text>		</Replace>		<Replace Tag='LOC_LOADSAVE_QUICK_SAVE' Language='sv_SE'>			<Text>(Quick Save)</Text>		</Replace>    <!-- Advanced Game Setup -->		<Replace Tag='LOC_NETWORK_NAME_TT' Language='sv_SE'>			<Text>Network Name[NEWLINE]This is how your name will appear to other players.</Text>		</Replace>		<Replace Tag='LOC_NUMBER_OF_CIVILIZATIONS' Language='sv_SE'>			<Text>Antal civilisationer</Text>		</Replace>		<Replace Tag='LOC_PLAYERS' Language='sv_SE'>			<Text>Spelare</Text>		</Replace>		<Replace Tag='LOC_BACK' Language='sv_SE'>			<Text>Tillbaka</Text>		</Replace>		<Replace Tag='LOC_GAME_HANDICAP' Language='sv_SE'>			<Text>Svårighetsgrad</Text>		</Replace>		<Replace Tag='LOC_MAP_OPTIONS' Language='sv_SE'>			<Text>Kartalternativ</Text>		</Replace>		<!-- Multiplayer Game Abandoned Popup -->		<Replace Tag='LOC_GAME_ABANDONED_KICKED' Language='sv_SE'>			<Text>You have been kicked from the game by the host.</Text>		</Replace>		<Replace Tag='LOC_GAME_ABANDONED_HOST_LOSTED' Language='sv_SE'>			<Text>Network connection to host has been lost.</Text>		</Replace>		<Replace Tag='LOC_GAME_ABANDONED_ROOM_FULL' Language='sv_SE'>			<Text>The game has the maximum number of players.</Text>		</Replace>		<Replace Tag='LOC_GAME_ABANDONED_VERSION_MISMATCH' Language='sv_SE'>			<Text>Version mismatch with host.</Text>		</Replace>		<Replace Tag='LOC_GAME_ABANDONED_MOD_ERROR' Language='sv_SE'>			<Text>Unable to apply additional content.</Text>		</Replace>		<Replace Tag='LOC_GAME_ABANDONED_CONNECTION_LOST' Language='sv_SE'>			<Text>Network connection has been lost.</Text>		</Replace>		<Replace Tag='LOC_GAME_ABANDONED_JOIN_FAILED' Language='sv_SE'>			<Text>Error joining Multiplayer session.</Text>		</Replace>		<!-- Multiplayer Select Screen-->		<Replace Tag='LOC_MULTIPLAYER_DEFAULT_GAME_NAME' Language='sv_SE'>			<Text>{1_PlayerName}s spel</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_STANDARD_GAME' Language='sv_SE'>			<Text>Standard</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_STANDARD_GAME_TT' Language='sv_SE'>			<Text>Spela ett multispel där spelarna turas om att göra sina omgångar.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_INTERNET_GAME' Language='sv_SE'>			<Text>Internet</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE' Language='sv_SE'>			<Text>[ICON_CheckFail] Internet</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_INTERNET_GAME_TT' Language='sv_SE'>			<Text>Spela mot andra spelare över Internet.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_INTERNET_GAME_OFFLINE_TT' Language='sv_SE'>			<Text>Internetspel är inte tillgängliga när Steam är i offline-läge.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_LAN_GAME' Language='sv_SE'>			<Text>Lokalt nätverk</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_LAN_GAME_TT' Language='sv_SE'>			<Text>Spela mot andra spelare över det lokala nätverket.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_HOTSEAT_GAME' Language='sv_SE'>			<Text>Hot Seat</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_HOTSEAT_GAME_TT' Language='sv_SE'>			<Text>Spela ett multispel där spelarna turas om att göra sina omgångar på den här datorn.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CLOUD_GAME' Language='sv_SE'>			<Text>Moln-spel</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CLOUD_GAME_TT' Language='sv_SE'>			<Text>Spela ett multispel med hjälp av FiraxisLives molnteknik. Kräver en aktiv uppkoppling till FiraxisLive.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_PITBOSS_GAME' Language='sv_SE'>			<Text>Pitboss</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_PITBOSS_GAME_TT' Language='sv_SE'>			<Text>Spela ett multispel där en dedikerad server kontrollerar spelet över en lång tidsperiod.</Text>		</Replace>		<Replace Tag='LOC_MENU_BACK' Language='sv_SE'>			<Text>Tillbaka</Text>		</Replace>		<!-- Multiplayer Chat Commands -->		<Replace Tag='LOC_CHAT_HELP_COMMAND_HINT' Language='sv_SE'>			<Text>[COLOR:ChatMessage_Help]Type /help for chat command help.[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_CHAT_HELP_COMMAND_TEXT' Language='sv_SE'>			<Text>[COLOR:ChatMessage_Help]CHAT COMMANDS[NEWLINE]/t Send a message to a team channel[NEWLINE]/g Send a message to a global channel[NEWLINE]/w [PlayerName] Whisper a message to a player[NEWLINE]/r Reply to a whisper[NEWLINE]/help Displays this help message[ENDCOLOR]</Text>		</Replace>		<!-- Multiplayer Lobby Screen -->		<Replace Tag='LOC_MULTIPLAYER_REFRESH_GAME_LIST' Language='sv_SE'>			<Text>UPPDATERA</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_REFRESH_GAME_LIST_TT' Language='sv_SE'>			<Text>Hämta senaste listan över spel.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST' Language='sv_SE'>			<Text>STOP REFRESH</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_STOP_REFRESH_GAME_LIST_TT' Language='sv_SE'>			<Text>Stop the game list information retrieval.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_BACK' Language='sv_SE'>			<Text>TILLBAKA</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_JOIN_GAME' Language='sv_SE'>			<Text>Anslut till spel</Text>		</Replace>		<Replace Tag='LOC_MISC_BACK' Language='sv_SE'>			<Text>Tillbaka</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CONNECT_TO_IP' Language='sv_SE'>			<Text>Koppla upp mot IP-adress</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CONNECT_TO_IP_TT' Language='sv_SE'>			<Text>Connect to a pitboss game at a given public IP address.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CREATE_GAME' Language='sv_SE'>			<Text>Skapa spel</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CONFIRM_SETTINGS' Language='sv_SE'>			<Text>Bekräfta inställningar</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_HOST_GAME' Language='sv_SE'>			<Text>MULTISPELINSTÄLLNINGAR</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_HOST_GAME_TT' Language='sv_SE'>			<Text>Starta ett nytt multispel.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_LOAD_GAME_TT' Language='sv_SE'>			<Text>Skapa ett multispel från en existerande sparfil.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_FRIENDS' Language='sv_SE'>			<Text>Vänner</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_SHOW_FRIENDS' Language='sv_SE'>			<Text>Visa vänlistan</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_GAME_SETUP' Language='sv_SE'>			<Text>SPELINSTÄLLNINGAR</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_GAME_SUMMARY' Language='sv_SE'>			<Text>GAME SUMMARY</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_GAME_NAME' Language='sv_SE'>			<Text>Spelnamn</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_GAME_RULESET' Language='sv_SE'>			<Text>Regeluppsättning</Text>		</Replace>		<Replace Tag='LOC_AD_SETUP_MAP_TYPE' Language='sv_SE'>			<Text>Karttyp</Text>		</Replace>		<Replace Tag='LOC_AD_SETUP_GAME_SPEED' Language='sv_SE'>			<Text>Spelhastighet</Text>		</Replace>		<Replace Tag='LOC_AD_SETUP_MAP_SIZE' Language='sv_SE'>			<Text>Kartstorlek</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_PLAYERS' Language='sv_SE'>			<Text>Spelare</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_DLCHOSTED' Language='sv_SE'>			<Text>DLC</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_MODSHOSTED' Language='sv_SE'>			<Text>Moddar</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_PITBOSS_LOBBY' Language='sv_SE'>			<Text>PITBOSS-SPEL</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_INTERNET_LOBBY' Language='sv_SE'>			<Text>INTERNETSPEL</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_LAN_LOBBY' Language='sv_SE'>			<Text>SPEL PÅ DET LOKALA NÄTVERKET</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_UNKNOWN' Language='sv_SE'>			<Text>Unknown</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_TRUE' Language='sv_SE'>			<Text>True</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_FALSE' Language='sv_SE'>			<Text>False</Text>		</Replace>		<!-- Cloud Game Screen -->		<Replace Tag='LOC_MULTIPLAYER_CLOUD_LIST' Language='sv_SE'>			<Text>List</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CLOUD_TEMPLATE' Language='sv_SE'>			<Text>Template</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CLOUD_HOST' Language='sv_SE'>			<Text>Host</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CLOUD_JOIN' Language='sv_SE'>			<Text>Join</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CLOUD_START' Language='sv_SE'>			<Text>Start</Text>		</Replace>		<!-- Options -->		<Replace Tag='LOC_CONFIRM_KEY_BINDING' Language='sv_SE'>			<Text>Bekräfta tangentbindningar</Text>		</Replace>		<Replace Tag='LOC_CONFIRM' Language='sv_SE'>			<Text>Verkställ</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_GAME' Language='sv_SE'>			<Text>Spel</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_GRAPHICS' Language='sv_SE'>			<Text>Grafik</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_AUDIO' Language='sv_SE'>			<Text>Ljud</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LANGUAGE' Language='sv_SE'>			<Text>Språk</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_INTERFACE' Language='sv_SE'>			<Text>Gränssnitt</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_BINDINGS' Language='sv_SE'>			<Text>Tangentbindningar</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_APPLICATION' Language='sv_SE'>			<Text>Program</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_GAME_OPTIONS' Language='sv_SE'>			<Text>Spelalternativ</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_GRAPHICS_OPTIONS' Language='sv_SE'>			<Text>Grafikalternativ</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_AUDIO_OPTIONS' Language='sv_SE'>			<Text>Ljudalternativ</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LANGUAGE_OPTIONS' Language='sv_SE'>			<Text>Språkalternativ</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_INTERFACE_OPTIONS' Language='sv_SE'>			<Text>Gränssnittsalternativ</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_BINDINGS_OPTIONS' Language='sv_SE'>			<Text>Tangentbindningar</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_QUICK_COMBAT' Language='sv_SE'>			<Text>Snabb strid:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_QUICK_MOVEMENT' Language='sv_SE'>			<Text>Snabb förflyttning:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_AUTO_END_TURN' Language='sv_SE'>			<Text>Avsluta omgång automatiskt:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TIME_OF_DAY' Language='sv_SE'>			<Text>Tid på dygnet:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TUNER' Language='sv_SE'>			<Text>Tuner (disables achievements):</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TUTORIAL' Language='sv_SE'>			<Text>Rådgivare:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TURNS_BETWEEN_AUTOSAVES' Language='sv_SE'>			<Text>Omgångar mellan autosparningar:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_AUTOSAVES_TO_KEEP' Language='sv_SE'>			<Text>Antal autosparningar att behålla:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_STEAM_CONTROLLER_MESSAGE' Language='sv_SE'>			<Text>Steam Controller configuration happens inside the Steam client and not within this UI.  The escape, left mouse button, and right mouse button are reserved and cannot be bound.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_BIND_HEADER_PRIMARY' Language='sv_SE'>			<Text>Primär bindning</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_BIND_HEADER_ALT' Language='sv_SE'>			<Text>Alternativ bindning</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_APPLICATION_OPTIONS' Language='sv_SE'>			<Text>Programalternativ</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_SPOKEN_LANGUAGE' Language='sv_SE'>			<Text>Talat språk:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_STRATEGIC_VIEW_START' Language='sv_SE'>			<Text>Start in Strategic View:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_DISPLAY_LANGUAGE' Language='sv_SE'>			<Text>Textspråk:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MASTER_VOLUME' Language='sv_SE'>			<Text>Huvudvolym:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MUSIC_VOLUME' Language='sv_SE'>			<Text>Musikvolym:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_EFFECTS_VOLUME' Language='sv_SE'>			<Text>Ljudeffektsvolym:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_AMBIENT_VOLUME' Language='sv_SE'>			<Text>Bakgrundsljudsvolym:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_SPEECH_VOLUME' Language='sv_SE'>			<Text>Talvolym:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MUTE_FOCUS' Language='sv_SE'>			<Text>Tysta när spelets fönster inte är aktivt:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CLEAR' Language='sv_SE'>			<Text>Rensa</Text>		</Replace>		<!-- Front End Popop -->		<Replace Tag='LOC_CLOSE' Language='sv_SE'>			<Text>Stäng</Text>		</Replace>		<!-- Multiplayer Joining Room Screen -->		<Replace Tag='LOC_MULTIPLAYER_JOINING_ROOM_TITLE' Language='sv_SE'>			<Text>VAR GOD VÄNTA</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_JOINING_ROOM' Language='sv_SE'>			<Text>Joining Room...</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_JOINING_HOST' Language='sv_SE'>			<Text>Retrieving Host Information...</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CONFIGURING_CONTENT' Language='sv_SE'>			<Text>Configuring Game Content...</Text>		</Replace>		<Replace Tag='LOC_MP_ROOM_FULL' Language='sv_SE'>			<Text>Unable to join game. The game has the maximum number of players.</Text>		</Replace>		<Replace Tag='LOC_MP_JOIN_FAILED' Language='sv_SE'>			<Text>Error joining multiplayer session.</Text>		</Replace>		<!-- Multiplayer Staging Room Screen -->		<Replace Tag='LOC_MP_SWAP_PLAYER' Language='sv_SE'>			<Text>Swap</Text>		</Replace>		<Replace Tag='TXT_KEY_MP_SWAP_BUTTON_TT' Language='sv_SE'>			<Text>Swap to this player slot.</Text>		</Replace>		<Replace Tag='TXT_KEY_MP_SWAP_WITH_PLAYER_BUTTON_TT' Language='sv_SE'>			<Text>Swap to this player slot only if the other player also chooses to swap.</Text>		</Replace>		<Replace Tag='LOC_MP_KICK_PLAYER' Language='sv_SE'>			<Text>Kick Player</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_STAGING_ROOM' Language='sv_SE'>			<Text>Staging Room</Text>		</Replace>		<Replace Tag='LOC_READY_BUTTON' Language='sv_SE'>			<Text>Ready</Text>		</Replace>		<Replace Tag='LOC_ARE_YOU_READY' Language='sv_SE'>			<Text>Are you ready?</Text>		</Replace>		<!-- Multiplayer Status Strings -->		<Replace Tag='LOC_READY_LABEL' Language='sv_SE'>			<Text>Ready!</Text>		</Replace>		<Replace Tag='LOC_NOT_READY' Language='sv_SE'>			<Text>Not Ready</Text>		</Replace>		<Replace Tag='LOC_INVALID_SLOT_MAP_SIZE' Language='sv_SE'>			<Text>[COLOR:StagingStatus_Invalid]Invalid for Map Size[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_INVALID_SLOT_MAP_SIZE_TT' Language='sv_SE'>			<Text>This player slot is unavailable for the current map size.  Have the host increase the map size or swap to an available player slot.</Text>		</Replace>		<!-- Multiplayer Status Strings END -->		<Replace Tag='LOC_JOIN' Language='sv_SE'>			<Text>Join!</Text>		</Replace>		<Replace Tag='LOC_SLOTTYPE_OPEN' Language='sv_SE'>			<Text>Open</Text>		</Replace>		<Replace Tag='LOC_SLOTTYPE_OPEN_TT' Language='sv_SE'>			<Text>Open slots can be occupied by joining players.</Text>		</Replace>		<Replace Tag='LOC_SLOTTYPE_HUMANREQ' Language='sv_SE'>			<Text>Human Required</Text>		</Replace>		<Replace Tag='LOC_SLOTTYPE_HUMANREQ_TT' Language='sv_SE'>			<Text>Human Required slots require a human player before the game can start.</Text>		</Replace>		<Replace Tag='LOC_SLOTLABEL_HOST' Language='sv_SE'>			<Text>[ICON_Host] Host</Text>		</Replace>		<Replace Tag='LOC_SLOTLABEL_PLAYER' Language='sv_SE'>			<Text>Player</Text>		</Replace>		<Replace Tag='LOC_SLOTLABEL_COMPUTER' Language='sv_SE'>			<Text>Computer</Text>		</Replace>		<Replace Tag='LOC_SLOTLABEL_OPEN' Language='sv_SE'>			<Text>Open</Text>		</Replace>		<Replace Tag='LOC_SLOTTYPE_AI' Language='sv_SE'>			<Text>AI</Text>		</Replace>		<Replace Tag='LOC_SLOTTYPE_AI_TT' Language='sv_SE'>			<Text>AI Player</Text>		</Replace>		<Replace Tag='LOC_SLOTTYPE_CLOSED' Language='sv_SE'>			<Text>Closed</Text>		</Replace>		<Replace Tag='LOC_SLOTTYPE_CLOSED_TT' Language='sv_SE'>			<Text>Closed slots can not be used by players.</Text>		</Replace>		<Replace Tag='LOC_SLOTTYPE_HUMAN' Language='sv_SE'>			<Text>Human</Text>		</Replace>		<Replace Tag='LOC_SLOTTYPE_HUMAN_TT' Language='sv_SE'>			<Text>Human Player</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_DEFAULT_NO_TEAM_NAME' Language='sv_SE'>			<Text>None</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_DEFAULT_TEAM_NAME' Language='sv_SE'>			<Text>{1_Num}</Text>		</Replace>		<Replace Tag='LOC_CREATE_NEW_TEAM' Language='sv_SE'>			<Text>New</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_TEAM_HEADER' Language='sv_SE'>			<Text>Team</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_DIFFICULTY_HEADER' Language='sv_SE'>			<Text>Difficulty</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_READY_HEADER' Language='sv_SE'>			<Text>Ready?</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CIV_LEADER_HEADER' Language='sv_SE'>			<Text>Civilization and Leader</Text>		</Replace>		<Replace Tag='LOC_GAMESTART_COUNTDOWN_FORMAT' Language='sv_SE'>			<Text>Game Starting</Text>		</Replace>		<Replace Tag='LOC_HOTSEAT_DEFAULT_PLAYER_NAME' Language='sv_SE'>			<Text>Player</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_HOTSEAT_PASSWORD' Language='sv_SE'>			<Text>Password</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_HOTSEAT_PASSWORD_VERIFY' Language='sv_SE'>			<Text>Retype</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_MATCH' Language='sv_SE'>			<Text>Match</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_HOTSEAT_PASSWORDS_DONT_MATCH' Language='sv_SE'>			<Text>Passwords Don't Match.</Text>		</Replace>		<!-- Staging Room Ready Button-->		<Replace Tag='LOC_READY_UNSUPPORTED' Language='sv_SE'>			<Text>Unsupported.</Text>		</Replace>		<Replace Tag='LOC_READY_UNSUPPORTED_TT' Language='sv_SE'>			<Text>Unsupported amount of players.</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_TEAMS_INVALID' Language='sv_SE'>			<Text>Invalid Teams</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_TEAMS_INVALID_TT' Language='sv_SE'>			<Text>Cannot start game. All civilizations are on the same team.</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_CONNECTING_PLAYER' Language='sv_SE'>			<Text>Cannot start game. Players are joining the game.</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_PLAYER_MAP_SIZE' Language='sv_SE'>			<Text>Map Size Issue</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_PLAYER_MAP_SIZE_TT' Language='sv_SE'>			<Text>Can not start game. A player is in an invalid player slot for the current map size. The current map only supports {1_number} players.</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS' Language='sv_SE'>			<Text>Not Enough Players</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_NOT_ENOUGH_PLAYERS_TT' Language='sv_SE'>			<Text>Can not start game.  Two players are required to start.</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_PLAYERS_CONNECTING' Language='sv_SE'>			<Text>Players Joining Game</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_PLAYERS_CONNECTING_TT' Language='sv_SE'>			<Text>Waiting for players joining into the game.</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY' Language='sv_SE'>			<Text>Player Missing Mods</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_PLAYERS_NOT_MOD_READY_TT' Language='sv_SE'>			<Text>Waiting on players who do not have the mods required for this game.</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH' Language='sv_SE'>			<Text>Password Mismatch</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_HOTSEAT_PASSWORD_MISMATCH_TT' Language='sv_SE'>			<Text>All passwords must match.</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS' Language='sv_SE'>			<Text>No Human Players</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_HOTSEAT_NO_HUMAN_PLAYERS_TT' Language='sv_SE'>			<Text>Need at least 1 human player</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS' Language='sv_SE'>			<Text>Invalid Teams</Text>		</Replace>		<Replace Tag='LOC_READY_BLOCKED_HOTSEAT_INVALID_TEAMS_TT' Language='sv_SE'>			<Text>At least 2 players need to be on different teams</Text>		</Replace>		<!-- Staging Room Invite Button -->		<Replace Tag='LOC_INVITE_BUTTON' Language='sv_SE'>			<Text>Bjud in vänner</Text>		</Replace>		<Replace Tag='LOC_INVITE_BUTTON_TT' Language='sv_SE'>			<Text>Invite friends from your Steam friends list to this game.</Text>		</Replace>		<!-- Confirm Kick Popup -->		<Replace Tag='LOC_CANCEL_BUTTON' Language='sv_SE'>			<Text>Avbryt</Text>		</Replace>		<Replace Tag='LOC_ACCEPT_BUTTON' Language='sv_SE'>			<Text>Accept</Text>		</Replace>		<Replace Tag='LOC_CONFIRM_KICK_PLAYER_DESC' Language='sv_SE'>			<Text>Are you sure you wish to kick {1_player} from the game?</Text>		</Replace>		<!-- Edit Hotseat Player Popup -->		<Replace Tag='LOC_HOTSEAT_EDIT_PLAYER_TT' Language='sv_SE'>			<Text>Edit Hot Seat Player.</Text>		</Replace>		<Replace Tag='LOC_HOTSEAT_EDIT_PLAYER' Language='sv_SE'>			<Text>Edit Hot Seat Player</Text>		</Replace>		<Replace Tag='LOC_HOTSEAT_PLAYER_NAME' Language='sv_SE'>			<Text>Spelarnamn:</Text>		</Replace>		<Replace Tag='LOC_HOTSEAT_PASSWORD' Language='sv_SE'>			<Text>Lösenord:</Text>		</Replace>		<Replace Tag='LOC_HOTSEAT_RETYPE_PASSWORD' Language='sv_SE'>			<Text>Retype Password:</Text>		</Replace>		<!-- Network Connection Status -->		<Replace Tag='LOC_MP_PLAYER_CONNECTED' Language='sv_SE'>			<Text>Player is currently in-game.</Text>		</Replace>		<Replace Tag='LOC_MP_PLAYER_CONNECTED_SUMMARY' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Connected]Connected[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_MP_PLAYER_NOTCONNECTED' Language='sv_SE'>			<Text>Player is not connected.</Text>		</Replace>		<Replace Tag='LOC_MP_PLAYER_NOTCONNECTED_SUMMARY' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Offline]Offline[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_MP_PLAYER_CONNECTING' Language='sv_SE'>			<Text>Player is joining the game.</Text>		</Replace>		<Replace Tag='LOC_MP_PLAYER_CONNECTING_SUMMARY' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Connecting]Joining[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_MP_PLAYER_NOT_MOD_READY' Language='sv_SE'>			<Text>Player does not have the mods required to play in this game.</Text>		</Replace>		<Replace Tag='LOC_TIME_MILLISECONDS' Language='sv_SE'>			<Text>ms</Text>		</Replace>		<Replace Tag='LOC_TIME_SECONDS' Language='sv_SE'>			<Text>s</Text>		</Replace>		<!-- Friend Actions  -->		<Replace Tag='LOC_FRIEND_ACTION_PROFILE' Language='sv_SE'>			<Text>Steam-profil</Text>		</Replace>		<Replace Tag='LOC_FRIEND_ACTION_PROFILE_TT' Language='sv_SE'>			<Text>View this friend's profile page.</Text>		</Replace>		<Replace Tag='LOC_FRIEND_ACTION_CHAT' Language='sv_SE'>			<Text>Skicka meddelande</Text>		</Replace>		<Replace Tag='LOC_FRIEND_ACTION_CHAT_TT' Language='sv_SE'>			<Text>Send a message to this friend.</Text>		</Replace>		<Replace Tag='LOC_FRIEND_ACTION_INVITE' Language='sv_SE'>			<Text>Invite to Game</Text>		</Replace>		<Replace Tag='LOC_FRIEND_ACTION_INVITE_TT' Language='sv_SE'>			<Text>Invite this friend to play.</Text>		</Replace>		<!-- Friend Status  -->		<Replace Tag='LOC_PRESENCE_ONLINE' Language='sv_SE'>			<Text>[COLOR:ButtonCS]Online[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_PRESENCE_IN_SHELL' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Connected]Huvudmeny[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_PRESENCE_HOSTING_GAME' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Connected]Hosting Game[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_PRESENCE_IN_STAGING_ROOM' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Connected]Staging Room[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_PRESENCE_IN_GAME_SP' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Connected]Singelspel[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_PRESENCE_IN_GAME_ONLINE' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Connected]Multispel (Online)[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_PRESENCE_IN_GAME_LAN' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Connected]Multispel (LAN)[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_PRESENCE_IN_GAME_HOTSEAT' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Connected]Multispel (Hot Seat)[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_PRESENCE_INVITED_ONLINE' Language='sv_SE'>			<Text>[COLOR:ConnectionStatus_Connected]Invited[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_PRESENCE_INVITED_OFFLINE' Language='sv_SE'>			<Text>[COLOR:ButtonCS]Inbjuden[ENDCOLOR]</Text>		</Replace>		<!-- Player Connection EVents -->		<Replace Tag='LOC_MP_PLAYER_CONNECTED_CHAT' Language='sv_SE'>			<Text>Connected</Text>		</Replace>		<Replace Tag='LOC_MP_PLAYER_DISCONNECTED_CHAT' Language='sv_SE'>			<Text>Disconnected</Text>		</Replace>		<Replace Tag='LOC_MP_PLAYER_HOST_MIGRATED_CHAT' Language='sv_SE'>			<Text>Is Now the Host</Text>		</Replace>		<Replace Tag='LOC_MP_PLAYER_KICKED_CHAT' Language='sv_SE'>			<Text>Was Kicked</Text>		</Replace>		<!-- Multiplayer Chat -->		<Replace Tag='LOC_MULTIPLAYER_CHAT' Language='sv_SE'>			<Text>CHAT</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_TO_ALL' Language='sv_SE'>			<Text>Till alla:</Text>		</Replace>		<!-- Multiplayer Mod Downloads -->		<Replace Tag='LOC_BYTES' Language='sv_SE'>			<Text>b</Text>		</Replace>		<Replace Tag='LOC_KILOBYTES' Language='sv_SE'>			<Text>kB</Text>		</Replace>		<Replace Tag='LOC_MEGABYTES' Language='sv_SE'>			<Text>MB</Text>		</Replace>		<!-- Setup -->		<Replace Tag='LOC_SETUP_CREATE_GAME' Language='sv_SE'>			<Text>Skapa spel</Text>		</Replace>		<Replace Tag='LOC_SETUP_CIVILIZATION' Language='sv_SE'>			<Text>Välj civilisation</Text>		</Replace>		<Replace Tag='LOC_SETUP_DIFFICULTY' Language='sv_SE'>			<Text>Välj svårighetsgrad</Text>		</Replace>		<Replace Tag='LOC_SETUP_SPEED' Language='sv_SE'>			<Text>Välj spelhastighet</Text>		</Replace>		<Replace Tag='LOC_SETUP_MAP_TYPE' Language='sv_SE'>			<Text>Välj karttyp</Text>		</Replace>		<Replace Tag='LOC_SETUP_MAP_SIZE' Language='sv_SE'>			<Text>Välj kartstorlek</Text>		</Replace>		<Replace Tag='LOC_DELETE_AI' Language='sv_SE'>			<Text>Ta bort</Text>		</Replace>		<Replace Tag='LOC_SETUP_ADVANCED_OPTIONS' Language='sv_SE'>			<Text>Avancerade inställningar</Text>		</Replace>		<Replace Tag='LOC_SETUP_VICTORY_CONDITIONS' Language='sv_SE'>			<Text>Segertyper</Text>		</Replace>		<Replace Tag='LOC_ADVANCED_OPTIONS' Language='sv_SE'>			<Text>Avancerade inställningar</Text>		</Replace>		<Replace Tag='LOC_EDIT_BUTTON' Language='sv_SE'>			<Text>Redigera</Text>		</Replace>		<Replace Tag='LOC_SETUP_ADD_PLAYER' Language='sv_SE'>			<Text>Lägg till spelare</Text>		</Replace>		<Replace Tag='LOC_SETUP_ADD_PLAYER_TT' Language='sv_SE'>			<Text>Add a player to the game.</Text>		</Replace>		<Replace Tag='LOC_SETUP_ADD_AI_PLAYER' Language='sv_SE'>			<Text>Lägg till datorspelare</Text>		</Replace>		<Replace Tag='LOC_SETUP_ADD_AI_PLAYER_TT' Language='sv_SE'>			<Text>Lägg till en datorstyrd spelare till spelet.</Text>		</Replace>		<Replace Tag='LOC_SETUP_RESTORE_DEFAULT' Language='sv_SE'>			<Text>Återställ standardinställningarna</Text>		</Replace>		<Replace Tag='LOC_SETUP_RESTORE_DEFAULT_TT' Language='sv_SE'>			<Text>Återställer alla parametrar till sina standardinställningar.</Text>		</Replace>		<Replace Tag='LOC_START_GAME' Language='sv_SE'>			<Text>Starta spel</Text>		</Replace>		<Replace Tag='LOC_START_WORLD_BUILDER' Language='sv_SE'>			<Text>Starta Världsbyggaren</Text>		</Replace>		<Replace Tag='LOC_WORLD_BUILDER_START_NEW' Language='sv_SE'>			<Text>Ny karta</Text>		</Replace>		<Replace Tag='LOC_WORLD_BUILDER_LOAD' Language='sv_SE'>			<Text>Load Map</Text>		</Replace>		<Replace Tag='LOC_RANDOM_LEADER' Language='sv_SE'>			<Text>Slumpmässig ledare</Text>		</Replace>		<Replace Tag='LOC_RANDOM_CIVILIZATION' Language='sv_SE'>			<Text>Slumpmässig civilisation</Text>		</Replace>		<!-- Configuration Parameters.  Move these to a better location -->		<Replace Tag='LOC_RULESET' Language='sv_SE'>			<Text>Regeluppsättning:</Text>		</Replace>		<Replace Tag='LOC_GAME_NAME' Language='sv_SE'>			<Text>Spelnamn:</Text>		</Replace>		<Replace Tag='LOC_GAME_NAME_DESC' Language='sv_SE'>			<Text>The name displayed for this game in the multiplayer server list.</Text>		</Replace>		<Replace Tag='LOC_PRIVATE_GAME' Language='sv_SE'>			<Text>Privat spel</Text>		</Replace>		<Replace Tag='LOC_PRIVATE_GAME_DESC' Language='sv_SE'>			<Text>Private games are not shown in the multiplayer lobby.  A private game is only accessable thru a game invite or the Steam friends list.  This setting does not apply to Local Network games.</Text>		</Replace>		<Replace Tag='LOC_GAME_VICTORY_TIME' Language='sv_SE'>			<Text>Tid</Text>		</Replace>		<Replace Tag='LOC_GAME_VICTORY_SCIENCE' Language='sv_SE'>			<Text>Science</Text>		</Replace>		<Replace Tag='LOC_GAME_NO_GOODY_HUTS' Language='sv_SE'>			<Text>Inga stambyar</Text>		</Replace>		<Replace Tag='LOC_GAME_NO_BARBARIANS' Language='sv_SE'>			<Text>Inga barbarer</Text>		</Replace>		<Replace Tag='LOC_GAME_TURNTIMER_TYPE' Language='sv_SE'>			<Text>Turn Timer</Text>		</Replace>		<Replace Tag='LOC_GAME_TURN_TIMER_TIME' Language='sv_SE'>			<Text>Turn Time</Text>		</Replace>		<Replace Tag='LOC_GAME_TURN_TIMER_TIME_TOOLTIP' Language='sv_SE'>			<Text>Turn time used by the Standard Turn Timer mode (in seconds).</Text>		</Replace>		<Replace Tag='LOC_GAME_TURNPHASE_TYPE' Language='sv_SE'>			<Text>Turn Mode</Text>		</Replace>		<Replace Tag='LOC_GAME_TURNPHASE_DESC' Language='sv_SE'>			<Text>Turn mode used by human controlled players in multiplayer.</Text>		</Replace>		<Replace Tag='LOC_GAME_SYNC_RANDOM_SEED' Language='sv_SE'>			<Text>Slumpfrö för spelet</Text>		</Replace>		<Replace Tag='LOC_GAME_SYNC_RANDOM_SEED_TOOLTIP' Language='sv_SE'>			<Text>Startvärde för framslumpningen av spelets regler.</Text>		</Replace>		<Replace Tag='LOC_MAP_RANDOM_SEED' Language='sv_SE'>			<Text>Slumpfrö för kartan</Text>		</Replace>		<Replace Tag='LOC_MAP_RANDOM_SEED_TOOLTIP' Language='sv_SE'>			<Text>Startvärde för framslumpningen av kartans utseende.</Text>		</Replace>		<Replace Tag='LOC_MAP_WORLD_AGE_NAME' Language='sv_SE'>			<Text>Världens ålder</Text>		</Replace>		<Replace Tag='LOC_MAP_WORLD_AGE_NEW_NAME' Language='sv_SE'>			<Text>Ung</Text>		</Replace>		<Replace Tag='LOC_MAP_WORLD_AGE_STANDARD_NAME' Language='sv_SE'>			<Text>Normal</Text>		</Replace>		<Replace Tag='LOC_MAP_WORLD_AGE_OLD_NAME' Language='sv_SE'>			<Text>Gammal</Text>		</Replace>		<Replace Tag='LOC_MAP_WORLD_AGE_RANDOM_NAME' Language='sv_SE'>			<Text>Slumpmässig</Text>		</Replace>		<Replace Tag='LOC_MAP_TEMPERATURE_NAME' Language='sv_SE'>			<Text>Temperatur</Text>		</Replace>		<Replace Tag='LOC_MAP_TEMPERATURE_HOT_NAME' Language='sv_SE'>			<Text>Varm</Text>		</Replace>		<Replace Tag='LOC_MAP_TEMPERATURE_STANDARD_NAME' Language='sv_SE'>			<Text>Normal</Text>		</Replace>		<Replace Tag='LOC_MAP_TEMPERATURE_COLD_NAME' Language='sv_SE'>			<Text>Kall</Text>		</Replace>		<Replace Tag='LOC_MAP_TEMPERATURE_RANDOM_NAME' Language='sv_SE'>			<Text>Slumpmässig</Text>		</Replace>		<Replace Tag='LOC_MAP_RAINFALL_NAME' Language='sv_SE'>			<Text>Nederbörd</Text>		</Replace>		<Replace Tag='LOC_MAP_RAINFALL_ARID_NAME' Language='sv_SE'>			<Text>Torr</Text>		</Replace>		<Replace Tag='LOC_MAP_RAINFALL_STANDARD_NAME' Language='sv_SE'>			<Text>Normal</Text>		</Replace>		<Replace Tag='LOC_MAP_RAINFALL_WET_NAME' Language='sv_SE'>			<Text>Blöt</Text>		</Replace>		<Replace Tag='LOC_MAP_RAINFALL_RANDOM_NAME' Language='sv_SE'>			<Text>Slumpmässig</Text>		</Replace>		<Replace Tag='LOC_MAP_SEA_LEVEL_NAME' Language='sv_SE'>			<Text>Havsnivå</Text>		</Replace>		<Replace Tag='LOC_MAP_SEA_LEVEL_LOW_NAME' Language='sv_SE'>			<Text>Låg</Text>		</Replace>		<Replace Tag='LOC_MAP_SEA_LEVEL_STANDARD_NAME' Language='sv_SE'>			<Text>Normal</Text>		</Replace>		<Replace Tag='LOC_MAP_SEA_LEVEL_HIGH_NAME' Language='sv_SE'>			<Text>Hög</Text>		</Replace>		<Replace Tag='LOC_MAP_SEA_LEVEL_RANDOM_NAME' Language='sv_SE'>			<Text>Slumpmässig</Text>		</Replace>		<Replace Tag='LOC_MAP_RESOURCES_NAME' Language='sv_SE'>			<Text>Resurser</Text>		</Replace>		<Replace Tag='LOC_MAP_RESOURCES_SPARSE_NAME' Language='sv_SE'>			<Text>Glesa</Text>		</Replace>		<Replace Tag='LOC_MAP_RESOURCES_STANDARD_NAME' Language='sv_SE'>			<Text>Normala</Text>		</Replace>		<Replace Tag='LOC_MAP_RESOURCES_ABUNDANT_NAME' Language='sv_SE'>			<Text>Riktliga</Text>		</Replace>		<Replace Tag='LOC_MAP_RESOURCES_RANDOM_NAME' Language='sv_SE'>			<Text>Slumpmässiga</Text>		</Replace>		<Replace Tag='LOC_MAP_START_POSITION_NAME' Language='sv_SE'>			<Text>Startposition</Text>		</Replace>		<Replace Tag='LOC_MAP_START_POSITION_BALANCED_NAME' Language='sv_SE'>			<Text>Balanserad</Text>		</Replace>		<Replace Tag='LOC_MAP_START_POSITION_STANDARD_NAME' Language='sv_SE'>			<Text>Normal</Text>		</Replace>		<Replace Tag='LOC_MAP_START_POSITION_LEGENDARY_NAME' Language='sv_SE'>			<Text>Legendarisk</Text>		</Replace>		<!--Game Speed Descriptions -->		<Replace Tag='LOC_GAMESPEED_MARATHON_HELP' Language='sv_SE'>			<Text>Mycket långvarigt spel (200% långsammare).</Text>		</Replace>		<Replace Tag='LOC_GAMESPEED_EPIC_HELP' Language='sv_SE'>			<Text>Långvarigt spel (50% långsammare).</Text>		</Replace>		<Replace Tag='LOC_GAMESPEED_STANDARD_HELP' Language='sv_SE'>			<Text>Normal spelhastighet.</Text>		</Replace>		<Replace Tag='LOC_GAMESPEED_QUICK_HELP' Language='sv_SE'>			<Text>Snabbt spel (33% snabbare).</Text>		</Replace>		<Replace Tag='LOC_GAMESPEED_ONLINE_HELP' Language='sv_SE'>			<Text>Dubbelhastighetsspel som används för multispel online.</Text>		</Replace>		<!-- Map Type Descriptions -->		<Replace Tag='LOC_MAP_ARCHIPELAGO_DESCRIPTION' Language='sv_SE'>			<Text>Många mindre öar plus några större öar.</Text>		</Replace>		<Replace Tag='LOC_MAP_CONTINENTS_DESCRIPTION' Language='sv_SE'>			<Text>Ett fåtal större landmassor.</Text>		</Replace>		<Replace Tag='LOC_MAP_FRACTAL_DESCRIPTION' Language='sv_SE'>			<Text>Oförutsägbar karta som kan resultera i en eller flera landmassor.</Text>		</Replace>		<Replace Tag='LOC_MAP_INLANDSEA_DESCRIPTION' Language='sv_SE'>			<Text>Ett stort hav i mitten av kartan.</Text>		</Replace>		<Replace Tag='LOC_MAP_ISLAND_PLATES_DESCRIPTION' Language='sv_SE'>			<Text>Öar i olika storlekar, från små till stora.</Text>		</Replace>		<Replace Tag='LOC_MAP_PANGAEA_DESCRIPTION' Language='sv_SE'>			<Text>En massiv jättekontinent med omgivande öar.</Text>		</Replace>		<Replace Tag='LOC_MAP_SHUFFLE_DESCRIPTION' Language='sv_SE'>			<Text>Vilka hemligheter döljs på den här kartan?</Text>		</Replace>		<!-- Map Size Descriptions -->		<Replace Tag='LOC_MAPSIZE_DUEL_DESCRIPTION' Language='sv_SE'>			<Text>Mycket liten karta för 2 spelare.</Text>		</Replace>		<Replace Tag='LOC_MAPSIZE_TINY_DESCRIPTION' Language='sv_SE'>			<Text>Något mindre karta för 4 spelare.</Text>		</Replace>		<Replace Tag='LOC_MAPSIZE_SMALL_DESCRIPTION' Language='sv_SE'>			<Text>Liten karta för 6 spelare.</Text>		</Replace>		<Replace Tag='LOC_MAPSIZE_STANDARD_DESCRIPTION' Language='sv_SE'>			<Text>Medelstor karta för 8 spelare.</Text>		</Replace>		<Replace Tag='LOC_MAPSIZE_LARGE_DESCRIPTION' Language='sv_SE'>			<Text>Stor karta för 10 spelare.</Text>		</Replace>		<Replace Tag='LOC_MAPSIZE_HUGE_DESCRIPTION' Language='sv_SE'>			<Text>Enorm karta för 12 spelare.</Text>		</Replace>		<!-- Turn Timer Settings -->		<Replace Tag='LOC_TURNTIMER_NONE' Language='sv_SE'>			<Text>No Turn Timer</Text>		</Replace>		<Replace Tag='LOC_TURNTIMER_NONE_DESC' Language='sv_SE'>			<Text>Players take turns without time constraints.</Text>		</Replace>		<Replace Tag='LOC_TURNTIMER_DYNAMIC' Language='sv_SE'>			<Text>Dynamic Turn Timer</Text>		</Replace>		<Replace Tag='LOC_TURNTIMER_DYNAMIC_DESC' Language='sv_SE'>			<Text>Turn time is dynamically scaled based on the number of cities and units in play.</Text>		</Replace>		<Replace Tag='LOC_TURNTIMER_STANDARD' Language='sv_SE'>			<Text>Standard Turn Timer</Text>		</Replace>		<Replace Tag='LOC_TURNTIMER_STANDARD_DESC' Language='sv_SE'>			<Text>Turn time is based on the Turn Time option (in seconds).</Text>		</Replace>		<!-- Turn Mode Settings -->		<Replace Tag='LOC_TURNPHASE_SIMULTANEOUS' Language='sv_SE'>			<Text>Simultaneous Turns</Text>		</Replace>		<Replace Tag='LOC_TURNPHASE_SIMULTANEOUS_DESC' Language='sv_SE'>			<Text>Players take their turns at the same time.</Text>		</Replace>		<Replace Tag='LOC_TURNPHASE_DYNAMIC' Language='sv_SE'>			<Text>Dynamic Turns</Text>		</Replace>		<Replace Tag='LOC_TURNPHASE_DYNAMIC_DESC' Language='sv_SE'>			<Text>Players at peace take their turns at the same time.  Players at war take their turns sequentially.</Text>		</Replace>		<!-- Map Config Descriptions -->		<Replace Tag='LOC_MAP_WORLD_AGE_DESCRIPTION' Language='sv_SE'>			<Text>Changes the maps elevation (Hills and Mountains).</Text>		</Replace>		<Replace Tag='LOC_MAP_WORLD_AGE_NEW_DESCRIPTION' Language='sv_SE'>			<Text>En karta med fler kullar och berg.</Text>		</Replace>		<Replace Tag='LOC_MAP_WORLD_AGE_STANDARD_DESCRIPTION' Language='sv_SE'>			<Text>En karta med ett normalt antal kullar och berg.</Text>		</Replace>		<Replace Tag='LOC_MAP_WORLD_AGE_OLD_DESCRIPTION' Language='sv_SE'>			<Text>En karta med färre kullar och berg.</Text>		</Replace>		<Replace Tag='LOC_MAP_WORLD_AGE_RANDOM_DESCRIPTION' Language='sv_SE'>			<Text>En karta med ett slumpmässigt antal kullar och berg.</Text>		</Replace>		<Replace Tag='LOC_MAP_TEMPERATURE_DESCRIPTION' Language='sv_SE'>			<Text>Anpassar kartans terräng.</Text>		</Replace>		<Replace Tag='LOC_MAP_TEMPERATURE_HOT_DESCRIPTION' Language='sv_SE'>			<Text>En karta med mer öknar och mindre tundra och snö.</Text>		</Replace>		<Replace Tag='LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION' Language='sv_SE'>			<Text>En karta med klimatzoner liknande Jordens.</Text>		</Replace>		<Replace Tag='LOC_MAP_TEMPERATURE_COLD_DESCRIPTION' Language='sv_SE'>			<Text>En karta med mer tundra och snö och mindre öken.</Text>		</Replace>		<Replace Tag='LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION' Language='sv_SE'>			<Text>En karta med framslumpade klimatzoner.</Text>		</Replace>		<Replace Tag='LOC_MAP_RAINFALL_DESCRIPTION' Language='sv_SE'>			<Text>Ändrar mängden skog, regnskog och kärr på kartan.</Text>		</Replace>		<Replace Tag='LOC_MAP_RAINFALL_ARID_DESCRIPTION' Language='sv_SE'>			<Text>En karta med färre skogar, regnskogar och kärr.</Text>		</Replace>		<Replace Tag='LOC_MAP_RAINFALL_STANDARD_DESCRIPTION' Language='sv_SE'>			<Text>En karta med ett normalt antal skogar, regnskogar och kärr.</Text>		</Replace>		<Replace Tag='LOC_MAP_RAINFALL_WET_DESCRIPTION' Language='sv_SE'>			<Text>En karta med fler skogar, regnskogar och kärr.</Text>		</Replace>		<Replace Tag='LOC_MAP_RAINFALL_RANDOM_DESCRIPTION' Language='sv_SE'>			<Text>En karta med ett slumpmässigt antal skogar, regnskogar och kärr.</Text>		</Replace>		<Replace Tag='LOC_MAP_SEA_LEVEL_DESCRIPTION' Language='sv_SE'>			<Text>Ändrar hur mycket hav och sjöar som finns på kartan.</Text>		</Replace>		<Replace Tag='LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION' Language='sv_SE'>			<Text>En karta med mindre vatten.</Text>		</Replace>		<Replace Tag='LOC_MAP_SEA_LEVEL_STANDARD_DESCRIPTION' Language='sv_SE'>			<Text>En karta med normala vattennivåer.</Text>		</Replace>		<Replace Tag='LOC_MAP_SEA_LEVEL_HIGH_DESCRIPTION' Language='sv_SE'>			<Text>En karta med mer vatten.</Text>		</Replace>		<Replace Tag='LOC_MAP_SEA_LEVEL_RANDOM_DESCRIPTION' Language='sv_SE'>			<Text>En karta med framslumpade vattennivåer.</Text>		</Replace>		<Replace Tag='LOC_MAP_RESOURCES_DESCRIPTION' Language='sv_SE'>			<Text>Ändrar antalet resurser.</Text>		</Replace>		<Replace Tag='LOC_MAP_RESOURCES_SPARSE_DESCRIPTION' Language='sv_SE'>			<Text>En karta med färre resurser.</Text>		</Replace>		<Replace Tag='LOC_MAP_RESOURCES_STANDARD_DESCRIPTION' Language='sv_SE'>			<Text>En karta med ett normalt antal resurser.</Text>		</Replace>		<Replace Tag='LOC_MAP_RESOURCES_ABUNDANT_DESCRIPTION' Language='sv_SE'>			<Text>En karta med fler resurser.</Text>		</Replace>		<Replace Tag='LOC_MAP_RESOURCES_RANDOM_DESCRIPTION' Language='sv_SE'>			<Text>En karta med ett slumpmässigt antal resurser.</Text>		</Replace>		<Replace Tag='LOC_MAP_START_POSITION_DESCRIPTION' Language='sv_SE'>			<Text>Förändrar värdet av din startposition.</Text>		</Replace>		<Replace Tag='LOC_MAP_START_POSITION_BALANCED_DESCRIPTION' Language='sv_SE'>			<Text>Alla spelare har lika bra startpositioner.</Text>		</Replace>		<Replace Tag='LOC_MAP_START_POSITION_STANDARD_DESCRIPTION' Language='sv_SE'>			<Text>Normala startpositioner.</Text>		</Replace>		<Replace Tag='LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION' Language='sv_SE'>			<Text>Alla spelare har mycket bra, men inte nödvändigtvis likvärdiga, startpositioner.</Text>		</Replace>		<Replace Tag='LOC_GAME_START_ERA' Language='sv_SE'>			<Text>Startera</Text>		</Replace>		<Replace Tag='LOC_MAP_SCRIPT' Language='sv_SE'>			<Text>Karta</Text>		</Replace>		<!-- Tutorial Select Screen-->		<Replace Tag='LOC_SETUP_TUTORIAL_TITLE' Language='sv_SE'>			<Text>Välkommen till Civilization</Text>		</Replace>		<Replace Tag='LOC_SETUP_TUTORIAL_DESCRIPTION' Language='sv_SE'>			<Text>Det är här vi börjar äventyret att höja upp ett rike från en blygsam start till storhet, och skriva din egen version av historien.[NEWLINE][NEWLINE]Kommer du erövra världen genom stora strider, eller bli den första som skickar ditt folk till stjärnorna? Kommer du influera världen med ditt folks kultur, eller kommer din tro spridas till världens alla hörn?[NEWLINE][NEWLINE]Svaret kommer med tiden...[NEWLINE][NEWLINE]Alla stora civilisationer börjar med en stor ledare. Välj här nedan vilken civilisation du vill spela med i handledningen.</Text>		</Replace>		<Replace Tag='LOC_SETUP_TUTORIAL_LEADER_1' Language='sv_SE'>			<Text>Kleopatra från det Egyptiska riket regerar över en civilisation med starka allierade och skickliga stadsbyggare.</Text>		</Replace>		<Replace Tag='LOC_SETUP_TUTORIAL_LEADER_2' Language='sv_SE'>			<Text>Gilgamesh från det Sumeriska riket regerar över vidsträckta marker och är en respekterad erövrare.</Text>		</Replace>		<!-- Loading Screen / Dawn of man -->		<Replace Tag='LOC_LOADING_DOMAIN_LAND' Language='sv_SE'>			<Text>En unik landenhet</Text>		</Replace>		<Replace Tag='LOC_LOADING_DOMAIN_SEA' Language='sv_SE'>			<Text>En unik sjöenhet</Text>		</Replace>		<Replace Tag='LOC_LOADING_DOMAIN_AIR' Language='sv_SE'>			<Text>En unik luftenhet</Text>		</Replace>		<Replace Tag='LOC_LOADING_PLEASE_WAIT' Language='sv_SE'>			<Text>Laddar. Var god vänta...</Text>		</Replace>		<Replace Tag='LOC_LOADING_DISTRICT_BUILDING' Language='sv_SE'>			<Text>Byggnad för {1_DistrictName}-distriktet</Text>		</Replace>		<Replace Tag='LOC_LOADING_UNIQUE_BUILDING' Language='sv_SE'>			<Text>En unik byggnad</Text>		</Replace>		<Replace Tag='LOC_LOADING_UNIQUE_DISTRICT' Language='sv_SE'>			<Text>Ett unikt distrikt</Text>		</Replace>		<Replace Tag='LOC_LOADING_UNIQUE_IMPROVEMENT' Language='sv_SE'>			<Text>En unik förbättring</Text>		</Replace>		<Replace Tag='LOC_LOADING_JOIN_THE_WORLD_STAGE' Language='sv_SE'>			<Text>träder in på världsscenen</Text>		</Replace>		<Replace Tag='LOC_LOADING_FEATURES_ABILITIES' Language='sv_SE'>			<Text>Funktioner &amp; förmågor</Text>		</Replace>		<Replace Tag='LOC_LOADING_START_GAME' Language='sv_SE'>			<Text>Starta spel</Text>		</Replace>		<Replace Tag='LOC_LOADING_CONTINUE_GAME' Language='sv_SE'>			<Text>Fortsätt spel</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_DEFAULT' Language='sv_SE'>			<Text>It is up to you to lead your people to glory by building a civilization that will stand the test of time.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_BARBAROSSA' Language='sv_SE'>			<Text>Heroic Frederick, king of the Germans, your task is to forge the independent states that surround you into an empire. You are blessed to be a great military leader – use those skills to bring these cities under your sway so they may develop into commercial and industrial powerhouses.  Surely then the bards will sing of mighty Frederick with the red beard, the great Holy Roman Emperor.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI' Language='sv_SE'>			<Text>It falls to you, Catherine de Medici, to use your gifts of knowledge and of the arts to unite your people. Steer carefully through these troubled times, Queen Mother of France. You will build great wonders, drawing visitors from all corners of the earth. With your keen awareness of all things, both those seen and those hidden in the shadows, your empire will certainly stand the test of time.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_CLEOPATRA' Language='sv_SE'>			<Text>Det kommer finnas de som underskattar dig, men du är listig och har många trick i rockärmen, drottning Kleopatra. Din charm kommer bygga oförstörbara allianser med de starkaste ledarna i världen. Håll dina vänner nära, så kommer ingen att rå på dig. Egyptens härlighet är redo att vinna över världen.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_GANDHI' Language='sv_SE'>			<Text>Be kind, Gandhi Bapu, and you will find yourself surrounded by true friends. Keep the Indian people safe, guarding them with magnificent elephant warriors. Your faith will guide you to peace and harmony. Keep your mind open, and be the change you want to see in the world.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_GILGAMESH' Language='sv_SE'>			<Text>Mycket vilar på dina axlar, kung Gilgamesh. Ditt eget folk, och många människor i världen, ser upp till dig som deras ledare. Men du är mer än en vanlig människa, och det tunga ansvaret kommer aldrig få dig att svikta. Uppmuntra Sumers folk att befolka de bördiga länderna längs floderna, och välj dina allierade med omsorg – för det är många som skulle vilja ha en del av din styrka. Drista dig framåt, för det är dags att börja din episka berättelse.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_GORGO' Language='sv_SE'>			<Text>Gorgo, Queen of Sparta; glory to you and your loyal hoplite armies! Greece savors the blessings from Ares that every victory brings. And your people applaud your thoughtful governance and cultural marvels. Stand proud, for the legacy of Greece, and of your achievements, will be told over and over again for generations.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_HARDRADA' Language='sv_SE'>			<Text>All men fear the approach of your ships, King Harald of Norway, Thunderbolt of the North. Your longboats dominate the waves, always at the ready to unleash their berserker armies on an unsuspecting shore.  May Odin bless your kingdom and may the skalds sing tales of the victories of your mighty warriors.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_HOJO' Language='sv_SE'>			<Text>The great wave of Buddhism follows you, Shikken of Japan, Hojo Tokimune. Your people truly understand what it is to practice balance, and even your finest samurai will be well-learned and spiritually apt. Be strong, embrace the divine wind, and you will reach enlightenment.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_MVEMBA' Language='sv_SE'>			<Text>Mother Earth has many gifts for you, King Mvemba a Nzinga. Your people know the dense woods and rainforests as their homes, and glide through them with ease.  Great also are the gifts that come from travelers of distant lands. Keep an open mind, for the inspiration of the open world will let our people create art with power and majesty.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_PEDRO' Language='sv_SE'>			<Text>Your people look to you, Emperor Pedro II, to lead Brazil onto the world stage. Use your reputation as a patron of artists, scientists, and engineers to draw the greatest minds to our fertile home. For it is in the lush rainforests, teeming with life, that your people thrive. Watch them in the Carnival as they dance the samba in celebration of your great feats, Pedro the Magnanimous.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_PERICLES' Language='sv_SE'>			<Text>Your mastery of the spoken word is a gift of great value, silver-tongued Pericles, leader of the Greeks. Through it you can attract the devotion of a league of states, surrounding yourself with their glory. Establish cultural sites along the rocky shores of Greece to unite your people behind your strong governance.  If all goes well the Sirens will sing of the Age of Pericles!</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_PETER_GREAT' Language='sv_SE'>			<Text>Omfamna moderlandets kyliga vindar, tsar Peter. Din fascination för vetenskap och kultur är en gåva, och du kommer lära dig mycket av dina stora ambassader till andra länder. Under ditt styre kommer Ryssland säkerligen att blomstra och växa, att absorbera allt i sin närhet, och kanske skapa det största rike som existerat på jorden.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_PHILIP_II' Language='sv_SE'>			<Text>All Spain stands ready to answer your prayers, devout King Philip II.  From your palace at El Escorial you can send forth your followers: missionaries, apostles, and conquistadors ready to strike out across the seas to spread the good word about your most holy empire.  May the treasures they uncover fuel your quest to unite the world under one faith and one empire, making you truly the Most Catholic king.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_QIN' Language='sv_SE'>			<Text>In your people lies your greatest strength, Emperor Qin Shi Huang. From all over the world, others will come to gaze upon the great walls and towering wonders of your united China. May the hands of your men never blister as they work hard and fast to raise the most impressive structures that the world will ever know. Protect them well, and you will forever be immortalized.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_SALADIN' Language='sv_SE'>			<Text>The marriage of science and religion is a delicate balancing act, but one that you have mastered, Saladin. Your quest for knowledge is noble, and your people have a deep respect for you. But you need not rush into the unknown. Given time, the answers to life’s most puzzling questions will find their way back to Arabia.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_TOMYRIS' Language='sv_SE'>			<Text>All people will tremble with fear and respect for you, great warrior Queen Tomyris. For it is from the back of your stallion that you shall look upon and lead the Scythian people. Great epics will be told of the horse warriors that ride forth from the steppe, and at the front line of every battle - they will find you. Ride on, fierce queen, and may your friends be true just as your enemies falter.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_TRAJAN' Language='sv_SE'>			<Text>Cast your net wide, oh Trajan, emperor of mighty Rome. Your legions stand at the ready to march out and establish the largest empire the world has ever seen. If you can truly get all roads to lead to Rome, yours will be an empire of great riches and luxuries.  Surely then our citizens will proclaim you as their best ruler, the Optimus Princeps.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_T_ROOSEVELT' Language='sv_SE'>			<Text>And so it is upon your broad shoulders, Theodore Roosevelt, to charge forth and lead your people on their great adventure. Use your military might to give the peoples of your homeland the square deal they so desperately deserve. Surely you will raise America into the limelight and attract visitors from across the oceans just to see your lands. Bully for you, Mr. President.</Text>		</Replace>		<Replace Tag='LOC_LOADING_INFO_LEADER_VICTORIA' Language='sv_SE'>			<Text>Your Majesty the Queen Victoria of England, extend your reach beyond your borders and across the face of the globe.  Worry not over the possibility of defeat for your loyal redcoats and overwhelming navy will surely carry the day. With your calm and steady touch you can bring all lands under England's sway, establishing a true Pax Britannica.</Text>		</Replace>		<Replace Tag='LOC_ERA_ANCIENT_DESCRIPTION' Language='sv_SE'>			<Text>Från livets första rörelser under vattenytan… till forntidens stora bestar… till människans första upprätta steg… Du har kommit långt, men nu börjar din största utmaning: att ta dig från civilisationens tidiga vagga ut till stjärnorna.</Text>		</Replace>		<Replace Tag='LOC_ERA_CLASSICAL_DESCRIPTION' Language='sv_SE'>			<Text>From humble beginnings, you have shown remarkable growth. Leave your bronze for iron and rule with horse and sword. The sky above begins to reveal its secrets, a collection of heaven that uplifts our hearts and guides us to foreign shores.</Text>		</Replace>		<Replace Tag='LOC_ERA_MEDIEVAL_DESCRIPTION' Language='sv_SE'>			<Text>Du har byggt stora städer av sten och sett tidiga riken uppstå och falla. Snart kommer du stå under slottens höga tinnar och torn vid sidan av dina galanta riddare. Det är där historien om ditt folk kommer att skrivas. Precis som den unge lärlingen lär sig bära ett svärd, så kommer du också förstå din plats i världen.</Text>		</Replace>		<Replace Tag='LOC_ERA_RENAISSANCE_DESCRIPTION' Language='sv_SE'>			<Text>New powers call forth, from the barrel of muskets to flowers of fire in the sky. Even the quiet words on newly printed pages hold great changes within. The world, once so vast and mysterious, has grown smaller and more familiar. Yet, there are always questions to be answered, faiths to be tested, and national identities to be formed.</Text>		</Replace>		<Replace Tag='LOC_ERA_INDUSTRIAL_DESCRIPTION' Language='sv_SE'>			<Text>The steady hum of machinery, the acrid smell of smoke, vision clouded by ash and soot – these are the signs of changing times. The lure of scientific and cultural advancement is the engine driving your realm forward.  Now your challenge is to maintain the delicate balance between earth and man, between peace and war.</Text>		</Replace>		<Replace Tag='LOC_ERA_MODERN_DESCRIPTION' Language='sv_SE'>			<Text>In the beginning, legends of flying men soared. And today, you are on the brink of transforming those legends into a reality. With flight and new forms of communication you can create a small and intimate world.  But at what cost? Our competing ideas of how to govern and how to live threaten to bring conflict on a global scale.  You must choose your own path through this rising din of ideological oratory.</Text>		</Replace>		<Replace Tag='LOC_ERA_ATOMIC_DESCRIPTION' Language='sv_SE'>			<Text>New frontiers of discovery expand our understanding, from the tiny atom to the majesty of outer space. Mysteries long tolerated are closer than ever to revealing their deepest secrets, beyond what we can easily see. You will choose how to use this knowledge, and push back the greatest darkness we have yet faced.</Text>		</Replace>		<Replace Tag='LOC_ERA_INFORMATION_DESCRIPTION' Language='sv_SE'>			<Text>A world of information rests in the palm of your hand, and networks for instantaneous communication span the globe.  Yet a unified vision of our future has never been built.  We compete in technology, culture, and politics. We have deadly weapons that could destroy our planet. Lead us carefully, but boldly, and build a global community that can stand for years to come.</Text>		</Replace>		<Replace Tag='LOC_TUTORIAL_DISABLE' Language='sv_SE'>			<Text>Disable advisor.</Text>		</Replace>		<Replace Tag='LOC_TUTORIAL_NEW_TO_STRATEGY' Language='sv_SE'>			<Text>New to turn-based strategy.</Text>		</Replace>		<Replace Tag='LOC_TUTORIAL_NEW_TO_CIV' Language='sv_SE'>			<Text>New to Civilization</Text>		</Replace>		<Replace Tag='LOC_TUTORIAL_NEW_TO_CIV_6' Language='sv_SE'>			<Text>New to Civilization VI</Text>		</Replace>		<Replace Tag='LOC_LIMIT_TURNS_NAME' Language='sv_SE'>			<Text>Begränsa antal omgångar</Text>		</Replace>		<Replace Tag='LOC_LIMIT_TURNS_DESCRIPTION' Language='sv_SE'>			<Text>Begränsa hur många omgångar spelet får vara som längst.</Text>		</Replace>		<Replace Tag='LOC_TURNLIMIT_NONE_NAME' Language='sv_SE'>			<Text>Ingen begränsning</Text>		</Replace>		<Replace Tag='LOC_TURNLIMIT_NONE_DESCRIPTION' Language='sv_SE'>			<Text>Det finns ingen begränsning på hur många omgångar spelet får vara.</Text>		</Replace>		<Replace Tag='LOC_TURNLIMIT_GAMESPEED_NAME' Language='sv_SE'>			<Text>Efter spelhastighet</Text>		</Replace>		<Replace Tag='LOC_TURNLIMIT_GAMESPEED_DESCRIPTION' Language='sv_SE'>			<Text>Spelet kommer ta slut år 2050 e.Kr.</Text>		</Replace>		<Replace Tag='LOC_TURNLIMIT_CUSTOM_NAME' Language='sv_SE'>			<Text>Egen</Text>		</Replace>		<Replace Tag='LOC_TURNLIMIT_CUSTOM_DESCRIPTION' Language='sv_SE'>			<Text>Spelet kommer avslutas efter den omgång som du själv anger.</Text>		</Replace>		<Replace Tag='LOC_MAX_TURNS_NAME' Language='sv_SE'>			<Text>Max antal omgångar:</Text>		</Replace>		<Replace Tag='LOC_MAX_TURNS_DESCRIPTION' Language='sv_SE'>			<Text>Antalet omgångar tills en poängseger utdöms. Ange 0 för obegränsat antal omgångar (och ingen poängseger).</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_RESUME_GAME_TT' Language='sv_SE'>			<Text>Återuppta din senaste spelomgång.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_LOAD_GAME_TT' Language='sv_SE'>			<Text>Ladda en tidigare sparad spelomgång.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_PLAY_NOW_TT' Language='sv_SE'>			<Text>Spela på en liten karta med kontinenter och framslumpade ledare.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_CREATE_GAME_TT' Language='sv_SE'>			<Text>Skapa en ny spelomgång med dina egna inställningar.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_SINGLE_PLAYER_TT' Language='sv_SE'>			<Text>Spela nu, starta upp en ny spelomgång, eller fortsätt på en existerande omgång.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_MULTIPLAYER_TT' Language='sv_SE'>			<Text>Här kan du skapa eller gå med i Internet-, nätverks-, och hotseat-matcher.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_GAME_OPTIONS_TT' Language='sv_SE'>			<Text>Inställningar för grafik, ljud, tangentbindningar, och mer.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_MODS_TT' Language='sv_SE'>			<Text>Hemmagjorda tillägg av fans för att utöka Civilization VI.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_TUTORIAL_TT' Language='sv_SE'>			<Text>Är du nybörjare på spelet, eller behöver en repetitionskurs? Vi är här för att hjälpa till!</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_BENCHMARK_TT' Language='sv_SE'>			<Text>Räcker din hårdvara till?</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_CREDITS_TT' Language='sv_SE'>			<Text>Alla som har bidragit till Civilization VI.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_EXIT_GAME_TT' Language='sv_SE'>			<Text>Avsluta spelet helt och hållet.</Text>		</Replace>		<!-- Copyright screen -->		<Replace Tag='LOC_COPYRIGHT_TEXT' Language='sv_SE'>			<Text>© 1991-2016 Take-Two Interactive Software, Inc.  Utvecklat av Firaxis Games. 2K, Firaxis Games, Sid Meier's Civilization VI, Sid Meier's Civilization, Civilization, Civ, och deras respektive logotyper är varumärken som tillhör Take-Two Interactive Software, Inc.  Använder Bink Video. Copyright © 1997-2016 by RAD Game Tools, Inc. Använder Granny Animation. Copyright © 1999-2016 by RAD Game Tools Inc.  Fork Copyright © 2016 Fork Particle, Inc. Sid Meier's Civilization VI använder Havok®. © Copyright 1999 – 2016 Havok.com, Inc. (och dess licensgivare). Alla rättigheter förbehålls. Vidare detaljer på www.havok.com. AMD, AMD-pillogotypen, Radeon, Crossfire, och kombinationer av dessa är antingen registrerade varumärken eller varumärken som tillhör Advanced Micro Devices, Inc. i USA och/eller andra länder. Microsoft, DirectX, Visual Studio, och Windows är antingen registrerade varumärken eller varumärken som tillhör Microsoft Corporation i USA och/eller andra länder. Lua Copyright © 1994-2016 Lua.org, PUC-Rio. Alla andra märken och varumärken tillhör sina respektive ägare.  Alla rättigheter förbehålls.  Innehållet i det här datorspelet är fiktivt och avser inte att representera eller skildra verkliga händelser, personer eller föremål.</Text>		</Replace>		<Replace Tag='LOC_COPYRIGHT_ACCEPT' Language='sv_SE'>			<Text>Fortsätt</Text>		</Replace>		<Replace Tag='LOC_VICTORY_DEFAULT_NAME' Language='sv_SE'>			<Text>Seger</Text>		</Replace>		<Replace Tag='LOC_VICTORY_SCORE_NAME' Language='sv_SE'>			<Text>Poängseger</Text>		</Replace>		<Replace Tag='LOC_VICTORY_SCIENCE_NAME' Language='sv_SE'>			<Text>Vetenskapsseger</Text>		</Replace>		<Replace Tag='LOC_VICTORY_CULTURE_NAME' Language='sv_SE'>			<Text>Kulturseger</Text>		</Replace>		<Replace Tag='LOC_VICTORY_DOMINATION_NAME' Language='sv_SE'>			<Text>Dominansseger</Text>		</Replace>		<Replace Tag='LOC_VICTORY_RELIGIOUS_NAME' Language='sv_SE'>			<Text>Religiös seger</Text>		</Replace>		<Replace Tag='LOC_VICTORY_SCORE_TT' Language='sv_SE'>			<Text>Du kanske inte lyckades uppnå en ärorik seger, men du tar det du får. Den här typen av seger aktiveras när tiden löper ut, och det inte finns några andra segrare.</Text>		</Replace>		<Replace Tag='LOC_VICTORY_SCIENCE_TT' Language='sv_SE'>			<Text>Bli den första som koloniserar Mars för att vinna en vetenskapsseger. Den här typen av seger är okomplicerad, men kan vara svår att uppnå innan tiden tar slut.</Text>		</Replace>		<Replace Tag='LOC_VICTORY_CULTURE_TT' Language='sv_SE'>			<Text>Din grandiosa kultur kommer få hela världens folk att vallfärda till ditt rike. Det här är den svåraste typen av seger.</Text>		</Replace>		<Replace Tag='LOC_VICTORY_DOMINATION_TT' Language='sv_SE'>			<Text>Du tvingar världen på knä genom militär styrka och skicklighet. Det här är den mest grundläggande typen av seger.</Text>		</Replace>		<Replace Tag='LOC_VICTORY_RELIGIOUS_TT' Language='sv_SE'>			<Text>Sprid din religion till världens fyra hörn, och bringa ljus till en mörk värld. Du måste bemästra diplomatiska relationer om du ska kunna konvertera världen till den enda sanna religionen.</Text>		</Replace>		<Replace Tag='LOC_RULESET_NAME' Language='sv_SE'>			<Text>Standardregler</Text>		</Replace>		<Replace Tag='LOC_RULESET_DESCRIPTION' Language='sv_SE'>			<Text>Det här är ett normalt Civilization VI-spel.</Text>		</Replace>		<Replace Tag='LOC_TUTORIAL_PLAY_CLEO_NAME' Language='sv_SE'>			<Text>Spela som Kleopatra</Text>		</Replace>		<Replace Tag='LOC_TUTORIAL_PLAY_GILG_NAME' Language='sv_SE'>			<Text>Spela som Gilgamesh</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_ADDITIONAL_CONTENT' Language='sv_SE'>			<Text>Ytterligare innehåll</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_ADDITIONAL_CONTENT_TT' Language='sv_SE'>			<Text>Ytterligare innehåll och moddar för att utöka Civilization VI.</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_DEMO' Language='sv_SE'>			<Text>Demo</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_DEMO_PURCHASE' Language='sv_SE'>			<Text>Köp det nu</Text>		</Replace>		<Replace Tag='LOC_DEMO_COMPLETE_CONTENT' Language='sv_SE'>			<Text>Congratulations! You have taken the first steps towards building a Civilization to stand the test of time. Will you continue to test yourself against the greatest leaders of history? Can your people’s culture flourish? Your science enlighten? Your faith inspire? Your military dominate?[NEWLINE][NEWLINE]How will you lead in Sid Meier’s Civilization VI? Continue the journey now.[NEWLINE][NEWLINE]Build. Conquer. Inspire.</Text>		</Replace>		<Replace Tag='LOC_DEMO_COMPLETE_MAIN_MENU' Language='sv_SE'>			<Text>Fade into History</Text>		</Replace>		<Replace Tag='LOC_DEMO_COMPLETE_BUY' Language='sv_SE'>			<Text>Achieve Greatness</Text>		</Replace>		<Replace Tag='LOC_ARX_VICTORY_PROGRESS' Language='sv_SE'>			<Text>{1_CivName} Victory Progress</Text>		</Replace>		<Replace Tag='LOC_ARX_TOP_5' Language='sv_SE'>			<Text>Topp 5</Text>		</Replace>		<Replace Tag='LOC_ARX_GOSSIP_LOG' Language='sv_SE'>			<Text>Rykteslogg</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LAN_PLAYER_NAME' Language='sv_SE'>			<Text>Local Network Player Name:</Text>		</Replace>		<Replace Tag='LOC_SETUP_ERROR_NO_DUPLICATE_LEADERS' Language='sv_SE'>			<Text>Inga duplicerade ledare</Text>		</Replace>		<Replace Tag='LOC_SETUP_ERROR_INVALID_OPTION' Language='sv_SE'>			<Text>Ogiltigt val</Text>		</Replace>		<Replace Tag='LOC_SETUP_ERROR_LEADER_NOT_OWNED' Language='sv_SE'>			<Text>Ej ägd</Text>		</Replace>		<Replace Tag='LOC_SETUP_PLAYER_PARAMETER_ERROR' Language='sv_SE'>			<Text>One or more player options are invalid.</Text>		</Replace>		<Replace Tag='LOC_NO_DUPLICATE_LEADERS_NAME' Language='sv_SE'>			<Text>Inga duplicerade ledare</Text>		</Replace>		<Replace Tag='LOC_NO_DUPLICATE_LEADERS_DESCRIPTION' Language='sv_SE'>			<Text>Med det här alternativet valt kan två spelare inte välja samma ledare.</Text>		</Replace>		<Replace Tag='LOC_CITYSTATE_COUNT_NAME' Language='sv_SE'>			<Text>Stadsstater:</Text>		</Replace>		<Replace Tag='LOC_CITYSTATE_COUNT_DESCRIPTION' Language='sv_SE'>			<Text>Antalet stadsstater som ska ingå i spelet.</Text>		</Replace>		<!-- File Errors -->		<Replace Tag='LOC_SERIALIZATION_ERROR_VERSION_MISMATCH' Language='sv_SE'>			<Text>Save cannot be loaded in this version of the game.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN' Language='sv_SE'>			<Text>Unable to open save.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE' Language='sv_SE'>			<Text>Unable to write save.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_FAILED_TO_READ' Language='sv_SE'>			<Text>Unable to read save.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE' Language='sv_SE'>			<Text>Unable to remove save.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME' Language='sv_SE'>			<Text>File is not a save game.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_CORRUPT_SAVE' Language='sv_SE'>			<Text>Save game is corrupt.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE' Language='sv_SE'>			<Text>Save loading unexpectedly ended.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_RESTORING_STATE' Language='sv_SE'>			<Text>Unable to restore the game state.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND' Language='sv_SE'>			<Text>Unable find the path to the save.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_INVALID_DEVICE' Language='sv_SE'>			<Text>The save device is invalid.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST' Language='sv_SE'>			<Text>Unable to retrieve the save list from the device.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD' Language='sv_SE'>			<Text>One or more required Mods for the save are not installed.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC' Language='sv_SE'>			<Text>Ett eller flera DLC-paket som behövs för sparfilen är inte installerade.</Text>		</Replace>		<Replace Tag='LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION' Language='sv_SE'>			<Text>One or more required Expansion packages for the save are not installed.</Text>		</Replace>		<Replace Tag='LOC_PLAY_MULTIPLAYER_HAVE_CLOUD_TURN' Language='sv_SE'>			<Text>[ICON_Exclamation] Multiplayer</Text>		</Replace>		<Replace Tag='LOC_LOAD_CONFIG' Language='sv_SE'>			<Text>Ladda inställningar</Text>		</Replace>		<Replace Tag='LOC_LOAD_MAP' Language='sv_SE'>			<Text>Ladda karta</Text>		</Replace>		<Replace Tag='LOC_OPEN_DIRECTORY' Language='sv_SE'>			<Text>Öppna</Text>		</Replace>		<Replace Tag='LOC_NO_SAVED_CONFIGS' Language='sv_SE'>			<Text>Inga sparade inställningar</Text>		</Replace>		<Replace Tag='LOC_NO_SAVED_MAPS' Language='sv_SE'>			<Text>No saved maps</Text>		</Replace>		<Replace Tag='LOC_SAVE_CONFIG' Language='sv_SE'>			<Text>Spara inställningar</Text>		</Replace>		<Replace Tag='LOC_TEAM' Language='sv_SE'>			<Text>Lag</Text>		</Replace>		<Replace Tag='LOC_TEAM_GENERIC_NAME' Language='sv_SE'>			<Text>Lag {1_Number}</Text>		</Replace>		<Replace Tag='LOC_TEAM_UNKNOWN_NAME' Language='sv_SE'>			<Text>Okänt lag</Text>		</Replace>		<Replace Tag='LOC_GAME_ABANDONED_MOD_MISSING' Language='sv_SE'>			<Text>Unable to acquire required additional content.[NEWLINE]Content:[NEWLINE]</Text>		</Replace>		<Replace Tag='LOC_GAME_ABANDONED_MOD_ACCESS_DENIED' Language='sv_SE'>			<Text>Steam Workshop denied access to required additional content.[NEWLINE]Content:[NEWLINE]</Text>		</Replace>		<Replace Tag='LOC_GAME_ABANDONED_MOD_MISSING_DOWNLOADS_DISABLED' Language='sv_SE'>			<Text>This game requires additional content that is not installed.  The automatic download of additional content is currently disabled.  Automatic downloads can be enabled in Game Options.[NEWLINE]Content:[NEWLINE]</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CLOUD_GAME_HAVE_TURN' Language='sv_SE'>			<Text>[ICON_Exclamation] Cloud Game</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CLOUD_GAME_HAVE_TURN_TT' Language='sv_SE'>			<Text>It is your turn in one of your cloud games.[NEWLINE][NEWLINE]Play a multiplayer game using FiraxisLive cloud computing technology.  Requires an active connection to FiraxisLive.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_END_GAME' Language='sv_SE'>			<Text>RADERA SPEL</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_ENDING_GAME_PROMPT' Language='sv_SE'>			<Text>Avslutar spel...</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_ENDING_GAME_FAIL' Language='sv_SE'>			<Text>Error while ending game.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_ENDING_GAME_FAIL_ACCEPT' Language='sv_SE'>			<Text>Ok</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_GAME_LAUNCH_FAILED' Language='sv_SE'>			<Text>Game failed to launch.</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_GAME_LAUNCH_FAILED_ACCEPT' Language='sv_SE'>			<Text>Ok</Text>		</Replace>		<Replace Tag='LOC_STAGING_ROOM_LOADING_SAVE' Language='sv_SE'>			<Text>Laddar sparat spel</Text>		</Replace>		<Replace Tag='LOC_STAGING_ROOM_GAME_IN_PROGRESS' Language='sv_SE'>			<Text>Game in Progress</Text>		</Replace>		<Replace Tag='LOC_STAGING_ROOM_JOIN_CODE' Language='sv_SE'>			<Text>Join Code:</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_CLOUD_LOBBY' Language='sv_SE'>			<Text>MOLNSPEL</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_LOBBY_MODS' Language='sv_SE'>			<Text>Ytterligare innehåll</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_LOBBY_MODS_OFFICIAL' Language='sv_SE'>			<Text>Officiellt innehåll:</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_LOBBY_MODS_COMMUNITY' Language='sv_SE'>			<Text>Användarskapat innehåll:</Text>		</Replace>		<Replace Tag='LOC_MULTIPLAYER_UNKNOWN_MAP_SIZE' Language='sv_SE'>			<Text>Okänd kartstorlek</Text>		</Replace>		<Replace Tag='LOC_LOBBY_GAME_STARTED_TOOLTIP' Language='sv_SE'>			<Text>Game in progress</Text>		</Replace>		<Replace Tag='LOC_LOBBY_GAME_LOADING_SAVE_TOOLTIP' Language='sv_SE'>			<Text>Game loading save</Text>		</Replace>		<Replace Tag='LOC_LOBBY_GAME_YOUR_TURN_TOOLTIP' Language='sv_SE'>			<Text>It is your turn in this game.</Text>		</Replace>		<Replace Tag='LOC_LOBBY_GAME_NAME_YOUR_TURN' Language='sv_SE'>			<Text>[ICON_Exclamation] {1_gameName}</Text>		</Replace>		<Replace Tag='LOC_LOBBY_MY_GAMES' Language='sv_SE'>			<Text>Mina spel</Text>		</Replace>		<Replace Tag='LOC_LOBBY_OPEN_GAMES' Language='sv_SE'>			<Text>Öppna spel</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CITY_RANGE_ATTACK' Language='sv_SE'>			<Text>City Ranged Attack Turn Blocking:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CITY_RANGE_ATTACK_TOOLTIP' Language='sv_SE'>			<Text>When enabled, city ranged attacks are turn blocking.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT' Language='sv_SE'>			<Text>Automatisk nedladdning av ytterligare innehåll:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_AUTO_DOWNLOAD_ADDITIONAL_CONTENT_TOOLTIP' Language='sv_SE'>			<Text>Automatically download community made additional content when it is required to join a multiplayer game.</Text>		</Replace>		<Replace Tag='LOC_MP_ROOM_GAME_STARTED' Language='sv_SE'>			<Text>Unable to join game. The game has already been started.</Text>		</Replace>		<Replace Tag='LOC_MP_GAME_SUMMARY_GAME_SETTINGS' Language='sv_SE'>			<Text>Spelinställningar</Text>		</Replace>		<Replace Tag='LOC_MP_GAME_SUMMARY_ADDITIONAL_CONTENT' Language='sv_SE'>			<Text>Ytterligare innehåll</Text>		</Replace>		<Replace Tag='LOC_SETUP_CHOOSE_RULESET' Language='sv_SE'>			<Text>Välj regeluppsättning</Text>		</Replace>		<Replace Tag='LOC_SETUP_CHOOSE_SCENARIO' Language='sv_SE'>			<Text>Välj scenario</Text>		</Replace>		<Replace Tag='LOC_SETUP_SCENARIOS' Language='sv_SE'>			<Text>Scenarior</Text>		</Replace>		<Replace Tag='LOC_SETUP_SCENARIO' Language='sv_SE'>			<Text>Scenario</Text>		</Replace>		<Replace Tag='LOC_SETUP_ERROR_HUMANS_REQUIRED' Language='sv_SE'>			<Text>Fler människor krävs</Text>		</Replace>		<Replace Tag='LOC_GAME_ALLIES_SHARE_VISIBILITY' Language='sv_SE'>			<Text>Allierade delar synlighet</Text>		</Replace>		<Replace Tag='LOC_GAME_ALLIES_SHARE_VISIBILITY_DESCRIPTION' Language='sv_SE'>			<Text>Allierade spelare delar synlighet på kartan.</Text>		</Replace>		<Replace Tag='LOC_MAP_PREDEFINED_START_LOCATIONS_NAME' Language='sv_SE'>			<Text>Predefined Start Locations</Text>		</Replace>		<Replace Tag='LOC_MAP_PREDEFINED_START_LOCATIONS_DESCRIPTION' Language='sv_SE'>			<Text>Use starting locations that are predefined in the map.</Text>		</Replace>		<Replace Tag='LOC_NO_TEAMS_NAME' Language='sv_SE'>			<Text>Inga lag</Text>		</Replace>		<Replace Tag='LOC_NO_TEAMS_DESCRIPTION' Language='sv_SE'>			<Text>Enabling this option disables team play.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_SCENARIOS_TT' Language='sv_SE'>			<Text>Spela ett scenario, en unik erfarenhet med sina egna regler, ledare, och mål.</Text>		</Replace>		<Replace Tag='LOC_MAINMENU_MULTIPLAYER_HAVE_CLOUD_TURN_TT' Language='sv_SE'>			<Text>It is your turn in one of your cloud games.[NEWLINE][NEWLINE]Internet, network, and hot seat matches can be setup or joined here.</Text>		</Replace>		<Replace Tag='LOC_VICTORY_HEADER' Language='sv_SE'>			<Text>SEGER!</Text>		</Replace>		<Replace Tag='LOC_DEFEATED_SUBHEADER' Language='sv_SE'>			<Text>BESEGRAD</Text>		</Replace>		<Replace Tag='LOC_ELIMINATED_SUBHEADER' Language='sv_SE'>			<Text>ELIMINERAD</Text>		</Replace>		<Replace Tag='LOC_VICTORY_SCORE_SUBHEADER' Language='sv_SE'>			<Text>POÄNGSEGER</Text>		</Replace>		<Replace Tag='LOC_VICTORY_SCIENCE_SUBHEADER' Language='sv_SE'>			<Text>SCIENCE VICTORY</Text>		</Replace>		<Replace Tag='LOC_VICTORY_CULTURE_SUBHEADER' Language='sv_SE'>			<Text>KULTURSEGER</Text>		</Replace>		<Replace Tag='LOC_VICTORY_DOMINATION_SUBHEADER' Language='sv_SE'>			<Text>DOMINATION VICTORY</Text>		</Replace>		<Replace Tag='LOC_VICTORY_RELIGIOUS_SUBHEADER' Language='sv_SE'>			<Text>RELIGIÖS SEGER</Text>		</Replace>		<Replace Tag='LOC_VICTORY_SCENARIO_SUBHEADER' Language='sv_SE'>			<Text>SEGER: {1_ScenarioName}</Text>		</Replace>		<Replace Tag='LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER' Language='sv_SE'>			<Text>{1_ScenarioVictoryType}</Text>		</Replace>		<Replace Tag='LOC_VICTORY_GAME_WINNER_SUBHEADER' Language='sv_SE'>			<Text>GAME WINNER</Text>		</Replace>		<Replace Tag='LOC_MAIN_MENU_DEMO_PURCHASE_TT' Language='sv_SE'>			<Text>Open Steam Store to purchase Sid Meier's Civilization VI</Text>		</Replace>		<Replace Tag='LOC_TEAM_NAME_SELECT_TITLE' Language='sv_SE'>			<Text>Lagnamn</Text>		</Replace>		<Replace Tag='LOC_TEAM_NAME_ENTRY_TITLE' Language='sv_SE'>			<Text>Skriv in lagnamn</Text>		</Replace>		<Replace Tag='LOC_CHOOSE_TEAM_ICON' Language='sv_SE'>			<Text>Välj lagikon</Text>		</Replace>		<Replace Tag='LOC_MESSAGE_OF_THE_DAY_HEADING' Language='sv_SE'>			<Text>Message of the Day:</Text>		</Replace>	</LocalizedText></GameData>

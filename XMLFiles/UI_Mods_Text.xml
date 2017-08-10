@@ -1,180 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-  <LocalizedText>
-    <!-- Mods Section -->
-    <Replace Language="sv_SE" Tag="LOC_MODS_TITLE">
-      <Text>MODS</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_INSTALLED">
-      <Text>INSTALLED</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_SUBSCRIPTIONS">
-      <Text>SUBSCRIPTIONS</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_BROWSE_WORKSHOP">
-      <Text>BROWSE WORKSHOP</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_WORLD_BUILDER">
-      <Text>WORLD BUILDER</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_NONE_INSTALLED">
-      <Text>There are no mods installed.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_NO_SUBSCRIPTIONS">
-      <Text>There are no subscriptions.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_MOD_TITLE">
-      <Text>Mod Title</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_MOD_TEASER">
-      <Text>Mod Teaser</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_ENABLE_MOD">
-      <Text>Enable Mod</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DOWNLOADING">
-      <Text>Downloading Item...</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_UPDATE">
-      <Text>Update</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_VIEW">
-      <Text>View</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_GROUP_DEFAULT_NAME">
-      <Text>(Default)</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_GROUP_ADD_NAME">
-      <Text>+</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_GROUP_ADD_DESCRIPTION">
-      <Text>Create a new group of Mods.  Groups can be used to quickly change which mods are enabled.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_GROUP_DELETE_NAME">
-      <Text>-</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_GROUP_DELETE_DESCRIPTION">
-      <Text>Delete the currently selected group of Mods.  This will not delete the mods, only the group.  The default group may not be deleted.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_SEARCH_NAME">
-      <Text>Search...</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_SEARCH_DESCRIPTION">
-      <Text>Search for content based on title and teaser.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_SORTBY">
-      <Text>Sort By:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_SORTBY_NAME">
-      <Text>Name</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_SORTBY_ENABLED">
-      <Text>Enabled</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_FILTER">
-      <Text>Filter</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_FIRAXIAN_CONTENT">
-      <Text>Built-in Content</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_USER_CONTENT">
-      <Text>User Content</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_ENABLE_ALL">
-      <Text>Enable All</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DISABLE_ALL">
-      <Text>Disable All</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_ENABLE">
-      <Text>Enable</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DISABLE">
-      <Text>Disable</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_YES">
-      <Text>Yes</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_NO">
-      <Text>No</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_VERSION">
-      <Text>Version:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_AUTHOR">
-      <Text>Author(s):</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_SPECIAL_THANKS">
-      <Text>Special Thanks:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_DLC">
-      <Text>Premium Content:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_DLC_STORE">
-      <Text>Click here to visit the store page.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_SINGLEPLAYER">
-      <Text>Single Player?</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_MULTIPLAYER">
-      <Text>Multiplayer?</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_AFFECTS_SAVED_GAMES">
-      <Text>Affects Saved Games:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_OWNERSHIP">
-      <Text>Ownership:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_TAGS">
-      <Text>Tags:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_OWNERSHIP_YES">
-      <Text>Owned</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_OWNERSHIP_NO">
-      <Text>Not owned</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_DESCRIPTION">
-      <Text>Description</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_REFERENCES">
-      <Text>References</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_REFERENCES_DEPENDENCY">
-      <Text>Depends On</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_REFERENCES_REFERENCE">
-      <Text>References</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_DETAILS_REFERENCES_BLOCK">
-      <Text>Blocks</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_EXCLUSIVE">
-      <Text>This is an exclusive mod.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_PARTIALLY_EXCLUSIVE">
-      <Text>This is a partially exclusive mod.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_ERROR_SAVE_INCOMPATIBLE_MODS">
-      <Text>Currently enabled mods are not compatible with this saved game.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_ERROR_SAVE_MISSING_MODS">
-      <Text>Not all required mods are installed.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_ERROR_MOD_VERSION_ALREADY_ENABLED">
-      <Text>Another version of this mod is already enabled.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_ERROR_MOD_BLOCKED_BY_OTHER_MOD">
-      <Text>Mod is blocked by another mod.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_ERROR_MOD_MISSING_DEPENDENCIES">
-      <Text>Mod is missing required dependencies.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_ERROR_MOD_HAS_EXCLUSIVITY_CONFLICTS">
-      <Text>Mod is blocked by exclusivity.</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_MODS_ERROR_BAD_GAMEVERSION">
-      <Text>This version of the game is not compatible with this mod.</Text>
-    </Replace>
-  </LocalizedText>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?><GameData>	<LocalizedText>    <!-- Mods Section -->		<Replace Tag='LOC_MODS_TITLE' Language='sv_SE'>			<Text>YTTERLIGARE INNEHÅLL</Text>		</Replace>		<Replace Tag='LOC_MODS_INSTALLED' Language='sv_SE'>			<Text>INSTALLERAT</Text>		</Replace>		<Replace Tag='LOC_MODS_SUBSCRIPTIONS' Language='sv_SE'>			<Text>PRENUMERATIONER</Text>		</Replace>		<Replace Tag='LOC_MODS_BROWSE_WORKSHOP' Language='sv_SE'>			<Text>BROWSE WORKSHOP</Text>		</Replace>		<Replace Tag='LOC_MODS_WORLD_BUILDER' Language='sv_SE'>			<Text>WORLD BUILDER</Text>		</Replace>		<Replace Tag='LOC_MODS_NONE_INSTALLED' Language='sv_SE'>			<Text>Inga moddar är installerade.</Text>		</Replace>		<Replace Tag='LOC_MODS_NO_SUBSCRIPTIONS' Language='sv_SE'>			<Text>Du har inga prenumerationer.</Text>		</Replace>		<Replace Tag='LOC_MODS_MOD_TITLE' Language='sv_SE'>			<Text>Moddnamn</Text>		</Replace>		<Replace Tag='LOC_MODS_MOD_TEASER' Language='sv_SE'>			<Text>Mod Teaser</Text>		</Replace>		<Replace Tag='LOC_MODS_ENABLE_MOD' Language='sv_SE'>			<Text>Aktivera modd</Text>		</Replace>		<Replace Tag='LOC_MODS_DOWNLOADING' Language='sv_SE'>			<Text>Downloading Item...</Text>		</Replace>		<Replace Tag='LOC_MODS_UPDATE' Language='sv_SE'>			<Text>Uppdatera</Text>		</Replace>		<Replace Tag='LOC_MODS_VIEW' Language='sv_SE'>			<Text>View</Text>		</Replace>		<Replace Tag='LOC_MODS_GROUP_DEFAULT_NAME' Language='sv_SE'>			<Text>(Standard)</Text>		</Replace>		<Replace Tag='LOC_MODS_GROUP_ADD_NAME' Language='sv_SE'>			<Text>+</Text>		</Replace>		<Replace Tag='LOC_MODS_GROUP_ADD_DESCRIPTION' Language='sv_SE'>			<Text>Skapa en ny grupp av moddar. Grupper kan användas för att snabbt växla vilka moddar som är aktiverade.</Text>		</Replace>		<Replace Tag='LOC_MODS_GROUP_DELETE_NAME' Language='sv_SE'>			<Text>-</Text>		</Replace>		<Replace Tag='LOC_MODS_GROUP_DELETE_DESCRIPTION' Language='sv_SE'>			<Text>Radera den valda moddgruppen. Detta kommer inte radera moddarna, bara gruppen. Den förvalda gruppen kan inte raderas.</Text>		</Replace>		<Replace Tag='LOC_MODS_SEARCH_NAME' Language='sv_SE'>			<Text>Sök...</Text>		</Replace>		<Replace Tag='LOC_MODS_SEARCH_DESCRIPTION' Language='sv_SE'>			<Text>Search for content based on title and teaser.</Text>		</Replace>		<Replace Tag='LOC_MODS_SORTBY' Language='sv_SE'>			<Text>Sortera på:</Text>		</Replace>		<Replace Tag='LOC_MODS_SORTBY_NAME' Language='sv_SE'>			<Text>Sortera på: Namn</Text>		</Replace>		<Replace Tag='LOC_MODS_SORTBY_ENABLED' Language='sv_SE'>			<Text>Sortera på: Aktiverade</Text>		</Replace>		<Replace Tag='LOC_MODS_FILTER' Language='sv_SE'>			<Text>Filter</Text>		</Replace>		<Replace Tag='LOC_MODS_FIRAXIAN_CONTENT' Language='sv_SE'>			<Text>Officiellt innehåll</Text>		</Replace>		<Replace Tag='LOC_MODS_USER_CONTENT' Language='sv_SE'>			<Text>Användarskapat innehåll</Text>		</Replace>		<Replace Tag='LOC_MODS_ENABLE_ALL' Language='sv_SE'>			<Text>Aktivera allt</Text>		</Replace>		<Replace Tag='LOC_MODS_DISABLE_ALL' Language='sv_SE'>			<Text>Deaktivera allt</Text>		</Replace>		<Replace Tag='LOC_MODS_ENABLE' Language='sv_SE'>			<Text>Aktivera</Text>		</Replace>		<Replace Tag='LOC_MODS_DISABLE' Language='sv_SE'>			<Text>Deaktivera</Text>		</Replace>		<Replace Tag='LOC_MODS_YES' Language='sv_SE'>			<Text>Ja</Text>		</Replace>		<Replace Tag='LOC_MODS_NO' Language='sv_SE'>			<Text>Nej</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_VERSION' Language='sv_SE'>			<Text>Version:</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_AUTHOR' Language='sv_SE'>			<Text>Skapare:</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_SPECIAL_THANKS' Language='sv_SE'>			<Text>Special Thanks:</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_DLC' Language='sv_SE'>			<Text>Premium Content:</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_DLC_STORE' Language='sv_SE'>			<Text>Click here to visit the store page.</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_SINGLEPLAYER' Language='sv_SE'>			<Text>Singelspel?</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_MULTIPLAYER' Language='sv_SE'>			<Text>Multispel?</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_AFFECTS_SAVED_GAMES' Language='sv_SE'>			<Text>Påverkar sparade spel:</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_OWNERSHIP' Language='sv_SE'>			<Text>Ägd:</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_TAGS' Language='sv_SE'>			<Text>Taggar:</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_OWNERSHIP_YES' Language='sv_SE'>			<Text>Ägd</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_OWNERSHIP_NO' Language='sv_SE'>			<Text>Ej ägd</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_DESCRIPTION' Language='sv_SE'>			<Text>Beskrivning</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_REFERENCES' Language='sv_SE'>			<Text>References</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_REFERENCES_DEPENDENCY' Language='sv_SE'>			<Text>Depends On</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_REFERENCES_REFERENCE' Language='sv_SE'>			<Text>References</Text>		</Replace>		<Replace Tag='LOC_MODS_DETAILS_REFERENCES_BLOCK' Language='sv_SE'>			<Text>Blocks</Text>		</Replace>		<Replace Tag='LOC_MODS_EXCLUSIVE' Language='sv_SE'>			<Text>Detta är en exklusiv modd.</Text>		</Replace>		<Replace Tag='LOC_MODS_PARTIALLY_EXCLUSIVE' Language='sv_SE'>			<Text>Detta är en delvis exklusiv modd.</Text>		</Replace>		<Replace Tag='LOC_MODS_ERROR_SAVE_INCOMPATIBLE_MODS' Language='sv_SE'>			<Text>Currently enabled mods are not compatible with this saved game.</Text>		</Replace>		<Replace Tag='LOC_MODS_ERROR_SAVE_MISSING_MODS' Language='sv_SE'>			<Text>Alla nödvändiga moddar är inte installerade.</Text>		</Replace>		<Replace Tag='LOC_MODS_ERROR_MOD_VERSION_ALREADY_ENABLED' Language='sv_SE'>			<Text>En annan version av den här modden är redan aktiverad.</Text>		</Replace>		<Replace Tag='LOC_MODS_ERROR_MOD_BLOCKED_BY_OTHER_MOD' Language='sv_SE'>			<Text>Mod is blocked by another mod.</Text>		</Replace>		<Replace Tag='LOC_MODS_ERROR_MOD_MISSING_DEPENDENCIES' Language='sv_SE'>			<Text>Mod is missing required dependencies.</Text>		</Replace>		<Replace Tag='LOC_MODS_ERROR_MOD_HAS_EXCLUSIVITY_CONFLICTS' Language='sv_SE'>			<Text>Mod is blocked by exclusivity.</Text>		</Replace>		<Replace Tag='LOC_MODS_ERROR_BAD_GAMEVERSION' Language='sv_SE'>			<Text>Den här versionen av spelet är inte kompatibel med den här modden.</Text>		</Replace>		<Replace Tag='LOC_MODS_NONE_SELECTED' Language='sv_SE'>			<Text>Markera en modd till vänster för att se information om den.</Text>		</Replace>		<Replace Tag='LOC_MODS_SUBSCRIPTION_DOWNLOAD_INSTALLED' Language='sv_SE'>			<Text>Installerad</Text>		</Replace>		<Replace Tag='LOC_MODS_SUBSCRIPTION_DOWNLOAD_PENDING' Language='sv_SE'>			<Text>Download Pending...</Text>		</Replace>		<Replace Tag='LOC_MODS_SUBSCRIPTION_SUBSCRIBED' Language='sv_SE'>			<Text>Prenumererad (men inte nedladdad)</Text>		</Replace>		<Replace Tag='LOC_MODS_SUBSCRIPTION_DOWNLOADING' Language='sv_SE'>			<Text>Laddar ner... ({1 : number} av totalt {2 : number})</Text>		</Replace>		<Replace Tag='LOC_MODS_SUBSCRIPTION_NAME_PENDING' Language='sv_SE'>			<Text>Fetching Subscription Name...</Text>		</Replace>		<Replace Tag='LOC_MODS_GROUP_ENTER_NAME' Language='sv_SE'>			<Text>Skriv in namnet på den nya moddgruppen.</Text>		</Replace>		<Replace Tag='LOC_MODS_LAST_UPDATED' Language='sv_SE'>			<Text>Senast uppdaterad: {1_Time: datetime}</Text>		</Replace>		<Replace Tag='LOC_MODS_ENABLED' Language='sv_SE'>			<Text>Aktiverad</Text>		</Replace>		<Replace Tag='LOC_MODS_ENABLE_INCLUDE' Language='sv_SE'>			<Text>Enabling this will also enable the following:</Text>		</Replace>		<Replace Tag='LOC_MODS_ENABLE_ERROR' Language='sv_SE'>			<Text>Cannot enable due to the following:</Text>		</Replace>		<Replace Tag='LOC_MODS_DISABLED' Language='sv_SE'>			<Text>Deaktiverad</Text>		</Replace>		<Replace Tag='LOC_MODS_DISABLE_ERROR' Language='sv_SE'>			<Text>Cannot disable due to the following:</Text>		</Replace>		<Replace Tag='LOC_MODS_DISABLE_ERROR_DEPENDS' Language='sv_SE'>			<Text>Cannot disable because the following mods depend on this:</Text>		</Replace>		<Replace Tag='LOC_MOD_AUTHORS_FIRAXIS' Language='sv_SE'>			<Text>Firaxis</Text>		</Replace>	</LocalizedText></GameData>

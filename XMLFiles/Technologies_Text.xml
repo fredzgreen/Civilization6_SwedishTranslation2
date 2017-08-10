@@ -1,444 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) -->
-<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<LocalizedText>
-		<Replace Language="sv_SE" Tag="LOC_TECH_POTTERY_DESCRIPTION">
-			<Text>Tillåter skördandet av [ICON_RESOURCE_WHEAT] Vete och [ICON_RESOURCE_RICE] Ris.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION">
-			<Text>Tillåter skördandet av [ICON_RESOURCE_CATTLE] Boskap och [ICON_RESOURCE_SHEEP] Får.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_MINING_DESCRIPTION">
-			<Text>Tillåter nedhuggning av Skog, och skördandet av [ICON_RESOURCE_Copper] Koppar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_SAILING_DESCRIPTION">
-			<Text>Tillåter Byggare att gå till havs.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_IRRIGATION_DESCRIPTION">
-			<Text>Tillåter röjning av Kärr.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_MASONRY_DESCRIPTION">
-			<Text>Tillåter skördandet av [ICON_RESOURCE_STONE] Sten.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_BRONZE_WORKING_DESCRIPTION">
-			<Text>Tillåter nedhuggning av Regnskog. Avslöjar [ICON_RESOURCE_IRON] Järn.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_SHIPBUILDING_DESCRIPTION">
-			<Text>Tillåter alla landenheter att gå till havs.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION">
-			<Text>Tillåter Handlare att gå till havs, och tillåter skördandet av [ICON_RESOURCE_FISH] Fisk.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_MATHEMATICS_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Förflyttning för alla sjöfartsenheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_APPRENTICESHIP_DESCRIPTION">
-			<Text>+1 [ICON_Production] Produktion för Gruvor.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_CASTLES_DESCRIPTION">
-			<Text>Extra [ICON_Culture] Kultur för närhet till förbättringen Den Kinesiska Muren. Öppnar möjligheten att träna Spioner om du spelar som Katarina av Medici.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_CARTOGRAPHY_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Guld från Fiskebåts förbättringen. Alla sjöfarts- och sjösatta enheter kan färdas över Havsrutor. +1 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_BANKING_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Guld från Stenbrottsförbättringen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_PRINTING_DESCRIPTION">
-			<Text>Ger ytterligare en nivå av diplomatisk synlighet på alla andra civilizationer. All [ICON_Tourism] turismavkastning från [ICON_GreatWork_Writing] Stora Verk i Skrift fördubblas.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_INDUSTRIALIZATION_DESCRIPTION">
-			<Text>+1 [ICON_Production] Produktion för Gruvförbättringen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION">
-			<Text>Tillåter Forskningsavtal som diplomatisk handling. +1 [ICON_Food] Mat från Plantageförbättringen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_SANITATION_DESCRIPTION">
-			<Text>Trappbrunnsförbättringen får +1 [ICON_Housing] Bostäder.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_STEAM_POWER_DESCRIPTION">
-			<Text>+2 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_FLIGHT_DESCRIPTION">
-			<Text>Extra [ICON_Tourism] Turism för alla förbättringar som ger [ICON_Culture] Kultur.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION">
-			<Text>Uppgraderar Bondgårdsförbättringar till Mekaniserat Jordbruk. +1 [ICON_Food] Mat närhetsbonus för varje Bondgård som de ligger i närheten.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_STEEL_DESCRIPTION">
-			<Text>+1 [ICON_Production] Produktion från Skogsverksförbättringen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_COMBUSTION_DESCRIPTION">
-			<Text>+1 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_ROCKETRY_DESCRIPTION">
-			<Text>+1 [ICON_Production] Produktion från Stenbrottsförbättringen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_PLASTICS_DESCRIPTION">
-			<Text>+1 [ICON_Food] Mat för Fiskebåtar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_COMPUTERS_DESCRIPTION">
-			<Text>Ger möjligheten att träna ytterligare en spion. All avkastning från [ICON_Tourism] Turism dubbleras.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Guld för Läger.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_ROBOTICS_DESCRIPTION">
-			<Text>+1 [ICON_Production] Produktion för Betesmarker.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_TECH_FUTURE_TECH_DESCRIPTION">
-			<Text>Kan färdigställas flera gånger, för att öka poängen mot Poängsegern.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SAILING">
-			<Text>Grunda en stad vid kusten.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ASTROLOGY">
-			<Text>Hitta ett Naturunder.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_IRRIGATION">
-			<Text>Skörda en resurs.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ARCHERY">
-			<Text>Döda en enhet med en Slungare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_WRITING">
-			<Text>Möt en annan Civilisation.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MASONRY">
-			<Text>Bygg ett Stenbrott.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_BRONZE_WORKING">
-			<Text>Döda 3 Barbarer.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_THE_WHEEL">
-			<Text>Bygg en gruva över en resurs.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION">
-			<Text>Förbättra 2 havs resurser.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CURRENCY">
-			<Text>Gör en [ICON_TradeRoute] Handelsrutt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_HORSEBACK_RIDING">
-			<Text>Bygg en Betesmark.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_IRON_WORKING">
-			<Text>Bygg en Järngruva.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SHIPBUILDING">
-			<Text>Äg 2 Galärer.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MATHEMATICS">
-			<Text>Bygg 3 olika special Distrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CONSTRUCTION">
-			<Text>Bygg en vattenkvarn.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ENGINEERING">
-			<Text>Bygg Antika Murar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MILITARY_TACTICS">
-			<Text>Döda en enhet med en Spjutman.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_APPRENTICESHIP">
-			<Text>Bygg 3 Gruvor.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STIRRUPS">
-			<Text>Ha inriktningen Feudalism.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MACHINERY">
-			<Text>Äg 3 Bågskyttar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_EDUCATION">
-			<Text>Förtjäna en Stor Vetenskapsman.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MILITARY_ENGINEERING">
-			<Text>Bygg en Akvedukt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CASTLES">
-			<Text>Ha en regering med 6 policy slots.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CARTOGRAPHY">
-			<Text>Bygg 2 Hamnar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MASS_PRODUCTION">
-			<Text>Bygg ett Sågverk.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_BANKING">
-			<Text>Ha Skrå-inriktningen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GUNPOWDER">
-			<Text>Bygg en Arsenal.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_PRINTING">
-			<Text>Bygg 2 Universitet.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SQUARE_RIGGING">
-			<Text>Döda en enhet med en Musketerare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ASTRONOMY">
-			<Text>Bygg ett Universitet bredvid ett Berg.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_METAL_CASTING">
-			<Text>Äg 2 Armborstskyttar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SIEGE_TACTICS">
-			<Text>Äg 2 Bombarder.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_INDUSTRIALIZATION">
-			<Text>Bygg 3 Verkstäder.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY">
-			<Text>Ha The Enlightenment civic.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_BALLISTICS">
-			<Text>Ha 2 Fästningar i ditt territorium.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MILITARY_SCIENCE">
-			<Text>Döda en enhet med en Riddare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STEAM_POWER">
-			<Text>Bygg 2 Skeppsvarv.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SANITATION">
-			<Text>Bygg 2 Stadsdelar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ECONOMICS">
-			<Text>Bygg 2 Banker.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RIFLING">
-			<Text>Bygg en Salpetergruva.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_FLIGHT">
-			<Text>Bygg ett under från Industriella eran eller senare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_REPLACEABLE_PARTS">
-			<Text>Äg 3 Musketerare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STEEL">
-			<Text>Bygg en Kolgruva.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ELECTRICITY">
-			<Text>Äg 3 Kapare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RADIO">
-			<Text>Bygg en Nationalpark.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CHEMISTRY">
-			<Text>Färdigställ ett Forskningsavtal.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMBUSTION">
-			<Text>Extrahera en Artefakt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ADVANCED_FLIGHT">
-			<Text>Bygg 3 Biplan.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS">
-			<Text>Bygg 2 Kraftverk.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMBINED_ARMS">
-			<Text>Bygg en Landningsbana.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_PLASTICS">
-			<Text>Bygg an Oljekälla.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMPUTERS">
-			<Text>Ha en regering med 8 policy slots.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS">
-			<Text>Bygg 2 Flygfält.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_TELECOMMUNICATIONS">
-			<Text>Bygg 2 Broadcast Centers.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS">
-			<Text>Döda ett Stridsflygplan.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COMPOSITES">
-			<Text>Äg 3 Stridsvagnar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_ROBOTICS">
-			<Text>Ha inriktningen Globalisering.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NANOTECHNOLOGY">
-			<Text>Bygg en Aluminiumgruva.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MUST_STEAL">
-			<Text>Bonus genom Stor Vetenskapsman eller Spion.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SAILING">
-			<Text>Genom att få en stad vid Kusten har gett din civilisation insikt i hur man navigerar över haven.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY">
-			<Text>Upptäckten av ett naturligt underverk har inspirerat ditt folk med universums skönhet.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION">
-			<Text>Skördandet av en resurs har gett dig en uppskattning av vikten av att Konstbevattna dina grödor.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ARCHERY">
-			<Text>Efter att ha dödat en fiende med en Slungare, längtar du efter ett vapen med längre räckvidd.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_WRITING">
-			<Text>Efter att ha träffat på en annan civilisation förstår du behovet av nya sätt att kommunicera.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASONRY">
-			<Text>Efter att ha byggt ett Stenbrott har gett dig råmaterial att anställa stenhuggare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING">
-			<Text>Dina strider med Barbarer har belyst behovet av bättre vapen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL">
-			<Text>Dina gruvverksamhet har gett dig förmågan att skapa en axel. Kommer hjulet härnäst?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION">
-			<Text>Dina fiskare håller på att lära sig att få insikt i hur man navigerar med hjälp av natthimlen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CURRENCY">
-			<Text>Din [ICON_TradeRoute] Handelsrutt utbyter varor, men ett bytesmedel skulle göra handeln mer flexibel.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING">
-			<Text>Med djur nu tämjda på betesmarker, är det tid att lära sig rida.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING">
-			<Text>En stadig tillgång på Järn har gjort det möjligt för dig att bygga bättre vapen och starkare rustningar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING">
-			<Text>Tillverkning av en skvadron av Galärer har lärt dig mycket om byggandet av stora skepp</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS">
-			<Text>Dina distrikt planerare har utvecklat grunderna i geometri. Kanske ett komplett matematiskt system följer snart?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION">
-			<Text>Arbetet med Vattenkvarnen har lärt dina arbetare mycket om byggmetoder.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING">
-			<Text>Färdigställandet av murar runt din stad har demonstrerat principer för teknik som behövs för Akvedukter och Katepulter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS">
-			<Text>Dina spjutmän visar sig effektiva, men nu är dina motståndare starkare och snabbare. Kanske ett längre vapen behövs?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP">
-			<Text>Med råmaterial som kommer från en rad olika gruvor, så är det oumbärligt att vi utbildar nya Hantverkare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS">
-			<Text>Feodalherrarna i ditt rike vill ha en mästare att försvara sina landområden. Kan det vara en bepansrad ryttare?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MACHINERY">
-			<Text>Du ser till maskiner för att förbättra insatsen för din betydande kontingent av långdistanstrupper.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_EDUCATION">
-			<Text>Din Stora Vetenskapsmän har inspirerat ett nytt intresse för lärdom in ditt rike.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING">
-			<Text>Dina militära ledare följer noggrant framstegen av Akvedukten. Här ser de nya sätt att använda dessa ingenjörskonster</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CASTLES">
-			<Text>Vår nya regerings försvarsminister föreslår att vi ska skyddar vår livliga huvudstad med en imponerande Försvarsanläggning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY">
-			<Text>Med så många fartyg som lämnar hamnar i ditt rike, så har du lång tid att dokumentera dina utforskningar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION">
-			<Text>Nu när du har en färdig leverans av standardiserade planker, kommer din sjöfartsindustri snart ta fart.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_BANKING">
-			<Text>Din nya strävsamma gillen har planer som fordrar ett stort inflöde av guld. Kanske vi kan hitta ett sätt att låta dem ta ett lån?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER">
-			<Text>Dina män på arsenal är på väg att utforma ett nytt vapen som kommer att ödelägga motståndare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_PRINTING">
-			<Text>Av nödvändighet håller dina lärda på att utforma metoder för att snabbt kopiera böcker.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING">
-			<Text>Framgång för din Musketerare på land har utlöst en ny idé: tänk om vi uppgraderar till krutvapen till sjöss?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY">
-			<Text>Era vetenskapsmän vandrar i bergen för att få en skarpare bild av himlen. Kan vara en permanent anläggning skulle hjälpa?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING">
-			<Text>Med så många armborstskyttar i tjänst, har vi haft en hel del övning studera vapen med lång räckvidd.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS">
-			<Text>När du har skapat bombarder inser du att slott inte är ointagliga - du behöver ett pålitligare försvar!</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION">
-			<Text>Livfulla verkstäder i ditt imperium är en antydan på storhet att som skall komma. Är industriella revolutionen på väg?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY">
-			<Text>Gryningen av upplysningstiden i vår värld har utlöst en seriös debatt om våra vetenskapliga metoder.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS">
-			<Text>Dina städer har skyddats av flera befästningar, tänk om de kunde försvaras av kanoner?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE">
-			<Text>Din tappra Riddare har besegrat sin fiende. Låt oss lära av denna seger och studera militära frågor mer noggrant.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER">
-			<Text>Om vi tillämpar vår branschkunskap i våra nya varv, så kunde våra Ångdrivna örlogsfartyg erövra haven.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SANITATION">
-			<Text>Med införandet av stadsdelar, våra städer växer större än någonsin tidigare. Utveckla en sanitet plan är avgörande.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS">
-			<Text>Med införandet av stadsdelar, har våra städer blir större. Nu måste vi absolut se till en plan för sanitet.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_RIFLING">
-			<Text>Med en källa för niter har din skjutvapensindustri varvat upp sig till högsta växeln. Nästa steg blir att förbättra din precision.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_FLIGHT">
-			<Text>Efter att ha färdigställt ett modernt under, våra ingenjörer är säkra på att de kan åstadkomma vad som helst. Vad tänker de att flyga härnäst?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS">
-			<Text>Dina vapentillverkare är trött på att behöva skapa så många musköter för hand. Kanske standardisering skulle vara till hjälp?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_STEEL">
-			<Text>Dina koleldade masugnar bör snart ge oss möjlighet att producera den finaste kvalitén av stål.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY">
-			<Text>Dina skickliga kapare är förundrade av upptäckten av elektrisk ström. Kan de använda denna för att skapa hemlig framdrivning?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_RADIO">
-			<Text>Din nya nationalpark behöver besökare. Kanske en ny form av kommunikation kommer att hjälpa till att marknadsföra den?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY">
-			<Text>Att gå samman med andra nationer har startat en kedjereaktion av vetenskapliga framsteg. Kommer nästa att vara en framryckning i kemi?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION">
-			<Text>Din arkeolog har märkt petroleum sipprar ut ur klipporna. Kanske era geologer skulle vilja att ta en titt?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT">
-			<Text>Din omfattande erfarenhet med flygplan har lett till flera genombrott i flygindustrin.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS">
-			<Text>Utveckling av nya kraftverk har sporrat på industriella framsteg som kan hjälpa din vapenproduktion.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS">
-			<Text>Nu när du vet hur man bygger flyttbara plandningsbanor på land, varför inte prova en till sjöss?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_PLASTICS">
-			<Text>Att ha en källa av petrokemiska produkter bör leda till många framsteg. Dess plasticitet är av särskilt intresse.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS">
-			<Text>En modern regering kommer med en massa byråkrati. Utveckla metoder för att på ett effektivt sätt spåra data kommer att vara till stor hjälp.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS">
-			<Text>Med anläggningar för flygplan i flera städer, så tar din flygindustri fart.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS">
-			<Text>Med dina pionjärer inom radio och TV i spetsen, har du blivit skicklig på att överföra data snabbt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS">
-			<Text>Vår militär har besegrat ett fiendeplan. Nu är det dags att ha det bästa försvaret mot fiende flyg.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES">
-			<Text>Stridsvagnar har varit ryggraden i din armé så era vetenskapsmän strävar nu efter en mera avancerad modell.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS">
-			<Text>Med en mångfald av metaller för att experimentera med kommer dina vetenskapsmän göra framryckningar in i nya områden.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY">
-			<Text>Med en mångfald av metaller för att experimentera med kommer dina vetenskapsmän göra framryckningar in i nya områden.</Text>
-		</Replace>
-	</LocalizedText>
-</GameData>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Anton Strenger (Firaxis Games) --><GameData>	<LocalizedText>		<Replace Tag='LOC_TECH_POTTERY_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter skördandet av [ICON_RESOURCE_WHEAT] Vete och [ICON_RESOURCE_RICE] Ris.</Text>		</Replace>		<Replace Tag='LOC_TECH_ANIMAL_HUSBANDRY_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter skördandet av [ICON_RESOURCE_CATTLE] Boskap och [ICON_RESOURCE_SHEEP] Får.</Text>		</Replace>		<Replace Tag='LOC_TECH_MINING_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter nedhuggning av Skog, och skördandet av [ICON_RESOURCE_Copper] Koppar.</Text>		</Replace>		<Replace Tag='LOC_TECH_SAILING_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter Byggare att gå till havs.</Text>		</Replace>		<Replace Tag='LOC_TECH_IRRIGATION_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter röjning av Kärr.</Text>		</Replace>		<Replace Tag='LOC_TECH_MASONRY_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter skördandet av [ICON_RESOURCE_STONE] Sten.</Text>		</Replace>		<Replace Tag='LOC_TECH_BRONZE_WORKING_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter nedhuggning av Regnskog. Avslöjar [ICON_RESOURCE_IRON] Järn.</Text>		</Replace>		<Replace Tag='LOC_TECH_SHIPBUILDING_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter alla landenheter att gå till havs.</Text>		</Replace>		<Replace Tag='LOC_TECH_CELESTIAL_NAVIGATION_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter Handlare att gå till havs, och tillåter skördandet av [ICON_RESOURCE_FISH] Fisk.</Text>		</Replace>		<Replace Tag='LOC_TECH_MATHEMATICS_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Movement] Förflyttning för alla sjöfartsenheter.</Text>		</Replace>		<Replace Tag='LOC_TECH_APPRENTICESHIP_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Production] Produktion för Gruvor.</Text>		</Replace>		<Replace Tag='LOC_TECH_CASTLES_DESCRIPTION' Language='sv_SE'>			<Text>Extra [ICON_Culture] Kultur för närhet till förbättringen Den Kinesiska Muren. Öppnar möjligheten att träna Spioner om du spelar som Katarina av Medici.</Text>		</Replace>		<Replace Tag='LOC_TECH_CARTOGRAPHY_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Gold] Guld från Fiskebåts förbättringen. Alla sjöfarts- och sjösatta enheter kan färdas över Havsrutor. +1 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>		</Replace>		<Replace Tag='LOC_TECH_BANKING_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Gold] Guld från Stenbrottsförbättringen.</Text>		</Replace>		<Replace Tag='LOC_TECH_PRINTING_DESCRIPTION' Language='sv_SE'>			<Text>Ger ytterligare en nivå av diplomatisk synlighet på alla andra civilizationer. All [ICON_Tourism] turismavkastning från [ICON_GreatWork_Writing] Stora Verk i Skrift fördubblas.</Text>		</Replace>		<Replace Tag='LOC_TECH_INDUSTRIALIZATION_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Production] Produktion för Gruvförbättringen.</Text>		</Replace>		<Replace Tag='LOC_TECH_SCIENTIFIC_THEORY_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter Forskningsavtal som diplomatisk handling. +1 [ICON_Food] Mat från Plantageförbättringen.</Text>		</Replace>		<Replace Tag='LOC_TECH_SANITATION_DESCRIPTION' Language='sv_SE'>			<Text>Trappbrunnsförbättringen får +1 [ICON_Housing] Bostäder.</Text>		</Replace>		<Replace Tag='LOC_TECH_STEAM_POWER_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>		</Replace>		<Replace Tag='LOC_TECH_FLIGHT_DESCRIPTION' Language='sv_SE'>			<Text>Extra [ICON_Tourism] Turism för alla förbättringar som ger [ICON_Culture] Kultur.</Text>		</Replace>		<Replace Tag='LOC_TECH_REPLACEABLE_PARTS_DESCRIPTION' Language='sv_SE'>			<Text>Uppgraderar Bondgårdsförbättringar till Mekaniserat Jordbruk. +1 [ICON_Food] Mat närhetsbonus för varje Bondgård som de ligger i närheten.</Text>		</Replace>		<Replace Tag='LOC_TECH_STEEL_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Production] Produktion från Skogsverksförbättringen.</Text>		</Replace>		<Replace Tag='LOC_TECH_COMBUSTION_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Movement] Förflyttning för sjösatta enheter.</Text>		</Replace>		<Replace Tag='LOC_TECH_ROCKETRY_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Production] Produktion från Stenbrottsförbättringen.</Text>		</Replace>		<Replace Tag='LOC_TECH_PLASTICS_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Food] Mat för Fiskebåtar.</Text>		</Replace>		<Replace Tag='LOC_TECH_COMPUTERS_DESCRIPTION' Language='sv_SE'>			<Text>Ger möjligheten att träna ytterligare en spion. All avkastning från [ICON_Tourism] Turism dubbleras.</Text>		</Replace>		<Replace Tag='LOC_TECH_SYNTHETIC_MATERIALS_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Gold] Guld för Läger.</Text>		</Replace>		<Replace Tag='LOC_TECH_ROBOTICS_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Production] Produktion för Betesmarker.</Text>		</Replace>		<Replace Tag='LOC_TECH_FUTURE_TECH_DESCRIPTION' Language='sv_SE'>			<Text>Kan färdigställas flera gånger, för att öka poängen mot Poängsegern.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SAILING' Language='sv_SE'>			<Text>Grunda en stad vid kusten.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_ASTROLOGY' Language='sv_SE'>			<Text>Hitta ett Naturunder.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_IRRIGATION' Language='sv_SE'>			<Text>Skörda en resurs.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_ARCHERY' Language='sv_SE'>			<Text>Döda en enhet med en Slungare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_WRITING' Language='sv_SE'>			<Text>Möt en annan Civilisation.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MASONRY' Language='sv_SE'>			<Text>Bygg ett Stenbrott.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_BRONZE_WORKING' Language='sv_SE'>			<Text>Döda 3 Barbarer.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_THE_WHEEL' Language='sv_SE'>			<Text>Bygg en gruva över en resurs.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CELESTIAL_NAVIGATION' Language='sv_SE'>			<Text>Förbättra 2 havsresurser.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CURRENCY' Language='sv_SE'>			<Text>Gör en [ICON_TradeRoute] Handelsrutt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_HORSEBACK_RIDING' Language='sv_SE'>			<Text>Bygg en Betesmark.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_IRON_WORKING' Language='sv_SE'>			<Text>Bygg en Järngruva.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SHIPBUILDING' Language='sv_SE'>			<Text>Äg 2 Galärer.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MATHEMATICS' Language='sv_SE'>			<Text>Bygg 3 olika specialdistrikt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CONSTRUCTION' Language='sv_SE'>			<Text>Bygg en vattenkvarn.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_ENGINEERING' Language='sv_SE'>			<Text>Bygg Antika Murar.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MILITARY_TACTICS' Language='sv_SE'>			<Text>Döda en enhet med en Spjutman.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_APPRENTICESHIP' Language='sv_SE'>			<Text>Bygg 3 Gruvor.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_STIRRUPS' Language='sv_SE'>			<Text>Ha inriktningen Feudalism.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MACHINERY' Language='sv_SE'>			<Text>Äg 3 Bågskyttar.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_EDUCATION' Language='sv_SE'>			<Text>Förtjäna en Stor Vetenskapsman.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MILITARY_ENGINEERING' Language='sv_SE'>			<Text>Bygg en Akvedukt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CASTLES' Language='sv_SE'>			<Text>Ha ett statsskick med 6 politikplatser.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CARTOGRAPHY' Language='sv_SE'>			<Text>Bygg 2 Hamnar.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MASS_PRODUCTION' Language='sv_SE'>			<Text>Bygg ett Sågverk.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_BANKING' Language='sv_SE'>			<Text>Ha Skrå-inriktningen.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_GUNPOWDER' Language='sv_SE'>			<Text>Bygg en Arsenal.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_PRINTING' Language='sv_SE'>			<Text>Bygg 2 Universitet.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SQUARE_RIGGING' Language='sv_SE'>			<Text>Döda en enhet med en Musketerare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_ASTRONOMY' Language='sv_SE'>			<Text>Bygg ett Universitet bredvid ett Berg.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_METAL_CASTING' Language='sv_SE'>			<Text>Äg 2 Armborstskyttar.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SIEGE_TACTICS' Language='sv_SE'>			<Text>Äg 2 Bombarder.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_INDUSTRIALIZATION' Language='sv_SE'>			<Text>Bygg 3 Verkstäder.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SCIENTIFIC_THEORY' Language='sv_SE'>			<Text>Ha The Enlightenment civic.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_BALLISTICS' Language='sv_SE'>			<Text>Ha 2 Fästningar i ditt territorium.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MILITARY_SCIENCE' Language='sv_SE'>			<Text>Döda en enhet med en Riddare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_STEAM_POWER' Language='sv_SE'>			<Text>Bygg 2 Skeppsvarv.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SANITATION' Language='sv_SE'>			<Text>Bygg 2 Stadsdelar.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_ECONOMICS' Language='sv_SE'>			<Text>Bygg 2 Banker.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_RIFLING' Language='sv_SE'>			<Text>Bygg en Salpetergruva.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_FLIGHT' Language='sv_SE'>			<Text>Bygg ett under från Industriella eran eller senare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_REPLACEABLE_PARTS' Language='sv_SE'>			<Text>Äg 3 Musketerare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_STEEL' Language='sv_SE'>			<Text>Bygg en Kolgruva.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_ELECTRICITY' Language='sv_SE'>			<Text>Äg 3 Kapare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_RADIO' Language='sv_SE'>			<Text>Bygg en Nationalpark.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CHEMISTRY' Language='sv_SE'>			<Text>Färdigställ ett Forskningsavtal.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_COMBUSTION' Language='sv_SE'>			<Text>Gräv ut en Artefakt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_ADVANCED_FLIGHT' Language='sv_SE'>			<Text>Bygg 3 Biplan.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_ADVANCED_BALLISTICS' Language='sv_SE'>			<Text>Bygg 2 Kraftverk.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_COMBINED_ARMS' Language='sv_SE'>			<Text>Bygg en Landningsbana.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_PLASTICS' Language='sv_SE'>			<Text>Bygg an Oljekälla.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_COMPUTERS' Language='sv_SE'>			<Text>Ha ett statsskick med 8 politikplatser.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SYNTHETIC_MATERIALS' Language='sv_SE'>			<Text>Bygg 2 Flygfält.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_TELECOMMUNICATIONS' Language='sv_SE'>			<Text>Bygg 2 Broadcast Centers.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_GUIDANCE_SYSTEMS' Language='sv_SE'>			<Text>Döda ett Stridsflygplan.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_COMPOSITES' Language='sv_SE'>			<Text>Äg 3 Stridsvagnar.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_ROBOTICS' Language='sv_SE'>			<Text>Ha inriktningen Globalisering.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_NANOTECHNOLOGY' Language='sv_SE'>			<Text>Bygg en Aluminiumgruva.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MUST_STEAL' Language='sv_SE'>			<Text>Bonus genom Stor Vetenskapsman eller Spion.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SAILING' Language='sv_SE'>			<Text>Genom att få en stad vid Kusten har gett din civilisation insikt i hur man navigerar över haven.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_ASTROLOGY' Language='sv_SE'>			<Text>Upptäckten av ett naturligt underverk har inspirerat ditt folk med universums skönhet.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_IRRIGATION' Language='sv_SE'>			<Text>Skördandet av en resurs har gett dig en uppskattning av vikten av att Konstbevattna dina grödor.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_ARCHERY' Language='sv_SE'>			<Text>Efter att ha dödat en fiende med en Slungare, längtar du efter ett vapen med längre räckvidd.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_WRITING' Language='sv_SE'>			<Text>Efter att ha träffat på en annan civilisation förstår du behovet av nya sätt att kommunicera.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MASONRY' Language='sv_SE'>			<Text>Efter att ha byggt ett Stenbrott har gett dig råmaterial att anställa stenhuggare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_BRONZE_WORKING' Language='sv_SE'>			<Text>Dina strider med Barbarer har belyst behovet av bättre vapen.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_THE_WHEEL' Language='sv_SE'>			<Text>Dina gruvverksamhet har gett dig förmågan att skapa en axel. Kommer hjulet härnäst?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CELESTIAL_NAVIGATION' Language='sv_SE'>			<Text>Dina fiskare håller på att lära sig att få insikt i hur man navigerar med hjälp av natthimlen.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CURRENCY' Language='sv_SE'>			<Text>Din [ICON_TradeRoute] Handelsrutt utbyter varor, men ett bytesmedel skulle göra handeln mer flexibel.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_HORSEBACK_RIDING' Language='sv_SE'>			<Text>Med djur nu tämjda på betesmarker, är det tid att lära sig rida.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_IRON_WORKING' Language='sv_SE'>			<Text>En stadig tillgång på Järn har gjort det möjligt för dig att bygga bättre vapen och starkare rustningar.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SHIPBUILDING' Language='sv_SE'>			<Text>Tillverkning av en skvadron av Galärer har lärt dig mycket om byggandet av stora skepp</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MATHEMATICS' Language='sv_SE'>			<Text>Dina distrikt planerare har utvecklat grunderna i geometri. Kanske ett komplett matematiskt system följer snart?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CONSTRUCTION' Language='sv_SE'>			<Text>Arbetet med Vattenkvarnen har lärt dina arbetare mycket om byggmetoder.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_ENGINEERING' Language='sv_SE'>			<Text>Färdigställandet av murar runt din stad har demonstrerat principer för teknik som behövs för Akvedukter och Katepulter.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TACTICS' Language='sv_SE'>			<Text>Dina spjutmän visar sig effektiva, men nu är dina motståndare starkare och snabbare. Kanske ett längre vapen behövs?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_APPRENTICESHIP' Language='sv_SE'>			<Text>Med råmaterial som kommer från en rad olika gruvor, så är det oumbärligt att vi utbildar nya Hantverkare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_STIRRUPS' Language='sv_SE'>			<Text>Feodalherrarna i ditt rike vill ha en mästare att försvara sina landområden. Kan det vara en bepansrad ryttare?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MACHINERY' Language='sv_SE'>			<Text>Du ser till maskiner för att förbättra insatsen för din betydande kontingent av långdistanstrupper.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_EDUCATION' Language='sv_SE'>			<Text>Din Stora Vetenskapsmän har inspirerat ett nytt intresse för lärdom in ditt rike.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MILITARY_ENGINEERING' Language='sv_SE'>			<Text>Dina militära ledare följer noggrant framstegen av Akvedukten. Här ser de nya sätt att använda dessa ingenjörskonster</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CASTLES' Language='sv_SE'>			<Text>Vår nya regerings försvarsminister föreslår att vi ska skydda vår livliga huvudstad med en imponerande försvarsanläggning.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CARTOGRAPHY' Language='sv_SE'>			<Text>Med så många fartyg som lämnar hamnar i ditt rike, så har du lång tid att dokumentera dina utforskningar.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MASS_PRODUCTION' Language='sv_SE'>			<Text>Nu när du har en färdig leverans av standardiserade planker, kommer din sjöfartsindustri snart ta fart.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_BANKING' Language='sv_SE'>			<Text>Din nya strävsamma gillen har planer som fordrar ett stort inflöde av guld. Kanske vi kan hitta ett sätt att låta dem ta ett lån?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_GUNPOWDER' Language='sv_SE'>			<Text>Dina män på arsenal är på väg att utforma ett nytt vapen som kommer att ödelägga motståndare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_PRINTING' Language='sv_SE'>			<Text>Av nödvändighet håller dina lärda på att utforma metoder för att snabbt kopiera böcker.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SQUARE_RIGGING' Language='sv_SE'>			<Text>Framgång för din Musketerare på land har utlöst en ny idé: tänk om vi uppgraderar till krutvapen till sjöss?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_ASTRONOMY' Language='sv_SE'>			<Text>Era vetenskapsmän vandrar i bergen för att få en skarpare bild av himlen. Kan vara en permanent anläggning skulle hjälpa?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_METAL_CASTING' Language='sv_SE'>			<Text>Med så många armborstskyttar i tjänst, har vi haft en hel del övning studera vapen med lång räckvidd.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SIEGE_TACTICS' Language='sv_SE'>			<Text>När du har skapat bombarder inser du att slott inte är ointagliga - du behöver ett pålitligare försvar!</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_INDUSTRIALIZATION' Language='sv_SE'>			<Text>Livfulla verkstäder i ditt imperium är en antydan på storhet att som skall komma. Är industriella revolutionen på väg?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SCIENTIFIC_THEORY' Language='sv_SE'>			<Text>Gryningen av upplysningstiden i vår värld har utlöst en seriös debatt om våra vetenskapliga metoder.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_BALLISTICS' Language='sv_SE'>			<Text>Dina städer har skyddats av flera befästningar, tänk om de kunde försvaras av kanoner?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MILITARY_SCIENCE' Language='sv_SE'>			<Text>Din tappra Riddare har besegrat sin fiende. Låt oss lära av denna seger och studera militära frågor mer noggrant.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_STEAM_POWER' Language='sv_SE'>			<Text>Om vi tillämpar vår branschkunskap i våra nya varv, så kunde våra Ångdrivna örlogsfartyg erövra haven.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SANITATION' Language='sv_SE'>			<Text>Med införandet av stadsdelar, våra städer växer större än någonsin tidigare. Utveckla en sanitet plan är avgörande.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_ECONOMICS' Language='sv_SE'>			<Text>Med införandet av stadsdelar, har våra städer blir större. Nu måste vi absolut se till en plan för sanitet.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_RIFLING' Language='sv_SE'>			<Text>Med en källa för salpeter har din skjutvapensindustri varvat upp sig till högsta växeln. Nästa steg blir att förbättra din precision.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_FLIGHT' Language='sv_SE'>			<Text>Efter att ha färdigställt ett modernt under, våra ingenjörer är säkra på att de kan åstadkomma vad som helst. Vad tänker de att flyga härnäst?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_REPLACEABLE_PARTS' Language='sv_SE'>			<Text>Dina vapentillverkare är trött på att behöva skapa så många musköter för hand. Kanske standardisering skulle vara till hjälp?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_STEEL' Language='sv_SE'>			<Text>Dina koleldade masugnar bör snart ge oss möjlighet att producera den finaste kvalitén av stål.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_ELECTRICITY' Language='sv_SE'>			<Text>Dina skickliga kapare är förundrade av upptäckten av elektrisk ström. Kan de använda denna för att skapa hemlig framdrivning?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_RADIO' Language='sv_SE'>			<Text>Din nya nationalpark behöver besökare. Kanske en ny form av kommunikation kommer att hjälpa till att marknadsföra den?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CHEMISTRY' Language='sv_SE'>			<Text>Att gå samman med andra nationer har startat en kedjereaktion av vetenskapliga framsteg. Kommer nästa att vara en framryckning i kemi?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_COMBUSTION' Language='sv_SE'>			<Text>Din arkeolog har märkt petroleum sipprar ut ur klipporna. Kanske era geologer skulle vilja att ta en titt?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_FLIGHT' Language='sv_SE'>			<Text>Din omfattande erfarenhet med flygplan har lett till flera genombrott i flygindustrin.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_ADVANCED_BALLISTICS' Language='sv_SE'>			<Text>Utveckling av nya kraftverk har sporrat på industriella framsteg som kan hjälpa din vapenproduktion.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_COMBINED_ARMS' Language='sv_SE'>			<Text>Nu när du vet hur man bygger flyttbara plandningsbanor på land, varför inte prova en till sjöss?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_PLASTICS' Language='sv_SE'>			<Text>Att ha en källa av petrokemiska produkter bör leda till många framsteg. Dess plasticitet är av särskilt intresse.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_COMPUTERS' Language='sv_SE'>			<Text>En modern stat kommer med en massa byråkrati. Att utveckla metoder för att på ett effektivt sätt spåra data kommer att vara till stor hjälp.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SYNTHETIC_MATERIALS' Language='sv_SE'>			<Text>Med anläggningar för flygplan i flera städer, så tar din flygindustri fart.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_TELECOMMUNICATIONS' Language='sv_SE'>			<Text>Med dina pionjärer inom radio och TV i spetsen, har du blivit skicklig på att överföra data snabbt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_GUIDANCE_SYSTEMS' Language='sv_SE'>			<Text>Vår militär har besegrat ett fiendeplan. Nu är det dags att ha det bästa försvaret mot fiende flyg.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_COMPOSITES' Language='sv_SE'>			<Text>Stridsvagnar har varit ryggraden i din armé så era vetenskapsmän strävar nu efter en mera avancerad modell.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_ROBOTICS' Language='sv_SE'>			<Text>Med en mångfald av metaller för att experimentera med kommer dina vetenskapsmän göra framryckningar in i nya områden.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_NANOTECHNOLOGY' Language='sv_SE'>			<Text>Med en mångfald av metaller för att experimentera med kommer dina vetenskapsmän göra framryckningar in i nya områden.</Text>		</Replace>		<Replace Tag='LOC_TECH_RADIO_DESCRIPTION' Language='sv_SE'>			<Text>Reveals [ICON_RESOURCE_ALUMINUM] Aluminum.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_TEAM_MEMBER_OWNS_TECH' Language='sv_SE'>			<Text>A team member has shared their research notes for a recently acquired technology. Their innovation will improve our own progress dramatically.</Text>		</Replace>	</LocalizedText></GameData>

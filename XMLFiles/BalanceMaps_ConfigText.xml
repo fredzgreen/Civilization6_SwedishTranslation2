@@ -1,39 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<LocalizedText>
-		<!-- Name and Description-->
-		<Replace Language="sv_SE" Tag="LOC_BALANCEDMAPS_NAME">
-			<Text>Official Balanced Maps</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BALANCEDMAPS_DESCRIPTION">
-			<Text>Balanced maps that are especially ideal for multiplayer matches.</Text>
-		</Replace>
-		<!--Map Name-->
-		<Replace Language="sv_SE" Tag="LOC_BALANCEDMAPS_MAP_STANDARD_NAME">
-			<Text>Balanced Maps</Text>
-		</Replace>
-		<!--Map Description-->
-		<Replace Language="sv_SE" Tag="LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION">
-			<Text>Balanced maps that are especially ideal for multiplayer matches.</Text>
-		</Replace>
-		<!--Map Description-->
-		<Replace Language="sv_SE" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
-			<Text>4-Leaf Clover</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
-			<Text>Civilizations begin in four balanced regions. The map forces players toward the center.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
-			<Text>6-Armed Snowflake</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
-			<Text>Civilizations begin in six balanced regions, with City-States on nearby islands. The map forces players toward the center.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BALANCEDMAPS_MAP_OPTION3_NAME">
-			<Text>Promised Land</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION">
-			<Text>Civilizations begin with balanced start locations and compete for valuable territory in the map’s center.</Text>
-		</Replace>
-	</LocalizedText>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?><GameData>	<LocalizedText>		<!-- Name and Description-->		<Replace Tag='LOC_BALANCEDMAPS_NAME' Language='sv_SE'>			<Text>Official Balanced Maps</Text>		</Replace>		<Replace Tag='LOC_BALANCEDMAPS_DESCRIPTION' Language='sv_SE'>			<Text>Balanced maps that are especially ideal for multiplayer matches.</Text>		</Replace>		<!--Map Name-->		<Replace Tag='LOC_BALANCEDMAPS_MAP_STANDARD_NAME' Language='sv_SE'>			<Text>Balanserade kartor</Text>		</Replace>		<!--Map Description-->		<Replace Tag='LOC_BALANCEDMAPS_MAP_STANDARD_DESCRIPTION' Language='sv_SE'>			<Text>Balanced maps that are especially ideal for multiplayer matches.</Text>		</Replace>		<!--Map Description-->		<Replace Tag='LOC_BALANCEDMAPS_MAP_OPTION1_NAME' Language='sv_SE'>			<Text>Fyrklöver</Text>		</Replace>		<Replace Tag='LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION' Language='sv_SE'>			<Text>Civilizations begin in four balanced regions. The map forces players toward the center.</Text>		</Replace>		<Replace Tag='LOC_BALANCEDMAPS_MAP_OPTION2_NAME' Language='sv_SE'>			<Text>Sexkantig snöflinga</Text>		</Replace>		<Replace Tag='LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION' Language='sv_SE'>			<Text>Civilizations begin in six balanced regions, with City-States on nearby islands. The map forces players toward the center.</Text>		</Replace>		<Replace Tag='LOC_BALANCEDMAPS_MAP_OPTION3_NAME' Language='sv_SE'>			<Text>Promised Land</Text>		</Replace>		<Replace Tag='LOC_BALANCEDMAPS_MAP_OPTION3_DESCRIPTION' Language='sv_SE'>			<Text>Civilizations begin with balanced start locations and compete for valuable territory in the map’s center.</Text>		</Replace>	</LocalizedText></GameData>

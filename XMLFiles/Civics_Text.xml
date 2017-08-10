@@ -1,857 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
-<GameData>
-	<LocalizedText>
-		<!-- Civics-->
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_FOREIGN_TRADE_DESCRIPTION">
-			<Text>Tillåter skapandet av [ICON_TradeRoute] Handelsrutter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_MILITARY_TRADITION_DESCRIPTION">
-			<Text>Tillåter flankerande och stödjer stridsbonus till alla stridsenheter .</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_EARLY_EMPIRE_DESCRIPTION">
-			<Text>Låser upp förmågan att upprätthålla respekten för gränserna och erbjuda Öppna Gränser till andra civilisationer.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_MYSTICISM_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_MILITARY_TRAINING_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_THEOLOGY_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_NAVAL_TRADITION_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_FEUDALISM_DESCRIPTION">
-			<Text>Bondgårdsförbättringar får +1 [ICON_Food] Mat för varje närliggande Bondgårdsförbättring när 3 Bondgårdsförbättringar är närliggande varandra.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION">
-			<Text>Tillåter Allianser.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_MERCENARIES_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_EXPLORATION_DESCRIPTION">
-			<Text>Betesmarksförbättringen ger +1 [ICON_Food] Mat.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION">
-			<Text>Tillåter hemmastadda Ambassader och ger förmågan att träna Spioner. De första fyra Krigsorsakerna (Casus Belli) kan nu legitimera krig. Dessa Casus Belli är: Heligt krig, Frihetskrig, Återerövringskrig, and Protektorat krig.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_MERCANTILISM_DESCRIPTION">
-			<Text>Lägerförbättringar ger +1 [ICON_Production] Produktion. </Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION">
-			<Text>Religiösa [ICON_Tourism] Turism-effekter halveras mot din civilisation.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION">
-			<Text>Kan bygga Bondgårdar på Gräsmark-kullar och på Slätt-kullar. Låser upp Stadsförsvaret, ger automatiskt alla dina städer 200 Befästningsstyrka och förmågan att bombardera.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_NATIONALISM_DESCRIPTION">
-			<Text>Ger förmågan att träna ytterligare en Spion. Tillåter att formera två identiska enheter till en Kår eller Flotta. Tillåter en ny Krigsorsak (Casus Belli) som kan användas till att rättfärdiga krig: Kolonialt krig.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_OPERA_BALLET_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION">
-			<Text>Avslöjar [ICON_RESOURCE_ANTIQUITY_SITE] Platser från Antiken. Tillåter tränandet av Arkeologer. Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_CAPITALISM_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_CONSERVATION_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud. Tillåter byggandet av Nationalparker och köp av Naturforskare med [ICON_Faith] Övertygelse. Tillåter Byggare att plantera Skog (ny-tillväxt). Skog i ditt territoriun som har aldrig har huggits ner (gammal-skog) ökar med +1 Attraktionskraft.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_MOBILIZATION_DESCRIPTION">
-			<Text>Tillåter formation av Försvarspakter. Tillåter formaringen av tre identistka enheter till en Armé eller Armada. Tillåter en ny Krigsorsak (Casus Belli) som kan rättfärdiga krig: Terrotoriellt expansionskrig.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_IDEOLOGY_DESCRIPTION">
-			<Text>Ger förmågan att träna ytterligare en Spion.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_NUCLEAR_PROGRAM_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_COLD_WAR_DESCRIPTION">
-			<Text>Ger förmågan att träna ytterligare en Spion.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_CULTURAL_HERITAGE_DESCRIPTION">
-			<Text>Belönar med 1 [ICON_Envoy] Sändebud. </Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_RAPID_DEPLOYMENT_DESCRIPTION">
-			<Text>Tillåter enhetstransporter mellan Aerodromdistrikt som har en flygplats.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_GLOBALIZATION_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Guld för Plantager. Kan färdigställas flera gånger, ger dig på så sätt ytterligare poäng mot en Poängseger.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_SOCIAL_MEDIA_DESCRIPTION">
-			<Text>Kan färdigställas flera gånger, ger dig på så sätt ytterligare poäng mot en Poängseger.</Text>
-		</Replace>
-		<!-- Civic Boosts-->
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CRAFTSMANSHIP">
-			<Text>Förbättra 3 rutor.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_FOREIGN_TRADE">
-			<Text>Upptäck en andra Kontinent.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MILITARY_TRADITION">
-			<Text>Töm ett Barbarläger.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_STATE_WORKFORCE">
-			<Text>Bygg ett Distrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_EARLY_EMPIRE">
-			<Text>Din civilisation ska ha minst 6 Befolkning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MYSTICISM">
-			<Text>Grunda en pantheon.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GAMES_RECREATION">
-			<Text>Utforska Konstruktion teknologin.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_POLITICAL_PHILOSOPHY">
-			<Text>Möt 3 stadsstater.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_DRAMA_POETRY">
-			<Text>Bygg ett Under.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MILITARY_TRAINING">
-			<Text>Bygg en Militärförläggning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_DEFENSIVE_TACTICS">
-			<Text>Bonus ges om någon har deklarerat krig mot dig.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RECORDED_HISTORY">
-			<Text>Bygg 2 Campus-distrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_THEOLOGY">
-			<Text>Grunda en Religion.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NAVAL_TRADITION">
-			<Text>Döda en enhet men en Fyrroddare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_FEUDALISM">
-			<Text>Bygg 6 Bondgårdar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CIVIL_SERVICE">
-			<Text>Ha en stad som nått 10 i befolkning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MERCENARIES">
-			<Text>Ha 8 land stridsenheter in din armé.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES">
-			<Text>Ha 4 Handelsrutter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GUILDS">
-			<Text>Bygg 2 Marknader.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_DIVINE_RIGHT">
-			<Text>Bygg 2 Tempel.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_EXPLORATION">
-			<Text>Bygg 2 Karaveller.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_HUMANISM">
-			<Text>Få en Stor Konstnär.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_DIPLOMATIC_SERVICE">
-			<Text>Ha en allians med en annan civilisation.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_REFORMED_CHURCH">
-			<Text>Ha 6 städer som följer din Religion.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MERCANTILISM">
-			<Text>Få en Stor Handelsman.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT">
-			<Text>Få 3 Stora Personer.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CIVIL_ENGINEERING">
-			<Text>Bygg 7 olika special distrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NATIONALISM">
-			<Text>Förklara krig och använt ett Casus Belli.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_OPERA_BALLET">
-			<Text>Bygg ett Konstmuseum.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COLONIALISM">
-			<Text>Utforska Astronomi.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NATURAL_HISTORY">
-			<Text>Bygg ett Arkeologiskt Museum.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_URBANIZATION">
-			<Text>Låt en stad växa till en befolkning på 15.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SCORCHED_EARTH">
-			<Text>Bygg 2 Fältkanoner.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CONSERVATION">
-			<Text>Ha ett grannskapsdistrikt med Förtrollande Attraktionskraft.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MOBILIZATION">
-			<Text>Ha 3 Kårer i din armé.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_MASS_MEDIA">
-			<Text>Utforska Radio.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CAPITALISM">
-			<Text>Bygg 3 Börser.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_NUCLEAR_PROGRAM">
-			<Text>Bygg ett Forskning labb.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SUFFRAGE">
-			<Text>Bygg 4 Avlopp.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_TOTALITARIANISM">
-			<Text>Bygg 3 Militärakademier.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CLASS_STRUGGLE">
-			<Text>Bygg 3 Fabriker.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_COLD_WAR">
-			<Text>Utforska Kärnfission.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS">
-			<Text>Bygg 4 Underhållningsdistrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_CULTURAL_HERITAGE">
-			<Text>Ha ett Museum med tema.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_RAPID_DEPLOYMENT">
-			<Text>Bygg en Aerodrom eller Landningsbana på en främmande kontinent.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SPACE_RACE">
-			<Text>Bygg ett Rymdhamnsdistrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_GLOBALIZATION">
-			<Text>Bygg 3 Flygplatser.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_SOCIAL_MEDIA">
-			<Text>Utforska Telekommunikation.</Text>
-		</Replace>
-		<!-- Civic Boosts Long Descriptions-->
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP">
-			<Text>Nu när med marken runt din första stad har utvecklats bra, så kan vi kan finjustera våra produktionsmetoder.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE">
-			<Text>Du har upptäckt en ny kontinent och inser du att det finns en hel värld av handelsmöjligheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION">
-			<Text>Dina soldater hoppas att segern över ett Barbarläger är bara början på en lång rad av militära framgångar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE">
-			<Text>Vårt första distrikt är färdigt och har visat nyttan av att rekrytera arbetare för statliga projekt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE">
-			<Text>Det ökande antalet medborgare i ditt land drömmer nu om att ha ett imperium.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM">
-			<Text>Dyrkan av din pantheon av gudar har fört upp ytterligare frågor om andliga krafter i vår värld.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION">
-			<Text>Dina nya färdigheter i Konstruktion kommer säkert att bidra till att bygga mötesplatser för spel och underhållning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY">
-			<Text>Din kontakt med andra stater har kristalliserat dina idéer på hur du styr ditt eget folk.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_DRAMA_POETRY">
-			<Text>Äran av att ha slutfört ett under har upplivat ditt folk. De skriver verk för att fira denna stora händelse.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING">
-			<Text>Med en militärförläggning nu på plats, kan vi formalisera vår militärutbildning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS">
-			<Text>Inför hotet om invasion, är ditt folk redo att konstruera uppfinningsrika försvarsmetoder.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY">
-			<Text>Med planer på att hysa många rullar i biblioteken på ditt campus, börjar ditt folk skriva ner historien om ditt imperium.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY">
-			<Text>Bildandet av en religion av din stora profet inspirerar till djupare tankar på det gudomligas natur.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION">
-			<Text>Din seger till sjöss inspirerar ditt folk att sträva efter att bli en supermakt till sjöss.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM">
-			<Text>Ett system av lordar och vasaller håller på att  bildas för att styra all jordbruksmark i ditt rike.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE">
-			<Text>Dina storstadsområden kommer snart att kräva en kår av byråkrater.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES">
-			<Text>Med en sådan stor stående armé, kan du överväga att lägga till legosoldater  om din armé behöver expandera ytterligare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES">
-			<Text>Ökningen av handel överallt i ditt rike kommer snart att locka till sig en mässa.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GUILDS">
-			<Text>Framgången för dina kommersiella distrikt har drivit på tillväxten av handelsskrån.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT">
-			<Text>Dina fromma människor tror starkt på att ditt styre är en välsignelse från det gudomliga.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION">
-			<Text>De lärdomar som utforskning med Karaveller har lärt dig, har lett till ett nytt sätt att styra ditt folk.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_HUMANISM">
-			<Text>Inspiration från din nyligen förvärvade Stora Konstnär har gjort vårt folk medvetna om kraften i individen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE">
-			<Text>Uppdraget att bygga en allians har tränat upp din första kår av diplomater.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH">
-			<Text>Tillväxten av din religion kommer med en risk för splittring. Reformationen av korrupta kyrkliga beteenden måste ske snart!</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM">
-			<Text>Din nya Stora Handelsman delar sina idéer om hur vi kan få övertaget över våra ekonomiska konkurrenter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT">
-			<Text>Idéerna från dina Stora Människor har inspirerat intellektuella diskussionen i hela landet.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM">
-			<Text>Din nya kunskap om himlen hjälper din flotta navigera och upprätta ett globalt imperium.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING">
-			<Text>Genom att ha konstruerat så många typer av distrikt, så har dina ingenjörer blivit skickliga i stadskonstruktion.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM">
-			<Text>Ditt folk tror på att detta krig är rättfärdigat. Det har blivit en fråga om nationell stolthet för oss!</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET">
-			<Text>Avtäckningen av ett nytt museum drar människor till konsterna. Kanske dans och opera kommer härnäst?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY">
-			<Text>Med ett museum nu redo att hålla dina klenoder, är det dags att se vad du kan upptäcka uti i världen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION">
-			<Text>Din storstad håller på att bli överfull. Det är dags att börja planera för några förorter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH">
-			<Text>Modern krigsföring är helt klart en brutal affär. Din militära doktrin börjar reflektera en del av dessa principer för totalt krig.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION">
-			<Text>Invånarna i din hisnande ny stadsdel har högljudda krav på en plan för att bevara alla världens naturskatter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA">
-			<Text>Tillkomsten av radio lockar till starten av en ny era av kommunikation.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION">
-			<Text>Din militär har blivit bättre organiserad. Nu är det dags visa din makt på världsscenen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM">
-			<Text>Med börser som växer upp i flera städer, finns det rikligt med investeringskapital och marknadsekonomi är redo att dyka upp.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM">
-			<Text>Med ett särskilt forskningslabb på plats, så kan ert initiativ att rekrytera forskare i ett kärnforskningsprogram påbörjas.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE">
-			<Text>Kvinnorna i ditt imperium har krävt ordentlig sanitet. Efter att ha vunnit den kampen, behöver de nu få rätt att rösta.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM">
-			<Text>Disciplinen som ingjutits av dina militära akademier är nu en självklarhet för medborgare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE">
-			<Text>Dina fabriksarbetare kräver bättre arbetsförhållanden. Det är dags för arbetarna i världen att förenas!</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR">
-			<Text>Tillkomsten av kärnvapen kommer säkert ändra karaktären på väpnade konflikter över hela världen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS">
-			<Text>Dina 4 städer med underhållningskomplex vill tävla i en ny professionell idrottsliga.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE">
-			<Text>Med ett perfekt inspekterat och noggrant underhållit museum, visas ditt folks starka kulturarv upp på utställningar öppet för alla att ta del av.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT">
-			<Text>Med flygbaser som finns över hela världen, är vår militär redo att sättas in var som helst i världen på ett ögonblicks varsel.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE">
-			<Text>Avtäckningen av den nya Rymdhamnen har upplivat ditt folk att utforska rymden.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION">
-			<Text>Med så många flygplatser på plats, håller sannerligen världen på att bli en mindre plats.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA">
-			<Text>Dina framsteg inom kommunikationstekniken tillåter människor att samlas på nätet.</Text>
-		</Replace>
-		<!-- Governments -->
-		<Replace Language="sv_SE" Tag="LOC_GOVERNMENT_OF">
-			<Text>Regering {1_civ}</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CHANGE_GOVERNMENT">
-			<Text>Byt Regering</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MY_GOVERNMENT">
-			<Text>Min Regering</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_policIES">
-			<Text>politik</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVERNMENTS">
-			<Text>Regering</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CULTURE_PER_TURN">
-			<Text>Kultur per Omgång: +{1_Culture}</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MILITARY">
-			<Text>Militär</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_ECONOMIC">
-			<Text>Ekonomisk</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DIPLOMATIC">
-			<Text>Diplomatisk</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_WILDCARD">
-			<Text>Jokerkort</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_EMPTY_POLICY_SLOT">
-			<Text>Tom politikplats {1_policyType}</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NO_AVAIL_policIES">
-			<Text>Ingen politik tillgänglig</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VIEW_LOCKED_policIES">
-			<Text>Se Låst politik</Text>
-		</Replace>
-		<!-- Government Effects-->
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_CHIEFDOM">
-			<Text>Ingen Bonus.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY">
-			<Text>Huvudstaden får +1 ökning av all avkastning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_OLIGARCHY">
-			<Text>Alla Närstridsenheter på Land får +4 [ICON_Strength] i Stridsstyrka.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_CLASSREP">
-			<Text>Alla städer med ett distrikt får +1 [ICON_Amenities] Serviceinrättning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_MONARCHY">
-			<Text>+2 [ICON_Housing] Boenden i alla städer som har medeltida murar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_THEOCRACY">
-			<Text>Kan köpa land stridsenheter med Övertygelse. Alla enheter +5 [ICON_Religion] Religiös Styrka i teologiska strider.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_MERCHREP">
-			<Text>+2 [ICON_TradeRoute] Handelsrutter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_FASCISM">
-			<Text>Alla stridsenheter får +4 [ICON_Strength] Stridsstyrka.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_COMMUNISM">
-			<Text>Enheter på land får +4 [ICON_Strength] Försvarsstyrka.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INHERENT_BONUS_DEMOCRACY">
-			<Text>Beskydd av stora Personer kostar 50% mindre Guld.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM">
-			<Text>Ingen Bonus.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY">
-			<Text>Bonus gentemot Under produktion.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY">
-			<Text>Erfarenhet för stridsenheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP">
-			<Text>Bonus Stora Personer poäng.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY">
-			<Text>Bonus Inflytande poäng.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY">
-			<Text>Rabatt på köp med Övertygelse poäng.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP">
-			<Text>Rabatt på köp med Guld.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM">
-			<Text>Bonus på enhets Produktion.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM">
-			<Text>Bonus på all Produktion.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY">
-			<Text>Bonus avkastning från distrikt projekt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM">
-			<Text>Ingen Bonus.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY">
-			<Text>Bonus gentemot Under [ICON_Production] Produktion (10%, plus 1% för var 20de omgång på Standard hastighet).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY">
-			<Text>Bonus stridserfarenhet för enheter (20%, plus 1% för var 5de omgång på Standard hastighet).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_CLASSREP">
-			<Text>Bonus [ICON_GreatPerson] Stora personer poäng (15%, plus 1% för var 15de omgång på Standard hastighet).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_MONARCHY">
-			<Text>Bonus Inflytande poäng gentemot [ICON_Envoy] Sändebud (20%, plus 1% för var 10de omgång på Standard hastighet).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY">
-			<Text>Rabatt på [ICON_Faith] Övertygelse köp (15%, plus 1% för var 15de omgång på Standard hastighet).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_MERCHREP">
-			<Text>Discount on [ICON_Gold] Gold purchases (15%, plus 1% för var 15de omgång på Standard hastighet).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_FASCISM">
-			<Text>Bonus to unit [ICON_Production] Produktion (20%, plus 1% för var 10de omgång på Standard hastighet).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM">
-			<Text>Bonus to all [ICON_Production] Produktion (10%, plus 1% för var 20de omgång på Standard hastighet).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY">
-			<Text>Bonus yields from district projects (30%, plus 1% för var 10de omgång på Standard hastighet).</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_POLICIES_NO_REMAINING_PLACED">
-			<Text>Ingen mer {1_policyName} kan tilldelas denna regeringsform.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_POLICIES_NO_TOTAL_PLACED">
-			<Text>Ingen {1_policyName} kan tilldelas denna regeringsform.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_POLICIES_REMAINING_PLACED">
-			<Text>{1_Num: number #} fler {1_Num : plural 1?politikkort; other?politikkort;} kan placeras på {2_policyName} område.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_POLICIES_TOTAL_PLACED">
-			<Text>{1_Num: number #} {1_Num : plural 1?politikkort; other?politikkort;} kan placeras på {2_policyName} område.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS">
-			<Text>Gain {1_InfluencePointRate} Inflytande {1_InfluencePointRate : plural 1?poäng; other?poäng;} per [ICON_Turn] Omgång. Vid {2_InfluencePointThreshold} {2_InfluencePointThreshold : plural 1?poäng; other?poäng;}, förtjäna {3_EnvoysPerThreshold} [ICON_Envoy] {3_EnvoysPerThreshold : plural 1?Sändebud; other?Sändebud;}.</Text>
-		</Replace>
-		<!-- Policy Descriptions-->
-		<Replace Language="sv_SE" Tag="LOC_POLICY_PLACEHOLDER_DESC">
-			<Text>Platshållare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_AESTHETICS_DESCRIPTION">
-			<Text>+100% Teaterskådeplats distrikt närhetsbonusar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_AGOGE_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion gentemot Antika epokens och Järnålderns närstridsenheter och enheter med lång räckvidd.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION">
-			<Text>Dina [ICON_TradeRoute] Handelsrutter till en Allierads städer ger +2 [ICON_Food] Mat och +2 [ICON_Production] Produktion för båda städerna.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_BASTIONS_DESCRIPTION">
-			<Text>+6 Stadsförsvaret [ICON_Strength] Försvarsstyrka. +5 Stads [ICON_Ranged] räckvidds styrka.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_CARAVANSARIES_DESCRIPTION">
-			<Text>+2 [ICON_Gold] Guld från alla [ICON_TradeRoute] Handelsrutter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION">
-			<Text>+2 Inflytande poäng per omgång gentemot förtjänande av stadsstater [ICON_Envoy] sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_CHIVALRY_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion gentemot Medeltida, Renässans, and Industrialism tunga och lätta kavellerienheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION">
-			<Text>+10% [ICON_Culture] Kultur per stadsstat som du är suzerän till.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_COLLECTIVIZATION_DESCRIPTION">
-			<Text>+4 [ICON_Food] Mat från inhemska [ICON_TradeRoute] Handelsrutter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION">
-			<Text>+15% snabbare tillväxt för städer som inte är på den [ICON_Capital] Huvudstads kontinent.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_COLONIAL_TAXES_DESCRIPTION">
-			<Text>+25% [ICON_Gold] Guld i städer som inte är på din ursprungliga [ICON_Capital] Huvudstads kontinent.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_COLONIZATION_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion gentemot Nybyggare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_CONSCRIPTION_DESCRIPTION">
-			<Text>Underhåll för enheter minskar med 1 [ICON_Gold] Guld per omgång, per enhet.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_CONTAINMENT_DESCRIPTION">
-			<Text>Varje [ICON_Envoy] Sändebud som du skickar till stadsstat räknas som två, om dess suzerän har en annan regering än dig.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_CORVEE_DESCRIPTION">
-			<Text>+15% [ICON_Production] Produktion gentemot Antika och Järnålderns under.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION">
-			<Text>100% Industriella Distrikt närhetsbonusar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION">
-			<Text>Fiende spioner får minskad nivå med 2 i ditt land. Din Spions nivå ökar med 1 på offensiva uppdrag.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION">
-			<Text>Ingen krigströtthet från strid i ditt territorium.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION">
-			<Text>Det första [ICON_Envoy] Sändebudet som du skickar till varje stadsstat räknas som två [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_DISCIPLINE_DESCRIPTION">
-			<Text>+5 [ICON_Strength] Enheters stridsstyrka när de kämpar mot Barbarer.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_ECOMMERCE_DESCRIPTION">
-			<Text>+5 [ICON_Production] Produktion och +10 [ICON_Gold] Guld från internationella [ICON_TradeRoute] Handelsrutter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_ECONOMIC_UNION_DESCRIPTION">
-			<Text>+100% Handels-Centra och Hamn distrikt närhetsbonusar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_EXPROPRIATION_DESCRIPTION">
-			<Text>Minskar kostnaden för Nybyggare med 50%. Kostnader för markköp minskar med 20%.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion gentemot Medeltida och Renässans epokens närstridsenheter och lång räckviddsenheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_FINEST_HOUR_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion gentemot Modernitetens och Atomålderns luftenheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION">
-			<Text>+100% Campus och Industriella distrikt närhetsbonusar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION">
-			<Text>+100% [ICON_Gold] Guld avkastning från Kommersiella Centrum byggnader.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_FRESCOES_DESCRIPTION">
-			<Text>+2 [ICON_GreatArtist] Stora Konstnärer poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_GOD_KING_DESCRIPTION">
-			<Text>+1 [ICON_Faith] Övertygelse och +1 [ICON_Gold] Guld i [ICON_Capital] Huvudstaden.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION">
-			<Text>+15% [ICON_Production] Produktion gentemot Medeltida och Renässans under.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_GRANDE_ARMEE_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion gentemot Industriella epokens och Modernitetens närstridsenheter och lång räckviddsenheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION">
-			<Text>+100% [ICON_Culture] Kultur avkastning från Teaterskådeplats distriktets byggnader.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION">
-			<Text>Öppna gränser men alla stadsstater och +4 inflytande poäng per omgång gentemot [ICON_Envoy] Sändebud.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION">
-			<Text>+100% [ICON_Tourism] Turism från [ICON_GreatWork_Landscape] Stora verk och [ICON_GreatWork_Artifact] Artefakter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_ILKUM_DESCRIPTION">
-			<Text>+30% [ICON_Production] Produktion gentemot Byggare.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_INSPIRATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatScientist] Stor vetenskapsman poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_INSULAE_DESCRIPTION">
-			<Text>+1 [ICON_Housing] Boenden i alla städer med minst 2 special distrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION">
-			<Text>+15% [ICON_Production] Produktion gentemot Rymdhamn projekt om en stad har antinget har Militärakademin eller en Sjöstad.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION">
-			<Text>+10% [ICON_Science] Vetenskap per stadsstat som du är suzerän till.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion gentemot Modernitetens, Atomålderns, and Informationsåldern marina enheter, förutom Hangarfartyg.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_INVENTION_DESCRIPTION">
-			<Text>+2 [ICON_GreatEngineer] Stora Ingenjörer poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION">
-			<Text>+4 [ICON_GreatMerchant] Stora Handelsmän poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_LAND_SURVEYORS_DESCRIPTION">
-			<Text>Minskar kostnaden av att köpa rutor med 20%.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION">
-			<Text>Underhåll för enheter minskar med 2 [ICON_Gold] Guld per omgång, per enhet.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_LIBERALISM_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Serviceinrättning till alla städer med åtminstone 2 specialdistrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion för tunga och lätta kavellerienheter ur Moderniteten, Atomåldern, och Informationsåldern.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_LIMES_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion mot defensiva byggnader.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_LITERARY_TRADITION_DESCRIPTION">
-			<Text>+2 [ICON_GreatWriter] Stora författare poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_LOGISTICS_DESCRIPTION">
-			<Text>+1 Förflyttning om börjar i vänskapligt territorium.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion mot Spioner. Spion uppdrag tar 25% mindre tid.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MANEUVER_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion mot Antika och Järnålderns tunga och lätta kavellerienheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion mot Antika och Järnålderns marina enheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MARKET_ECONOMY_DESCRIPTION">
-			<Text>Dina internationella [ICON_TradeRoute] Handelsrutter ger +1 [ICON_Gold] Guld per Lyx och Strategisk resurs som är förbättrad vid destinationen, såväl +2 [ICON_Culture] Kultur och +2 [ICON_Science] Vetenskap.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MARTIAL_LAW_DESCRIPTION">
-			<Text>Ackumulerara 25% mindre krigströtthet än vanligt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MEDINA_QUARTER_DESCRIPTION">
-			<Text>+2 [ICON_Housing] Boenden i alla städer med minst 3 specialdistrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION">
-			<Text>+1 [ICON_Gold] Guld från varje [ICON_Envoy] Sändebud som du har till stadsstater.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MERITOCRACY_DESCRIPTION">
-			<Text>Varje stad får +1 [ICON_Culture] Kultur för varje distrikt som den bygger.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MILITARY_FIRST_DESCRIPTION">
-			<Text>+50% [ICON_Production] Produktion mot Atomålderns och Informationsålderns närstrids och lång räckviddsenheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION">
-			<Text>+4 [ICON_GreatGeneral] Stor General poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION">
-			<Text>Militärakademier och Sjöstäder ger +1 [ICON_Science] Vetenskap.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION">
-			<Text>Enheter har 50% mindre [ICON_Strength] minskning i Stridsstyrka från att vara skadad.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION">
-			<Text>Stridsvinster mot enheter från en tidigare epok ger [ICON_Gold] Guld motsvarande 50% av [ICON_Strength] Stridsstyrkan av den besegrade enheten.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION">
-			<Text>+100% Campus distrikt närhetsbonusar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION">
-			<Text>+100% Hamn distrikt närhetsbonusar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_NAVIGATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatAdmiral] Stora Amiral poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_NEW_DEAL_DESCRIPTION">
-			<Text>+4 [ICON_Housing] Boenden, +2 [ICON_Amenities] Serviceinrättningar, -8 [ICON_Gold] Guld till alla städer med minst 3 specialdistrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_NOBEL_PRIZE_DESCRIPTION">
-			<Text>+4 [ICON_GreatScientist] Stora Vetenskapsmän poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION">
-			<Text>Spioner som stjäl ett vetenskapslyft utan att bli upptäckta får ett extra lyft.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION">
-			<Text>+50% [ICON_Tourism] Turism uteffekt till alla civilisationer som du har en [ICON_TradeRoute] Handelsrutt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION">
-			<Text>+100% [ICON_Production] Produktion för Modern, Atom och informationåldern supportenheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_POLICE_STATE_DESCRIPTION">
-			<Text>Fiende spioner nivå minskad med 2 i ditt land. Emellertid alla städer får en minskning med -1 [ICON_Amenities] Serviceinrättningar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_PRESS_GANGS_DESCRIPTION">
-			<Text>100% [ICON_Production] Produktion mot Renässansen och Industriella epokens sjöfartsenheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION">
-			<Text>50% rabatt på alla enheters uppgraderingskostnad.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_PROPAGANDA_DESCRIPTION">
-			<Text>Ackumulerara 25% mindre krigströtthet än normalt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION">
-			<Text>Få 50 [ICON_Gold] Guld för rutans attraktionskraft när man ersätter Bondgård med ett Grannskap distrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_PUBLIC_WORKS_DESCRIPTION">
-			<Text>+30% [ICON_Production] Produktion mot Byggare, och nytränande Byggare får 2 extra bygghandlingar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_RAJ_DESCRIPTION">
-			<Text>+2 [ICON_Science] Vetenskap, [ICON_Culture] Kultur, [ICON_Faith] Övertygelse, och [ICON_Gold] Guld från varje stadsstat du är Suzerän till.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_RAID_DESCRIPTION">
-			<Text>Byten man får genom plundring dubbleras för plundringsförbättringar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_RATIONALISM_DESCRIPTION">
-			<Text>+100% [ICON_Science] Vetenskap från Campus-distrikt byggnader.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION">
-			<Text>All religiösa enheter +5 [ICON_Religion] Religiös styrka i teologiska strider.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION">
-			<Text>1 upplaga av strategiska resurser tillåter dig att producera och köpa enheter som kräver det i vilken stad som helst.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_RETAINERS_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Serviceinrättningar för städer med enheter förlagda i garnison.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_REVELATION_DESCRIPTION">
-			<Text>+2 [ICON_GreatProphet] Stora Profet poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_SACK_DESCRIPTION">
-			<Text>Byten som man får från plundring dubbleras av att plundar distrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION">
-			<Text>Tredubblar [ICON_Tourism] Turism från [ICON_GreatWork_Music] Stora Mästerverk i Musik.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_SCRIPTURE_DESCRIPTION">
-			<Text>+100% Helig Plats närhetsbonusar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_SERFDOM_DESCRIPTION">
-			<Text>Nyträndade Byggare får 2 extra bygghandlingar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION">
-			<Text>Dubblerar [ICON_Faith] Övertygelse utbytet från Helig plats distriktets byggnader.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_SKYSCRAPERS_DESCRIPTION">
-			<Text>+15% [ICON_Production] Produktion mot Industriella epok och senare under.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION">
-			<Text>+100% Teaterskådeplats distriktet närhetsbonusar, och Stadion genererar +1 [ICON_Amenities] Serviceinrättning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION">
-			<Text>+50 [ICON_Production] Produktion mot Informationsålderns luftenheter, och mot alla hangarfartyg .</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_STRATEGOS_DESCRIPTION">
-			<Text>+2 [ICON_GreatGeneral] Stora general poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_SURVEY_DESCRIPTION">
-			<Text>Dubbel erfarenhet för spanarenheter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_SYMPHONIES_DESCRIPTION">
-			<Text>+4 [ICON_GreatMusician] Stora Musiker poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION">
-			<Text>+4 [ICON_Gold] Guld från varje Forsknings labb, Militär akademi, och Kraftverk.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_TOTAL_WAR_DESCRIPTION">
-			<Text>Byten som man får från plundring dubbleras.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_TOWN_CHARTERS_DESCRIPTION">
-			<Text>+100% Kommersiellt Centrum distrikt bonus.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION">
-			<Text>+1 [ICON_Culture] Kulture och +1 [ICON_Science] Vetenskap från internationella [ICON_TradeRoute] Handelsrutter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION">
-			<Text>+2 [ICON_GreatMerchant] Stora Handelsman poäng per omgång.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION">
-			<Text>+4 [ICON_Gold] Guld och +1 [ICON_Faith] Övertygelse från alla [ICON_TradeRoute] Handelsrutter.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_URBAN_PLANNING_DESCRIPTION">
-			<Text>+1 [ICON_Production] Produktion i alla städer.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_VETERANCY_DESCRIPTION">
-			<Text>+30% [ICON_Production] Produktion mot Militärförläggning distrikt och byggnader för det distriktet.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION">
-			<Text>+4 [ICON_Strength] Stridsstyrka när krigar mot civilisationer som har en annan religion.</Text>
-		</Replace>
-		<!-- Preview Text -->
-		<Replace Language="sv_SE" Tag="LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION">
-			<Text>+4 Oligarki bonus</Text>
-		</Replace>
-		<!-- Temporary UI -->
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_STARTED">
-			<Text>Utveckling mot: {1_CivicName}</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_CIVIC_COMPLETE">
-			<Text>Politik färdig: {1_CivicName}</Text>
-		</Replace>
-	</LocalizedText>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?><!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) --><GameData>	<LocalizedText>		<!-- Civics-->		<Replace Tag='LOC_CIVIC_FOREIGN_TRADE_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter skapandet av [ICON_TradeRoute] Handelsrutter.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_MILITARY_TRADITION_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter flankerande och stödjer stridsbonus till alla stridsenheter .</Text>		</Replace>		<Replace Tag='LOC_CIVIC_EARLY_EMPIRE_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp förmågan att upprätthålla respekten för gränserna och erbjuda Öppna Gränser till andra civilisationer.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_MYSTICISM_DESCRIPTION' Language='sv_SE'>			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_MILITARY_TRAINING_DESCRIPTION' Language='sv_SE'>			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_THEOLOGY_DESCRIPTION' Language='sv_SE'>			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_NAVAL_TRADITION_DESCRIPTION' Language='sv_SE'>			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_FEUDALISM_DESCRIPTION' Language='sv_SE'>			<Text>Bondgårdsförbättringar får +1 [ICON_Food] Mat för varje närliggande Bondgårdsförbättring när 3 Bondgårdsförbättringar är närliggande varandra.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_CIVIL_SERVICE_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter Allianser.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_MERCENARIES_DESCRIPTION' Language='sv_SE'>			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_EXPLORATION_DESCRIPTION' Language='sv_SE'>			<Text>Betesmarksförbättringen ger +1 [ICON_Food] Mat.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_DIPLOMATIC_SERVICE_DESCRIPTION' Language='sv_SE'>			<Text>Grants the ability to construct a Spy.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_MERCANTILISM_DESCRIPTION' Language='sv_SE'>			<Text>Lägerförbättringar ger +1 [ICON_Production] Produktion. </Text>		</Replace>		<Replace Tag='LOC_CIVIC_THE_ENLIGHTENMENT_DESCRIPTION' Language='sv_SE'>			<Text>Religiösa [ICON_Tourism] Turism-effekter halveras mot din civilisation.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_COLONIALISM_DESCRIPTION' Language='sv_SE'>			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_CIVIL_ENGINEERING_DESCRIPTION' Language='sv_SE'>			<Text>Kan bygga Bondgårdar på Gräsmark-kullar och på Slätt-kullar. Låser upp Stadsförsvaret, ger automatiskt alla dina städer 200 Befästningsstyrka och förmågan att bombardera.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_NATIONALISM_DESCRIPTION' Language='sv_SE'>			<Text>Ger förmågan att träna ytterligare en Spion. Tillåter att formera två identiska enheter till en Kår eller Flotta. Tillåter en ny Krigsorsak (Casus Belli) som kan användas till att rättfärdiga krig: Kolonialt krig.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_OPERA_BALLET_DESCRIPTION' Language='sv_SE'>			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_NATURAL_HISTORY_DESCRIPTION' Language='sv_SE'>			<Text>Avslöjar [ICON_RESOURCE_ANTIQUITY_SITE] Fornlämningar. Tillåter tränandet av Arkeologer. Belönar med 2 [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_SCORCHED_EARTH_DESCRIPTION' Language='sv_SE'>			<Text>Belönar med 1 [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_CONSERVATION_DESCRIPTION' Language='sv_SE'>			<Text>Belönar med 1 [ICON_Envoy] Sändebud. Tillåter byggandet av Nationalparker och köp av Naturforskare med [ICON_Faith] Övertygelse. Tillåter Byggare att plantera Skog (ny-tillväxt). Skog i ditt territoriun som har aldrig har huggits ner (gammal-skog) ökar med +1 Attraktionskraft.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_MOBILIZATION_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter formation av Försvarspakter. Tillåter formaringen av tre identistka enheter till en Armé eller Armada. Tillåter en ny Krigsorsak (Casus Belli) som kan rättfärdiga krig: Terrotoriellt expansionskrig.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_IDEOLOGY_DESCRIPTION' Language='sv_SE'>			<Text>Ger förmågan att träna ytterligare en Spion.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_COLD_WAR_DESCRIPTION' Language='sv_SE'>			<Text>Ger förmågan att träna ytterligare en Spion.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_CULTURAL_HERITAGE_DESCRIPTION' Language='sv_SE'>			<Text>Belönar med 1 [ICON_Envoy] Sändebud. </Text>		</Replace>		<Replace Tag='LOC_CIVIC_RAPID_DEPLOYMENT_DESCRIPTION' Language='sv_SE'>			<Text>Tillåter enhetstransporter mellan Aerodromdistrikt som har en flygplats.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_GLOBALIZATION_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Gold] Guld för Plantager. Kan färdigställas flera gånger, ger dig på så sätt ytterligare poäng mot en Poängseger.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_SOCIAL_MEDIA_DESCRIPTION' Language='sv_SE'>			<Text>Kan färdigställas flera gånger, ger dig på så sätt ytterligare poäng mot en Poängseger.</Text>		</Replace>		<!-- Civic Boosts-->		<Replace Tag='LOC_BOOST_TRIGGER_CRAFTSMANSHIP' Language='sv_SE'>			<Text>Förbättra 3 rutor.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_FOREIGN_TRADE' Language='sv_SE'>			<Text>Upptäck en andra Kontinent.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MILITARY_TRADITION' Language='sv_SE'>			<Text>Töm ett Barbarläger.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_STATE_WORKFORCE' Language='sv_SE'>			<Text>Bygg ett Distrikt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_EARLY_EMPIRE' Language='sv_SE'>			<Text>Din civilisation ska ha minst 6 Befolkning.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MYSTICISM' Language='sv_SE'>			<Text>Grunda en pantheon.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_GAMES_RECREATION' Language='sv_SE'>			<Text>Utforska Konstruktion teknologin.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_POLITICAL_PHILOSOPHY' Language='sv_SE'>			<Text>Möt 3 stadsstater.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_DRAMA_POETRY' Language='sv_SE'>			<Text>Bygg ett Underverk.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MILITARY_TRAINING' Language='sv_SE'>			<Text>Bygg en Militärförläggning.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_DEFENSIVE_TACTICS' Language='sv_SE'>			<Text>Bonus ges om någon har deklarerat krig mot dig.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_RECORDED_HISTORY' Language='sv_SE'>			<Text>Bygg 2 Campus-distrikt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_THEOLOGY' Language='sv_SE'>			<Text>Grunda en Religion.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_NAVAL_TRADITION' Language='sv_SE'>			<Text>Döda en enhet med en Fyrroddare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_FEUDALISM' Language='sv_SE'>			<Text>Bygg 6 Bondgårdar.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CIVIL_SERVICE' Language='sv_SE'>			<Text>Ha en stad som nått 10 i befolkning.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MERCENARIES' Language='sv_SE'>			<Text>Ha 8 land stridsenheter in din armé.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MEDIEVAL_FAIRES' Language='sv_SE'>			<Text>Ha 4 Handelsrutter.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_GUILDS' Language='sv_SE'>			<Text>Bygg 2 Marknader.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_DIVINE_RIGHT' Language='sv_SE'>			<Text>Bygg 2 Tempel.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_EXPLORATION' Language='sv_SE'>			<Text>Bygg 2 Karaveller.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_HUMANISM' Language='sv_SE'>			<Text>Få en Stor Konstnär.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_DIPLOMATIC_SERVICE' Language='sv_SE'>			<Text>Ha en allians med en annan civilisation.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_REFORMED_CHURCH' Language='sv_SE'>			<Text>Ha 6 städer som följer din Religion.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MERCANTILISM' Language='sv_SE'>			<Text>Få en Stor Handelsman.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_THE_ENLIGHTENMENT' Language='sv_SE'>			<Text>Få 3 Stora Personer.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CIVIL_ENGINEERING' Language='sv_SE'>			<Text>Bygg 7 olika specialdistrikt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_NATIONALISM' Language='sv_SE'>			<Text>Förklara krig och använt ett Casus Belli.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_OPERA_BALLET' Language='sv_SE'>			<Text>Bygg ett Konstmuseum.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_COLONIALISM' Language='sv_SE'>			<Text>Utforska Astronomi.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_NATURAL_HISTORY' Language='sv_SE'>			<Text>Bygg ett Arkeologiskt Museum.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_URBANIZATION' Language='sv_SE'>			<Text>Låt en stad växa till en befolkning på 15.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SCORCHED_EARTH' Language='sv_SE'>			<Text>Bygg 2 Fältkanoner.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CONSERVATION' Language='sv_SE'>			<Text>Ha ett grannskapsdistrikt med Förtrollande Attraktionskraft.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MOBILIZATION' Language='sv_SE'>			<Text>Ha 3 Kårer i din armé.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_MASS_MEDIA' Language='sv_SE'>			<Text>Utforska Radio.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CAPITALISM' Language='sv_SE'>			<Text>Bygg 3 Börser.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_NUCLEAR_PROGRAM' Language='sv_SE'>			<Text>Bygg ett Forskning labb.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SUFFRAGE' Language='sv_SE'>			<Text>Bygg 4 Avlopp.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_TOTALITARIANISM' Language='sv_SE'>			<Text>Bygg 3 Militärakademier.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CLASS_STRUGGLE' Language='sv_SE'>			<Text>Bygg 3 Fabriker.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_COLD_WAR' Language='sv_SE'>			<Text>Utforska Kärnfission.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_PROFESSIONAL_SPORTS' Language='sv_SE'>			<Text>Bygg 4 Underhållningsdistrikt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_CULTURAL_HERITAGE' Language='sv_SE'>			<Text>Ha ett Museum med tema.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_RAPID_DEPLOYMENT' Language='sv_SE'>			<Text>Bygg en Aerodrom eller Landningsbana på en främmande kontinent.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SPACE_RACE' Language='sv_SE'>			<Text>Bygg ett Rymdhamnsdistrikt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_GLOBALIZATION' Language='sv_SE'>			<Text>Bygg 3 Flygplatser.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_SOCIAL_MEDIA' Language='sv_SE'>			<Text>Utforska Telekommunikation.</Text>		</Replace>		<!-- Civic Boosts Long Descriptions-->		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CRAFTSMANSHIP' Language='sv_SE'>			<Text>Nu när med marken runt din första stad har utvecklats bra, så kan vi kan finjustera våra produktionsmetoder.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_FOREIGN_TRADE' Language='sv_SE'>			<Text>Du har upptäckt en ny kontinent och inser du att det finns en hel värld av handelsmöjligheter.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRADITION' Language='sv_SE'>			<Text>Dina soldater hoppas att segern över ett Barbarläger är bara början på en lång rad av militära framgångar.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_STATE_WORKFORCE' Language='sv_SE'>			<Text>Vårt första distrikt är färdigt och har visat nyttan av att rekrytera arbetare för statliga projekt.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_EARLY_EMPIRE' Language='sv_SE'>			<Text>Det ökande antalet medborgare i ditt land drömmer nu om att ha ett imperium.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MYSTICISM' Language='sv_SE'>			<Text>Dyrkan av din pantheon av gudar har fört upp ytterligare frågor om andliga krafter i vår värld.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_GAMES_RECREATION' Language='sv_SE'>			<Text>Dina nya färdigheter i Konstruktion kommer säkert att bidra till att bygga mötesplatser för spel och underhållning.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_POLITICAL_PHILOSOPHY' Language='sv_SE'>			<Text>Din kontakt med andra stater har kristalliserat dina idéer på hur du styr ditt eget folk.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_DRAMA_POETRY' Language='sv_SE'>			<Text>Äran av att ha slutfört ett under har upplivat ditt folk. De skriver verk för att fira denna stora händelse.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MILITARY_TRAINING' Language='sv_SE'>			<Text>Med en Militärförläggning nu på plats, kan vi formalisera vår militärutbildning.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_DEFENSIVE_TACTICS' Language='sv_SE'>			<Text>Inför hotet om invasion, är ditt folk redo att konstruera uppfinningsrika försvarsmetoder.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_RECORDED_HISTORY' Language='sv_SE'>			<Text>Med planer på att hysa många rullar i biblioteken på ditt campus, börjar ditt folk skriva ner historien om ditt imperium.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_THEOLOGY' Language='sv_SE'>			<Text>Din stora profets grundande av en religion inspirerar till djupare tankar kring det gudomligas natur.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_NAVAL_TRADITION' Language='sv_SE'>			<Text>Din seger till sjöss inspirerar ditt folk att sträva efter att bli en supermakt till sjöss.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_FEUDALISM' Language='sv_SE'>			<Text>Ett system av lordar och vasaller håller på att  bildas för att styra all jordbruksmark i ditt rike.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CIVIL_SERVICE' Language='sv_SE'>			<Text>Dina storstadsområden kommer snart att kräva en kår av byråkrater.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MERCENARIES' Language='sv_SE'>			<Text>Med en sådan stor stående armé, kan du överväga att lägga till legosoldater  om din armé behöver expandera ytterligare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MEDIEVAL_FAIRES' Language='sv_SE'>			<Text>Ökningen av handel överallt i ditt rike kommer snart att locka till sig en mässa.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_GUILDS' Language='sv_SE'>			<Text>Framgången för dina kommersiella distrikt har drivit på tillväxten av handelsskrån.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_DIVINE_RIGHT' Language='sv_SE'>			<Text>Dina fromma människor tror starkt på att ditt styre är en välsignelse från det gudomliga.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_EXPLORATION' Language='sv_SE'>			<Text>De lärdomar som utforskning med Karaveller har lärt dig, har lett till ett nytt sätt att styra ditt folk.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_HUMANISM' Language='sv_SE'>			<Text>Inspiration från din nyligen förvärvade Stora Konstnär har gjort vårt folk medvetna om kraften i individen.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_DIPLOMATIC_SERVICE' Language='sv_SE'>			<Text>Uppdraget att bygga en allians har tränat upp din första kår av diplomater.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_REFORMED_CHURCH' Language='sv_SE'>			<Text>Tillväxten av din religion kommer med en risk för splittring. Reformationen av korrupta kyrkliga beteenden måste ske snart!</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MERCANTILISM' Language='sv_SE'>			<Text>Din nya Stora Handelsman delar sina idéer om hur vi kan få övertaget över våra ekonomiska konkurrenter.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_THE_ENLIGHTENMENT' Language='sv_SE'>			<Text>Idéerna från dina Stora Människor har inspirerat intellektuella diskussionen i hela landet.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_COLONIALISM' Language='sv_SE'>			<Text>Din nya kunskap om himlen hjälper din flotta navigera och upprätta ett globalt imperium.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CIVIL_ENGINEERING' Language='sv_SE'>			<Text>Genom att ha konstruerat så många typer av distrikt, så har dina ingenjörer blivit skickliga i stadskonstruktion.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_NATIONALISM' Language='sv_SE'>			<Text>Ditt folk tror på att detta krig är rättfärdigat. Det har blivit en fråga om nationell stolthet för oss!</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_OPERA_BALLET' Language='sv_SE'>			<Text>Avtäckningen av ett nytt museum drar människor till konsterna. Kanske dans och opera kommer härnäst?</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_NATURAL_HISTORY' Language='sv_SE'>			<Text>Med ett museum nu redo att hålla dina klenoder, är det dags att se vad du kan upptäcka uti i världen.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_URBANIZATION' Language='sv_SE'>			<Text>Din storstad håller på att bli överfull. Det är dags att börja planera för några förorter.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SCORCHED_EARTH' Language='sv_SE'>			<Text>Modern krigsföring är helt klart en brutal affär. Din militära doktrin börjar reflektera en del av dessa principer för totalt krig.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CONSERVATION' Language='sv_SE'>			<Text>Invånarna i din hisnande ny stadsdel har högljudda krav på en plan för att bevara alla världens naturskatter.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MASS_MEDIA' Language='sv_SE'>			<Text>Tillkomsten av radio lockar till starten av en ny era av kommunikation.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_MOBILIZATION' Language='sv_SE'>			<Text>Din militär har blivit bättre organiserad. Nu är det dags visa din makt på världsscenen.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CAPITALISM' Language='sv_SE'>			<Text>Med börser som växer upp i flera städer, finns det rikligt med investeringskapital och marknadsekonomi är redo att dyka upp.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_NUCLEAR_PROGRAM' Language='sv_SE'>			<Text>Med ett särskilt forskningslabb på plats, så kan ert initiativ att rekrytera forskare i ett kärnforskningsprogram påbörjas.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SUFFRAGE' Language='sv_SE'>			<Text>Kvinnorna i ditt imperium har krävt ordentlig sanitet. Efter att ha vunnit den kampen, behöver de nu få rätt att rösta.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_TOTALITARIANISM' Language='sv_SE'>			<Text>Disciplinen som ingjutits av dina militära akademier är nu en självklarhet för medborgare.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CLASS_STRUGGLE' Language='sv_SE'>			<Text>Dina fabriksarbetare kräver bättre arbetsförhållanden. Det är dags för arbetarna i världen att förenas!</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_COLD_WAR' Language='sv_SE'>			<Text>Tillkomsten av kärnvapen kommer säkert ändra karaktären på väpnade konflikter över hela världen.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_PROFESSIONAL_SPORTS' Language='sv_SE'>			<Text>Dina 4 städer med underhållningskomplex vill tävla i en ny professionell idrottsliga.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_CULTURAL_HERITAGE' Language='sv_SE'>			<Text>Med ett perfekt inspekterat och noggrant underhållit museum, visas ditt folks starka kulturarv upp på utställningar öppet för alla att ta del av.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_RAPID_DEPLOYMENT' Language='sv_SE'>			<Text>Med flygbaser som finns över hela världen, är vår militär redo att sättas in var som helst i världen på ett ögonblicks varsel.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SPACE_RACE' Language='sv_SE'>			<Text>Avtäckningen av den nya Rymdhamnen har upplivat ditt folk att utforska rymden.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_GLOBALIZATION' Language='sv_SE'>			<Text>Med så många flygplatser på plats, håller sannerligen världen på att bli en mindre plats.</Text>		</Replace>		<Replace Tag='LOC_BOOST_TRIGGER_LONGDESC_SOCIAL_MEDIA' Language='sv_SE'>			<Text>Dina framsteg inom kommunikationstekniken tillåter människor att samlas på nätet.</Text>		</Replace>		<!-- Governments -->		<Replace Tag='LOC_GOVERNMENT_OF' Language='sv_SE'>			<Text>Statsskick för {1_civ}</Text>		</Replace>		<Replace Tag='LOC_CHANGE_GOVERNMENT' Language='sv_SE'>			<Text>Byt Statsskick</Text>		</Replace>		<Replace Tag='LOC_MY_GOVERNMENT' Language='sv_SE'>			<Text>Mitt Statsskick</Text>		</Replace>		<Replace Tag='LOC_policIES' Language='sv_SE'>			<Text>politik</Text>		</Replace>		<Replace Tag='LOC_GOVERNMENTS' Language='sv_SE'>			<Text>Statsskick</Text>		</Replace>		<Replace Tag='LOC_CULTURE_PER_TURN' Language='sv_SE'>			<Text>Kultur per Omgång: +{1_Culture}</Text>		</Replace>		<Replace Tag='LOC_MILITARY' Language='sv_SE'>			<Text>Militär</Text>		</Replace>		<Replace Tag='LOC_ECONOMIC' Language='sv_SE'>			<Text>Ekonomisk</Text>		</Replace>		<Replace Tag='LOC_DIPLOMATIC' Language='sv_SE'>			<Text>Diplomatisk</Text>		</Replace>		<Replace Tag='LOC_WILDCARD' Language='sv_SE'>			<Text>Jokerkort</Text>		</Replace>		<Replace Tag='LOC_EMPTY_POLICY_SLOT' Language='sv_SE'>			<Text>Tom politikplats {1_policyType}</Text>		</Replace>		<Replace Tag='LOC_NO_AVAIL_policIES' Language='sv_SE'>			<Text>Ingen politik tillgänglig</Text>		</Replace>		<Replace Tag='LOC_VIEW_LOCKED_policIES' Language='sv_SE'>			<Text>Se Låst politik</Text>		</Replace>		<!-- Government Effects-->		<Replace Tag='LOC_GOVT_INHERENT_BONUS_CHIEFDOM' Language='sv_SE'>			<Text>Ingen Bonus.</Text>		</Replace>		<Replace Tag='LOC_GOVT_INHERENT_BONUS_AUTOCRACY' Language='sv_SE'>			<Text>Huvudstaden får +1 ökning av all avkastning.</Text>		</Replace>		<Replace Tag='LOC_GOVT_INHERENT_BONUS_OLIGARCHY' Language='sv_SE'>			<Text>Alla Närstridsenheter på Land får +4 [ICON_Strength] i Stridsstyrka.</Text>		</Replace>		<Replace Tag='LOC_GOVT_INHERENT_BONUS_CLASSREP' Language='sv_SE'>			<Text>Alla städer med ett distrikt får +1 [ICON_Amenities] Serviceinrättning.</Text>		</Replace>		<Replace Tag='LOC_GOVT_INHERENT_BONUS_MONARCHY' Language='sv_SE'>			<Text>+2 [ICON_Housing] Boenden i alla städer som har medeltida murar.</Text>		</Replace>		<Replace Tag='LOC_GOVT_INHERENT_BONUS_THEOCRACY' Language='sv_SE'>			<Text>Kan köpa land stridsenheter med Övertygelse. Alla enheter +5 [ICON_Religion] Religiös Styrka i teologiska strider.</Text>		</Replace>		<Replace Tag='LOC_GOVT_INHERENT_BONUS_MERCHREP' Language='sv_SE'>			<Text>+2 [ICON_TradeRoute] Handelsrutter.</Text>		</Replace>		<Replace Tag='LOC_GOVT_INHERENT_BONUS_FASCISM' Language='sv_SE'>			<Text>Alla stridsenheter får +4 [ICON_Strength] Stridsstyrka.</Text>		</Replace>		<Replace Tag='LOC_GOVT_INHERENT_BONUS_COMMUNISM' Language='sv_SE'>			<Text>Enheter på land får +4 [ICON_Strength] Försvarsstyrka.</Text>		</Replace>		<Replace Tag='LOC_GOVT_INHERENT_BONUS_DEMOCRACY' Language='sv_SE'>			<Text>Beskydd av stora Personer kostar 50% mindre Guld.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CHIEFDOM' Language='sv_SE'>			<Text>Ingen Bonus.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_BRIEF_AUTOCRACY' Language='sv_SE'>			<Text>Bonus gentemot Under produktion.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_BRIEF_OLIGARCHY' Language='sv_SE'>			<Text>Erfarenhet för stridsenheter.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_BRIEF_CLASSREP' Language='sv_SE'>			<Text>Bonus Stora Personer poäng.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MONARCHY' Language='sv_SE'>			<Text>Extra Inflytandepoäng.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_BRIEF_THEOCRACY' Language='sv_SE'>			<Text>Rabatt på köp med Övertygelse poäng.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_BRIEF_MERCHREP' Language='sv_SE'>			<Text>Rabatt på köp med Guld.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_BRIEF_FASCISM' Language='sv_SE'>			<Text>Bonus på enhets Produktion.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_BRIEF_COMMUNISM' Language='sv_SE'>			<Text>Bonus på all Produktion.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_BRIEF_DEMOCRACY' Language='sv_SE'>			<Text>Bonus avkastning från distrikt projekt.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_CHIEFDOM' Language='sv_SE'>			<Text>Ingen Bonus.</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_AUTOCRACY' Language='sv_SE'>			<Text>Bonus gentemot Under [ICON_Production] Produktion (10%, plus 1% för var 20de omgång på Standard hastighet).</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_OLIGARCHY' Language='sv_SE'>			<Text>Bonus stridserfarenhet för enheter (20%, plus 1% för var 5de omgång på Standard hastighet).</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_CLASSREP' Language='sv_SE'>			<Text>Bonus [ICON_GreatPerson] Stora personer poäng (15%, plus 1% för var 15de omgång på Standard hastighet).</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_MONARCHY' Language='sv_SE'>			<Text>Extra Inflytandepoäng gentemot [ICON_Envoy] Sändebud (20%, plus 1% för var 10de omgång på Standard hastighet).</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_THEOCRACY' Language='sv_SE'>			<Text>Rabatt på [ICON_Faith] Övertygelse köp (15%, plus 1% för var 15de omgång på Standard hastighet).</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_MERCHREP' Language='sv_SE'>			<Text>Discount on [ICON_Gold] Gold purchases (15%, plus 1% för var 15de omgång på Standard hastighet).</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_FASCISM' Language='sv_SE'>			<Text>Bonus to unit [ICON_Production] Produktion (20%, plus 1% för var 10de omgång på Standard hastighet).</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_COMMUNISM' Language='sv_SE'>			<Text>Bonus to all [ICON_Production] Produktion (10%, plus 1% för var 20de omgång på Standard hastighet).</Text>		</Replace>		<Replace Tag='LOC_GOVT_ACCUMULATED_BONUS_DEMOCRACY' Language='sv_SE'>			<Text>Bonus yields from district projects (30%, plus 1% for every 10 turns on Standard speed).</Text>		</Replace>		<Replace Tag='LOC_GOVT_POLICIES_NO_REMAINING_PLACED' Language='sv_SE'>			<Text>Ingen mer {1_policyName} kan tilldelas under detta statsskick.</Text>		</Replace>		<Replace Tag='LOC_GOVT_POLICIES_NO_TOTAL_PLACED' Language='sv_SE'>			<Text>Ingen {1_policyName} kan tilldelas under detta statsskick.</Text>		</Replace>		<Replace Tag='LOC_GOVT_POLICIES_REMAINING_PLACED' Language='sv_SE'>			<Text>Ytterligare {1_Num: number #} kort för {2_policyName} kan placeras ut här.</Text>		</Replace>		<Replace Tag='LOC_GOVT_POLICIES_TOTAL_PLACED' Language='sv_SE'>			<Text>{1_Num: number #} {1_Num : plural 1?politikkort; other?politikkort;} kan placeras på {2_policyName} område.</Text>		</Replace>		<Replace Tag='LOC_GOVT_INFLUENCE_POINTS_TOWARDS_ENVOYS' Language='sv_SE'>			<Text>Du får {1_InfluencePointRate} Inflytandepoäng per [ICON_Turn] Omgång. Vid {2_InfluencePointThreshold} poäng får du {3_EnvoysPerThreshold} [ICON_Envoy] Sändebud.</Text>		</Replace>		<!-- Policy Descriptions-->		<Replace Tag='LOC_POLICY_PLACEHOLDER_DESC' Language='sv_SE'>			<Text>Platshållare.</Text>		</Replace>		<Replace Tag='LOC_POLICY_AESTHETICS_DESCRIPTION' Language='sv_SE'>			<Text>+100% Teaterskådeplats distrikt närhetsbonusar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_AGOGE_DESCRIPTION' Language='sv_SE'>			<Text>+50% [ICON_Production] Produktion gentemot Antika epokens och Järnålderns närstridsenheter och enheter med lång räckvidd.</Text>		</Replace>		<Replace Tag='LOC_POLICY_ARSENAL_OF_DEMOCRACY_DESCRIPTION' Language='sv_SE'>			<Text>Dina [ICON_TradeRoute] Handelsrutter till en Allierads städer ger +2 [ICON_Food] Mat och +2 [ICON_Production] Produktion för båda städerna.</Text>		</Replace>		<Replace Tag='LOC_POLICY_BASTIONS_DESCRIPTION' Language='sv_SE'>			<Text>+6 Stadsförsvaret [ICON_Strength] Försvarsstyrka. +5 Stads [ICON_Ranged] räckvidds styrka.</Text>		</Replace>		<Replace Tag='LOC_POLICY_CARAVANSARIES_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_Gold] Guld från alla [ICON_TradeRoute] Handelsrutter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_CHARISMATIC_LEADER_DESCRIPTION' Language='sv_SE'>			<Text>+2 Inflytandepoäng per omgång gentemot förtjänande av stadsstater [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_POLICY_CHIVALRY_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Production] Produktion gentemot Medeltida, Renässans, and Industrialism tunga och lätta kavellerienheter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_COLLECTIVE_ACTIVISM_DESCRIPTION' Language='sv_SE'>			<Text>+10% [ICON_Culture] Kultur per stadsstat som du är länsherre över.</Text>		</Replace>		<Replace Tag='LOC_POLICY_COLLECTIVIZATION_DESCRIPTION' Language='sv_SE'>			<Text>+4 [ICON_Food] Mat från inhemska [ICON_TradeRoute] Handelsrutter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_COLONIAL_OFFICES_DESCRIPTION' Language='sv_SE'>			<Text>+15% snabbare tillväxt för städer som inte är på den [ICON_Capital] Huvudstads kontinent.</Text>		</Replace>		<Replace Tag='LOC_POLICY_COLONIAL_TAXES_DESCRIPTION' Language='sv_SE'>			<Text>+25% [ICON_Gold] Guld i städer som inte är på din ursprungliga [ICON_Capital] Huvudstads kontinent.</Text>		</Replace>		<Replace Tag='LOC_POLICY_COLONIZATION_DESCRIPTION' Language='sv_SE'>			<Text>+50% [ICON_Production] Produktion gentemot Nybyggare.</Text>		</Replace>		<Replace Tag='LOC_POLICY_CONSCRIPTION_DESCRIPTION' Language='sv_SE'>			<Text>Underhåll för enheter minskar med 1 [ICON_Gold] Guld per omgång, per enhet.</Text>		</Replace>		<Replace Tag='LOC_POLICY_CONTAINMENT_DESCRIPTION' Language='sv_SE'>			<Text>Varje [ICON_Envoy] Sändebud som du skickar till en stadsstat räknas som två, om dess länsherre har ett annat statsskick än dig.</Text>		</Replace>		<Replace Tag='LOC_POLICY_CORVEE_DESCRIPTION' Language='sv_SE'>			<Text>+15% [ICON_Production] Produktion gentemot Antika och Järnålderns under.</Text>		</Replace>		<Replace Tag='LOC_POLICY_CRAFTSMEN_DESCRIPTION' Language='sv_SE'>			<Text>100% Industriella Distrikt närhetsbonusar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_CRYPTOGRAPHY_DESCRIPTION' Language='sv_SE'>			<Text>Fiende spioner får minskad nivå med 2 i ditt land. Din Spions nivå ökar med 1 på offensiva uppdrag.</Text>		</Replace>		<Replace Tag='LOC_POLICY_DEFENSE_OF_MOTHERLAND_DESCRIPTION' Language='sv_SE'>			<Text>Ingen krigströtthet från strid i ditt territorium.</Text>		</Replace>		<Replace Tag='LOC_POLICY_DIPLOMATIC_LEAGUE_DESCRIPTION' Language='sv_SE'>			<Text>Det första [ICON_Envoy] Sändebudet som du skickar till en stadsstat räknas som två [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_POLICY_DISCIPLINE_DESCRIPTION' Language='sv_SE'>			<Text>+5 [ICON_Strength] Stridsstyrka för enheter när de kämpar mot Barbarer.</Text>		</Replace>		<Replace Tag='LOC_POLICY_ECOMMERCE_DESCRIPTION' Language='sv_SE'>			<Text>+5 [ICON_Production] Produktion och +10 [ICON_Gold] Guld från internationella [ICON_TradeRoute] Handelsrutter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_ECONOMIC_UNION_DESCRIPTION' Language='sv_SE'>			<Text>+100% Handels-Centra och Hamn distrikt närhetsbonusar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_EXPROPRIATION_DESCRIPTION' Language='sv_SE'>			<Text>Minskar kostnaden för Nybyggare med 50%. Kostnader för markköp minskar med 20%.</Text>		</Replace>		<Replace Tag='LOC_POLICY_FEUDAL_CONTRACT_DESCRIPTION' Language='sv_SE'>			<Text>+50% [ICON_Production] Produktion gentemot Medeltida och Renässans epokens närstridsenheter och lång räckviddsenheter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_FINEST_HOUR_DESCRIPTION' Language='sv_SE'>			<Text>+50% [ICON_Production] Produktion gentemot Modernitetens och Atomålderns luftenheter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION' Language='sv_SE'>			<Text>+100% Campus och Industriella distrikt närhetsbonusar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_FREE_MARKET_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Gold] Guld avkastning från Kommersiella Centrum byggnader.</Text>		</Replace>		<Replace Tag='LOC_POLICY_FRESCOES_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_GreatArtist] Stora Konstnärer poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_GOD_KING_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Faith] Övertygelse och +1 [ICON_Gold] Guld i [ICON_Capital] Huvudstaden.</Text>		</Replace>		<Replace Tag='LOC_POLICY_GOTHIC_ARCHITECTURE_DESCRIPTION' Language='sv_SE'>			<Text>+15% [ICON_Production] Produktion gentemot Medeltida och Renässans under.</Text>		</Replace>		<Replace Tag='LOC_POLICY_GRANDE_ARMEE_DESCRIPTION' Language='sv_SE'>			<Text>+50% [ICON_Production] Produktion gentemot Industriella epokens och Modernitetens närstridsenheter och lång räckviddsenheter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_GRAND_OPERA_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Culture] Kultur avkastning från Teaterskådeplats distriktets byggnader.</Text>		</Replace>		<Replace Tag='LOC_POLICY_GUNBOAT_DIPLOMACY_DESCRIPTION' Language='sv_SE'>			<Text>Öppna gränser med alla stadsstater och +4 inflytandepoäng per omgång gentemot [ICON_Envoy] Sändebud.</Text>		</Replace>		<Replace Tag='LOC_POLICY_HERITAGE_TOURISM_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Tourism] Turism från [ICON_GreatWork_Landscape] Stora verk och [ICON_GreatWork_Artifact] Artefakter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_ILKUM_DESCRIPTION' Language='sv_SE'>			<Text>+30% [ICON_Production] Produktion gentemot Byggare.</Text>		</Replace>		<Replace Tag='LOC_POLICY_INSPIRATION_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_GreatScientist] Stor vetenskapsman poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_INSULAE_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Housing] Boenden i alla städer med minst 2 specialdistrikt.</Text>		</Replace>		<Replace Tag='LOC_POLICY_INTEGRATED_SPACE_CELL_DESCRIPTION' Language='sv_SE'>			<Text>+15% [ICON_Production] Produktion gentemot Rymdhamn projekt om en stad har antinget har Militärakademin eller en Sjöstad.</Text>		</Replace>		<Replace Tag='LOC_POLICY_INTERNATIONAL_SPACE_AGENCY_DESCRIPTION' Language='sv_SE'>			<Text>+10% [ICON_Science] Vetenskap per stadsstat som du är länsherre över.</Text>		</Replace>		<Replace Tag='LOC_POLICY_INTERNATIONAL_WATERS_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Production] Produktion gentemot Modernitetens, Atomålderns, and Informationsåldern marina enheter, förutom Hangarfartyg.</Text>		</Replace>		<Replace Tag='LOC_POLICY_INVENTION_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_GreatEngineer] Stora Ingenjörer poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_LAISSEZ_FAIRE_DESCRIPTION' Language='sv_SE'>			<Text>+4 [ICON_GreatMerchant] Stora Handelsmän poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_LAND_SURVEYORS_DESCRIPTION' Language='sv_SE'>			<Text>Minskar kostnaden för att köpa rutor med 20%.</Text>		</Replace>		<Replace Tag='LOC_POLICY_LEVEE_EN_MASSE_DESCRIPTION' Language='sv_SE'>			<Text>Underhåll för enheter minskar med 2 [ICON_Gold] Guld per omgång, per enhet.</Text>		</Replace>		<Replace Tag='LOC_POLICY_LIBERALISM_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Amenities] Serviceinrättning till alla städer med åtminstone 2 specialdistrikt.</Text>		</Replace>		<Replace Tag='LOC_POLICY_LIGHTNING_WARFARE_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Production] Produktion för tunga och lätta kavellerienheter ur Moderniteten, Atomåldern, och Informationsåldern.</Text>		</Replace>		<Replace Tag='LOC_POLICY_LIMES_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Production] Produktion mot defensiva byggnader.</Text>		</Replace>		<Replace Tag='LOC_POLICY_LITERARY_TRADITION_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_GreatWriter] Stora författare poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_LOGISTICS_DESCRIPTION' Language='sv_SE'>			<Text>+1 Förflyttning om börjar i vänskapligt territorium.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MACHIAVELLIANISM_DESCRIPTION' Language='sv_SE'>			<Text>+50% [ICON_Production] Produktion mot Spioner. Spion uppdrag tar 25% mindre tid.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MANEUVER_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Production] Produktion mot Antika och Järnålderns tunga och lätta kavellerienheter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Production] Produktion mot Antika och Järnålderns marina enheter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MARKET_ECONOMY_DESCRIPTION' Language='sv_SE'>			<Text>Dina internationella [ICON_TradeRoute] Handelsrutter ger +1 [ICON_Gold] Guld per Lyx och Strategisk resurs som är förbättrad vid destinationen, såväl +2 [ICON_Culture] Kultur och +2 [ICON_Science] Vetenskap.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MARTIAL_LAW_DESCRIPTION' Language='sv_SE'>			<Text>Ackumulerara 25% mindre krigströtthet än vanligt.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MEDINA_QUARTER_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_Housing] Boenden i alla städer med minst 3 specialdistrikt.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MERCHANT_CONFEDERATION_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Gold] Guld från varje [ICON_Envoy] Sändebud som du har till stadsstater.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MERITOCRACY_DESCRIPTION' Language='sv_SE'>			<Text>Varje stad får +1 [ICON_Culture] Kultur för varje distrikt som den bygger.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MILITARY_FIRST_DESCRIPTION' Language='sv_SE'>			<Text>+50% [ICON_Production] Produktion mot Atomålderns och Informationsålderns närstrids och lång räckviddsenheter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MILITARY_ORGANIZATION_DESCRIPTION' Language='sv_SE'>			<Text>+4 [ICON_GreatGeneral] Stor General poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_MILITARY_RESEARCH_DESCRIPTION' Language='sv_SE'>			<Text>Militärakademier och Sjöstäder ger +1 [ICON_Science] Vetenskap.</Text>		</Replace>		<Replace Tag='LOC_POLICY_NATIONAL_IDENTITY_DESCRIPTION' Language='sv_SE'>			<Text>Enheter har 50% mindre [ICON_Strength] minskning i Stridsstyrka från att vara skadad.</Text>		</Replace>		<Replace Tag='LOC_POLICY_NATIVE_CONQUEST_DESCRIPTION' Language='sv_SE'>			<Text>Stridsvinster mot enheter från en tidigare epok ger [ICON_Gold] Guld motsvarande 50% av [ICON_Strength] Stridsstyrkan av den besegrade enheten.</Text>		</Replace>		<Replace Tag='LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION' Language='sv_SE'>			<Text>+100% Campus distrikt närhetsbonusar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_NAVAL_INFRASTRUCTURE_DESCRIPTION' Language='sv_SE'>			<Text>+100% Hamn distrikt närhetsbonusar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_NAVIGATION_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_GreatAdmiral] Stora Amiral poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_NEW_DEAL_DESCRIPTION' Language='sv_SE'>			<Text>+4 [ICON_Housing] Boenden, +2 [ICON_Amenities] Serviceinrättningar, -8 [ICON_Gold] Guld till alla städer med minst 3 specialdistrikt.</Text>		</Replace>		<Replace Tag='LOC_POLICY_NOBEL_PRIZE_DESCRIPTION' Language='sv_SE'>			<Text>+4 [ICON_GreatScientist] Stora Vetenskapsmän poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_NUCLEAR_ESPIONAGE_DESCRIPTION' Language='sv_SE'>			<Text>Spioner som stjäl ett vetenskapslyft utan att bli upptäckta får ett extra lyft.</Text>		</Replace>		<Replace Tag='LOC_POLICY_ONLINE_COMMUNITIES_DESCRIPTION' Language='sv_SE'>			<Text>+50% [ICON_Tourism] Turism uteffekt till alla civilisationer som du har en [ICON_TradeRoute] Handelsrutt.</Text>		</Replace>		<Replace Tag='LOC_POLICY_PATRIOTIC_WAR_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Production] Produktion för Modern, Atom och informationåldern supportenheter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_POLICE_STATE_DESCRIPTION' Language='sv_SE'>			<Text>Fiende spioner nivå minskad med 2 i ditt land. Emellertid alla städer får en minskning med -1 [ICON_Amenities] Serviceinrättningar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_PRESS_GANGS_DESCRIPTION' Language='sv_SE'>			<Text>100% [ICON_Production] Produktion mot Renässansen och Industriella epokens sjöfartsenheter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_PROFESSIONAL_ARMY_DESCRIPTION' Language='sv_SE'>			<Text>50% rabatt på alla enheters uppgraderingskostnad.</Text>		</Replace>		<Replace Tag='LOC_POLICY_PROPAGANDA_DESCRIPTION' Language='sv_SE'>			<Text>Ackumulerara 25% mindre krigströtthet än normalt.</Text>		</Replace>		<Replace Tag='LOC_POLICY_PUBLIC_TRANSPORT_DESCRIPTION' Language='sv_SE'>			<Text>Få 50 [ICON_Gold] Guld för rutans attraktionskraft när man ersätter Bondgård med ett Grannskap distrikt.</Text>		</Replace>		<Replace Tag='LOC_POLICY_PUBLIC_WORKS_DESCRIPTION' Language='sv_SE'>			<Text>+30% [ICON_Production] Produktion mot Byggare, och nytränande Byggare får 2 extra bygghandlingar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_RAJ_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_Science] Vetenskap, [ICON_Culture] Kultur, [ICON_Faith] Övertygelse, och [ICON_Gold] Guld från varje stadsstat du är Suzerän till.</Text>		</Replace>		<Replace Tag='LOC_POLICY_RAID_DESCRIPTION' Language='sv_SE'>			<Text>Byten man får genom plundring dubbleras för plundringsförbättringar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_RATIONALISM_DESCRIPTION' Language='sv_SE'>			<Text>+100% [ICON_Science] Vetenskap från Campus-distrikt byggnader.</Text>		</Replace>		<Replace Tag='LOC_POLICY_RELIGIOUS_ORDERS_DESCRIPTION' Language='sv_SE'>			<Text>All religiösa enheter +5 [ICON_Religion] Religiös styrka i teologiska strider.</Text>		</Replace>		<Replace Tag='LOC_POLICY_RESOURCE_MANAGEMENT_DESCRIPTION' Language='sv_SE'>			<Text>1 upplaga av strategiska resurser tillåter dig att producera och köpa enheter som kräver det i vilken stad som helst.</Text>		</Replace>		<Replace Tag='LOC_POLICY_RETAINERS_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Amenities] Serviceinrättningar för städer med enheter förlagda i garnison.</Text>		</Replace>		<Replace Tag='LOC_POLICY_REVELATION_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_GreatProphet] Stora Profet poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_SACK_DESCRIPTION' Language='sv_SE'>			<Text>Byten som man får från plundring dubbleras av att plundar distrikt.</Text>		</Replace>		<Replace Tag='LOC_POLICY_SATELLITE_BROADCASTS_DESCRIPTION' Language='sv_SE'>			<Text>Tredubblar [ICON_Tourism] Turism från [ICON_GreatWork_Music] Stora Mästerverk i Musik.</Text>		</Replace>		<Replace Tag='LOC_POLICY_SCRIPTURE_DESCRIPTION' Language='sv_SE'>			<Text>+100% Helig Plats närhetsbonusar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_SERFDOM_DESCRIPTION' Language='sv_SE'>			<Text>Nyträndade Byggare får 2 extra bygghandlingar.</Text>		</Replace>		<Replace Tag='LOC_POLICY_SIMULTANEUM_DESCRIPTION' Language='sv_SE'>			<Text>Dubblerar [ICON_Faith] Övertygelse utbytet från Helig plats distriktets byggnader.</Text>		</Replace>		<Replace Tag='LOC_POLICY_SKYSCRAPERS_DESCRIPTION' Language='sv_SE'>			<Text>+15% [ICON_Production] Produktion mot Industriella epok och senare under.</Text>		</Replace>		<Replace Tag='LOC_POLICY_SPORTS_MEDIA_DESCRIPTION' Language='sv_SE'>			<Text>+100% Teaterskådeplats distriktet närhetsbonusar, och Stadion genererar +1 [ICON_Amenities] Serviceinrättning.</Text>		</Replace>		<Replace Tag='LOC_POLICY_STRATEGIC_AIR_FORCE_DESCRIPTION' Language='sv_SE'>			<Text>+50 [ICON_Production] Produktion mot Informationsålderns luftenheter, och mot alla hangarfartyg .</Text>		</Replace>		<Replace Tag='LOC_POLICY_STRATEGOS_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_GreatGeneral] Stora general poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_SURVEY_DESCRIPTION' Language='sv_SE'>			<Text>Dubbel erfarenhet för rekognoscerings-enheter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_SYMPHONIES_DESCRIPTION' Language='sv_SE'>			<Text>+4 [ICON_GreatMusician] Stora Musiker poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_THIRD_ALTERNATIVE_DESCRIPTION' Language='sv_SE'>			<Text>+4 [ICON_Gold] Guld från varje Forsknings labb, Militär akademi, och Kraftverk.</Text>		</Replace>		<Replace Tag='LOC_POLICY_TOTAL_WAR_DESCRIPTION' Language='sv_SE'>			<Text>Byten som man får från plundring dubbleras.</Text>		</Replace>		<Replace Tag='LOC_POLICY_TOWN_CHARTERS_DESCRIPTION' Language='sv_SE'>			<Text>+100% Kommersiellt Centrum distrikt bonus.</Text>		</Replace>		<Replace Tag='LOC_POLICY_TRADE_CONFEDERATION_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Culture] Kulture och +1 [ICON_Science] Vetenskap från internationella [ICON_TradeRoute] Handelsrutter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_TRAVELING_MERCHANTS_DESCRIPTION' Language='sv_SE'>			<Text>+2 [ICON_GreatMerchant] Stora Handelsman poäng per omgång.</Text>		</Replace>		<Replace Tag='LOC_POLICY_TRIANGULAR_TRADE_DESCRIPTION' Language='sv_SE'>			<Text>+4 [ICON_Gold] Guld och +1 [ICON_Faith] Övertygelse från alla [ICON_TradeRoute] Handelsrutter.</Text>		</Replace>		<Replace Tag='LOC_POLICY_URBAN_PLANNING_DESCRIPTION' Language='sv_SE'>			<Text>+1 [ICON_Production] Produktion i alla städer.</Text>		</Replace>		<Replace Tag='LOC_POLICY_VETERANCY_DESCRIPTION' Language='sv_SE'>			<Text>+30% [ICON_Production] Produktion mot Militärförläggningsdistrikt och byggnader för det distriktet.</Text>		</Replace>		<Replace Tag='LOC_POLICY_WARS_OF_RELIGION_DESCRIPTION' Language='sv_SE'>			<Text>+4 [ICON_Strength] Stridsstyrka när krigar mot civilisationer som har en annan religion.</Text>		</Replace>		<!-- Preview Text -->		<Replace Tag='LOC_GOVT_OLIGARCHY_COMBAT_BONUS_DESCRIPTION' Language='sv_SE'>			<Text>+4 Oligarki bonus</Text>		</Replace>		<!-- Temporary UI -->		<Replace Tag='LOC_CIVIC_STARTED' Language='sv_SE'>			<Text>Utveckling mot: {1_CivicName}</Text>		</Replace>		<Replace Tag='LOC_CIVIC_COMPLETE' Language='sv_SE'>			<Text>Politik färdig: {1_CivicName}</Text>		</Replace>		<Replace Tag='LOC_CIVIC_FUTURE_CIVIC_DESCRIPTION' Language='sv_SE'>			<Text>Can be completed multiple times, increasing your points towards the Score Victory.</Text>		</Replace>		<Replace Tag='LOC_CIVIC_ENVOY_AWARDED_TOOLTIP' Language='sv_SE'>			<Text>Awards {1_NumOfEnvoys} [ICON_Envoy] {1_NumOfEnvoys : plural 1?Envoy; other?Envoys;}</Text>		</Replace>	</LocalizedText></GameData>
