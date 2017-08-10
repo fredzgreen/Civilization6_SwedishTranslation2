@@ -1,791 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<GameData>
-  <LocalizedText>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_BASE_TEMPLATE">
-      <Text>{1_Prefix} {2_Suffix}</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_RANDOMIZE_BUTTON_TEXT">
-      <Text>Randomize</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_CHOOSE_NAME">
-      <Text>Choose a title for this unit:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_CONFIRM">
-      <Text>Confirm Name</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_RANDOM_FIRST">
-      <Text>Randomize First Name</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_RANDOM_SECOND">
-      <Text>Randomize Second Name</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_1ST">
-      <Text>The 1st</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_2ND">
-      <Text>The 2nd</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_3RD">
-      <Text>The 3rd</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_4TH">
-      <Text>The 4th</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_AIMED">
-      <Text>The Aimed</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_ALPHA">
-      <Text>The Alpha</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_ALPINE">
-      <Text>The Alpine</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_ANGEL">
-      <Text>The Angel</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_ARMORED">
-      <Text>The Armored</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_BIG_RED">
-      <Text>The Red</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_BLACK">
-      <Text>The Black</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_BLOOD">
-      <Text>The Blood</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_BLOODY">
-      <Text>The Bloody</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_BRAVE">
-      <Text>The Brave</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_BULL">
-      <Text>The Bull</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_CELESTIAL">
-      <Text>The Celestial</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_COLONIAL">
-      <Text>The Colonial</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_CRAZY">
-      <Text>The Crazy</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_DEAD_CENTER">
-      <Text>The Center</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_DEADLY">
-      <Text>The Deadly</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_DEATHS">
-      <Text>The Death's</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_DELTA">
-      <Text>The Delta</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_DESERT">
-      <Text>The Desert</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_DIRTY">
-      <Text>The Dirty</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_DRAGON">
-      <Text>The Dragon</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_DRAWN">
-      <Text>The Drawn</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_ELITE">
-      <Text>The Elite</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_FIGHTING">
-      <Text>The Fighting</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_FLYING">
-      <Text>The Flying</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_GALLOPING">
-      <Text>The Galloping</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_GHOST">
-      <Text>The Ghost</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_GLORY">
-      <Text>The Glory</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_GOLDEN">
-      <Text>The Golden</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_GREAT">
-      <Text>The Great</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_GREEN">
-      <Text>The Green</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_GRIM">
-      <Text>The Grim</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_HADES">
-      <Text>The Hades</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_HELLISH">
-      <Text>The Hellish</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_HELLS">
-      <Text>The Hells</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_HOLY">
-      <Text>The Holy</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_INVINCIBLE">
-      <Text>The Invincible</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_IRON">
-      <Text>The Iron</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_JUNGLE">
-      <Text>The Jungle</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_KINGS">
-      <Text>The King's</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_LAVA">
-      <Text>The Lava</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_LIGHT">
-      <Text>The Light</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_LIGHTNING">
-      <Text>The Lightning</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_LION">
-      <Text>The Lion</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_LONG">
-      <Text>The Long</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_MAGNIFICENT">
-      <Text>The Magnificent</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_MOUNTAIN">
-      <Text>The Mountain</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_MOUNTED">
-      <Text>The Mounted</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_NOMADIC">
-      <Text>The Nomadic</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_OLD">
-      <Text>The Old</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_ORPHAN">
-      <Text>The Orphan</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_PARTISAN">
-      <Text>The Partisan</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_PRESIDENTS">
-      <Text>The President's</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_QUEENS">
-      <Text>The Queen's</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_RAGGED">
-      <Text>The Ragged</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_RAINING">
-      <Text>The Raining</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_REVOLUTIONARY">
-      <Text>The Revolutionary</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_RIVER">
-      <Text>The River</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_ROCK">
-      <Text>The Rock</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_ROYAL">
-      <Text>The Royal</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_SACRED">
-      <Text>The Sacred</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_SALTY">
-      <Text>The Salty</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_SCREAMING">
-      <Text>The Screaming</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_SEA">
-      <Text>The Sea</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_SHARP">
-      <Text>The Sharp</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_SILENT">
-      <Text>The Silent</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_SOARING">
-      <Text>The Soaring</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_STONE">
-      <Text>The Stone</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_STONEWALL">
-      <Text>The Stonewall</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_STORM">
-      <Text>The Storm</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_TALL">
-      <Text>The Tall</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_TEN">
-      <Text>The Ten</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_TERRIBLE">
-      <Text>The Terrible</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_THUNDERING">
-      <Text>The Thundering</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_TIMBER">
-      <Text>The Timber</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_TROPIC">
-      <Text>The Tropic</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_TUNDRA">
-      <Text>The Tundra</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_WALKING">
-      <Text>The Walking</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_WAR">
-      <Text>The War</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_WHITE">
-      <Text>The White</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_WILD">
-      <Text>The Wild</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_PREFIX_WINDING">
-      <Text>The Winding</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_ARTISTS">
-      <Text>Artists</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BANNER">
-      <Text>Banner</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BASTARDS">
-      <Text>Bastards</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BATTALION">
-      <Text>Battalion</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BERETS">
-      <Text>Berets</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BODYGUARDS">
-      <Text>Bodyguards</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BOOTS">
-      <Text>Boots</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BOYS">
-      <Text>Boys</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BRAVES">
-      <Text>Braves</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BRIGADE">
-      <Text>Brigade</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BROTHERS">
-      <Text>Brothers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BUTCHERS">
-      <Text>Butchers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_CAPS">
-      <Text>Caps</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_CHAMPIONS">
-      <Text>Champions</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_CIRCUS">
-      <Text>Circus</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_COMPANY">
-      <Text>Company</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_COMRADES">
-      <Text>Comrades</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_CROSSES">
-      <Text>Crosses</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_CROWS">
-      <Text>Crows</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_DEAD">
-      <Text>Dead</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_DEMONS">
-      <Text>Demons</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_DEVILS">
-      <Text>Devils</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_DOGS">
-      <Text>Dogs</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_DOZEN">
-      <Text>Dozen</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_DRAGONS">
-      <Text>Dragons</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_EAGLES">
-      <Text>Eagles</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_EXCELLERS">
-      <Text>Excellers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_FORCE">
-      <Text>Force</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_FUSILIERS">
-      <Text>Fusiliers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GAMBLERS">
-      <Text>Gamblers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GANG">
-      <Text>Gang</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GARDE">
-      <Text>Garde</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GIANTS">
-      <Text>Giants</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GOONS">
-      <Text>Goons</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GRENADIERS">
-      <Text>Grenadiers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GUARD">
-      <Text>Guard</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GUARDIANS">
-      <Text>Guardians</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HATS">
-      <Text>Hats</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HELMETS">
-      <Text>Helmets</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HORDE">
-      <Text>Horde</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HOUNDS">
-      <Text>Hounds</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HUNTERS">
-      <Text>Hunters</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_IMMORTALS">
-      <Text>Immortals</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_INFANTRY">
-      <Text>Infantry</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_IRONS">
-      <Text>Irons</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_KILLERS">
-      <Text>Killers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_KINGS">
-      <Text>Kings</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_LADS">
-      <Text>Lads</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_LAMBS">
-      <Text>Lambs</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_LEGION">
-      <Text>Legion</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_LIBERATORS">
-      <Text>Liberators</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_LINE">
-      <Text>Line</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_LIONS">
-      <Text>Lions</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_MARTYRS">
-      <Text>Martyrs</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_ONE">
-      <Text>Ones</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_OWN">
-      <Text>Own</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_PANTHERS">
-      <Text>Panthers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_PEACEMAKERS">
-      <Text>Peacemakers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_PHANTOMS">
-      <Text>Phantoms</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_PROFESSIONALS">
-      <Text>Professionals</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_RAIDERS">
-      <Text>Raiders</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_RAMPAGERS">
-      <Text>Rampagers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_REDS">
-      <Text>Reds</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_REGIMENT">
-      <Text>Regiment</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_RELIABLES">
-      <Text>Reliables</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SAINTS">
-      <Text>Saints</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SAVAGES">
-      <Text>Savages</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SEEKERS">
-      <Text>Seekers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SHIELDS">
-      <Text>Shields</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SHIRTS">
-      <Text>Shirts</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SONS">
-      <Text>Sons</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_TIGERS">
-      <Text>Tigers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_TIMBERWOLVES">
-      <Text>Timberwolves</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_TOUGHS">
-      <Text>Toughs</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_TROOP">
-      <Text>Troop</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_VOLUNTEERS">
-      <Text>Volunteers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_WARLORDS">
-      <Text>Warlords</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_WATCH">
-      <Text>Watch</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_WIDOWMAKERS">
-      <Text>Widowmakers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_WOLFHOUNDS">
-      <Text>Wolfhounds</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_WOLVES">
-      <Text>Wolves</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_APES">
-      <Text>Apes</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BLADES">
-      <Text>Blades</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_COMMANDOS">
-      <Text>Commandos</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_EYES">
-      <Text>Eyes</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_JACKETS">
-      <Text>Jackets</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_KNIVES">
-      <Text>Knives</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_MARAUDERS">
-      <Text>Marauders</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_NOMADS">
-      <Text>Nomads</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_OUTLAWS">
-      <Text>Outlaws</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_PATHFINDERS">
-      <Text>Pathfinders</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_RANGERS">
-      <Text>Rangers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_RECON">
-      <Text>Recon</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_RUNNERS">
-      <Text>Runners</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SCOUTS">
-      <Text>Scouts</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SNAKES">
-      <Text>Snakes</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_WANDERERS">
-      <Text>Wanderers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_ARROWS">
-      <Text>Arrows</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_ARTILLERY">
-      <Text>Artillery</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BATTERY">
-      <Text>Battery</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BLAZERS">
-      <Text>Blazers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BOMBARDIERS">
-      <Text>Bombardiers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BOWS">
-      <Text>Bows</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_DEATH">
-      <Text>Death</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_FIRE_BREATHERS">
-      <Text>Breathers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GUNNERS">
-      <Text>Gunners</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_KNOCKERS">
-      <Text>Knockers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_MARKSMEN">
-      <Text>Marksmen</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_RAIN">
-      <Text>Rain</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SHARPS">
-      <Text>Sharps</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SHARPSHOOTERS">
-      <Text>Sharpshooters</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SLINGERS">
-      <Text>Slingers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SNIPERS">
-      <Text>Snipers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_STRIKERS">
-      <Text>Strikers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_DRAGOONS">
-      <Text>Dragoons</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_FEATHERS">
-      <Text>Feathers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_FOXES">
-      <Text>Foxes</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HAMMER">
-      <Text>Hammer</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HORSE">
-      <Text>Horse</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HORSEMEN">
-      <Text>Horsemen</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HUSSARS">
-      <Text>Hussars</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_KNIGHTS">
-      <Text>Knights</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_KORPS">
-      <Text>Korps</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_LANCERS">
-      <Text>Lancers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_PONIES">
-      <Text>Ponies</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_RIDERS">
-      <Text>Riders</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_STEEDS">
-      <Text>Steeds</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_VANGUARD">
-      <Text>Vanguard</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_WARHORSES">
-      <Text>Warhorses</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_ARMADA">
-      <Text>Armada</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BOUNTY">
-      <Text>Bounty</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BUCCANEERS">
-      <Text>Buccaneers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_CONQUEROR">
-      <Text>Conqueror</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_DREADNOUGHT">
-      <Text>Dreadnought</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_EEL">
-      <Text>Eel</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_ENDEAVOR">
-      <Text>Endeavor</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_FLAGSHIP">
-      <Text>Flagship</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_FLOTILLA">
-      <Text>Flotilla</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_INTREPID">
-      <Text>Intrepid</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_INVINCIBLE">
-      <Text>Invincible</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_IRONSIDES">
-      <Text>Ironsides</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_NARWHAL">
-      <Text>Narwhal</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_ORCA">
-      <Text>Orca</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_REDOUBTABLE">
-      <Text>Redoubtable</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_RESOLUTION">
-      <Text>Resolution</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_REVENGE">
-      <Text>Revenge</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SEAWOLVES">
-      <Text>Seawolves</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SHARK">
-      <Text>Shark</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_STRIKE_GROUP">
-      <Text>Group</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_TRIDENT">
-      <Text>Trident</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_VICTORY">
-      <Text>Victory</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_WHALE">
-      <Text>Whale</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_ACES">
-      <Text>Aces</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_AIRMEN">
-      <Text>Airmen</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_ANGELS">
-      <Text>Angels</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_BIRDS">
-      <Text>Birds</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_FALCONS">
-      <Text>Falcons</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_FLYERS">
-      <Text>Flyers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GUNFIGHTERS">
-      <Text>Gunfighters</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_GUNS">
-      <Text>Guns</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HAWKS">
-      <Text>Hawks</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_HORNETS">
-      <Text>Hornets</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_INTERCEPTORS">
-      <Text>Interceptors</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_INTRUDERS">
-      <Text>Intruders</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_NIGHTSTALKERS">
-      <Text>Nightstalkers</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_SQUADRON">
-      <Text>Squadron</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_THUNDERBOLTS">
-      <Text>Thunderbolts</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_VAMPIRES">
-      <Text>Vampires</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_WARHAWKS">
-      <Text>Warhawks</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_UNITNAME_SUFFIX_WING">
-      <Text>Wing</Text>
-    </Replace>
-  </LocalizedText>
-</GameData>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><GameData>	<LocalizedText>		<Replace Tag='LOC_UNITNAME_BASE_TEMPLATE' Language='sv_SE'>			<Text>{1_Prefix} {2_Suffix}</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_RANDOMIZE_BUTTON_TEXT' Language='sv_SE'>			<Text>Randomize</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_CHOOSE_NAME' Language='sv_SE'>			<Text>Choose a title for this unit:</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_CONFIRM' Language='sv_SE'>			<Text>Confirm Name</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_RANDOM_FIRST' Language='sv_SE'>			<Text>Randomize First Name</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_RANDOM_SECOND' Language='sv_SE'>			<Text>Randomize Second Name</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_1ST' Language='sv_SE'>			<Text>The 1st</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_2ND' Language='sv_SE'>			<Text>The 2nd</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_3RD' Language='sv_SE'>			<Text>The 3rd</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_4TH' Language='sv_SE'>			<Text>The 4th</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_AIMED' Language='sv_SE'>			<Text>The Aimed</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_ALPHA' Language='sv_SE'>			<Text>The Alpha</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_ALPINE' Language='sv_SE'>			<Text>The Alpine</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_ANGEL' Language='sv_SE'>			<Text>The Angel</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_ARMORED' Language='sv_SE'>			<Text>The Armored</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_BIG_RED' Language='sv_SE'>			<Text>The Red</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_BLACK' Language='sv_SE'>			<Text>The Black</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_BLOOD' Language='sv_SE'>			<Text>The Blood</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_BLOODY' Language='sv_SE'>			<Text>The Bloody</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_BRAVE' Language='sv_SE'>			<Text>The Brave</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_BULL' Language='sv_SE'>			<Text>The Bull</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_CELESTIAL' Language='sv_SE'>			<Text>The Celestial</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_COLONIAL' Language='sv_SE'>			<Text>The Colonial</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_CRAZY' Language='sv_SE'>			<Text>The Crazy</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_DEAD_CENTER' Language='sv_SE'>			<Text>The Center</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_DEADLY' Language='sv_SE'>			<Text>The Deadly</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_DEATHS' Language='sv_SE'>			<Text>The Death's</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_DELTA' Language='sv_SE'>			<Text>The Delta</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_DESERT' Language='sv_SE'>			<Text>The Desert</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_DIRTY' Language='sv_SE'>			<Text>The Dirty</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_DRAGON' Language='sv_SE'>			<Text>The Dragon</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_DRAWN' Language='sv_SE'>			<Text>The Drawn</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_ELITE' Language='sv_SE'>			<Text>The Elite</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_FIGHTING' Language='sv_SE'>			<Text>The Fighting</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_FLYING' Language='sv_SE'>			<Text>The Flying</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_GALLOPING' Language='sv_SE'>			<Text>The Galloping</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_GHOST' Language='sv_SE'>			<Text>The Ghost</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_GLORY' Language='sv_SE'>			<Text>The Glory</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_GOLDEN' Language='sv_SE'>			<Text>The Golden</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_GREAT' Language='sv_SE'>			<Text>The Great</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_GREEN' Language='sv_SE'>			<Text>The Green</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_GRIM' Language='sv_SE'>			<Text>The Grim</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_HADES' Language='sv_SE'>			<Text>The Hades</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_HELLISH' Language='sv_SE'>			<Text>The Hellish</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_HELLS' Language='sv_SE'>			<Text>The Hells</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_HOLY' Language='sv_SE'>			<Text>The Holy</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_INVINCIBLE' Language='sv_SE'>			<Text>The Invincible</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_IRON' Language='sv_SE'>			<Text>The Iron</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_JUNGLE' Language='sv_SE'>			<Text>The Jungle</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_KINGS' Language='sv_SE'>			<Text>The King's</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_LAVA' Language='sv_SE'>			<Text>The Lava</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_LIGHT' Language='sv_SE'>			<Text>The Light</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_LIGHTNING' Language='sv_SE'>			<Text>The Lightning</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_LION' Language='sv_SE'>			<Text>The Lion</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_LONG' Language='sv_SE'>			<Text>The Long</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_MAGNIFICENT' Language='sv_SE'>			<Text>The Magnificent</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_MOUNTAIN' Language='sv_SE'>			<Text>The Mountain</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_MOUNTED' Language='sv_SE'>			<Text>The Mounted</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_NOMADIC' Language='sv_SE'>			<Text>The Nomadic</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_OLD' Language='sv_SE'>			<Text>The Old</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_ORPHAN' Language='sv_SE'>			<Text>The Orphan</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_PARTISAN' Language='sv_SE'>			<Text>The Partisan</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_PRESIDENTS' Language='sv_SE'>			<Text>The President's</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_QUEENS' Language='sv_SE'>			<Text>The Queen's</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_RAGGED' Language='sv_SE'>			<Text>The Ragged</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_RAINING' Language='sv_SE'>			<Text>The Raining</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_REVOLUTIONARY' Language='sv_SE'>			<Text>The Revolutionary</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_RIVER' Language='sv_SE'>			<Text>The River</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_ROCK' Language='sv_SE'>			<Text>The Rock</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_ROYAL' Language='sv_SE'>			<Text>The Royal</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_SACRED' Language='sv_SE'>			<Text>The Sacred</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_SALTY' Language='sv_SE'>			<Text>The Salty</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_SCREAMING' Language='sv_SE'>			<Text>The Screaming</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_SEA' Language='sv_SE'>			<Text>The Sea</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_SHARP' Language='sv_SE'>			<Text>The Sharp</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_SILENT' Language='sv_SE'>			<Text>The Silent</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_SOARING' Language='sv_SE'>			<Text>The Soaring</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_STONE' Language='sv_SE'>			<Text>The Stone</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_STONEWALL' Language='sv_SE'>			<Text>The Stonewall</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_STORM' Language='sv_SE'>			<Text>The Storm</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_TALL' Language='sv_SE'>			<Text>The Tall</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_TEN' Language='sv_SE'>			<Text>The Ten</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_TERRIBLE' Language='sv_SE'>			<Text>The Terrible</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_THUNDERING' Language='sv_SE'>			<Text>The Thundering</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_TIMBER' Language='sv_SE'>			<Text>The Timber</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_TROPIC' Language='sv_SE'>			<Text>The Tropic</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_TUNDRA' Language='sv_SE'>			<Text>The Tundra</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_WALKING' Language='sv_SE'>			<Text>The Walking</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_WAR' Language='sv_SE'>			<Text>The War</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_WHITE' Language='sv_SE'>			<Text>The White</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_WILD' Language='sv_SE'>			<Text>The Wild</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_PREFIX_WINDING' Language='sv_SE'>			<Text>The Winding</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_ARTISTS' Language='sv_SE'>			<Text>Artists</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BANNER' Language='sv_SE'>			<Text>Banner</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BASTARDS' Language='sv_SE'>			<Text>Bastards</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BATTALION' Language='sv_SE'>			<Text>Battalion</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BERETS' Language='sv_SE'>			<Text>Berets</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BODYGUARDS' Language='sv_SE'>			<Text>Bodyguards</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BOOTS' Language='sv_SE'>			<Text>Boots</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BOYS' Language='sv_SE'>			<Text>Boys</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BRAVES' Language='sv_SE'>			<Text>Braves</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BRIGADE' Language='sv_SE'>			<Text>Brigade</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BROTHERS' Language='sv_SE'>			<Text>Brothers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BUTCHERS' Language='sv_SE'>			<Text>Butchers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_CAPS' Language='sv_SE'>			<Text>Caps</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_CHAMPIONS' Language='sv_SE'>			<Text>Champions</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_CIRCUS' Language='sv_SE'>			<Text>Circus</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_COMPANY' Language='sv_SE'>			<Text>Company</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_COMRADES' Language='sv_SE'>			<Text>Comrades</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_CROSSES' Language='sv_SE'>			<Text>Crosses</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_CROWS' Language='sv_SE'>			<Text>Crows</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_DEAD' Language='sv_SE'>			<Text>Dead</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_DEMONS' Language='sv_SE'>			<Text>Demons</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_DEVILS' Language='sv_SE'>			<Text>Devils</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_DOGS' Language='sv_SE'>			<Text>Dogs</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_DOZEN' Language='sv_SE'>			<Text>Dozen</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_DRAGONS' Language='sv_SE'>			<Text>Dragons</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_EAGLES' Language='sv_SE'>			<Text>Eagles</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_EXCELLERS' Language='sv_SE'>			<Text>Excellers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_FORCE' Language='sv_SE'>			<Text>Force</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_FUSILIERS' Language='sv_SE'>			<Text>Fusiliers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GAMBLERS' Language='sv_SE'>			<Text>Gamblers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GANG' Language='sv_SE'>			<Text>Gang</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GARDE' Language='sv_SE'>			<Text>Garde</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GIANTS' Language='sv_SE'>			<Text>Giants</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GOONS' Language='sv_SE'>			<Text>Goons</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GRENADIERS' Language='sv_SE'>			<Text>Grenadiers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GUARD' Language='sv_SE'>			<Text>Guard</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GUARDIANS' Language='sv_SE'>			<Text>Guardians</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HATS' Language='sv_SE'>			<Text>Hats</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HELMETS' Language='sv_SE'>			<Text>Helmets</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HORDE' Language='sv_SE'>			<Text>Horde</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HOUNDS' Language='sv_SE'>			<Text>Hounds</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HUNTERS' Language='sv_SE'>			<Text>Hunters</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_IMMORTALS' Language='sv_SE'>			<Text>Immortals</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_INFANTRY' Language='sv_SE'>			<Text>Infantry</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_IRONS' Language='sv_SE'>			<Text>Irons</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_KILLERS' Language='sv_SE'>			<Text>Killers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_KINGS' Language='sv_SE'>			<Text>Kings</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_LADS' Language='sv_SE'>			<Text>Lads</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_LAMBS' Language='sv_SE'>			<Text>Lambs</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_LEGION' Language='sv_SE'>			<Text>Legion</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_LIBERATORS' Language='sv_SE'>			<Text>Liberators</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_LINE' Language='sv_SE'>			<Text>Line</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_LIONS' Language='sv_SE'>			<Text>Lions</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_MARTYRS' Language='sv_SE'>			<Text>Martyrs</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_ONE' Language='sv_SE'>			<Text>Ones</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_OWN' Language='sv_SE'>			<Text>Own</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_PANTHERS' Language='sv_SE'>			<Text>Panthers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_PEACEMAKERS' Language='sv_SE'>			<Text>Peacemakers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_PHANTOMS' Language='sv_SE'>			<Text>Phantoms</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_PROFESSIONALS' Language='sv_SE'>			<Text>Professionals</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_RAIDERS' Language='sv_SE'>			<Text>Raiders</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_RAMPAGERS' Language='sv_SE'>			<Text>Rampagers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_REDS' Language='sv_SE'>			<Text>Reds</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_REGIMENT' Language='sv_SE'>			<Text>Regiment</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_RELIABLES' Language='sv_SE'>			<Text>Reliables</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SAINTS' Language='sv_SE'>			<Text>Saints</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SAVAGES' Language='sv_SE'>			<Text>Savages</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SEEKERS' Language='sv_SE'>			<Text>Seekers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SHIELDS' Language='sv_SE'>			<Text>Shields</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SHIRTS' Language='sv_SE'>			<Text>Shirts</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SONS' Language='sv_SE'>			<Text>Sons</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_TIGERS' Language='sv_SE'>			<Text>Tigers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_TIMBERWOLVES' Language='sv_SE'>			<Text>Timberwolves</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_TOUGHS' Language='sv_SE'>			<Text>Toughs</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_TROOP' Language='sv_SE'>			<Text>Troop</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_VOLUNTEERS' Language='sv_SE'>			<Text>Volunteers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_WARLORDS' Language='sv_SE'>			<Text>Warlords</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_WATCH' Language='sv_SE'>			<Text>Watch</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_WIDOWMAKERS' Language='sv_SE'>			<Text>Widowmakers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_WOLFHOUNDS' Language='sv_SE'>			<Text>Wolfhounds</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_WOLVES' Language='sv_SE'>			<Text>Wolves</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_APES' Language='sv_SE'>			<Text>Apes</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BLADES' Language='sv_SE'>			<Text>Blades</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_COMMANDOS' Language='sv_SE'>			<Text>Commandos</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_EYES' Language='sv_SE'>			<Text>Eyes</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_JACKETS' Language='sv_SE'>			<Text>Jackets</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_KNIVES' Language='sv_SE'>			<Text>Knives</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_MARAUDERS' Language='sv_SE'>			<Text>Marauders</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_NOMADS' Language='sv_SE'>			<Text>Nomads</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_OUTLAWS' Language='sv_SE'>			<Text>Outlaws</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_PATHFINDERS' Language='sv_SE'>			<Text>Pathfinders</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_RANGERS' Language='sv_SE'>			<Text>Rangers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_RECON' Language='sv_SE'>			<Text>Recon</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_RUNNERS' Language='sv_SE'>			<Text>Runners</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SCOUTS' Language='sv_SE'>			<Text>Scouts</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SNAKES' Language='sv_SE'>			<Text>Snakes</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_WANDERERS' Language='sv_SE'>			<Text>Wanderers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_ARROWS' Language='sv_SE'>			<Text>Arrows</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_ARTILLERY' Language='sv_SE'>			<Text>Artillery</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BATTERY' Language='sv_SE'>			<Text>Battery</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BLAZERS' Language='sv_SE'>			<Text>Blazers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BOMBARDIERS' Language='sv_SE'>			<Text>Bombardiers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BOWS' Language='sv_SE'>			<Text>Bows</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_DEATH' Language='sv_SE'>			<Text>Death</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_FIRE_BREATHERS' Language='sv_SE'>			<Text>Breathers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GUNNERS' Language='sv_SE'>			<Text>Gunners</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_KNOCKERS' Language='sv_SE'>			<Text>Knockers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_MARKSMEN' Language='sv_SE'>			<Text>Marksmen</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_RAIN' Language='sv_SE'>			<Text>Rain</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SHARPS' Language='sv_SE'>			<Text>Sharps</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SHARPSHOOTERS' Language='sv_SE'>			<Text>Sharpshooters</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SLINGERS' Language='sv_SE'>			<Text>Slingers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SNIPERS' Language='sv_SE'>			<Text>Snipers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_STRIKERS' Language='sv_SE'>			<Text>Strikers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_DRAGOONS' Language='sv_SE'>			<Text>Dragoons</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_FEATHERS' Language='sv_SE'>			<Text>Feathers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_FOXES' Language='sv_SE'>			<Text>Foxes</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HAMMER' Language='sv_SE'>			<Text>Hammer</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HORSE' Language='sv_SE'>			<Text>Horse</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HORSEMEN' Language='sv_SE'>			<Text>Horsemen</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HUSSARS' Language='sv_SE'>			<Text>Hussars</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_KNIGHTS' Language='sv_SE'>			<Text>Knights</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_KORPS' Language='sv_SE'>			<Text>Korps</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_LANCERS' Language='sv_SE'>			<Text>Lancers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_PONIES' Language='sv_SE'>			<Text>Ponies</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_RIDERS' Language='sv_SE'>			<Text>Riders</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_STEEDS' Language='sv_SE'>			<Text>Steeds</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_VANGUARD' Language='sv_SE'>			<Text>Vanguard</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_WARHORSES' Language='sv_SE'>			<Text>Warhorses</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_ARMADA' Language='sv_SE'>			<Text>Armada</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BOUNTY' Language='sv_SE'>			<Text>Bounty</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BUCCANEERS' Language='sv_SE'>			<Text>Buccaneers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_CONQUEROR' Language='sv_SE'>			<Text>Conqueror</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_DREADNOUGHT' Language='sv_SE'>			<Text>Dreadnought</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_EEL' Language='sv_SE'>			<Text>Eel</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_ENDEAVOR' Language='sv_SE'>			<Text>Endeavor</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_FLAGSHIP' Language='sv_SE'>			<Text>Flagship</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_FLOTILLA' Language='sv_SE'>			<Text>Flotilla</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_INTREPID' Language='sv_SE'>			<Text>Intrepid</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_INVINCIBLE' Language='sv_SE'>			<Text>Invincible</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_IRONSIDES' Language='sv_SE'>			<Text>Ironsides</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_NARWHAL' Language='sv_SE'>			<Text>Narwhal</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_ORCA' Language='sv_SE'>			<Text>Orca</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_REDOUBTABLE' Language='sv_SE'>			<Text>Redoubtable</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_RESOLUTION' Language='sv_SE'>			<Text>Resolution</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_REVENGE' Language='sv_SE'>			<Text>Revenge</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SEAWOLVES' Language='sv_SE'>			<Text>Seawolves</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SHARK' Language='sv_SE'>			<Text>Shark</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_STRIKE_GROUP' Language='sv_SE'>			<Text>Group</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_TRIDENT' Language='sv_SE'>			<Text>Trident</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_VICTORY' Language='sv_SE'>			<Text>Victory</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_WHALE' Language='sv_SE'>			<Text>Whale</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_ACES' Language='sv_SE'>			<Text>Aces</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_AIRMEN' Language='sv_SE'>			<Text>Airmen</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_ANGELS' Language='sv_SE'>			<Text>Angels</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_BIRDS' Language='sv_SE'>			<Text>Birds</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_FALCONS' Language='sv_SE'>			<Text>Falcons</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_FLYERS' Language='sv_SE'>			<Text>Flyers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GUNFIGHTERS' Language='sv_SE'>			<Text>Gunfighters</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_GUNS' Language='sv_SE'>			<Text>Guns</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HAWKS' Language='sv_SE'>			<Text>Hawks</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_HORNETS' Language='sv_SE'>			<Text>Hornets</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_INTERCEPTORS' Language='sv_SE'>			<Text>Interceptors</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_INTRUDERS' Language='sv_SE'>			<Text>Intruders</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_NIGHTSTALKERS' Language='sv_SE'>			<Text>Nightstalkers</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_SQUADRON' Language='sv_SE'>			<Text>Squadron</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_THUNDERBOLTS' Language='sv_SE'>			<Text>Thunderbolts</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_VAMPIRES' Language='sv_SE'>			<Text>Vampires</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_WARHAWKS' Language='sv_SE'>			<Text>Warhawks</Text>		</Replace>		<Replace Tag='LOC_UNITNAME_SUFFIX_WING' Language='sv_SE'>			<Text>Wing</Text>		</Replace>	</LocalizedText></GameData>
