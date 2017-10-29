@@ -47,69 +47,69 @@
 			<Text>Panteon</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_CLASS_FOLLOWER_NAME">
-			<Text>Follower</Text>
+			<Text>Anhängare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_CLASS_WORSHIP_NAME">
-			<Text>Worship</Text>
+			<Text>Tillbedjan</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_CLASS_FOUNDER_NAME">
-			<Text>Founder</Text>
+			<Text>Grundare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_CLASS_ENHANCER_NAME">
-			<Text>Enhancer</Text>
+			<Text>Förstärkare</Text>
 		</Replace>
 		<!--MISCELLANEOUS-->
 		<Replace Language="sv_SE" Tag="LOC_RELIGION_MARTYRED_APOSTLE">
-			<Text>Martyred Apostle</Text>
+			<Text>Martyr Apostel</Text>
 		</Replace>
 		<!--PANTHEON NAMES-->
 		<!--1. PANTHEON BELIEFS-->
 		<!--Pantheon - Adjacency Bonuses-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_NAME">
-			<Text>Dance of the Aurora</Text>
+			<Text>Auroras dans</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_DESERT_FOLKLORE_NAME">
-			<Text>Desert Folklore</Text>
+			<Text>Öken folktro</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_SACRED_PATH_NAME">
-			<Text>Sacred Path</Text>
+			<Text>Helig stig</Text>
 		</Replace>
 		<!--Pantheon - Amenity Bonuses-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_RIVER_GODDESS_NAME">
-			<Text>River Goddess</Text>
+			<Text>Flod Gudinna</Text>
 		</Replace>
 		<!--Pantheon - Gameplay Race Bonuses-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_NAME">
-			<Text>Monument to the Gods</Text>
+			<Text>Monument till Gudarna</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_DIVINE_SPARK_NAME">
-			<Text>Divine Spark</Text>
+			<Text>Gudomlig gnista</Text>
 		</Replace>
 		<!--Pantheon - Local Feature Bonuses-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_NAME">
-			<Text>Lady of the Reeds and Marshes</Text>
+			<Text>Damen av Vass och Myrar</Text>
 		</Replace>
 		<!--Pantheon - Local Resource Bonuses-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_THE_SEA_NAME">
-			<Text>God of the Sea</Text>
+			<Text>Havets Gud</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_NAME">
-			<Text>God of the Open Sky</Text>
+			<Text>Öppna skyarnas Gud</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_NAME">
-			<Text>Goddess of the Hunt</Text>
+			<Text>Jaktens Gudinna</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_STONE_CIRCLES_NAME">
-			<Text>Stone Circles</Text>
+			<Text>Stencirklar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_NAME">
-			<Text>Religious Idols</Text>
+			<Text>Religiösa Gudabilder</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_NAME">
-			<Text>God of Craftsmen</Text>
+			<Text>Hanverkarnas Gud</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_NAME">
-			<Text>Goddess of Festivals</Text>
+			<Text>Festivalernas Gudinna</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_ORAL_TRADITION_NAME">
 			<Text>Muntlig tradition</Text>
@@ -122,10 +122,10 @@
 			<Text>Krigsguden</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_INITIATION_RITES_NAME">
-			<Text>Initiation Rites</Text>
+			<Text>Initiereringsriter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_HEALING_NAME">
-			<Text>God of Healing</Text>
+			<Text>Helandets Gud</Text>
 		</Replace>
 		<!--Pantheon - General Purpose-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_FERTILITY_RITES_NAME">
@@ -135,7 +135,7 @@
 			<Text>Religiösa bosättningar</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_NAME">
-			<Text>Goddess of the Harvest</Text>
+			<Text>Skördens Gudinna</Text>
 		</Replace>
 		<!--2. WORSHIP BELIEFS-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_CATHEDRAL_NAME">
@@ -151,7 +151,7 @@
 			<Text>Moské</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_PAGODA_NAME">
-			<Text>Pagod</Text>
+			<Text>Pagoda</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_SYNAGOGUE_NAME">
 			<Text>Synagoga</Text>
@@ -161,35 +161,35 @@
 		</Replace>
 		<!--3. FOLLOWER BELIEFS-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_DIVINE_INSPIRATION_NAME">
-			<Text>Divine Inspiration</Text>
+			<Text>Gudomlig Inspiration</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_FEED_THE_WORLD_NAME">
-			<Text>Feed the World</Text>
+			<Text>Mata världen</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_JESUIT_EDUCATION_NAME">
-			<Text>Jesuit Education</Text>
+			<Text>Jesuit Utbildning</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_RELIQUARIES_NAME">
-			<Text>Reliquaries</Text>
+			<Text>Reliker</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_NAME">
-			<Text>Religious Community</Text>
+			<Text>Trossamfund</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_WORK_ETHIC_NAME">
-			<Text>Work Ethic</Text>
+			<Text>Arbetsmoral</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_ZEN_MEDITATION_NAME">
 			<Text>Zen Meditation</Text>
 		</Replace>
 		<!--4. FOUNDER BELIEFS-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_CHURCH_PROPERTY_NAME">
-			<Text>Church Property</Text>
+			<Text>Kyrko egendom</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_LAY_MINISTRY_NAME">
-			<Text>Lay Ministry</Text>
+			<Text>Lekmannaministeriet</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_PAPAL_PRIMACY_NAME">
-			<Text>Papal Primacy</Text>
+			<Text>Påvligt företräde</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_PILGRIMAGE_NAME">
 			<Text>Pilgrimsfärd</Text>
@@ -205,90 +205,90 @@
 		</Replace>
 		<!--5. ENHANCER BELIEFS-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_DEFENDER_OF_FAITH_NAME">
-			<Text>Defender of the Faith</Text>
+			<Text>Trons försvarare</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_HOLY_ORDER_NAME">
-			<Text>Holy Order</Text>
+			<Text>Helig Orden</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_ITINERANT_PREACHERS_NAME">
-			<Text>Itinerant Preachers</Text>
+			<Text>Ambulerande predikanter</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_JUST_WAR_NAME">
 			<Text>Korståg</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_MISSIONARY_ZEAL_NAME">
-			<Text>Missionary Zeal</Text>
+			<Text>Missionerande Iver</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_MONASTIC_ISOLATION_NAME">
-			<Text>Monastic Isolation</Text>
+			<Text>Kloster avskildhet </Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_SCRIPTURE_NAME">
-			<Text>Scripture</Text>
+			<Text>Skriften</Text>
 		</Replace>
 		<!--PANTHEON DESCRIPTIONS-->
 		<!--1. PANTHEON BELIEFS-->
 		<!--Pantheon - Adjacency Bonuses-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_DANCE_OF_THE_AURORA_DESCRIPTION">
-			<Text>Holy Site districts get +1 [ICON_Faith] Faith from adjacent Tundra tiles.</Text>
+			<Text>Heliga distrikt får +1 [ICON_Faith] Övertygelse från angränsande Tundra rutor.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_DESERT_FOLKLORE_DESCRIPTION">
-			<Text>Holy Site districts get +1 [ICON_Faith] Faith from adjacent Desert tiles.</Text>
+			<Text>Heliga distrikt får +1 [ICON_Faith] Övertygelse från angränsande Öken rutor.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_SACRED_PATH_DESCRIPTION">
-			<Text>Holy Site districts get +1 [ICON_Faith] Faith from adjacent Rainforest tiles.</Text>
+			<Text>Heliga distrikt får +1 [ICON_Faith] Övertygelse från angränsande regnskogsrutor.</Text>
 		</Replace>
 		<!--Pantheon - Amenity Bonuses-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_RIVER_GODDESS_DESCRIPTION">
-			<Text>+1 [ICON_Amenities] Amenity to cities if they have a Holy Site district adjacent to a River.</Text>
+			<Text>+1 [ICON_Amenities] Bekvämlighet till städer om de har ett heligt distrikt intill en flod.</Text>
 		</Replace>
 		<!--Pantheon - Gameplay Race Bonuses-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION">
-			<Text>+15% [ICON_Production] Production towards Ancient and Classical era wonders.</Text>
+			<Text>+15% [ICON_Production] Produktion mot under från Antiken och järnåldern.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_DIVINE_SPARK_DESCRIPTION">
-			<Text>+1 Great Person point from Holy Site (Prophet), Campus (Scientist), and Theater Square (Writer) districts.</Text>
+			<Text>+1 Stor Personlighetspoäng från Helig plats (Profet), Campus (Vetenskapsman), och Teaterskådeplats (Författare) distrikt.</Text>
 		</Replace>
 		<!--Pantheon - Local Feature Bonuses-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_LADY_OF_THE_REEDS_AND_MARSHES_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production from Marsh, Oasis, and Floodplains.</Text>
+			<Text>+1 [ICON_Production] Produktion från Myrar, Oaser, och Flodslätter.</Text>
 		</Replace>
 		<!--Pantheon - Local Resource Bonuses-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production from Fishing Boats.</Text>
+			<Text>+1 [ICON_Production] Produktion från Fiskebåtar.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_THE_OPEN_SKY_DESCRIPTION">
-			<Text>+1 [ICON_Culture] Culture from Pastures.</Text>
+			<Text>+1 [ICON_Culture] Kultur från Betesmark.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION">
-			<Text>+1 [ICON_Food] Food from Camps.</Text>
+			<Text>+1 [ICON_Food] Mat från Läger.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION">
-			<Text>+2 [ICON_Faith] Faith from Quarries.</Text>
+			<Text>+2 [ICON_Faith] Övertygelse från Stenbrott.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION">
-			<Text>+1 [ICON_Faith] Faith from Mines over Luxury and Bonus resources.</Text>
+			<Text>+1 [ICON_Faith] Övertygelse från Gruvor byggda på lyx eller bonus resurser.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION">
-			<Text>+1 [ICON_Production] Production from Mines over Strategic resources.</Text>
+			<Text>+1 [ICON_Production] Produktion från Gruvor byggda på Strategiska resurser.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION">
-			<Text>+1 [ICON_Food] Food from [ICON_RESOURCE_WINE] Wine, [ICON_RESOURCE_INCENSE] Incense, [ICON_RESOURCE_COCOA] Cocoa, [ICON_RESOURCE_TOBACCO] Tobacco, [ICON_RESOURCE_COFFEE] Coffee, and [ICON_RESOURCE_TEA] Tea Plantations.</Text>
+			<Text>+1 [ICON_Food] Mat från [ICON_RESOURCE_WINE] Vin, [ICON_RESOURCE_INCENSE] Rökelse, [ICON_RESOURCE_COCOA] Kakao, [ICON_RESOURCE_TOBACCO] Tobak, [ICON_RESOURCE_COFFEE] Kaffe, och [ICON_RESOURCE_TEA] Te Plantage.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_ORAL_TRADITION_DESCRIPTION">
-			<Text>+1 [ICON_Culture] Culture from [ICON_RESOURCE_BANANAS] Banana, [ICON_RESOURCE_CITRUS] Citrus, [ICON_RESOURCE_COTTON] Cotton, [ICON_RESOURCE_DYES] Dyes, [ICON_RESOURCE_SILK] Silk, [ICON_RESOURCE_SPICES] Spices, and [ICON_RESOURCE_SUGAR] Sugar Plantations.</Text>
+			<Text>+1 [ICON_Culture] Kultur från [ICON_RESOURCE_BANANAS] Banan, [ICON_RESOURCE_CITRUS] Citrus, [ICON_RESOURCE_COTTON] Bomull, [ICON_RESOURCE_DYES] Färgämnen, [ICON_RESOURCE_SILK] Silke, [ICON_RESOURCE_SPICES] Kryddor, och [ICON_RESOURCE_SUGAR] Socker Plantage.</Text>
 		</Replace>
 		<!--Pantheon - Military -->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION">
-			<Text>+25% [ICON_Production] Production toward Ancient and Classical military units.</Text>
+			<Text>+25% [ICON_Production] Produktion toward Ancient and Classical military units.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_HEALING_DESCRIPTION">
 			<Text>Increases Healing by +30 in your Holy Site district, or any adjacent tiles.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GOD_OF_WAR_DESCRIPTION">
-			<Text>Bonus [ICON_Faith] Faith equal to 50% of the strength of each enemy unit killed within 8 tiles of a Holy Site district you own.</Text>
+			<Text>Bonus [ICON_Faith] Övertygelse equal to 50% of the strength of each enemy unit killed within 8 tiles of a Holy Site district you own.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_INITIATION_RITES_DESCRIPTION">
-			<Text>+50 [ICON_Faith] Faith for each Barbarian Outpost cleared.</Text>
+			<Text>+50 [ICON_Faith] Övertygelse for each Barbarian Outpost cleared.</Text>
 		</Replace>
 		<!--Pantheon - General Purpose-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_FERTILITY_RITES_DESCRIPTION">
@@ -298,48 +298,48 @@
 			<Text>Border expansion rate is 15% higher.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION">
-			<Text>Harvesting a resource or removing a feature receives [ICON_Faith] Faith equal to the other yield's quantity.</Text>
+			<Text>Harvesting a resource or removing a feature receives [ICON_Faith] Övertygelse equal to the other yield's quantity.</Text>
 		</Replace>
 		<!--2. WORSHIP BELIEFS-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_CATHEDRAL_DESCRIPTION">
-			<Text>Allows construction of Cathedrals (+3 [ICON_Faith] Faith, 1 slot for religious art).</Text>
+			<Text>Allows construction of Cathedrals (+3 [ICON_Faith] Övertygelse, 1 slot for religious art).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_GURDWARA_DESCRIPTION">
-			<Text>Allows construction of Gurdwaras (+3 [ICON_Faith] Faith, +2 [ICON_Food] Food).</Text>
+			<Text>Allows construction of Gurdwaras (+3 [ICON_Faith] Övertygelse, +2 [ICON_Food] Food).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_MEETING_HOUSE_DESCRIPTION">
-			<Text>Allows construction of Meeting Houses (+3 [ICON_Faith] Faith, +2 [ICON_Production] Production).</Text>
+			<Text>Allows construction of Meeting Houses (+3 [ICON_Faith] Övertygelse, +2 [ICON_Production] Produktion).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_MOSQUE_DESCRIPTION">
-			<Text>Allows construction of Mosques (+3 [ICON_Faith] Faith). Missionaries and Apostles +1 Spread.</Text>
+			<Text>Allows construction of Mosques (+3 [ICON_Faith] Övertygelse). Missionaries and Apostles +1 Spread.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_PAGODA_DESCRIPTION">
-			<Text>Allows construction of Pagodas (+3 [ICON_Faith] Faith, +1 [ICON_Housing] Housing).</Text>
+			<Text>Allows construction of Pagodas (+3 [ICON_Faith] Övertygelse, +1 [ICON_Housing] Housing).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_SYNAGOGUE_DESCRIPTION">
-			<Text>Allows construction of Synagogues (+5 [ICON_Faith] Faith).</Text>
+			<Text>Allows construction of Synagogues (+5 [ICON_Faith] Övertygelse).</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_WAT_DESCRIPTION">
-			<Text>Allows construction of Wats (+3 [ICON_Faith] Faith, +2 [ICON_Science] Science).</Text>
+			<Text>Allows construction of Wats (+3 [ICON_Faith] Övertygelse, +2 [ICON_Science] Science).</Text>
 		</Replace>
 		<!--3. FOLLOWER BELIEFS-->
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_DIVINE_INSPIRATION_DESCRIPTION">
-			<Text>All world wonders provide +4 [ICON_Faith] Faith.</Text>
+			<Text>All world wonders provide +4 [ICON_Faith] Övertygelse.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_FEED_THE_WORLD_DESCRIPTION">
-			<Text>Shrines and Temples provide [ICON_Food] Food equal to their intrinsic [ICON_Faith] Faith output.</Text>
+			<Text>Shrines and Temples provide [ICON_Food] Food equal to their intrinsic [ICON_Faith] Övertygelse output.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_JESUIT_EDUCATION_DESCRIPTION">
-			<Text>May purchase Campus and Theater Square district buildings with [ICON_Faith] Faith.</Text>
+			<Text>May purchase Campus and Theater Square district buildings with [ICON_Faith] Övertygelse.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_RELIQUARIES_DESCRIPTION">
-			<Text>[ICON_GreatWork_Relic] Relics have triple yield of both [ICON_Faith] Faith and [ICON_Tourism] Tourism.</Text>
+			<Text>[ICON_GreatWork_Relic] Relics have triple yield of both [ICON_Faith] Övertygelse and [ICON_Tourism] Tourism.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION">
 			<Text>Shrines and Temples each provide +1 [ICON_Housing] Housing.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_WORK_ETHIC_DESCRIPTION">
-			<Text>+1% [ICON_Production] Production for each follower.</Text>
+			<Text>+1% [ICON_Production] Produktion for each follower.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION">
 			<Text>+1 [ICON_Amenities] Amenity in cities with 2 specialty districts.</Text>
@@ -349,13 +349,13 @@
 			<Text>+2 [ICON_Gold] Gold for each city following this Religion.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION">
-			<Text>Each Holy Site or Theater Square district in a city following this Religion provides +1 [ICON_Faith] Faith or +1 [ICON_Culture] Culture respectively.</Text>
+			<Text>Each Holy Site or Theater Square district in a city following this Religion provides +1 [ICON_Faith] Övertygelse or +1 [ICON_Culture] Culture respectively.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_PAPAL_PRIMACY_DESCRIPTION">
-			<Text>Type bonuses from city-states following your Religion are 50% more powerful.</Text>
+			<Text>Type bonuses från city-states following your Religion are 50% more powerful.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION">
-			<Text>+2 [ICON_Faith] Faith for every city following this Religion in other civilizations and city-states.</Text>
+			<Text>+2 [ICON_Faith] Övertygelse for every city following this Religion in other civilizations and city-states.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_STEWARDSHIP_DESCRIPTION">
 			<Text>Each Campus or Commercial Hub district in a city following this Religion provides +1 [ICON_Science] Science or +1 [ICON_Gold] Gold respectively.</Text>
@@ -386,11 +386,11 @@
 			<Text>Your Religion's pressure never drops due to losses in Theological Combat.</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_BELIEF_SCRIPTURE_DESCRIPTION">
-			<Text>Religious spread from adjacent city pressure is 25% stronger. Boosted to 50% once Printing is researched.</Text>
+			<Text>Religious spread från adjacent city pressure is 25% stronger. Boosted to 50% once Printing is researched.</Text>
 		</Replace>
 		<!--BELIEF COMBAT BONUSES-->
 		<Replace Language="sv_SE" Tag="LOC_PROMOTION_DEFENDER_OF_FAITH_DESCRIPTION">
-			<Text>+{1_Value} Defender of the Faith Belief</Text>
+			<Text>+{1_Value} Defender of the Övertygelse Belief</Text>
 		</Replace>
 		<Replace Language="sv_SE" Tag="LOC_PROMOTION_JUST_WAR_DESCRIPTION">
 			<Text>+{1_Value} Crusade Belief</Text>
