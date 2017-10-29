@@ -1,87 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<LocalizedText>
-		<!-- Ruleset -->
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_RULESET_TITLE">
-			<Text>Cavalry and Cannonades</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_RULESET_TEASER">
-			<Text>Claw territory from your enemies in this combat-focused scenario set in the Industrial Era. Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE]Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
-		</Replace>
-		<!-- Victories  -->
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_VICTORY_TITLE">
-			<Text>No Waterloo For You</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_VICTORY_TITLE_ALT">
-			<Text>For Iron, Land, and Glory!</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_VICTORY_DESC">
-			<Text>Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_VICTORY_WIN_BLURB">
-			<Text>"The battlefield is a scene of constant chaos. The winner will be the one who controls that chaos, both his own and the enemies." —Napoleon Bonaparte</Text>
-		</Replace>
-
-		<!-- Mod Package Text -->
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_MOD_TITLE">
-			<Text>Multiplayer Scenario: Cavalry and Cannonades</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_MOD_TEASER">
-			<Text>Claw territory from your enemies in this combat-focused scenario set in the Industrial Era. Lasts 50 Turns.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_MOD_DESCRIPTION">
-			<Text>Victory Conditions[NEWLINE]Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_MOD_AUTHORS">
-			<Text>Firaxis</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_NAPOLEON_PROGRESS">
-			<Text>Territory Size {TerritorySize} {TerritorySizeIcon}</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_MAX_TURNS_REACHED_PROGRESS">
-			<Text>Turn Limit {ElapsedTurns}/{MaxGameTurn} {StatusIcon}</Text>
-		</Replace>
-		
-		<!-- End Game Leader Ranking -->
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_QUOTE">
-			<Text>"Victory belongs to the most persevering." —Napoleon Bonaparte</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME">
-			<Text>The Emperor Napoleon I</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME">
-			<Text>First Consul Bonaparte</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME">
-			<Text>Napoleon, General of the Interior</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME">
-			<Text>Brigadier General Bonaparte</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME">
-			<Text>Lieutenant Napoleon Bonaparte</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME">
-			<Text>Napoleone di Buonaparte</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME_ALT">
-			<Text>Sovereign of the Iron Empire</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME_ALT">
-			<Text>Grand Admiral of the Fleet</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME_ALT">
-			<Text>Brigadier General of the Army</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME_ALT">
-			<Text>Cavalry Colonel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME_ALT">
-			<Text>Captain of Artillery</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME_ALT">
-			<Text>Lieutenant Martinet</Text>
-		</Replace>
-		
-	</LocalizedText>
-</GameData>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><GameData>	<LocalizedText>		<!-- Ruleset -->		<Replace Tag='LOC_NAPOLEON_RULESET_TITLE' Language='sv_SE'>			<Text>Cavalry and Cannonades</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_RULESET_TEASER' Language='sv_SE'>			<Text>Claw territory from your enemies in this combat-focused scenario set in the Industrial Era. Lasts 50 Turns.[NEWLINE]Victory Conditions[NEWLINE][ICON_Bullet]Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.[NEWLINE]Gameplay Changes[NEWLINE][ICON_Bullet]Greatly reduced unit maintanence costs.[NEWLINE][ICON_Bullet]Units no longer require strategic resources to be built.</Text>		</Replace>		<!-- Victories  -->		<Replace Tag='LOC_NAPOLEON_VICTORY_TITLE' Language='sv_SE'>			<Text>No Waterloo For You</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_VICTORY_TITLE_ALT' Language='sv_SE'>			<Text>For Iron, Land, and Glory!</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_VICTORY_DESC' Language='sv_SE'>			<Text>Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_VICTORY_WIN_BLURB' Language='sv_SE'>			<Text>”Slagfältet är ett konstant kaos. Segrare blir den som kan kontrollera kaoset, både sitt eget och sina fienders.” —Napoleon Bonaparte</Text>		</Replace>		<!-- Mod Package Text -->		<Replace Tag='LOC_NAPOLEON_MOD_TITLE' Language='sv_SE'>			<Text>Multispelsscenario: Kavalleri och kanonader</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_MOD_TEASER' Language='sv_SE'>			<Text>Claw territory from your enemies in this combat-focused scenario set in the Industrial Era. Lasts 50 Turns.</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_MOD_DESCRIPTION' Language='sv_SE'>			<Text>Victory Conditions[NEWLINE]Prove yourself the grandest strategist of the Industrial Era by possessing the most territory at the turn limit.</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_MOD_AUTHORS' Language='sv_SE'>			<Text>Firaxis</Text>		</Replace>		<Replace Tag='LOC_VICTORY_NAPOLEON_PROGRESS' Language='sv_SE'>			<Text>Territory Size {TerritorySize} {TerritorySizeIcon}</Text>		</Replace>		<Replace Tag='LOC_MAX_TURNS_REACHED_PROGRESS' Language='sv_SE'>			<Text>Omgångsbegränsning {ElapsedTurns}/{MaxGameTurn} {StatusIcon}</Text>		</Replace>		<!-- End Game Leader Ranking -->		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_QUOTE' Language='sv_SE'>			<Text>"Victory belongs to the most persevering." —Napoleon Bonaparte</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME' Language='sv_SE'>			<Text>The Emperor Napoleon I</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME' Language='sv_SE'>			<Text>First Consul Bonaparte</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME' Language='sv_SE'>			<Text>Napoleon, General of the Interior</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME' Language='sv_SE'>			<Text>Brigadier General Bonaparte</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME' Language='sv_SE'>			<Text>Lieutenant Napoleon Bonaparte</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME' Language='sv_SE'>			<Text>Napoleone di Buonaparte</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_1_NAME_ALT' Language='sv_SE'>			<Text>Sovereign of the Iron Empire</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_2_NAME_ALT' Language='sv_SE'>			<Text>Grand Admiral of the Fleet</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_3_NAME_ALT' Language='sv_SE'>			<Text>Brigadier General of the Army</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_4_NAME_ALT' Language='sv_SE'>			<Text>Cavalry Colonel</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_5_NAME_ALT' Language='sv_SE'>			<Text>Captain of Artillery</Text>		</Replace>		<Replace Tag='LOC_NAPOLEON_ENDGAME_RANKING_LEADER_6_NAME_ALT' Language='sv_SE'>			<Text>Lieutenant Martinet</Text>		</Replace>	</LocalizedText></GameData>

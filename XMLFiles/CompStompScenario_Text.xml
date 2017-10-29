@@ -1,39 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<LocalizedText>
-		<!-- Ruleset -->
-		<Replace Language="sv_SE" Tag="LOC_COMPSTOMP_RULESET_TITLE">
-			<Text>Artificial Intransigence</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_COMPSTOMP_RULESET_TEASER">
-			<Text>Crush the AI with your friends in this cooperative, combat-focused scenario. Lasts until every AI Player has been defeated.[NEWLINE]Victory Conditions[NEWLINE]Defeat all AI Players! The human player who captures the most AI-controlled cities wins.</Text>
-		</Replace>
-		<!-- Victories  -->
-		<Replace Language="sv_SE" Tag="LOC_COMPSTOMP_VICTORY_TITLE">
-			<Text>Stomped the AI</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_COMPSTOMP_VICTORY_DESC">
-			<Text>Defeat all AI Players! The human player who captures the most AI-controlled cities wins.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_COMPSTOMP_VICTORY_WIN_BLURB">
-			<Text>"I do not fear computers. I fear the lack of them." —Isaac Asimov</Text>
-		</Replace>
-
-		<!-- Mod Package Text -->
-		<Replace Language="sv_SE" Tag="LOC_COMPSTOMP_MOD_TITLE">
-			<Text>Multiplayer Scenario: Artificial Intransigence</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_COMPSTOMP_MOD_TEASER">
-			<Text>Crush the AI with your friends in this cooperative, combat-focused scenario. Lasts until every AI Player has been defeated.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_COMPSTOMP_MOD_DESCRIPTION">
-			<Text>Victory Conditions[NEWLINE]Defeat all AI Players! The human player who captures the most AI-controlled cities wins.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_COMPSTOMP_MOD_AUTHORS">
-			<Text>Firaxis</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_VICTORY_COMPSTOMP_PROGRESS">
-			<Text>AI Cities Captured {AICitiesCaptured}/{TotalAICities} {CompStompIcon}</Text>
-		</Replace>
-	</LocalizedText>
-</GameData>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><GameData>	<LocalizedText>		<!-- Ruleset -->		<Replace Tag='LOC_COMPSTOMP_RULESET_TITLE' Language='sv_SE'>			<Text>Artificiell intrasigens</Text>		</Replace>		<Replace Tag='LOC_COMPSTOMP_RULESET_TEASER' Language='sv_SE'>			<Text>Krossa AI:n tillsammans med dina vänner i det här kooperativa stridsinriktade scenariot. Spelet pågår tills alla AI-spelarna har besegrats.[NEWLINE]Segervillkor[NEWLINE]Besegra alla AI-spelare! Den spelare som erövrar flest AI-kontrollerade städer vinner.</Text>		</Replace>		<!-- Victories  -->		<Replace Tag='LOC_COMPSTOMP_VICTORY_TITLE' Language='sv_SE'>			<Text>Mosade AI:n</Text>		</Replace>		<Replace Tag='LOC_COMPSTOMP_VICTORY_DESC' Language='sv_SE'>			<Text>Besegra alla AI-spelare! Den spelare som erövrar flest AI-kontrollerade städer vinner.</Text>		</Replace>		<Replace Tag='LOC_COMPSTOMP_VICTORY_WIN_BLURB' Language='sv_SE'>			<Text>”Jag är inte rädd för datorer. Jag är rädd att förlora dem.” —Isaac Asimov</Text>		</Replace>		<!-- Mod Package Text -->		<Replace Tag='LOC_COMPSTOMP_MOD_TITLE' Language='sv_SE'>			<Text>Multispelsscenario: Artificiell intrasigens</Text>		</Replace>		<Replace Tag='LOC_COMPSTOMP_MOD_TEASER' Language='sv_SE'>			<Text>Krossa AI:n tillsammans med dina vänner i det här kooperativa stridsinriktade scenariot. Spelet pågår tills alla AI-spelarna har besegrats.</Text>		</Replace>		<Replace Tag='LOC_COMPSTOMP_MOD_DESCRIPTION' Language='sv_SE'>			<Text>Segervillkor[NEWLINE]Besegra alla AI-spelare! Den spelare som erövrar flest AI-kontrollerade städer vinner.</Text>		</Replace>		<Replace Tag='LOC_COMPSTOMP_MOD_AUTHORS' Language='sv_SE'>			<Text>Firaxis</Text>		</Replace>		<Replace Tag='LOC_VICTORY_COMPSTOMP_PROGRESS' Language='sv_SE'>			<Text>Erövrade AI-städer {AICitiesCaptured}/{TotalAICities} {CompStompIcon}</Text>		</Replace>	</LocalizedText></GameData>

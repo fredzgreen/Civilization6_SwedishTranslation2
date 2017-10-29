@@ -1,131 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) -->
-<GameData>
-	<LocalizedText>
-		<!--Improvements Description-->
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION">
-			<Text>Skapar ytterligare Barbarer.[ICON_Gold] Guld belöning om den förstörs.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera Badort.[NEWLINE][NEWLINE]Rutan får dubblerad Attraktion för [ICON_Tourism] Turism. Kan bara byggas på Kustnära Öken, Kustnära Slätter, eller Kustnära Gräsmark rutor. Attraktionen skulle bli som minst Förtrollande.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera Bondgårdar.[NEWLINE][NEWLINE]+1 [ICON_Food] Mat. Kan bara byggas på Gräsmark eller Slätter.[NEWLINE][NEWLINE]Att konstruera bondgårdar nära andra bondgårdar ger bonus till Boenden.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att bygga gruvor.[NEWLINE][NEWLINE]+1 [ICON_Production] Produktion. Kan bara byggas på Kullar och över vissa resurser.[NEWLINE][NEWLINE]Om den byggs på en Lyx eller Strategiska resurser så får staden tillgång till den resursen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_QUARRY_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera Stenbrott.[NEWLINE][NEWLINE]+1 [ICON_Production] Produktion. Kan bara byggas på [ICON_RESOURCE_STONE] Sten, [ICON_RESOURCE_MARBLE] Marmor, eller [ICON_RESOURCE_GYPSUM] Gips resurser.[NEWLINE][NEWLINE]Om byggd på en lyx resurs, kommer staden att få användning av den resursen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera Fiskebåtar.[NEWLINE][NEWLINE]+1 [ICON_Food] Mat. Kan bara byggas på Kust eller Hav resurser.[NEWLINE][NEWLINE]Om byggs på [ICON_RESOURCE_PEARLS] Pärlor eller [ICON_RESOURCE_WHALES] Valar, kommer staden att få tillgång till den resursen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera Betesmarker.[NEWLINE][NEWLINE]+1 [ICON_Production] Produktion. Kan bara byggas på [ICON_RESOURCE_CATTLE] Boskap, [ICON_RESOURCE_SHEEP] Får, eller [ICON_RESOURCE_HORSES] Hästresurser.[NEWLINE][NEWLINE]Om byggd på [ICON_RESOURCE_HORSES] Hästresurser, kommer staden att få tillgång till den resursen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera Plantager.[NEWLINE][NEWLINE]+1 [ICON_Gold] Guld. Kan bara byggas på [ICON_RESOURCE_BANANAS] Bananer, [ICON_RESOURCE_CITRUS] Citrus, [ICON_RESOURCE_COCOA] Kakao, [ICON_RESOURCE_COFFEE] Kaffe, [ICON_RESOURCE_COTTON] Bomull, [ICON_RESOURCE_DYES] Färgämnen, [ICON_RESOURCE_SILK] Silke, [ICON_RESOURCE_SPICES] Krydder, [ICON_RESOURCE_SUGAR] Socker, [ICON_RESOURCE_TEA] Te, [ICON_RESOURCE_TOBACCO] Tobak, eller [ICON_RESOURCE_WINE] Vinresurser.[NEWLINE][NEWLINE]Om byggd på en lyxresurs, kommer staden att få tillgång till den resursen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_CAMP_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera Militärförläggningar.[NEWLINE][NEWLINE]+1 [ICON_Gold] Guld. Kan bara byggas på [ICON_RESOURCE_FURS] Päls, [ICON_RESOURCE_IVORY] Elfenben, [ICON_RESOURCE_DEER] Rådjur, eller [ICON_RESOURCE_TRUFFLES] Tryffel resurser.[NEWLINE][NEWLINE]Om byggd på en Lyxresurs som [ICON_RESOURCE_FURS] Päls, [ICON_RESOURCE_TRUFFLES] Tryffel, eller [ICON_RESOURCE_IVORY] Elfenben, kommer staden att få tillgång till den resursen.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera ett Sågverk.[NEWLINE][NEWLINE]+1 [ICON_Production] Produktion. +1 [ICON_Production] Produktion om nära en Flod. Kan bara byggas på Skog.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera en Oljebrunn.[NEWLINE][NEWLINE]Kan bara byggas på [ICON_RESOURCE_OIL] Olja.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera en Oljeplattform.[NEWLINE][NEWLINE]Kan bara byggas på [ICON_RESOURCE_OIL] Olja.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_FORT_DESCRIPTION">
-			<Text>Enhet som befinner sig på rutan får +4 [ICON_Strength] Försvarsstyrka, och får automatiskt 2 rundor med befästning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION">
-			<Text>Låser upp Militärenginjörens förmåga att konstruera en Landningsbanor.[NEWLINE][NEWLINE]Kan supportera 3 Luftburna enheter. Kan bara byggas på plan terräng.</Text>
-		</Replace>
-		<!--Unique Improvements Description-->
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera ett Chateau, unik för Frankrike.[NEWLINE][NEWLINE]+1 [ICON_Culture] Kultur. +2 [ICON_Culture] Kultur om bredvid ett under. +1 [ICON_Gold] Guld om bredvid en lyxresurs. Kan bara byggas vid Floder.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera ett Kolossalt Huvud.[NEWLINE][NEWLINE]+2 [ICON_Faith] Övertygelse. +1 [ICON_Faith] Övertygelse för varje 2 närliggande Regnskog. +1 [ICON_Faith] Övertygelse för varje 2 närliggande Skog. Kan inte byggas på Snö eller Snökullar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera den Kinesiska Muren, unik för Kina.[NEWLINE][NEWLINE]Ger ökat [ICON_Strength] Försvar. Bonus [ICON_Gold] Guld om nära andra delar av muren. Ytterligare [ICON_Culture] Kultur och [ICON_Tourism] Turism allt eftersom du avancerar genom Teknologi-trädet för närliggande segment. Måste byggas i en linje längsmed gränsen av ditt rike.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera en Kurgan, unik för Skytien.[NEWLINE][NEWLINE]+1 [ICON_Faith] Övertygelse. +1 [ICON_Gold] Guld. +1 [ICON_Faith] Övertygelse för varje närliggande betesmark. Kan inte byggas på Kullar.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera en Mission, unik för Spanien.[NEWLINE][NEWLINE]+1 [ICON_Faith] Övertygelse. +2 [ICON_Faith] Övertygelse om den är på en annan kontinent än din [ICON_Capital] Huvudstad. +1 [ICON_Science] Vetenskap om byggd nära ett Campus distrikt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION">
-			<Text>Låser upp Roman Legion förmåga att konstruera ett Romansk Fort, unik för Rom.[NEWLINE][NEWLINE]Enhet som befinner sig på rutan får +4 [ICON_Strength] Försvarsstyrka, och får automatiskt 2 rundor med befästning.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera en Sfinx, unik för Egypten.[NEWLINE][NEWLINE]+1 [ICON_Faith] Övertygelse och +1 [ICON_Culture] Kultur. +2 [ICON_Faith] Övertygelse om nära ett under. Kan inte byggas nära en annan Sfinx. Kan byggas på Flodslätt.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_STEPWELL_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera en Trappbrunn, unik för Indien.[NEWLINE][NEWLINE]1 [ICON_Food] Food and +1 [ICON_Housing] Housing. +1 [ICON_Faith] Övertygelse om nära ett Heligt Platsdistrikt. +1 [ICON_Food] Mat om nära en Bondgård. Kan inte byggas på Kullar eller nära en Trappbrunn.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
-			<Text>Låser upp Byggarens förmåga att konstruera en Ziggurat, unik för Sumerien.[NEWLINE][NEWLINE]+2 [ICON_Science] Vetenskap. +1 [ICON_Culture] Kultur om nära Flod. Kan inte byggas på Kullar.</Text>
-		</Replace>
-		<!--Goody Huts -->
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION">
-			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} Du fick en Relik.[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION">
-			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_MEDIUM_GOLD_DESCRIPTION">
-			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_SMALL_GOLD_DESCRIPTION">
-			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_LARGE_FAITH_DESCRIPTION">
-			<Text>+{1_Num} [ICON_Faith]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_MEDIUM_FAITH_DESCRIPTION">
-			<Text>+{1_Num} [ICON_Faith]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_SMALL_FAITH_DESCRIPTION">
-			<Text>+{1_Num} [ICON_Faith]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION">
-			<Text>[COLOR_FLOAT_MILITARY]Du fick en Spejare enhet.[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION">
-			<Text>[COLOR_FLOAT_MILITARY]Din enhet blev befordrad.[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION">
-			<Text>[COLOR_FLOAT_MILITARY]Din enhet har fått erfarenhet.[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION">
-			<Text>[COLOR_FLOAT_MILITARY]Din enhet har helats.[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION">
-			<Text>[COLOR_FLOAT_SCIENCE]En gratis teknologi.[ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION">
-			<Text>+{1_Num} Ny befolkning</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION">
-			<Text>Du blev tilldelad {1_Num}  {1_Num: plural 1?{2_Unit} enhet; other?{2_Unit} enheter;}.</Text>
-		</Replace>
-		<!--Barbarian Camps -->
-		<Replace Language="sv_SE" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION">
-			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_FAITH">
-			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>
-		</Replace>
-		<!--Nuclear -->
-		<Replace Language="sv_SE" Tag="LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION">
-			<Text>Låser upp Militärenginjörens förmåga att konstruera en Missil-Silo.[NEWLINE][NEWLINE]Fungerar som en avfyrningsplats för Atom och Termo-nuklära vapen.</Text>
-		</Replace>
-	</LocalizedText>
-</GameData>
+<?xml version="1.0" encoding="utf-8"?><!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by matthew beach (Firaxis Games) --><GameData>	<LocalizedText>		<!--Improvements Description-->		<Replace Tag='LOC_IMPROVEMENT_BARBARIAN_CAMP_DESCRIPTION' Language='sv_SE'>			<Text>Skapar ytterligare Barbarer. [ICON_Gold] Guld belöning om den förstörs.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_BEACH_RESORT_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera Badort.[NEWLINE][NEWLINE]Rutan får dubblerad Attraktion för [ICON_Tourism] Turism. Kan bara byggas på Kustnära Öken, Kustnära Slätter, eller Kustnära Gräsmark rutor. Attraktionen skulle bli som minst Förtrollande.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_FARM_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera Bondgårdar.[NEWLINE][NEWLINE]+1 [ICON_Food] Mat. Kan bara byggas på Gräsmark eller Slätter.[NEWLINE][NEWLINE]Att konstruera bondgårdar nära andra bondgårdar ger bonus till Boenden.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_MINE_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att bygga gruvor.[NEWLINE][NEWLINE]+1 [ICON_Production] Produktion. Kan bara byggas på Kullar och över vissa resurser.[NEWLINE][NEWLINE]Om den byggs på en Lyx eller Strategiska resurser så får staden tillgång till den resursen.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_QUARRY_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera Stenbrott.[NEWLINE][NEWLINE]+1 [ICON_Production] Produktion. Kan bara byggas på [ICON_RESOURCE_STONE] Sten, [ICON_RESOURCE_MARBLE] Marmor, eller [ICON_RESOURCE_GYPSUM] Gips resurser.[NEWLINE][NEWLINE]Om byggd på en lyx resurs, kommer staden att få användning av den resursen.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera Fiskebåtar.[NEWLINE][NEWLINE]+1 [ICON_Food] Mat. Kan bara byggas på Kust eller Hav resurser.[NEWLINE][NEWLINE]Om byggs på [ICON_RESOURCE_PEARLS] Pärlor eller [ICON_RESOURCE_WHALES] Valar, kommer staden att få tillgång till den resursen.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_PASTURE_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera Betesmarker.[NEWLINE][NEWLINE]+1 [ICON_Production] Produktion. Kan bara byggas på [ICON_RESOURCE_CATTLE] Boskap, [ICON_RESOURCE_SHEEP] Får, eller [ICON_RESOURCE_HORSES] Hästresurser.[NEWLINE][NEWLINE]Om byggd på [ICON_RESOURCE_HORSES] Hästresurser, kommer staden att få tillgång till den resursen.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_PLANTATION_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera Plantager.[NEWLINE][NEWLINE]+1 [ICON_Gold] Guld. Kan bara byggas på [ICON_RESOURCE_BANANAS] Bananer, [ICON_RESOURCE_CITRUS] Citrus, [ICON_RESOURCE_COCOA] Kakao, [ICON_RESOURCE_COFFEE] Kaffe, [ICON_RESOURCE_COTTON] Bomull, [ICON_RESOURCE_DYES] Färgämnen, [ICON_RESOURCE_SILK] Silke, [ICON_RESOURCE_SPICES] Krydder, [ICON_RESOURCE_SUGAR] Socker, [ICON_RESOURCE_TEA] Te, [ICON_RESOURCE_TOBACCO] Tobak, eller [ICON_RESOURCE_WINE] Vinresurser.[NEWLINE][NEWLINE]Om byggd på en lyxresurs, kommer staden att få tillgång till den resursen.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_CAMP_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera Militärförläggningar.[NEWLINE][NEWLINE]+1 [ICON_Gold] Guld. Kan bara byggas på [ICON_RESOURCE_FURS] Päls, [ICON_RESOURCE_IVORY] Elfenben, [ICON_RESOURCE_DEER] Rådjur, eller [ICON_RESOURCE_TRUFFLES] Tryffel resurser.[NEWLINE][NEWLINE]Om byggd på en Lyxresurs som [ICON_RESOURCE_FURS] Päls, [ICON_RESOURCE_TRUFFLES] Tryffel, eller [ICON_RESOURCE_IVORY] Elfenben, kommer staden att få tillgång till den resursen.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera ett Sågverk.[NEWLINE][NEWLINE]+1 [ICON_Production] Produktion. +1 [ICON_Production] Produktion om nära en Flod. Kan bara byggas på Skog.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_OIL_WELL_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera en Oljebrunn.[NEWLINE][NEWLINE]Kan bara byggas på [ICON_RESOURCE_OIL] Olja.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_OFFSHORE_OIL_RIG_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera en Oljeplattform.[NEWLINE][NEWLINE]Kan bara byggas på [ICON_RESOURCE_OIL] Olja.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_FORT_DESCRIPTION' Language='sv_SE'>			<Text>Enhet som befinner sig på rutan får +4 [ICON_Strength] Försvarsstyrka, och får automatiskt 2 rundor med befästning.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_AIRSTRIP_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Militärenginjörens förmåga att konstruera en Landningsbanor.[NEWLINE][NEWLINE]Kan supportera 3 Luftburna enheter. Kan bara byggas på plan terräng.</Text>		</Replace>		<!--Unique Improvements Description-->		<Replace Tag='LOC_IMPROVEMENT_CHATEAU_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera ett Chateau, unik för Frankrike.[NEWLINE][NEWLINE]+1 [ICON_Culture] Kultur. +2 [ICON_Culture] Kultur om bredvid ett under. +1 [ICON_Gold] Guld om bredvid en lyxresurs. Kan bara byggas vid Floder.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_COLOSSAL_HEAD_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera ett Kolossalt Huvud.[NEWLINE][NEWLINE]+2 [ICON_Faith] Övertygelse. +1 [ICON_Faith] Övertygelse för varje 2 närliggande Regnskog. +1 [ICON_Faith] Övertygelse för varje 2 närliggande Skog. Kan inte byggas på Snö eller Snökullar.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera den Kinesiska Muren, unik för Kina.[NEWLINE][NEWLINE]Ger ökat [ICON_Strength] Försvar. Bonus [ICON_Gold] Guld om nära andra delar av muren. Ytterligare [ICON_Culture] Kultur och [ICON_Tourism] Turism allt eftersom du avancerar genom Teknologi-trädet för närliggande segment. Måste byggas i en linje längsmed gränsen av ditt rike.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_KURGAN_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera en Kurgan, unik för Skytien.[NEWLINE][NEWLINE]+1 [ICON_Faith] Övertygelse. +1 [ICON_Gold] Guld. +1 [ICON_Faith] Övertygelse för varje närliggande betesmark. Kan inte byggas på Kullar.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_MISSION_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera en Mission, unik för Spanien.[NEWLINE][NEWLINE]+1 [ICON_Faith] Övertygelse. +2 [ICON_Faith] Övertygelse om den är på en annan kontinent än din [ICON_Capital] Huvudstad. +1 [ICON_Science] Vetenskap om byggd nära ett Campus distrikt.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_ROMAN_FORT_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Roman Legion förmåga att konstruera ett Romansk Fort, unik för Rom.[NEWLINE][NEWLINE]Enhet som befinner sig på rutan får +4 [ICON_Strength] Försvarsstyrka, och får automatiskt 2 rundor med befästning.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_SPHINX_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera en Sfinx, unik för Egypten.[NEWLINE][NEWLINE]+1 [ICON_Faith] Övertygelse och +1 [ICON_Culture] Kultur. +2 [ICON_Faith] Övertygelse om nära ett under. Kan inte byggas nära en annan Sfinx. Kan byggas på Flodslätt.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_STEPWELL_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera en Trappbrunn, unik för Indien.[NEWLINE][NEWLINE]1 [ICON_Food] Food and +1 [ICON_Housing] Housing. +1 [ICON_Faith] Övertygelse om nära ett Heligt Platsdistrikt. +1 [ICON_Food] Mat om nära en Bondgård. Kan inte byggas på Kullar eller nära en Trappbrunn.</Text>		</Replace>		<Replace Tag='LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Byggarens förmåga att konstruera en Ziggurat, unik för Sumer.[NEWLINE][NEWLINE]+2 [ICON_Science] Vetenskap. +1 [ICON_Culture] Kultur om nära Flod. Kan inte byggas på Kullar.</Text>		</Replace>		<!--Goody Huts -->		<Replace Tag='LOC_GOODYHUT_CULTURE_RELIC_DESCRIPTION' Language='sv_SE'>			<Text>[COLOR_FLOAT_CULTURE]{1_Relic} Du fick en Relik.[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_LARGE_GOLD_DESCRIPTION' Language='sv_SE'>			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_MEDIUM_GOLD_DESCRIPTION' Language='sv_SE'>			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_SMALL_GOLD_DESCRIPTION' Language='sv_SE'>			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_LARGE_FAITH_DESCRIPTION' Language='sv_SE'>			<Text>+{1_Num} [ICON_Faith]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_MEDIUM_FAITH_DESCRIPTION' Language='sv_SE'>			<Text>+{1_Num} [ICON_Faith]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_SMALL_FAITH_DESCRIPTION' Language='sv_SE'>			<Text>+{1_Num} [ICON_Faith]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_MILITARY_GRANT_UNIT_DESCRIPTION' Language='sv_SE'>			<Text>[COLOR_FLOAT_MILITARY]Du fick en rekognosceringsenhet.[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_MILITARY_GRANT_UPGRADE_DESCRIPTION' Language='sv_SE'>			<Text>[COLOR_FLOAT_MILITARY]Din enhet blev befordrad.[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_MILITARY_GRANT_EXPERIENCE_DESCRIPTION' Language='sv_SE'>			<Text>[COLOR_FLOAT_MILITARY]Din enhet har fått erfarenhet.[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_MILITARY_HEAL_DESCRIPTION' Language='sv_SE'>			<Text>[COLOR_FLOAT_MILITARY]Din enhet har helats.[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_SCIENCE_ONE_TECH_DESCRIPTION' Language='sv_SE'>			<Text>[COLOR_FLOAT_SCIENCE]En gratis teknologi.[ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_SURVIVORS_ADD_POP_DESCRIPTION' Language='sv_SE'>			<Text>+{1_Num} Ny befolkning</Text>		</Replace>		<Replace Tag='LOC_GOODYHUT_SURVIVORS_GRANT_UNIT_DESCRIPTION' Language='sv_SE'>			<Text>Du blev tilldelad {1_Num}  {1_Num: plural 1?{2_Unit} enhet; other?{2_Unit} enheter;}.</Text>		</Replace>		<!--Barbarian Camps -->		<Replace Tag='LOC_BARB_CAMP_DISPERSAL_DESCRIPTION' Language='sv_SE'>			<Text>[COLOR_FLOAT_GOLD]+{1_Num} [ICON_Gold][ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_BARB_CAMP_DISPERSAL_DESCRIPTION_FAITH' Language='sv_SE'>			<Text>[COLOR_FLOAT_FAITH]+{1_Num} [ICON_Faith][ENDCOLOR]</Text>		</Replace>		<!--Nuclear -->		<Replace Tag='LOC_IMPROVEMENT_MISSILE_SILO_DESCRIPTION' Language='sv_SE'>			<Text>Låser upp Militärenginjörens förmåga att konstruera en Missil-Silo.[NEWLINE][NEWLINE]Fungerar som en avfyrningsplats för Atom och Termo-nuklära vapen.</Text>		</Replace>	</LocalizedText></GameData>

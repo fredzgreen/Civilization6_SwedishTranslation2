@@ -1,30 +1,1 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
-<GameData>
-	<LocalizedText>
-		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_SETTLER_NAME">
-			<Text>Nybyggare</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_CHIEFTAIN_NAME">
-			<Text>Hövding</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_WARLORD_NAME">
-			<Text>Fältherre</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_PRINCE_NAME">
-			<Text>Prins</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_KING_NAME">
-			<Text>Kung</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_EMPEROR_NAME">
-			<Text>Kejsare</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_IMMORTAL_NAME">
-			<Text>Odödlig</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_DIFFICULTY_DEITY_NAME">
-			<Text>Gudom</Text>
-		</Replace>
-	</LocalizedText>
-</GameData>
+﻿<?xml version="1.0" encoding="utf-8"?><!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) --><GameData>	<LocalizedText>		<Replace Tag='LOC_DIFFICULTY_SETTLER_NAME' Language='sv_SE'>			<Text>Nybyggare</Text>		</Replace>		<Replace Tag='LOC_DIFFICULTY_CHIEFTAIN_NAME' Language='sv_SE'>			<Text>Hövding</Text>		</Replace>		<Replace Tag='LOC_DIFFICULTY_WARLORD_NAME' Language='sv_SE'>			<Text>Fältherre</Text>		</Replace>		<Replace Tag='LOC_DIFFICULTY_PRINCE_NAME' Language='sv_SE'>			<Text>Prins</Text>		</Replace>		<Replace Tag='LOC_DIFFICULTY_KING_NAME' Language='sv_SE'>			<Text>Kung</Text>		</Replace>		<Replace Tag='LOC_DIFFICULTY_EMPEROR_NAME' Language='sv_SE'>			<Text>Kejsare</Text>		</Replace>		<Replace Tag='LOC_DIFFICULTY_IMMORTAL_NAME' Language='sv_SE'>			<Text>Odödlig</Text>		</Replace>		<Replace Tag='LOC_DIFFICULTY_DEITY_NAME' Language='sv_SE'>			<Text>Gudom</Text>		</Replace>	</LocalizedText></GameData>

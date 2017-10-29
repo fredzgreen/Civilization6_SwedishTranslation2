@@ -1,1138 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<GameData>
-	<LocalizedText>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TITLE">
-			<Text>OPTIONS</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT">
-			<Text>This will reset ALL options to their default values.[NEWLINE][NEWLINE][COLOR_RED]Some changes may not take effect until you restart the application.[ENDCOLOR][NEWLINE][NEWLINE]Reset options?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CHANGES_REQUIRE_APP_RESTART">
-			<Text>Some changes may not take effect until you restart the application.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CHANGES_REQUIRE_GAME_RESTART">
-			<Text>Some changes may not take effect until you restart the current game.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_RESOLUTION_OK">
-			<Text>Do you want to keep the current resolution settings?</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_OK">
-			<Text>OK</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_YES">
-			<Text>Yes</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_NO">
-			<Text>No</Text>
-		</Replace>
-
-		<!-- Option Enums -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_ENABLED">
-			<Text>Enabled</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_DISABLED">
-			<Text>Disabled</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_MINIMUM">
-			<Text>Minimum</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LOW">
-			<Text>Low</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_MEDIUM">
-			<Text>Medium</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HIGH">
-			<Text>High</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_ULTRA">
-			<Text>Ultra</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CUSTOM">
-			<Text>Custom</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TOD_NONE">
-			<Text>None</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TOD_REAL_LIFE">
-			<Text>Match local time</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TOD_X_TURNS">
-			<Text>Every {1_num} turns</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TOD_10_TURNS">
-			<Text>Every 10 turns</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TOD_ERA_PROGRESSION">
-			<Text>As eras progress</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_NEVER">
-			<Text>Never</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_ALWAYS">
-			<Text>Always</Text>
-		</Replace>
-
-		<!-- Gameplay Panel -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION">
-			<Text>New to Civilization VI</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_STRATEGY">
-			<Text>New to Civilization</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
-			<Text>New to turn-based strategy</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
-			<Text>Animated Time of Day:</Text>
-		</Replace>
-
-		<!-- Graphics Panel - Option Enums -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TICK_INTERVAL_30_FPS">
-			<Text>30 FPS</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TICK_INTERVAL_20_FPS">
-			<Text>20 FPS</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TICK_INTERVAL_60_FPS">
-			<Text>60 FPS</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_WINDOW_MODE_WINDOWED">
-			<Text>Windowed</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_WINDOW_MODE_FULLSCREEN">
-			<Text>Full Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_WINDOW_MODE_BORDERLESS">
-			<Text>Borderless Window</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_MSAA_2X">
-			<Text>MSAA 2X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_MSAA_4X">
-			<Text>MSAA 4X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_MSAA_8X">
-			<Text>MSAA 8X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_MSAA_16X">
-			<Text>MSAA 16X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_MSAA_32X">
-			<Text>MSAA 32X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_MSAA_FULL">
-			<Text>MSAA Full</Text>
-		</Replace>
-		
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CSAA_2X">
-			<Text>CSAA 2X / 4X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CSAA_4X">
-			<Text>CSAA 4X / 8X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CSAA_8X">
-			<Text>CSAA 8X / 16X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CSAA_16X">
-			<Text>CSAA 16X / 32X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CSAA_32X">
-			<Text>CSAA 32X / 64X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_CSAA_FULL">
-			<Text>CSAA Full</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_EQAA_2X">
-			<Text>EQAA 2X / 4X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_EQAA_4X">
-			<Text>EQAA 4X / 8X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_EQAA_8X">
-			<Text>EQAA 8X / 16X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_EQAA_16X">
-			<Text>EQAA 16X / 32X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_EQAA_32X">
-			<Text>EQAA 32X / 64X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_EQAA_FULL">
-			<Text>EQAA Full</Text>
-		</Replace>
-			
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
-			<Text>Low (Memory-Optimized)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LOW_PERFORMANCE_OPTIMIZED">
-			<Text>Low (Performance-Optimized)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_MEDIUM_MEMORY_OPTIMIZED">
-			<Text>Medium (Memory-Optimized)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_MEDIUM_PERFORMANCE_OPTIMIZED">
-			<Text>Medium (Performance-Optimized)</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_REFLECTION_1PASS">
-			<Text>1 Pass</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_REFLECTION_2PASSES">
-			<Text>2 Passes</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_REFLECTION_3PASSES">
-			<Text>3 Passes</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_REFLECTION_4PASSES">
-			<Text>4 Passes</Text>
-		</Replace>
-
-		<!-- Graphics Panel - Main -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_ADAPTER_TEXT">
-			<Text>GPU Selection:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_ADAPTER_TOOLTIP">
-			<Text>Tells the game which graphics card to use.[NEWLINE][NEWLINE][COLOR_RED]Requires application restart![ENDCOLOR]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TEXT">
-			<Text>Resolution:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_RESOLUTION_TOOLTIP">
-			<Text>Sets the resolution the game renders at.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TEXT">
-			<Text>UI Upscaling</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_UI_UPSCALE_TOOLTIP">
-			<Text>Increases the size of the user interface.[NEWLINE](Only available at certain resolutions.)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TEXT">
-			<Text>Window Mode:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_WINDOW_MODE_TOOLTIP">
-			<Text>Modifies how the game's window is displayed.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TEXT">
-			<Text>Performance Impact:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_PERFORMANCE_TOOLTIP">
-			<Text>Changes advanced settings to match the desired performance impact.[NEWLINE][NEWLINE]Lower values decrease visual fidelity, but [COLOR_Civ6DarkRed]increase performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_MEMORY_TEXT">
-			<Text>Memory Impact:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_MEMORY_TOOLTIP">
-			<Text>Changes advanced settings to match the desired memory impact.[NEWLINE][NEWLINE]Lower values decrease visual fidelity, but [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-
-		<!-- Graphics Panel - Advanced -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_SHOW_ADVANCED_GRAPHICS">
-			<Text>Show Advanced Options</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HIDE_ADVANCED_GRAPHICS">
-			<Text>Hide Advanced Options</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_ADVANCED_GRAPHICS">
-			<Text>Advanced Graphics Settings</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TEXT">
-			<Text>Vertical Sync</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TOOLTIP">
-			<Text>Prevents visual tearing.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TEXT">
-			<Text>Frame Limiter:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TOOLTIP">
-			<Text>Limits the rate at which the game renders.[NEWLINE][NEWLINE]Might increase battery life on portable devices when enabled.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_MSAA_TEXT">
-			<Text>Anti-Aliasing:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_MSAA_TOOLTIP">
-			<Text>Smooths out jagged edges.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TEXT">
-			<Text>High-Resolution Asset Textures</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TOOLTIP">
-			<Text>Uses high-detail textures for game assets.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TEXT">
-			<Text>High-Quality Visual Effects:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TOOLTIP">
-			<Text>Spawns more particle effects.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-
-		<!-- Graphics Panel - Lighting -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING">
-			<Text>Lighting</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TEXT">
-			<Text>Ambient Occlusion</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING_AO_ENABLED_TOOLTIP">
-			<Text>Darkens areas of objects that are less exposed to ambient light.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TEXT">
-			<Text>Ambient Occlusion Depth Resolution:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TOOLTIP">
-			<Text>Changes the ambient occlusion detail.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TEXT">
-			<Text>Ambient Occlusion Render Resolution:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TOOLTIP">
-			<Text>Changes the ambient occlusion quality.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TEXT">
-			<Text>Bloom</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TOOLTIP">
-			<Text>Adds glow to bright lights and reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TEXT">
-			<Text>Dynamic Lighting</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TOOLTIP">
-			<Text>Adds light sources other than the sun.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-
-		<!-- Graphics Panel - Shadows -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_SHADOWS">
-			<Text>Shadows</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_SHADOWS_ENABLED_TEXT">
-			<Text>Shadows</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_SHADOWS_ENABLED_TOOLTIP">
-			<Text>Add dark areas where light is blocked by an object.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TEXT">
-			<Text>Shadow Resolution:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_SHADOWS_RESOLUTION_TOOLTIP">
-			<Text>Changes the sharpness and detail of shadows.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-
-		<!-- Graphics Panel - Overlay -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_OVERLAY">
-			<Text>Overlay</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TEXT">
-			<Text>Overlay Resolution:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_OVERLAY_RESOLUTION_TOOLTIP">
-			<Text>Changes the sharpness and detail of overlays.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TEXT">
-			<Text>Screen-Space Overlay</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_SSOVERLAY_ENABLED_TOOLTIP">
-			<Text>Draws the overlays on top of everything, not just on top of the terrain.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-
-		<!-- Graphics Panel - Terrain -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN">
-			<Text>Terrain</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN_QUALITY_TEXT">
-			<Text>Quality:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN_QUALITY_TOOLTIP">
-			<Text>Changes the terrain detail.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and/or [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXT">
-			<Text>High-Resolution Geometry</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TOOLTIP">
-			<Text>Terrain geometry becomes sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TEXT">
-			<Text>High-Resolution Textures</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TOOLTIP">
-			<Text>Terrain textures become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TEXT">
-			<Text>High-Quality Shader</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TOOLTIP">
-			<Text>Changes the terrain lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TEXT">
-			<Text>High-Detail Clutter</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TOOLTIP">
-			<Text>Increases the amount of trees and ice chunks.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-
-		<!-- Graphics Panel - Water -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_WATER">
-			<Text>Water</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TEXT">
-			<Text>High-Resolution Water</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_WATER_HIGH_RESOLUTION_TOOLTIP">
-			<Text>Water waves and highlights become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TEXT">
-			<Text>High-Quality Shader</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TOOLTIP">
-			<Text>Changes the water lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TEXT">
-			<Text>Reflections:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_WATER_REFLECTION_PASSES_TOOLTIP">
-			<Text>Control the quality of water reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>
-		</Replace>
-
-		<!-- Graphics Panel - Leaders -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LEADERS">
-			<Text>Animated Leaders</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LEADER_QUALITY_TEXT">
-			<Text>Quality:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_LEADER_QUALITY_TOOLTIP">
-			<Text>Changes the appearance of leaders.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR] and lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>
-		</Replace>
-
-		<!-- Application Panel -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_APP_SHOW_MOVIE">
-			<Text>Show Intro Video:</Text>
-		</Replace>
-
-		<!-- Interface Panel -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_INTERFACE_GRAB_MOUSE">
-			<Text>Lock Mouse to Window:</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_INTERFACE_EDGE_SCROLL">
-			<Text>Scroll when Mouse at Edge:</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_INTERFACE_CLOCK_FORMAT">
-			<Text>Clock Format:</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_12HOUR">
-			<Text>12-Hour</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_24HOUR">
-			<Text>24-Hour</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_INTERFACE_TIME_OF_DAY">
-			<Text>Time of Day behavior:</Text>
-		</Replace>
-
-
-		<!-- Hotkeys Panel -->
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI">
-			<Text>User Interface:</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_TECH">
-			<Text>Toggle Tech Tree</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS">
-			<Text>Toggle Civics Tree</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_GOV">
-			<Text>Toggle Government Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION">
-			<Text>Toggle Religion Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE">
-			<Text>Toggle Great People Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS">
-			<Text>Toggle Great Works Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS">
-			<Text>Toggle Rankings Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES">
-			<Text>Toggle City-States Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE">
-			<Text>Toggle Espionage Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES">
-			<Text>Toggle Trade Routes Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA">
-			<Text>Open the Civilopedia</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_TECH_HELP">
-			<Text>Toggles visibility of the Tech Tree</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS_HELP">
-			<Text>Toggles visibility of the Civics Tree</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_GOV_HELP">
-			<Text>Toggles visibility of the Government Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION_HELP">
-			<Text>Toggles visibility of the Religion Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE_HELP">
-			<Text>Toggles visibility of the Great People Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS_HELP">
-			<Text>Toggles visibility of the Great Works Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS_HELP">
-			<Text>Toggles visibility of the Rankings Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES_HELP">
-			<Text>Toggles visibility of the City-States Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE_HELP">
-			<Text>Toggles visibility of the Espionage Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES_HELP">
-			<Text>Toggles visibility of the Trade Routes Screen</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA_HELP">
-			<Text>Opens the Civilopedia</Text>
-		</Replace>
-
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UNIT">
-			<Text>Unit Actions:</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY">
-			<Text>Found City</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO">
-			<Text>Move To</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY">
-			<Text>Fortify</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE">
-			<Text>Delete Unit</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK">
-			<Text>Attack</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED">
-			<Text>Ranged Attack</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP">
-			<Text>Automate Exploration</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN">
-			<Text>Skip Turn</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP">
-			<Text>Sleep</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP">
-			<Text>Performs the Found City action if the selected unit is a Settler.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO_HELP">
-			<Text>Performs the Move To action with the selected unit.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HELP">
-			<Text>Fortifies the selected unit.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE_HELP">
-			<Text>Deletes the selected unit.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK_HELP">
-			<Text>Performs the Attack action with the selected unit.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED_HELP">
-			<Text>Performs the Ranged Attack action with the selected unit.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP_HELP">
-			<Text>Enables auto-explore on the selected unit.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN_HELP">
-			<Text>The selected unit skips the current turn.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP_HELP">
-			<Text>Performs the Sleep action with the selected unit.</Text>
-		</Replace>
-
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL">
-			<Text>Global Actions:</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN">
-			<Text>Next Action</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID">
-			<Text>Toggle Grid</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU">
-			<Text>In-Game Menu</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE">
-			<Text>QuickSave</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD">
-			<Text>QuickLoad</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
-			<Text>Ends the player's turn if possible.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID_HELP">
-			<Text>Toggles a grid overlay over the terrain.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU_HELP">
-			<Text>Brings up the in-game menu.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE_HELP">
-			<Text>Performs a quick save.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD_HELP">
-			<Text>Loads the most recent quick save, if one exists.</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
-			<Text>Online Actions:</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE">
-			<Text>Online Pause</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE_HELP">
-			<Text>Pauses an Online game.</Text>
-		</Replace>
-
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_LENSES">
-			<Text>Lenses:</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION">
-			<Text>Religion</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT">
-			<Text>Continent</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL">
-			<Text>Appeal</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER">
-			<Text>Settler</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT">
-			<Text>Government</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL">
-			<Text>Political</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
-			<Text>Toggles the Religion lens.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT_HELP">
-			<Text>Toggles the Continent lens.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL_HELP">
-			<Text>Toggles the Appeal lens.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER_HELP">
-			<Text>Toggles the Settler lens.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT_HELP">
-			<Text>Toggles the Government lens.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL_HELP">
-			<Text>Toggles the Political lens.</Text>
-		</Replace>
-
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_UNDERSCORE">
-			<Text>_</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_A">
-			<Text>A</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_B">
-			<Text>B</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_C">
-			<Text>C</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_D">
-			<Text>D</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_E">
-			<Text>E</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F">
-			<Text>F</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_G">
-			<Text>G</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_H">
-			<Text>H</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_I">
-			<Text>I</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_J">
-			<Text>J</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_K">
-			<Text>K</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_L">
-			<Text>L</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_M">
-			<Text>M</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_N">
-			<Text>N</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_O">
-			<Text>O</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_P">
-			<Text>P</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_Q">
-			<Text>Q</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_R">
-			<Text>R</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_S">
-			<Text>S</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_T">
-			<Text>T</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_U">
-			<Text>U</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_V">
-			<Text>V</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_W">
-			<Text>W</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_X">
-			<Text>X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_Y">
-			<Text>Y</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_Z">
-			<Text>Z</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_0">
-			<Text>0</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_1">
-			<Text>1</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_2">
-			<Text>2</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_3">
-			<Text>3</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_4">
-			<Text>4</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_5">
-			<Text>5</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_6">
-			<Text>6</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_7">
-			<Text>7</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_8">
-			<Text>8</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_9">
-			<Text>9</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_0">
-			<Text>0 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_1">
-			<Text>1 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_2">
-			<Text>2 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_3">
-			<Text>3 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_4">
-			<Text>4 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_5">
-			<Text>5 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_6">
-			<Text>6 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_7">
-			<Text>7 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_8">
-			<Text>8 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_9">
-			<Text>9 (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_MULTIPLY">
-			<Text>* (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_PLUS">
-			<Text>+ (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_MINUS">
-			<Text>- (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_DECIMAL">
-			<Text>. (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_DIVIDE">
-			<Text>/ (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NP_CENTER">
-			<Text>Center (Number Pad)</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F1">
-			<Text>F1</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F2">
-			<Text>F2</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F3">
-			<Text>F3</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F4">
-			<Text>F4</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F5">
-			<Text>F5</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F6">
-			<Text>F6</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F7">
-			<Text>F7</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F8">
-			<Text>F8</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F9">
-			<Text>F9</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F10">
-			<Text>F10</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F11">
-			<Text>F11</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F12">
-			<Text>F12</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F13">
-			<Text>F13</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F14">
-			<Text>F14</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F15">
-			<Text>F15</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F16">
-			<Text>F16</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F17">
-			<Text>F17</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F18">
-			<Text>F18</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F19">
-			<Text>F19</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F20">
-			<Text>F20</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F21">
-			<Text>F21</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F22">
-			<Text>F22</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F23">
-			<Text>F23</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_F24">
-			<Text>F24</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_INSERT">
-			<Text>Insert</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_HOME">
-			<Text>Home</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_PAGEUP">
-			<Text>Page Up</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_DELETE">
-			<Text>Delete</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_END">
-			<Text>End</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_PAGEDOWN">
-			<Text>Page Down</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_LEFT">
-			<Text>Left Arrow</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_UP">
-			<Text>Up Arrow</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_RIGHT">
-			<Text>Right Arrow</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_DOWN">
-			<Text>Down Arrow</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_SEMICOLON">
-			<Text>;</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_PLUS">
-			<Text>+</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_COMMA">
-			<Text>,</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_MINUS">
-			<Text>-</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_PERIOD">
-			<Text>.</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_SLASH">
-			<Text>/</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_TILDE">
-			<Text>~</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_LBRACKET">
-			<Text>[</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_BACKSLASH">
-			<Text>\</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_RBRACKET">
-			<Text>]</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_QUOTE">
-			<Text>"</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_PRINTSCREEN">
-			<Text>Print Scrn</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_PAUSE">
-			<Text>Pause</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_SPACE">
-			<Text>Space</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_TAB">
-			<Text>Tab</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_RETURN">
-			<Text>Return</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_ESCAPE">
-			<Text>Esc</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_BACKSPACE">
-			<Text>Backspace</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_CANCEL">
-			<Text>Cancel</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_SHIFT">
-			<Text>Shift</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_CONTROL">
-			<Text>Control</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_ALT">
-			<Text>Alt</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_LSHIFT">
-			<Text>Left Shift</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_LCONTROL">
-			<Text>Left Control</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_LALT">
-			<Text>Left Alt</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_RSHIFT">
-			<Text>Right Shift</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_RCONTROL">
-			<Text>Right Control</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_RALT">
-			<Text>Right Alt</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_LBUTTON">
-			<Text>Left Mouse Button</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_RBUTTON">
-			<Text>Right Mouse Button</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_MBUTTON">
-			<Text>Middle Mouse Button</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_CAPSLOCK">
-			<Text>Caps Lock</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NUMLOCK">
-			<Text>Num Lock</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_SCROLLLOCK">
-			<Text>Scroll Lock</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_LWIN">
-			<Text>Left Win</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_RWIN">
-			<Text>Right Win</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_APPS">
-			<Text>Apps</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_DANOMITE">
-			<Text></Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_IGNORE">
-			<Text></Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_A">
-			<Text>Pad A</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_B">
-			<Text>Pad B</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_X">
-			<Text>Pad X</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_Y">
-			<Text>Pad Y</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_RSHOULDER">
-			<Text>Pad RB</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_LSHOULDER">
-			<Text>Pad LB</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_LTRIGGER">
-			<Text>Pad LT</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_RTRIGGER">
-			<Text>Pad RT</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_DPAD_UP">
-			<Text>Pad Dpad Up</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_DPAD_DOWN">
-			<Text>Pad Dpad Down</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_DPAD_LEFT">
-			<Text>Pad Dpad Left</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_DPAD_RIGHT">
-			<Text>Pad Dpad Right</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_START">
-			<Text>Pad Start</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_BACK">
-			<Text>Pad Back</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS">
-			<Text>Pad LStick</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS">
-			<Text>Pad RStick</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_VOLUME_MUTE">
-			<Text>Mute</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_VOLUME_DOWN">
-			<Text>Vol. Down</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_VOLUME_UP">
-			<Text>Vol. Up</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_MEDIA_NEXT_TRACK">
-			<Text>Next Track</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_MEDIA_PREV_TRACK">
-			<Text>Prev Track</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_MEDIA_STOP">
-			<Text>Stop</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_MEDIA_PLAY_PAUSE">
-			<Text>Play / Pause</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_KEY_NUM_KEYS">
-			<Text>Num Keys</Text>
-		</Replace>
-		<Replace Language="sv_SE" Tag="LOC_OPTIONS_SUBTITLES">
-			<Text>Cinematic Subtitles:</Text>
-		</Replace>
-	</LocalizedText>
-</GameData>
-
+<?xml version="1.0" encoding="utf-8"?><GameData>	<LocalizedText>		<Replace Tag='LOC_OPTIONS_TITLE' Language='sv_SE'>			<Text>ALTERNATIV</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT' Language='sv_SE'>			<Text>Det här kommer återställa ALLA alternativ till deras standardvärden.[NEWLINE][NEWLINE][COLOR_RED]Vissa ändringar kommer inte träda i kraft förrän du startar om programmet.[ENDCOLOR][NEWLINE][NEWLINE]Återställ alternativ?</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CHANGES_REQUIRE_APP_RESTART' Language='sv_SE'>			<Text>Vissa ändringar kommer inte träda i kraft förrän du startar om programmet.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CHANGES_REQUIRE_GAME_RESTART' Language='sv_SE'>			<Text>Vissa ändringar kommer inte träda i kraft förrän du startar om det nuvarande spelet.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_RESOLUTION_OK' Language='sv_SE'>			<Text>Vill du behålla den här skärmupplösningen?</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_RESET_OPTIONS_POPUP_OK' Language='sv_SE'>			<Text>OK</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_RESET_OPTIONS_POPUP_YES' Language='sv_SE'>			<Text>Ja</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_RESET_OPTIONS_POPUP_NO' Language='sv_SE'>			<Text>Nej</Text>		</Replace>		<!-- Option Enums -->		<Replace Tag='LOC_OPTIONS_ENABLED' Language='sv_SE'>			<Text>Aktiverad</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_DISABLED' Language='sv_SE'>			<Text>Deaktiverad</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MINIMUM' Language='sv_SE'>			<Text>Minimalt</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LOW' Language='sv_SE'>			<Text>Låg</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MEDIUM' Language='sv_SE'>			<Text>Medium</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HIGH' Language='sv_SE'>			<Text>Hög</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_ULTRA' Language='sv_SE'>			<Text>Ultra</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CUSTOM' Language='sv_SE'>			<Text>Egen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TOD_NONE' Language='sv_SE'>			<Text>Ingen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TOD_REAL_LIFE' Language='sv_SE'>			<Text>Koppla till verklig tid</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TOD_X_TURNS' Language='sv_SE'>			<Text>Var {1_num} omgång.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TOD_10_TURNS' Language='sv_SE'>			<Text>Var 10:e omgång</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TOD_ERA_PROGRESSION' Language='sv_SE'>			<Text>Vid nya tidsåldrar</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_NEVER' Language='sv_SE'>			<Text>Aldrig</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_ALWAYS' Language='sv_SE'>			<Text>Alltid</Text>		</Replace>		<!-- Gameplay Panel -->		<Replace Tag='LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION' Language='sv_SE'>			<Text>Nykomling till Civilization VI</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TUTORIAL_FAMILIAR_STRATEGY' Language='sv_SE'>			<Text>Nykomling till Civilization</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TUTORIAL_NEWBIE' Language='sv_SE'>			<Text>Ny på omgångsbaserad strategi</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TIME_OF_DAY_TEXT' Language='sv_SE'>			<Text>Animera tid på dagen:</Text>		</Replace>		<!-- Graphics Panel - Option Enums -->		<Replace Tag='LOC_OPTIONS_TICK_INTERVAL_30_FPS' Language='sv_SE'>			<Text>30 FPS</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TICK_INTERVAL_20_FPS' Language='sv_SE'>			<Text>20 FPS</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TICK_INTERVAL_60_FPS' Language='sv_SE'>			<Text>60 FPS</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_WINDOW_MODE_WINDOWED' Language='sv_SE'>			<Text>Fönster</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_WINDOW_MODE_FULLSCREEN' Language='sv_SE'>			<Text>Fullskärmsläge</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_WINDOW_MODE_BORDERLESS' Language='sv_SE'>			<Text>Ramlöst fönster</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MSAA_2X' Language='sv_SE'>			<Text>MSAA 2X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MSAA_4X' Language='sv_SE'>			<Text>MSAA 4X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MSAA_8X' Language='sv_SE'>			<Text>MSAA 8X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MSAA_16X' Language='sv_SE'>			<Text>MSAA 16X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MSAA_32X' Language='sv_SE'>			<Text>MSAA 32X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MSAA_FULL' Language='sv_SE'>			<Text>MSAA Full</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CSAA_2X' Language='sv_SE'>			<Text>CSAA 2X / 4X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CSAA_4X' Language='sv_SE'>			<Text>CSAA 4X / 8X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CSAA_8X' Language='sv_SE'>			<Text>CSAA 8X / 16X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CSAA_16X' Language='sv_SE'>			<Text>CSAA 16X / 32X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CSAA_32X' Language='sv_SE'>			<Text>CSAA 32X / 64X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_CSAA_FULL' Language='sv_SE'>			<Text>CSAA Full</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_EQAA_2X' Language='sv_SE'>			<Text>EQAA 2X / 4X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_EQAA_4X' Language='sv_SE'>			<Text>EQAA 4X / 8X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_EQAA_8X' Language='sv_SE'>			<Text>EQAA 8X / 16X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_EQAA_16X' Language='sv_SE'>			<Text>EQAA 16X / 32X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_EQAA_32X' Language='sv_SE'>			<Text>EQAA 32X / 64X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_EQAA_FULL' Language='sv_SE'>			<Text>EQAA Full</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LOW_MEMORY_OPTIMIZED' Language='sv_SE'>			<Text>Låg (Optimerad för minne)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LOW_PERFORMANCE_OPTIMIZED' Language='sv_SE'>			<Text>Låg (Optimerad för prestanda)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MEDIUM_MEMORY_OPTIMIZED' Language='sv_SE'>			<Text>Medium (Optimerad för minne)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_MEDIUM_PERFORMANCE_OPTIMIZED' Language='sv_SE'>			<Text>Medium (Optimerad för prestanda)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_REFLECTION_1PASS' Language='sv_SE'>			<Text>1 svep</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_REFLECTION_2PASSES' Language='sv_SE'>			<Text>2 svep</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_REFLECTION_3PASSES' Language='sv_SE'>			<Text>3 svep</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_REFLECTION_4PASSES' Language='sv_SE'>			<Text>4 svep</Text>		</Replace>		<!-- Graphics Panel - Main -->		<Replace Tag='LOC_OPTIONS_VIDEO_ADAPTER_TEXT' Language='sv_SE'>			<Text>GPU-val:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_ADAPTER_TOOLTIP' Language='sv_SE'>			<Text>Talar om för spelet vilket grafikkort som ska användas.[NEWLINE][NEWLINE][COLOR_RED]Kräver en omstart av programmet![ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_RESOLUTION_TEXT' Language='sv_SE'>			<Text>Skärmupplösning:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_RESOLUTION_TOOLTIP' Language='sv_SE'>			<Text>Anger vilken skärmupplösning som spelet ska använda.[NEWLINE][NEWLINE]Lägre värden [COLOR_Civ6DarkRed]förbättrar prestandan[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_UI_UPSCALE_TEXT' Language='sv_SE'>			<Text>Gränssnittsförstoring:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_UI_UPSCALE_TOOLTIP' Language='sv_SE'>			<Text>Ökar användargränssnittets storlek.[NEWLINE](Bara tillgängligt för vissa skärmupplösningar.)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_WINDOW_MODE_TEXT' Language='sv_SE'>			<Text>Fönsterläge:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_WINDOW_MODE_TOOLTIP' Language='sv_SE'>			<Text>Ändrar hur spelets fönster visas.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_PERFORMANCE_TEXT' Language='sv_SE'>			<Text>Prestandapåverkan:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_PERFORMANCE_TOOLTIP' Language='sv_SE'>			<Text>Ändrar de avancerade inställningarna så de överensstämmer med den önskade prestandapåverkan.[NEWLINE][NEWLINE]Lägre värden försämrar detaljrikedomen, men [COLOR_Civ6DarkRed]förbättrar prestandan[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_MEMORY_TEXT' Language='sv_SE'>			<Text>Minnespåverkan:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_MEMORY_TOOLTIP' Language='sv_SE'>			<Text>Ändrar de avancerade inställningarna så de överensstämmer med den önskade minnespåverkan.[NEWLINE][NEWLINE]Lägre värden försämrar detaljrikedomen, men [COLOR_Civ6DarkRed]minskar minnesanvändningen[ENDCOLOR].</Text>		</Replace>		<!-- Graphics Panel - Advanced -->		<Replace Tag='LOC_OPTIONS_SHOW_ADVANCED_GRAPHICS' Language='sv_SE'>			<Text>Visa avancerade alternativ</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HIDE_ADVANCED_GRAPHICS' Language='sv_SE'>			<Text>Dölj avancerade alternativ</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_ADVANCED_GRAPHICS' Language='sv_SE'>			<Text>Avancerade grafikinställningar</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TEXT' Language='sv_SE'>			<Text>Vertikal synk</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_VSYNC_ENABLED_TOOLTIP' Language='sv_SE'>			<Text>Förhindrar ”screen tearing”</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TEXT' Language='sv_SE'>			<Text>Frame Limiter:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PERFORMANCE_TICK_INTERVAL_TOOLTIP' Language='sv_SE'>			<Text>Limits the rate at which the game renders.[NEWLINE][NEWLINE]Might increase battery life on portable devices when enabled.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_MSAA_TEXT' Language='sv_SE'>			<Text>Kantutjämning:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_MSAA_TOOLTIP' Language='sv_SE'>			<Text>Jämnar ut skarpa kanter.[NEWLINE][NEWLINE]Lägre värden [COLOR_Civ6DarkRed]förbättrar prestandan[ENDCOLOR] och [COLOR_Blue]minskar minnesanvändningen[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TEXT' Language='sv_SE'>			<Text>High-Resolution Asset Textures</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_HIGH_RESOLUTION_ASSET_TEXTURES_TOOLTIP' Language='sv_SE'>			<Text>Uses high-detail textures for game assets.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TEXT' Language='sv_SE'>			<Text>High-Quality Visual Effects:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_VFX_DETAIL_LEVEL_TOOLTIP' Language='sv_SE'>			<Text>Spawns more particle effects.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>		</Replace>		<!-- Graphics Panel - Lighting -->		<Replace Tag='LOC_OPTIONS_LIGHTING' Language='sv_SE'>			<Text>Lighting</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LIGHTING_AO_ENABLED_TEXT' Language='sv_SE'>			<Text>Ambient Occlusion</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LIGHTING_AO_ENABLED_TOOLTIP' Language='sv_SE'>			<Text>Darkens areas of objects that are less exposed to ambient light.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TEXT' Language='sv_SE'>			<Text>Ambient Occlusion Depth Resolution:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LIGHTING_AO_DEPTH_RESOLUTION_TOOLTIP' Language='sv_SE'>			<Text>Changes the ambient occlusion detail.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TEXT' Language='sv_SE'>			<Text>Ambient Occlusion Render Resolution:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LIGHTING_AO_RENDER_RESOLUTION_TOOLTIP' Language='sv_SE'>			<Text>Changes the ambient occlusion quality.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TEXT' Language='sv_SE'>			<Text>Bloom</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LIGHTING_BLOOM_ENABLED_TOOLTIP' Language='sv_SE'>			<Text>Adds glow to bright lights and reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TEXT' Language='sv_SE'>			<Text>Dynamic Lighting</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LIGHTING_DYNAMIC_LIGHTING_ENABLED_TOOLTIP' Language='sv_SE'>			<Text>Adds light sources other than the sun.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>		</Replace>		<!-- Graphics Panel - Shadows -->		<Replace Tag='LOC_OPTIONS_SHADOWS' Language='sv_SE'>			<Text>Skuggor</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_SHADOWS_ENABLED_TEXT' Language='sv_SE'>			<Text>Skuggor</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_SHADOWS_ENABLED_TOOLTIP' Language='sv_SE'>			<Text>Lägger till mörka områden där ljuset blockeras av ett föremål.[NEWLINE][NEWLINE]Om alternativet stängs av [COLOR_Civ6DarkRed]förbättras prestandan[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_SHADOWS_RESOLUTION_TEXT' Language='sv_SE'>			<Text>Skuggupplösning:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_SHADOWS_RESOLUTION_TOOLTIP' Language='sv_SE'>			<Text>Ändrar skuggornas skärpa och detaljrikedom.[NEWLINE][NEWLINE]Lägre värden [COLOR_Blue]minskar minnesanvändningen[ENDCOLOR].</Text>		</Replace>		<!-- Graphics Panel - Overlay -->		<Replace Tag='LOC_OPTIONS_OVERLAY' Language='sv_SE'>			<Text>Overlay</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_OVERLAY_RESOLUTION_TEXT' Language='sv_SE'>			<Text>Overlay Resolution:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_OVERLAY_RESOLUTION_TOOLTIP' Language='sv_SE'>			<Text>Changes the sharpness and detail of overlays.[NEWLINE][NEWLINE]Lower values [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_SSOVERLAY_ENABLED_TEXT' Language='sv_SE'>			<Text>Screen-Space Overlay</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_SSOVERLAY_ENABLED_TOOLTIP' Language='sv_SE'>			<Text>Draws the overlays on top of everything, not just on top of the terrain.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>		</Replace>		<!-- Graphics Panel - Terrain -->		<Replace Tag='LOC_OPTIONS_TERRAIN' Language='sv_SE'>			<Text>Terräng</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TERRAIN_QUALITY_TEXT' Language='sv_SE'>			<Text>Kvalitet:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TERRAIN_QUALITY_TOOLTIP' Language='sv_SE'>			<Text>Changes the terrain detail.[NEWLINE][NEWLINE]Lower values [COLOR_Civ6DarkRed]increase performance[ENDCOLOR] and/or [COLOR_Blue]decrease memory usage[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXT' Language='sv_SE'>			<Text>High-Resolution Geometry</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TOOLTIP' Language='sv_SE'>			<Text>Terrain geometry becomes sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TEXT' Language='sv_SE'>			<Text>High-Resolution Textures</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TERRAIN_HIGH_RESOLUTION_TEXTURES_TOOLTIP' Language='sv_SE'>			<Text>Terrain textures become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TEXT' Language='sv_SE'>			<Text>High-Quality Shader</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TERRAIN_HIGH_QUALITY_SHADER_TOOLTIP' Language='sv_SE'>			<Text>Changes the terrain lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TEXT' Language='sv_SE'>			<Text>High-Detail Clutter</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_TERRAIN_HIGH_DETAIL_CLUTTER_TOOLTIP' Language='sv_SE'>			<Text>Increases the amount of trees and ice chunks.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>		</Replace>		<!-- Graphics Panel - Water -->		<Replace Tag='LOC_OPTIONS_WATER' Language='sv_SE'>			<Text>Vatten</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_WATER_HIGH_RESOLUTION_TEXT' Language='sv_SE'>			<Text>Högupplöst vatten</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_WATER_HIGH_RESOLUTION_TOOLTIP' Language='sv_SE'>			<Text>Water waves and highlights become sharper and more detailed.[NEWLINE][NEWLINE]Disabling [COLOR_Blue]decreases memory usage[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TEXT' Language='sv_SE'>			<Text>High-Quality Shader</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_WATER_HIGH_QUALITY_SHADER_TOOLTIP' Language='sv_SE'>			<Text>Changes the water lighting.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_WATER_REFLECTION_PASSES_TEXT' Language='sv_SE'>			<Text>Spegling:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_WATER_REFLECTION_PASSES_TOOLTIP' Language='sv_SE'>			<Text>Control the quality of water reflections.[NEWLINE][NEWLINE]Disabling [COLOR_Civ6DarkRed]increases performance[ENDCOLOR].</Text>		</Replace>		<!-- Graphics Panel - Leaders -->		<Replace Tag='LOC_OPTIONS_LEADERS' Language='sv_SE'>			<Text>Animerade ledare</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LEADER_QUALITY_TEXT' Language='sv_SE'>			<Text>Kvalitet:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_LEADER_QUALITY_TOOLTIP' Language='sv_SE'>			<Text>Ändrar ledarnas utseende.[NEWLINE][NEWLINE]Att stänga av alternativet [COLOR_Civ6DarkRed]ökar prestandan[ENDCOLOR] och lägre värden [COLOR_Blue]minskar minnesanvändningen[ENDCOLOR].</Text>		</Replace>		<!-- Application Panel -->		<Replace Tag='LOC_OPTIONS_APP_SHOW_MOVIE' Language='sv_SE'>			<Text>Show Intro Video:</Text>		</Replace>		<!-- Interface Panel -->		<Replace Tag='LOC_OPTIONS_INTERFACE_GRAB_MOUSE' Language='sv_SE'>			<Text>Lås musen till fönstret:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_INTERFACE_EDGE_SCROLL' Language='sv_SE'>			<Text>Scroll when Mouse at Edge:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_INTERFACE_CLOCK_FORMAT' Language='sv_SE'>			<Text>Klockformat:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_12HOUR' Language='sv_SE'>			<Text>12-timmars</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_24HOUR' Language='sv_SE'>			<Text>24-timmars</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_INTERFACE_TIME_OF_DAY' Language='sv_SE'>			<Text>Time of Day behavior:</Text>		</Replace>		<!-- Hotkeys Panel -->		<Replace Tag='LOC_OPTIONS_HOTKEY_CATEGORY_UI' Language='sv_SE'>			<Text>Användargränssnitt:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_TECH' Language='sv_SE'>			<Text>Växla Vetenskapsträdet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_CIVICS' Language='sv_SE'>			<Text>Växla Inriktningsträdet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_GOV' Language='sv_SE'>			<Text>Växla Statsskick-skärmen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_RELIGION' Language='sv_SE'>			<Text>Växla Religionsskärmen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_GPEOPLE' Language='sv_SE'>			<Text>Växla Stora personligheter-skärmen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_GWORKS' Language='sv_SE'>			<Text>Växla Stora verk-skärmen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_RANKINGS' Language='sv_SE'>			<Text>Toggle Rankings Screen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_CITYSTATES' Language='sv_SE'>			<Text>Växla Stadsstatsskärmen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_ESPIONAGE' Language='sv_SE'>			<Text>Växla Spionageskärmen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_TRADEROUTES' Language='sv_SE'>			<Text>Växla Handelsruttsskärmen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA' Language='sv_SE'>			<Text>Öppna Civilopedian</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_TECH_HELP' Language='sv_SE'>			<Text>Växlar Vetenskapsträdets synlighet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_CIVICS_HELP' Language='sv_SE'>			<Text>Växlar Inriktningsträdets synlighet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_GOV_HELP' Language='sv_SE'>			<Text>Växlar Statsskicks-skärmens synlighet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_RELIGION_HELP' Language='sv_SE'>			<Text>Växlar Religionsskärmens synlighet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_GPEOPLE_HELP' Language='sv_SE'>			<Text>Växlar Stora personligheter-skärmens synlighet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_GWORKS_HELP' Language='sv_SE'>			<Text>Växlar Stora verk-skärmens synlighet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_RANKINGS_HELP' Language='sv_SE'>			<Text>Toggles visibility of the Rankings Screen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_CITYSTATES_HELP' Language='sv_SE'>			<Text>Växlar Stadsstatsskärmens synlighet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_ESPIONAGE_HELP' Language='sv_SE'>			<Text>Växlar Spionageskärmens synlighet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_TRADEROUTES_HELP' Language='sv_SE'>			<Text>Växlar Handelsruttsskärmens synlighet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA_HELP' Language='sv_SE'>			<Text>Öppnar Civilopedian</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_CATEGORY_UNIT' Language='sv_SE'>			<Text>Unit Actions:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY' Language='sv_SE'>			<Text>Grunda stad</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_MOVETO' Language='sv_SE'>			<Text>Flytta till</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_FORTIFY' Language='sv_SE'>			<Text>Befäst</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_DELETE' Language='sv_SE'>			<Text>Radera enhet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_ATTACK' Language='sv_SE'>			<Text>Attackera</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_RANGED' Language='sv_SE'>			<Text>Ranged Attack</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP' Language='sv_SE'>			<Text>Automatisera utforskning</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN' Language='sv_SE'>			<Text>Stå över omgång</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_SLEEP' Language='sv_SE'>			<Text>Sleep</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP' Language='sv_SE'>			<Text>Performs the Found City action if the selected unit is a Settler.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_MOVETO_HELP' Language='sv_SE'>			<Text>Performs the Move To action with the selected unit.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HELP' Language='sv_SE'>			<Text>Fortifies the selected unit.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_DELETE_HELP' Language='sv_SE'>			<Text>Deletes the selected unit.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_ATTACK_HELP' Language='sv_SE'>			<Text>Performs the Attack action with the selected unit.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_RANGED_HELP' Language='sv_SE'>			<Text>Performs the Ranged Attack action with the selected unit.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP_HELP' Language='sv_SE'>			<Text>Enables auto-explore on the selected unit.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN_HELP' Language='sv_SE'>			<Text>Den markerade enheten står över den här omgången.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_SLEEP_HELP' Language='sv_SE'>			<Text>Performs the Sleep action with the selected unit.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL' Language='sv_SE'>			<Text>Globala åtgärder:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN' Language='sv_SE'>			<Text>Next Action</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID' Language='sv_SE'>			<Text>Växla rutnät</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU' Language='sv_SE'>			<Text>Meny i spelet</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE' Language='sv_SE'>			<Text>Snabbspara</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD' Language='sv_SE'>			<Text>Snabbladda</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP' Language='sv_SE'>			<Text>Ends the player's turn if possible.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID_HELP' Language='sv_SE'>			<Text>Toggles a grid overlay over the terrain.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU_HELP' Language='sv_SE'>			<Text>Öppnar spelets meny.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE_HELP' Language='sv_SE'>			<Text>Performs a quick save.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD_HELP' Language='sv_SE'>			<Text>Loads the most recent quick save, if one exists.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE' Language='sv_SE'>			<Text>Online Actions:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_ONLINE_PAUSE' Language='sv_SE'>			<Text>Online Pause</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_ONLINE_PAUSE_HELP' Language='sv_SE'>			<Text>Pauses an Online game.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_CATEGORY_LENSES' Language='sv_SE'>			<Text>Linser:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_RELIGION' Language='sv_SE'>			<Text>Religion</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_CONTINENT' Language='sv_SE'>			<Text>Kontinent</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_APPEAL' Language='sv_SE'>			<Text>Attraktionskraft</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_SETTLER' Language='sv_SE'>			<Text>Nybyggare</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT' Language='sv_SE'>			<Text>Statsskick</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_POLITICAL' Language='sv_SE'>			<Text>Politisk</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP' Language='sv_SE'>			<Text>Toggles the Religion lens.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_CONTINENT_HELP' Language='sv_SE'>			<Text>Toggles the Continent lens.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_APPEAL_HELP' Language='sv_SE'>			<Text>Toggles the Appeal lens.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_SETTLER_HELP' Language='sv_SE'>			<Text>Toggles the Settler lens.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT_HELP' Language='sv_SE'>			<Text>Toggles the Government lens.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_POLITICAL_HELP' Language='sv_SE'>			<Text>Toggles the Political lens.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_UNDERSCORE' Language='sv_SE'>			<Text>_</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_A' Language='sv_SE'>			<Text>A</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_B' Language='sv_SE'>			<Text>B</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_C' Language='sv_SE'>			<Text>C</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_D' Language='sv_SE'>			<Text>D</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_E' Language='sv_SE'>			<Text>E</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F' Language='sv_SE'>			<Text>F</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_G' Language='sv_SE'>			<Text>G</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_H' Language='sv_SE'>			<Text>H</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_I' Language='sv_SE'>			<Text>I</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_J' Language='sv_SE'>			<Text>J</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_K' Language='sv_SE'>			<Text>K</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_L' Language='sv_SE'>			<Text>L</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_M' Language='sv_SE'>			<Text>M</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_N' Language='sv_SE'>			<Text>N</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_O' Language='sv_SE'>			<Text>O</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_P' Language='sv_SE'>			<Text>P</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_Q' Language='sv_SE'>			<Text>Q</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_R' Language='sv_SE'>			<Text>R</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_S' Language='sv_SE'>			<Text>S</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_T' Language='sv_SE'>			<Text>T</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_U' Language='sv_SE'>			<Text>U</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_V' Language='sv_SE'>			<Text>W</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_X' Language='sv_SE'>			<Text>X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_Y' Language='sv_SE'>			<Text>Y</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_Z' Language='sv_SE'>			<Text>Z</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_0' Language='sv_SE'>			<Text>0</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_1' Language='sv_SE'>			<Text>1</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_2' Language='sv_SE'>			<Text>2</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_3' Language='sv_SE'>			<Text>3</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_4' Language='sv_SE'>			<Text>4</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_5' Language='sv_SE'>			<Text>5</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_6' Language='sv_SE'>			<Text>6</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_7' Language='sv_SE'>			<Text>7</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_8' Language='sv_SE'>			<Text>8</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_9' Language='sv_SE'>			<Text>9</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_0' Language='sv_SE'>			<Text>0 (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_1' Language='sv_SE'>			<Text>1 (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_2' Language='sv_SE'>			<Text>2 (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_3' Language='sv_SE'>			<Text>3 (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_4' Language='sv_SE'>			<Text>4 (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_5' Language='sv_SE'>			<Text>5 (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_6' Language='sv_SE'>			<Text>6 (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_7' Language='sv_SE'>			<Text>7 (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_8' Language='sv_SE'>			<Text>8 (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_9' Language='sv_SE'>			<Text>9 (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_MULTIPLY' Language='sv_SE'>			<Text>* (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_PLUS' Language='sv_SE'>			<Text>+ (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_MINUS' Language='sv_SE'>			<Text>- (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_DECIMAL' Language='sv_SE'>			<Text>. (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_DIVIDE' Language='sv_SE'>			<Text>/ (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NP_CENTER' Language='sv_SE'>			<Text>Center (Number Pad)</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F1' Language='sv_SE'>			<Text>F1</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F2' Language='sv_SE'>			<Text>F2</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F3' Language='sv_SE'>			<Text>F3</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F4' Language='sv_SE'>			<Text>F4</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F5' Language='sv_SE'>			<Text>F5</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F6' Language='sv_SE'>			<Text>F6</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F7' Language='sv_SE'>			<Text>F7</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F8' Language='sv_SE'>			<Text>F8</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F9' Language='sv_SE'>			<Text>F9</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F10' Language='sv_SE'>			<Text>F10</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F11' Language='sv_SE'>			<Text>F11</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F12' Language='sv_SE'>			<Text>F12</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F13' Language='sv_SE'>			<Text>F13</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F14' Language='sv_SE'>			<Text>F14</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F15' Language='sv_SE'>			<Text>F15</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F16' Language='sv_SE'>			<Text>F16</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F17' Language='sv_SE'>			<Text>F17</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F18' Language='sv_SE'>			<Text>F18</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F19' Language='sv_SE'>			<Text>F19</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F20' Language='sv_SE'>			<Text>F20</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F21' Language='sv_SE'>			<Text>F21</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F22' Language='sv_SE'>			<Text>F22</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F23' Language='sv_SE'>			<Text>F23</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_F24' Language='sv_SE'>			<Text>F24</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_INSERT' Language='sv_SE'>			<Text>Insert</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_HOME' Language='sv_SE'>			<Text>Home</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_PAGEUP' Language='sv_SE'>			<Text>Page Up</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_DELETE' Language='sv_SE'>			<Text>Delete</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_END' Language='sv_SE'>			<Text>End</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_PAGEDOWN' Language='sv_SE'>			<Text>Page Down</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_LEFT' Language='sv_SE'>			<Text>Left Arrow</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_UP' Language='sv_SE'>			<Text>Up Arrow</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_RIGHT' Language='sv_SE'>			<Text>Right Arrow</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_DOWN' Language='sv_SE'>			<Text>Down Arrow</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_SEMICOLON' Language='sv_SE'>			<Text>;</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_PLUS' Language='sv_SE'>			<Text>+</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_COMMA' Language='sv_SE'>			<Text>,</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_MINUS' Language='sv_SE'>			<Text>-</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_PERIOD' Language='sv_SE'>			<Text>.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_SLASH' Language='sv_SE'>			<Text>/</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_TILDE' Language='sv_SE'>			<Text>~</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_LBRACKET' Language='sv_SE'>			<Text>[</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_BACKSLASH' Language='sv_SE'>			<Text>\</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_RBRACKET' Language='sv_SE'>			<Text>]</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_QUOTE' Language='sv_SE'>			<Text>"</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_PRINTSCREEN' Language='sv_SE'>			<Text>Print Scrn</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_PAUSE' Language='sv_SE'>			<Text>Pause</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_SPACE' Language='sv_SE'>			<Text>Space</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_TAB' Language='sv_SE'>			<Text>Tab</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_RETURN' Language='sv_SE'>			<Text>Return</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_ESCAPE' Language='sv_SE'>			<Text>Esc</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_BACKSPACE' Language='sv_SE'>			<Text>Backspace</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_CANCEL' Language='sv_SE'>			<Text>Avbryt</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_SHIFT' Language='sv_SE'>			<Text>Skift</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_CONTROL' Language='sv_SE'>			<Text>Control</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_ALT' Language='sv_SE'>			<Text>Alt</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_LSHIFT' Language='sv_SE'>			<Text>Vänster skift</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_LCONTROL' Language='sv_SE'>			<Text>Vänster Control</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_LALT' Language='sv_SE'>			<Text>Vänster Alt</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_RSHIFT' Language='sv_SE'>			<Text>Höger Skift</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_RCONTROL' Language='sv_SE'>			<Text>Höger Control</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_RALT' Language='sv_SE'>			<Text>Höger Alt</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_LBUTTON' Language='sv_SE'>			<Text>Vänster musknapp</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_RBUTTON' Language='sv_SE'>			<Text>Höger musknapp</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_MBUTTON' Language='sv_SE'>			<Text>Mellersta musknappen</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_CAPSLOCK' Language='sv_SE'>			<Text>Caps Lock</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NUMLOCK' Language='sv_SE'>			<Text>Num Lock</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_SCROLLLOCK' Language='sv_SE'>			<Text>Scroll Lock</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_LWIN' Language='sv_SE'>			<Text>Vänster Win</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_RWIN' Language='sv_SE'>			<Text>Höger Win</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_APPS' Language='sv_SE'>			<Text>Apps</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_DANOMITE' Language='sv_SE'>			<Text/>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_IGNORE' Language='sv_SE'>			<Text/>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_A' Language='sv_SE'>			<Text>Pad A</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_B' Language='sv_SE'>			<Text>Pad B</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_X' Language='sv_SE'>			<Text>Pad X</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_Y' Language='sv_SE'>			<Text>Pad Y</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_RSHOULDER' Language='sv_SE'>			<Text>Pad RB</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_LSHOULDER' Language='sv_SE'>			<Text>Pad LB</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_LTRIGGER' Language='sv_SE'>			<Text>Pad LT</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_RTRIGGER' Language='sv_SE'>			<Text>Pad RT</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_DPAD_UP' Language='sv_SE'>			<Text>Pad Dpad Up</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_DPAD_DOWN' Language='sv_SE'>			<Text>Pad Dpad Down</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_DPAD_LEFT' Language='sv_SE'>			<Text>Pad Dpad Left</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_DPAD_RIGHT' Language='sv_SE'>			<Text>Pad Dpad Right</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_START' Language='sv_SE'>			<Text>Pad Start</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_BACK' Language='sv_SE'>			<Text>Pad Back</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_LTHUMB_PRESS' Language='sv_SE'>			<Text>Pad LStick</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PAD_RTHUMB_PRESS' Language='sv_SE'>			<Text>Pad RStick</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_VOLUME_MUTE' Language='sv_SE'>			<Text>Mute</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_VOLUME_DOWN' Language='sv_SE'>			<Text>Vol. Down</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_VOLUME_UP' Language='sv_SE'>			<Text>Vol. Up</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_MEDIA_NEXT_TRACK' Language='sv_SE'>			<Text>Next Track</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_MEDIA_PREV_TRACK' Language='sv_SE'>			<Text>Prev Track</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_MEDIA_STOP' Language='sv_SE'>			<Text>Stop</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_MEDIA_PLAY_PAUSE' Language='sv_SE'>			<Text>Play / Pause</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_KEY_NUM_KEYS' Language='sv_SE'>			<Text>Num Keys</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_SUBTITLES' Language='sv_SE'>			<Text>Cinematic Subtitles:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_MULTI_GPU_TEXT' Language='sv_SE'>			<Text>Split-screen Multi-GPU</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_VIDEO_MULTI_GPU_TOOLTIP' Language='sv_SE'>			<Text>Bara tillgängligt i system med DX12 multi-GPU.[NEWLINE][NEWLINE][COLOR_RED]Kräver en omstart av programmet![ENDCOLOR]</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_AUTO_UNIT_CYCLING' Language='sv_SE'>			<Text>Auto Unit Cycling:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PLOT_TOOLTIP_DELAY' Language='sv_SE'>			<Text>Plot Tooltip Delay:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_PLOT_TOOLTIP_DELAY_VALUE' Language='sv_SE'>			<Text>{1_Value : number #.##}s</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT' Language='sv_SE'>			<Text>Next Ready Unit</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT' Language='sv_SE'>			<Text>Previous Ready Unit</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD' Language='sv_SE'>			<Text>Toggle Yield Icons</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PANUP' Language='sv_SE'>			<Text>Pan up</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN' Language='sv_SE'>			<Text>Pan down</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT' Language='sv_SE'>			<Text>Pan left</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT' Language='sv_SE'>			<Text>Pan right</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY' Language='sv_SE'>			<Text>Nästa stad</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY' Language='sv_SE'>			<Text>Föregående stad</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT_HELP' Language='sv_SE'>			<Text>Switches to the next ready unit.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT_HELP' Language='sv_SE'>			<Text>Switches to the previous ready unit.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD_HELP' Language='sv_SE'>			<Text>Toggles the visibility of the yield icons.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PANUP_HELP' Language='sv_SE'>			<Text>Pans the view of the map up</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN_HELP' Language='sv_SE'>			<Text>Pans the view of the map down</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT_HELP' Language='sv_SE'>			<Text>Pans the view of the map left</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT_HELP' Language='sv_SE'>			<Text>Pans the view of the map right</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY_HELP' Language='sv_SE'>			<Text>Switches to the next city.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY_HELP' Language='sv_SE'>			<Text>Switches to the previous city.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_100_PERCENT' Language='sv_SE'>			<Text>100%</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_150_PERCENT' Language='sv_SE'>			<Text>150%</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_200_PERCENT' Language='sv_SE'>			<Text>200%</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_INTERFACE_MINIMAP_SIZE' Language='sv_SE'>			<Text>Minimap Size:</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_ALERT' Language='sv_SE'>			<Text>Alert</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_UNIT_ALERT_HELP' Language='sv_SE'>			<Text>Performs the Alert action with the selected unit.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES' Language='sv_SE'>			<Text>Toggle Resource Icons</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW' Language='sv_SE'>			<Text>Toggle Strategic View</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES_HELP' Language='sv_SE'>			<Text>Toggles the visibility of the resource icons.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW_HELP' Language='sv_SE'>			<Text>Toggles the game between standard and strategic (2D) views.</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_TOURISM' Language='sv_SE'>			<Text>Turism</Text>		</Replace>		<Replace Tag='LOC_OPTIONS_HOTKEY_LENSES_TOURISM_HELP' Language='sv_SE'>			<Text>Toggles the Tourism lens.</Text>		</Replace>	</LocalizedText></GameData>

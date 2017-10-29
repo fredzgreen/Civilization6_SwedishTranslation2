@@ -1,29 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <LocalizedText>
-    <!-- Main menu text -->
-    <Replace Language="sv_SE" Tag="LOC_BENCHMARK_GRAPHICS">
-      <Text>Graphics Benchmark</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_BENCHMARK_AI">
-      <Text>AI Benchmark</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_BENCHMARK_GRAPHICS_TT">
-      <Text>Measure graphics performance on your computer</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_BENCHMARK_AI_TT">
-      <Text>Measure AI and turn-processing performance on your computer</Text>
-    </Replace>
-
-    <!-- Benchmarking UI text -->
-    <Replace Language="sv_SE" Tag="LOC_BENCHMARK_TIME">
-      <Text>Time:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_BENCHMARK_TURN">
-      <Text>Turn:</Text>
-    </Replace>
-    <Replace Language="sv_SE" Tag="LOC_BENCHMARK_AVG_TURN_TIME">
-      <Text>Average Turn Time:</Text>
-    </Replace>
-  </LocalizedText>
-</GameData>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><GameData>	<LocalizedText>    <!-- Main menu text -->		<Replace Tag='LOC_BENCHMARK_GRAPHICS' Language='sv_SE'>			<Text>Graphics Benchmark</Text>		</Replace>		<Replace Tag='LOC_BENCHMARK_AI' Language='sv_SE'>			<Text>AI Benchmark</Text>		</Replace>		<Replace Tag='LOC_BENCHMARK_GRAPHICS_TT' Language='sv_SE'>			<Text>Measure graphics performance on your computer</Text>		</Replace>		<Replace Tag='LOC_BENCHMARK_AI_TT' Language='sv_SE'>			<Text>Measure AI and turn-processing performance on your computer</Text>		</Replace>    <!-- Benchmarking UI text -->		<Replace Tag='LOC_BENCHMARK_TIME' Language='sv_SE'>			<Text>Time:</Text>		</Replace>		<Replace Tag='LOC_BENCHMARK_TURN' Language='sv_SE'>			<Text>Omgång:</Text>		</Replace>		<Replace Tag='LOC_BENCHMARK_AVG_TURN_TIME' Language='sv_SE'>			<Text>Average Turn Time:</Text>		</Replace>	</LocalizedText></GameData>
